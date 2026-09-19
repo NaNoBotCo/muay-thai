@@ -4,7 +4,7 @@ The eight limbs, the thirty named techniques, the four old schools, the ceremony
 527 places to train in 58 countries — bilingual English and Thai,
 every claim tiered and sourced.
 
-**Live:** https://motdang.net/muaythai · https://nanobotco.github.io/muay-thai/
+**Live:** https://motdang.net/muay-thai · https://nanobotco.github.io/muay-thai/
 
 Made by [hongdam.net](https://hongdam.net/), a bilingual web studio in Chiang Rai.
 

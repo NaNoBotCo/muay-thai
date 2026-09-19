@@ -235,6 +235,12 @@
      "sha256": "2ff0cc99160bcda0a2592980324c2a3c771efdf1376e2075387018e7a86ee0ad"
     }
    ],
+   "links": [
+    {
+     "label": "Tonight's fights in Chiang Mai — Mot Dang",
+     "url": "https://motdang.net/muaythai.html"
+    }
+   ],
    "kin_in": [
     {
      "from": "why-foreigners-lose-decisions",
@@ -999,11 +1005,11 @@
    },
    "text": {
     "what": "The gaps, listed.",
-    "story": "- **No fight records.** Thai fight records live in stadium ledgers and promoter spreadsheets, not in any open dataset this project could reach. The win-loss numbers circulating online for Thai fighters are mostly unsourced.\n- **No schedules or ticket prices.** Both Bangkok stadiums change cards and prices with the promotion. A page that printed them would be wrong within a month, so the venue records carry a `check` flag instead.\n- **No gym rankings and no gym reviews.** The map is a census of what OpenStreetMap holds. Nothing here says one gym is better than another.\n- **No current rule on women and the ring** from either Bangkok stadium. The tradition is described; the present rule is not named, because this project has no dated statement of it.\n- **Thasao's twenty-four techniques are a count with no names** in the source used here. They may be named elsewhere; they are not on this disk.\n- **The gym count is short by an order of magnitude** against the 3,800-gyms figure in the literature, and says so on its own page."
+    "story": "- **No fight records.** Thai fight records live in stadium ledgers and promoter spreadsheets, not in any open dataset this project could reach. The win-loss numbers circulating online for Thai fighters are mostly unsourced.\n- **No schedules or ticket prices.** Both Bangkok stadiums change cards and prices with the promotion. A page that printed them would be wrong within a month, so the venue records carry a `check` flag instead. For Chiang Mai, where this is published, the board at [motdang.net/muaythai.html](https://motdang.net/muaythai.html) does keep tonight's fights.\n- **No gym rankings and no gym reviews.** The map is a census of what OpenStreetMap holds. Nothing here says one gym is better than another.\n- **No current rule on women and the ring** from either Bangkok stadium. The tradition is described; the present rule is not named, because this project has no dated statement of it.\n- **Thasao's twenty-four techniques are a count with no names** in the source used here. They may be named elsewhere; they are not on this disk.\n- **The gym count is short by an order of magnitude** against the 3,800-gyms figure in the literature, and says so on its own page."
    },
    "text_th": {
     "what": "ช่องว่าง เรียงไว้",
-    "story": "- **ไม่มีสถิติการชก** สถิติของนักมวยไทยอยู่ในสมุดของสนามและในตารางของโปรโมเตอร์ ไม่ได้อยู่ในชุดข้อมูลเปิดที่โครงการนี้เข้าถึงได้ ตัวเลขแพ้ชนะที่หมุนอยู่ในอินเทอร์เน็ตส่วนใหญ่ไม่มีแหล่งอ้างอิง\n- **ไม่มีตารางการแข่งหรือราคาบัตร** สนามทั้งสองในกรุงเทพฯ เปลี่ยนรายการและราคาตามโปรโมเตอร์ หน้าที่พิมพ์มันไว้จะผิดภายในหนึ่งเดือน บันทึกสนามจึงติดธง `check` ไว้แทน\n- **ไม่มีการจัดอันดับยิมและไม่มีรีวิวยิม** แผนที่คือสำมะโนของสิ่งที่ OpenStreetMap ถือไว้ ไม่มีอะไรตรงนี้บอกว่ายิมไหนดีกว่ายิมไหน\n- **ไม่มีกฎปัจจุบันเรื่องผู้หญิงกับเวที** จากสนามใดในกรุงเทพฯ ธรรมเนียมถูกอธิบายไว้ ส่วนกฎปัจจุบันไม่ได้ระบุ เพราะโครงการนี้ไม่มีคำแถลงที่ลงวันที่\n- **ท่ายี่สิบสี่ท่าของท่าเสาเป็นจำนวนที่ไม่มีชื่อ** ในแหล่งที่ใช้ตรงนี้ อาจมีชื่ออยู่ที่อื่น แต่ไม่ได้อยู่บนดิสก์นี้\n- **จำนวนยิมขาดไปหนึ่งหลัก** เมื่อเทียบกับตัวเลข 3,800 แห่งในเอกสาร และหน้าของมันบอกไว้เอง"
+    "story": "- **ไม่มีสถิติการชก** สถิติของนักมวยไทยอยู่ในสมุดของสนามและในตารางของโปรโมเตอร์ ไม่ได้อยู่ในชุดข้อมูลเปิดที่โครงการนี้เข้าถึงได้ ตัวเลขแพ้ชนะที่หมุนอยู่ในอินเทอร์เน็ตส่วนใหญ่ไม่มีแหล่งอ้างอิง\n- **ไม่มีตารางการแข่งหรือราคาบัตร** สนามทั้งสองในกรุงเทพฯ เปลี่ยนรายการและราคาตามโปรโมเตอร์ หน้าที่พิมพ์มันไว้จะผิดภายในหนึ่งเดือน บันทึกสนามจึงติดธง `check` ไว้แทน สำหรับเชียงใหม่ ซึ่งเป็นที่ที่เว็บนี้เผยแพร่ กระดานที่ [motdang.net/muaythai.html](https://motdang.net/muaythai.html) มีมวยคืนนี้อยู่\n- **ไม่มีการจัดอันดับยิมและไม่มีรีวิวยิม** แผนที่คือสำมะโนของสิ่งที่ OpenStreetMap ถือไว้ ไม่มีอะไรตรงนี้บอกว่ายิมไหนดีกว่ายิมไหน\n- **ไม่มีกฎปัจจุบันเรื่องผู้หญิงกับเวที** จากสนามใดในกรุงเทพฯ ธรรมเนียมถูกอธิบายไว้ ส่วนกฎปัจจุบันไม่ได้ระบุ เพราะโครงการนี้ไม่มีคำแถลงที่ลงวันที่\n- **ท่ายี่สิบสี่ท่าของท่าเสาเป็นจำนวนที่ไม่มีชื่อ** ในแหล่งที่ใช้ตรงนี้ อาจมีชื่ออยู่ที่อื่น แต่ไม่ได้อยู่บนดิสก์นี้\n- **จำนวนยิมขาดไปหนึ่งหลัก** เมื่อเทียบกับตัวเลข 3,800 แห่งในเอกสาร และหน้าของมันบอกไว้เอง"
    },
    "kin": [
     {
@@ -1049,6 +1055,12 @@
    ],
    "schema": 1,
    "updated": "2026-09-19",
+   "links": [
+    {
+     "label": "Tonight's fights in Chiang Mai — Mot Dang",
+     "url": "https://motdang.net/muaythai.html"
+    }
+   ],
    "kin_in": []
   },
   {

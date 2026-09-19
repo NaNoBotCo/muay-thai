@@ -31,10 +31,12 @@ API = BUILD / "api"
 SITE = BUILD / "site"
 SITE_URL = os.environ.get("SITE_URL", "https://nanobotco.github.io/muay-thai").rstrip("/")
 # The same site is published twice: the GitHub Pages copy, which is what the repo builds
-# by default, and https://motdang.net/muaythai. Two live copies of one site is duplicate
+# by default, and https://motdang.net/muay-thai — hyphenated, because motdang.net already
+# has a /muaythai.html of its own, the board of tonight's fights in Chiang Mai, and two
+# different things one character apart is a trap for a reader and for a crawler. Two live copies of one site is duplicate
 # content, so both declare the same canonical and the other copy carries rel="alternate".
 # CANONICAL_URL overrides where that points; set it to SITE_URL to make a copy primary.
-CANONICAL_URL = os.environ.get("CANONICAL_URL", "https://motdang.net/muaythai").rstrip("/")
+CANONICAL_URL = os.environ.get("CANONICAL_URL", "https://motdang.net/muay-thai").rstrip("/")
 # Internal links are root-relative. The site is published under a path, and a host that
 # serves /muaythai with a 200 instead of redirecting to /muaythai/ makes the browser
 # resolve "./images/x.jpg" against the site root. BASE_PATH comes from SITE_URL and can be

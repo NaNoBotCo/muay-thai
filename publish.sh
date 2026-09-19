@@ -5,6 +5,7 @@
 # the GitHub Pages address. To attach a domain later:  CNAME=example.com ./publish.sh
 # To make this copy the canonical one rather than motdang.net:
 #   CANONICAL_URL=https://nanobotco.github.io/muay-thai ./publish.sh
+# The motdang copy is built with SITE_URL=https://motdang.net/muay-thai.
 set -euo pipefail
 cd "$(dirname "$0")"
 
