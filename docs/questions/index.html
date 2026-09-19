@@ -556,6 +556,17 @@ legend{font-family:var(--display);font-weight:800;text-transform:uppercase;font-
 .legend .sw.dotsw{background:var(--mdot);border-radius:50%}
 .byline{font-weight:700;color:var(--ink)}
 .byline a{color:var(--hot)}
+
+/* ---- fixed fills
+   A text box paints its fill the way a band paints its photograph: as a background the
+   page moves over, anchored to the window rather than to the box. The colours are the
+   ones already set above; only where they sit changes. Off for coarse pointers and for
+   reduced motion, the same places the bands drop theirs. */
+.card,figure.shot,.hero-shot,.strip figure,figure.map,details,.sharebar,.result,
+.slab,.band .cred{background-attachment:fixed}
+@media (pointer:coarse),(prefers-reduced-motion:reduce){
+ .card,figure.shot,.hero-shot,.strip figure,figure.map,details,.sharebar,.result,
+ .slab,.band .cred{background-attachment:scroll}}
 </style>
 <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "Muay Thai", "url": "https://motdang.net/muay-thai/", "inLanguage": "en", "author": {"@type": "Person", "name": "NaN", "url": "https://wichaa.net"}, "license": "https://creativecommons.org/licenses/by/4.0/"}, {"@type": "Organization", "name": "NaNoBotCo", "url": "https://nanobotco.github.io/index/", "email": "nan@motdang.net", "sameAs": ["https://motdang.net/", "https://nanobotco.github.io/mae-hong-son-loop/", "https://motdang.net/muay-thai/", "https://wichaa.net/", "https://nanobotco.github.io/hand-poke/", "https://nanobotco.github.io/amulet-atlas/", "https://nanobotco.github.io/carolina-barbecue/", "https://nanobotco.github.io/buffalo-wings/", "https://nanobotco.github.io/pink-box/", "https://nanobotco.github.io/basque-tables/", "https://nanobotco.github.io/pinot-noir/", "https://nanobotco.github.io/care-abroad/", "https://nanobotco.github.io/thairoots/", "https://nanobotco.github.io/index/", "https://nanobotco.github.io/uptake/", "https://nanobotco.github.io/", "https://ask.motdang.net/", "https://ai.motdang.net/", "https://defiant.to/", "https://hongdam.net/", "https://hakfarang.net/", "https://offrampt.net/"]}, {"@context": "https://schema.org", "@type": "WebPage", "creator": {"@type": "Organization", "name": "Hongdam", "url": "https://hongdam.net/", "address": {"@type": "PostalAddress", "addressLocality": "Chiang Rai", "addressCountry": "TH"}}, "inLanguage": "en"}]</script>
 <script defer src="/muay-thai/copy.js"></script>

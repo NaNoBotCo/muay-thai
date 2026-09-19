@@ -556,6 +556,17 @@ legend{font-family:var(--display);font-weight:800;text-transform:uppercase;font-
 .legend .sw.dotsw{background:var(--mdot);border-radius:50%}
 .byline{font-weight:700;color:var(--ink)}
 .byline a{color:var(--hot)}
+
+/* ---- fixed fills
+   A text box paints its fill the way a band paints its photograph: as a background the
+   page moves over, anchored to the window rather than to the box. The colours are the
+   ones already set above; only where they sit changes. Off for coarse pointers and for
+   reduced motion, the same places the bands drop theirs. */
+.card,figure.shot,.hero-shot,.strip figure,figure.map,details,.sharebar,.result,
+.slab,.band .cred{background-attachment:fixed}
+@media (pointer:coarse),(prefers-reduced-motion:reduce){
+ .card,figure.shot,.hero-shot,.strip figure,figure.map,details,.sharebar,.result,
+ .slab,.band .cred{background-attachment:scroll}}
 </style>
 <script type="application/ld+json">[{"@context": "https://schema.org", "@type": "Article", "headline": "Muay Thasao", "inLanguage": "en", "url": "https://motdang.net/muay-thai/style/thasao/", "author": {"@type": "Person", "name": "NaN", "url": "https://wichaa.net"}, "creator": {"@type": "Organization", "name": "Hongdam", "url": "https://hongdam.net/", "address": {"@type": "PostalAddress", "addressLocality": "Chiang Rai", "addressCountry": "TH"}}, "license": "https://creativecommons.org/licenses/by/4.0/", "dateModified": "2026-09-19"}]</script>
 <script defer src="/muay-thai/copy.js"></script>
