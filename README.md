@@ -53,3 +53,27 @@ python3 tools/serve.py 8816          # a local preview, mounted where the host m
 Records and text CC BY 4.0. Harvested rows keep their own: OpenStreetMap ODbL 1.0,
 Wikidata CC0, Wikipedia CC BY-SA 4.0, pictures per file with the author beside each one.
 Code MIT. See NOTICE.txt.
+
+<!-- fleet-roster -->
+
+## Elsewhere from the same publisher
+
+- [Mot Dang](https://motdang.net/) — city directory for Chiang Mai and Chiang Rai
+- [The Mae Hong Son Loop](https://nanobotco.github.io/mae-hong-son-loop/) — motorcycling the 600 km loop out of Chiang Mai — curves counted, air measured
+- [wichaa](https://wichaa.net/) — Lanna manuscripts, the amulet market, and the traditions around them
+- [Hand Poke](https://nanobotco.github.io/hand-poke/) — 28 traditions of marking skin by hand — the leg-tattoo zone of Burma, the Shan States and Lanna, counted
+- [Amulet Atlas](https://nanobotco.github.io/amulet-atlas/) — amulets, charms and talismans worldwide
+- [Carolina Barbecue](https://nanobotco.github.io/carolina-barbecue/) — barbecue in North and South Carolina
+- [Wing Country](https://nanobotco.github.io/buffalo-wings/) — the American chicken wing
+- [Pink Box](https://nanobotco.github.io/pink-box/) — the American mom-and-pop donut shop
+- [Basque Tables](https://nanobotco.github.io/basque-tables/) — Basque dining rooms of California, Nevada and Idaho
+- [Pinot Country](https://nanobotco.github.io/pinot-noir/) — pinot noir: the vine, the regions, the cellars
+- [Care Abroad](https://nanobotco.github.io/care-abroad/) — treatment across borders, with published prices and their dates
+- [Thai Roots](https://nanobotco.github.io/thairoots/) — a root dictionary of Thai, with a word decomposer
+- [The index](https://nanobotco.github.io/index/) — every corpus, site and repository, counted
+- [Uptake](https://nanobotco.github.io/uptake/) — a field manual on publishing for machines that copy
+- [NaNoBotCo](https://nanobotco.github.io/) — the portal
+- [ฮักฝรั่ง](https://hakfarang.net/) — เรื่องเงิน วีซ่า และชีวิตกับแฟนฝรั่ง
+- [Offrampt](https://offrampt.net/) — turning crypto into spendable local money, Thailand first
+
+All of it, counted: https://nanobotco.github.io/index/ · roster as JSON: https://nanobotco.github.io/index/fleet.json

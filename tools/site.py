@@ -52,13 +52,9 @@ SELF = "muay-thai"
 LANGS = ("en", "th")
 NAME = {"en": "Muay Thai", "th": "มวยไทย"}
 AUTHOR = {"@type": "Person", "name": "NaN", "url": "https://wichaa.net"}
-MAKER = {"@type": "Organization", "name": "Hongdam", "url": "https://hongdam.net/",
-         "address": {"@type": "PostalAddress", "addressLocality": "Chiang Rai",
-                     "addressCountry": "TH"}}
-BYLINE = {"en": 'Made by <a href="https://hongdam.net/" rel="noopener">hongdam.net</a>, '
-                'Chiang Rai.',
-          "th": 'จัดทำโดย <a href="https://hongdam.net/" rel="noopener">hongdam.net</a> '
-                'เชียงราย'}
+# The studio byline and its schema.org form come off the roster, so one edit in
+# index/data/fleet.json reaches every site that installs it.
+MAKER = fleet.maker_ld(fleet.load(ROOT / "data" / "fleet.json"))
 DATA_LICENSE = "https://creativecommons.org/licenses/by/4.0/"
 
 
@@ -238,7 +234,7 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
 <footer class="bot"><div class="in">
 <p><b>{E(NAME[lang])}</b> — {E(TAG[lang])}</p>
 <p>{'Records CC BY 4.0. Gyms and stadiums © OpenStreetMap contributors, ODbL 1.0. The roster from Wikidata, CC0. Country outlines from Natural Earth, public domain. Corpus text and pictures from Wikipedia and Wikimedia Commons, licensed per file.' if lang == 'en' else 'บันทึกเผยแพร่ภายใต้ CC BY 4.0 ยิมและสนาม © ผู้ร่วมสร้าง OpenStreetMap ภายใต้ ODbL 1.0 รายชื่อบุคคลจากวิกิสนเทศ ภายใต้ CC0 เส้นขอบประเทศจาก Natural Earth สาธารณสมบัติ เนื้อหาและภาพจากวิกิพีเดียและวิกิมีเดียคอมมอนส์ ตามสัญญาอนุญาตของแต่ละไฟล์'}</p>
-<p class="byline">{BYLINE[lang]}</p>
+{fleet.maker_html(roster=FLEET, lang=lang)}
 <p><a href="{rin}about/">{E(ui['about'])}</a> · <a href="{r}api/">API</a> · <a href="{rin}all/">{E(ui['all'])}</a> · <a href="{r}llms.txt">llms.txt</a></p>
 {fleet.row_html(SELF, label=("More from the same publisher" if lang == "en" else "เว็บอื่นของผู้จัดทำ"), roster=FLEET)}
 {fleet.support_html(roster=FLEET)}
