@@ -8,7 +8,7 @@ OpenStreetMap contributors · Wikidata · Wikipedia (English and Thai) · Wikime
 
 /* SITE */
 Records: 129
-Built: 2026-09-19 20:18
+Built: 2026-09-19 21:25
 Standards: HTML5, CSS, no framework, no tracker, no web font
 
 #
@@ -391,6 +391,168 @@ t
 h
 e
 m
+
+
+-
+ 
+[
+H
+a
+n
+d
+ 
+P
+o
+k
+e
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+h
+a
+n
+d
+-
+p
+o
+k
+e
+/
+)
+ 
+—
+ 
+2
+8
+ 
+t
+r
+a
+d
+i
+t
+i
+o
+n
+s
+ 
+o
+f
+ 
+m
+a
+r
+k
+i
+n
+g
+ 
+s
+k
+i
+n
+ 
+b
+y
+ 
+h
+a
+n
+d
+ 
+—
+ 
+t
+h
+e
+ 
+l
+e
+g
+-
+t
+a
+t
+t
+o
+o
+ 
+z
+o
+n
+e
+ 
+o
+f
+ 
+B
+u
+r
+m
+a
+,
+ 
+t
+h
+e
+ 
+S
+h
+a
+n
+ 
+S
+t
+a
+t
+e
+s
+ 
+a
+n
+d
+ 
+L
+a
+n
+n
+a
+,
+ 
+c
+o
+u
+n
+t
+e
+d
 
 
 -
@@ -1798,12 +1960,16 @@ o
 n
 
 # — roster of sibling sites, generated from data/fleet.json —
+/* STUDIO */
+Made by Hongdam (https://hongdam.net/), a bilingual web studio in Chiang Rai.
+
 /* ELSEWHERE */
 Everything this publisher holds, counted: https://nanobotco.github.io/index/
 The roster, as JSON: https://nanobotco.github.io/index/fleet.json
 Mot Dang — https://motdang.net/
 The Mae Hong Son Loop — https://nanobotco.github.io/mae-hong-son-loop/
 wichaa — https://wichaa.net/
+Hand Poke — https://nanobotco.github.io/hand-poke/
 Amulet Atlas — https://nanobotco.github.io/amulet-atlas/
 Carolina Barbecue — https://nanobotco.github.io/carolina-barbecue/
 Wing Country — https://nanobotco.github.io/buffalo-wings/
