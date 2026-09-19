@@ -62,6 +62,16 @@ img{max-width:100%;height:auto}
 
 /* ---- frame */
 header.top{border-bottom:2px solid var(--ink);position:sticky;top:0;z-index:30;background:var(--bg)}
+/* ---- the bar gets out of the way on a phone (added 2026-09-19)
+   The nav wraps to three or four rows at 375px; sticky kept them over a
+   quarter of the screen for the whole page. Scroll down and the bar slides
+   away; scroll up — any amount — and it comes back. Wide screens, where the
+   bar is one row, keep it pinned. */
+@media (max-width:52rem){
+ header.top{transition:transform .2s ease}
+ body.nav-away header.top{transform:translateY(-100%)}
+}
+
 header.top .in{max-width:68rem;margin:0 auto;padding:.5rem 1rem;display:flex;gap:.5rem 1rem;
  align-items:center;flex-wrap:wrap}
 .brand{font-family:var(--display);font-weight:800;font-size:1.22rem;letter-spacing:.01em;
@@ -536,7 +546,7 @@ legend{font-family:var(--display);font-weight:800;text-transform:uppercase;font-
 </span>
 </div></header>
 <main id="main">
-<h1>How this was made</h1><p>A static site built from 129 records in a public repository. Every figure printed anywhere on it is computed at build time from those files and from four harvests, so a number on a page and a number in the API cannot drift apart.</p><p><strong>The harvests.</strong> OpenStreetMap by Overpass, for 527 gyms, camps and stadiums in 58 countries. Wikidata, for 1186 people recorded as Thai boxers. Thai Wikipedia at a named revision, for the thirty technique names and the four regional lists. Wikimedia Commons, for 112 pictures, each with its author and licence printed beside it.</p><p><strong>Tiers.</strong> Every claim carries one: <em>cited</em> names a source, <em>harvested</em> came out of an open dataset with its licence, <em>tradition</em> is general knowledge of the practice and is hedged, <em>inference</em> is this project&#x27;s own reasoning from the above, and <em>field</em> means someone stood there. The record page for anything you doubt has the table at the bottom.</p><p><strong>Both languages, or neither.</strong> Each page is one build function called twice. Where a record has no Thai text the Thai page says so and shows the English rather than machine-translating in silence. 266 fields are written in Thai.</p><p><strong>What it does not have</strong> is on its own page, linked from the numbers.</p><p><strong>Who made it.</strong> hongdam.net, a bilingual web studio in Chiang Rai. The enriched, graphical sites in this family are all built there.</p><p class="mute small">Built 2026-09-19 20:00 · <a href="/muay-thai/api/">API</a> · <a href="https://github.com/NaNoBotCo/muay-thai" rel="noopener">GitHub</a></p>
+<h1>How this was made</h1><p>A static site built from 129 records in a public repository. Every figure printed anywhere on it is computed at build time from those files and from four harvests, so a number on a page and a number in the API cannot drift apart.</p><p><strong>The harvests.</strong> OpenStreetMap by Overpass, for 527 gyms, camps and stadiums in 58 countries. Wikidata, for 1186 people recorded as Thai boxers. Thai Wikipedia at a named revision, for the thirty technique names and the four regional lists. Wikimedia Commons, for 112 pictures, each with its author and licence printed beside it.</p><p><strong>Tiers.</strong> Every claim carries one: <em>cited</em> names a source, <em>harvested</em> came out of an open dataset with its licence, <em>tradition</em> is general knowledge of the practice and is hedged, <em>inference</em> is this project&#x27;s own reasoning from the above, and <em>field</em> means someone stood there. The record page for anything you doubt has the table at the bottom.</p><p><strong>Both languages, or neither.</strong> Each page is one build function called twice. Where a record has no Thai text the Thai page says so and shows the English rather than machine-translating in silence. 266 fields are written in Thai.</p><p><strong>What it does not have</strong> is on its own page, linked from the numbers.</p><p><strong>Who made it.</strong> hongdam.net, a bilingual web studio in Chiang Rai. The enriched, graphical sites in this family are all built there.</p><p class="mute small">Built 2026-09-19 20:18 · <a href="/muay-thai/api/">API</a> · <a href="https://github.com/NaNoBotCo/muay-thai" rel="noopener">GitHub</a></p>
 </main>
 <footer class="bot"><div class="in">
 <p><b>Muay Thai</b> — The eight limbs, the thirty named techniques, and 527 places to train on the map</p>

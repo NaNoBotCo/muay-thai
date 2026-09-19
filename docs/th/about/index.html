@@ -62,6 +62,16 @@ img{max-width:100%;height:auto}
 
 /* ---- frame */
 header.top{border-bottom:2px solid var(--ink);position:sticky;top:0;z-index:30;background:var(--bg)}
+/* ---- the bar gets out of the way on a phone (added 2026-09-19)
+   The nav wraps to three or four rows at 375px; sticky kept them over a
+   quarter of the screen for the whole page. Scroll down and the bar slides
+   away; scroll up — any amount — and it comes back. Wide screens, where the
+   bar is one row, keep it pinned. */
+@media (max-width:52rem){
+ header.top{transition:transform .2s ease}
+ body.nav-away header.top{transform:translateY(-100%)}
+}
+
 header.top .in{max-width:68rem;margin:0 auto;padding:.5rem 1rem;display:flex;gap:.5rem 1rem;
  align-items:center;flex-wrap:wrap}
 .brand{font-family:var(--display);font-weight:800;font-size:1.22rem;letter-spacing:.01em;
@@ -536,7 +546,7 @@ legend{font-family:var(--display);font-weight:800;text-transform:uppercase;font-
 </span>
 </div></header>
 <main id="main">
-<h1>ทำขึ้นอย่างไร</h1><p>เว็บสถิตที่สร้างจากบันทึก 129 ชิ้นในคลังสาธารณะ ตัวเลขทุกตัวที่พิมพ์ที่ไหนก็ตามบนเว็บนี้คำนวณตอนสร้างจากไฟล์เหล่านั้นและจากการเก็บข้อมูลสี่ชุด ตัวเลขบนหน้าเว็บกับตัวเลขใน API จึงเคลื่อนออกจากกันไม่ได้</p><p><strong>การเก็บข้อมูล</strong> OpenStreetMap ผ่าน Overpass ได้ยิม ค่าย และสนาม 527 แห่ง ใน 58 ประเทศ วิกิสนเทศ ได้คน 1186 คนที่บันทึกว่าเป็นนักมวยไทย วิกิพีเดียภาษาไทยที่รุ่นแก้ไขซึ่งระบุไว้ ได้ชื่อท่าสามสิบท่าและรายการท้องถิ่นสี่สาย และวิกิมีเดียคอมมอนส์ ได้ภาพ 112 ภาพ แต่ละภาพพิมพ์ชื่อผู้ถ่ายและสัญญาอนุญาตไว้ข้าง ๆ</p><p><strong>ชั้นของข้อความ</strong> ทุกข้อความมีชั้นกำกับ <em>cited</em> ระบุแหล่ง <em>harvested</em> มาจากชุดข้อมูลเปิดพร้อมสัญญาอนุญาต <em>tradition</em> คือความรู้ทั่วไปของแนวปฏิบัติและมีการกันไว้ <em>inference</em> คือการให้เหตุผลของโครงการนี้เอง และ <em>field</em> คือมีคนไปยืนอยู่ตรงนั้น หน้าบันทึกของสิ่งที่คุณสงสัยมีตารางอยู่ด้านล่าง</p><p><strong>สองภาษา หรือไม่มีเลย</strong> แต่ละหน้าคือฟังก์ชันเดียวที่ถูกเรียกสองครั้ง ที่ใดบันทึกไม่มีข้อความภาษาไทย หน้าไทยจะบอกไว้และแสดงภาษาอังกฤษ แทนการแปลด้วยเครื่องเงียบ ๆ มีช่องที่เขียนเป็นภาษาไทย 266 ช่อง</p><p><strong>สิ่งที่เว็บนี้ไม่มี</strong> อยู่ในหน้าของตัวเอง ลิงก์จากหน้าตัวเลข</p><p><strong>ใครทำ</strong> hongdam.net สตูดิโอเว็บสองภาษาในเชียงราย เว็บชุดนี้ที่เนื้อหาแน่นและมีภาพประกอบมาก สร้างที่นั่นทั้งหมด</p><p class="mute small">สร้างเมื่อ 2026-09-19 20:00 · <a href="/muay-thai/api/">API</a> · <a href="https://github.com/NaNoBotCo/muay-thai" rel="noopener">GitHub</a></p>
+<h1>ทำขึ้นอย่างไร</h1><p>เว็บสถิตที่สร้างจากบันทึก 129 ชิ้นในคลังสาธารณะ ตัวเลขทุกตัวที่พิมพ์ที่ไหนก็ตามบนเว็บนี้คำนวณตอนสร้างจากไฟล์เหล่านั้นและจากการเก็บข้อมูลสี่ชุด ตัวเลขบนหน้าเว็บกับตัวเลขใน API จึงเคลื่อนออกจากกันไม่ได้</p><p><strong>การเก็บข้อมูล</strong> OpenStreetMap ผ่าน Overpass ได้ยิม ค่าย และสนาม 527 แห่ง ใน 58 ประเทศ วิกิสนเทศ ได้คน 1186 คนที่บันทึกว่าเป็นนักมวยไทย วิกิพีเดียภาษาไทยที่รุ่นแก้ไขซึ่งระบุไว้ ได้ชื่อท่าสามสิบท่าและรายการท้องถิ่นสี่สาย และวิกิมีเดียคอมมอนส์ ได้ภาพ 112 ภาพ แต่ละภาพพิมพ์ชื่อผู้ถ่ายและสัญญาอนุญาตไว้ข้าง ๆ</p><p><strong>ชั้นของข้อความ</strong> ทุกข้อความมีชั้นกำกับ <em>cited</em> ระบุแหล่ง <em>harvested</em> มาจากชุดข้อมูลเปิดพร้อมสัญญาอนุญาต <em>tradition</em> คือความรู้ทั่วไปของแนวปฏิบัติและมีการกันไว้ <em>inference</em> คือการให้เหตุผลของโครงการนี้เอง และ <em>field</em> คือมีคนไปยืนอยู่ตรงนั้น หน้าบันทึกของสิ่งที่คุณสงสัยมีตารางอยู่ด้านล่าง</p><p><strong>สองภาษา หรือไม่มีเลย</strong> แต่ละหน้าคือฟังก์ชันเดียวที่ถูกเรียกสองครั้ง ที่ใดบันทึกไม่มีข้อความภาษาไทย หน้าไทยจะบอกไว้และแสดงภาษาอังกฤษ แทนการแปลด้วยเครื่องเงียบ ๆ มีช่องที่เขียนเป็นภาษาไทย 266 ช่อง</p><p><strong>สิ่งที่เว็บนี้ไม่มี</strong> อยู่ในหน้าของตัวเอง ลิงก์จากหน้าตัวเลข</p><p><strong>ใครทำ</strong> hongdam.net สตูดิโอเว็บสองภาษาในเชียงราย เว็บชุดนี้ที่เนื้อหาแน่นและมีภาพประกอบมาก สร้างที่นั่นทั้งหมด</p><p class="mute small">สร้างเมื่อ 2026-09-19 20:18 · <a href="/muay-thai/api/">API</a> · <a href="https://github.com/NaNoBotCo/muay-thai" rel="noopener">GitHub</a></p>
 </main>
 <footer class="bot"><div class="in">
 <p><b>มวยไทย</b> — อาวุธทั้งแปด สามสิบท่าที่มีชื่อ และ 527 แห่งบนแผนที่ที่ฝึกได้</p>
