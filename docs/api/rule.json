@@ -1,0 +1,646 @@
+{
+ "type": "rule",
+ "count": 6,
+ "nodes": [
+  {
+   "id": "betting",
+   "type": "rule",
+   "names": {
+    "name": "The gambling floor",
+    "th": "การพนัน",
+    "rtgs": "kan phanan",
+    "said": "An estimated 40 billion baht a year, and it sets the rhythm of every fight.",
+    "said_th": "ประมาณสี่หมื่นล้านบาทต่อปี และมันกำหนดจังหวะของทุกไฟต์"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "body": "betting"
+   },
+   "text": {
+    "what": "Legal betting inside the licensed stadiums, conducted by hand signal, in play, at odds that move between rounds.",
+    "story": "A Bangkok Post columnist quoted in the English article puts the annual figure at **about 40 billion baht** and is blunt about what it means: \"Thai professional boxing is all about gambling and big money.\" A camp manager quoted in the same place gives the other half — \"Without the gamblers, the sport would pretty much be dead. They're killing it off, but they're also keeping it alive.\"\n\nThe floor is the loud section behind the cheap seats, and what looks like supporters shouting is buying and selling. Learn the hand signals and you can read the fight without knowing the fighters.\n\nFixing exists. The article records a fighter arrested for throwing a fight at Rajadamnern in December 2019, and puts the going rate at 60,000 to 150,000 baht to lose on purpose — which is more than most fighters earn for winning."
+   },
+   "text_th": {
+    "what": "การพนันถูกกฎหมายภายในสนามที่ได้รับอนุญาต ใช้สัญญาณมือ เล่นสด และราคาขยับระหว่างยก",
+    "story": "คอลัมนิสต์บางกอกโพสต์ที่บทความอ้างถึงให้ตัวเลขต่อปีไว้ที่ **ราวสี่หมื่นล้านบาท** และพูดตรง ๆ ว่ามันหมายถึงอะไร \"มวยอาชีพไทยคือเรื่องการพนันและเงินก้อนใหญ่ทั้งนั้น\" ผู้จัดการค่ายที่ถูกอ้างในที่เดียวกันให้อีกครึ่งหนึ่ง — \"ถ้าไม่มีนักพนัน กีฬานี้ก็ตายไปแล้ว พวกเขากำลังฆ่ามัน และก็กำลังเลี้ยงมันไว้ด้วย\"\n\nวงพนันคือโซนเสียงดังหลังที่นั่งราคาถูก และสิ่งที่ดูเหมือนกองเชียร์ตะโกนคือการซื้อขาย เรียนรู้สัญญาณมือแล้วคุณอ่านไฟต์ได้โดยไม่ต้องรู้จักนักมวย\n\nการล้มมวยมีจริง บทความบันทึกว่ามีนักมวยถูกจับจากการล้มมวยที่ราชดำเนินเมื่อธันวาคม 2562 และให้ราคาไว้ที่หกหมื่นถึงหนึ่งแสนห้าหมื่นบาทสำหรับการแพ้โดยตั้งใจ ซึ่งมากกว่าที่นักมวยส่วนใหญ่ได้จากการชนะ"
+   },
+   "kin": [
+    {
+     "to": "scoring",
+     "as": "What it shapes.",
+     "rel": "rule"
+    },
+    {
+     "to": "rounds",
+     "as": "Where it re-prices.",
+     "rel": "rule"
+    },
+    {
+     "to": "purse",
+     "as": "What a fighter is paid against it.",
+     "rel": "rule"
+    },
+    {
+     "to": "lumpinee",
+     "as": "One of the two licensed floors.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "gambling",
+    "money",
+    "watching",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "betting/betting-audience-at-muay-thai-match-at-rajadamnern-stadium-2-025832b.jpg",
+     "source": "commons",
+     "title": "File:Audience at Muay Thai match at Rajadamnern Stadium 2007-05-20.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Audience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAudience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "BrokenSphere",
+     "credit": "Own work",
+     "alt": "The Muay Thai audience at Rajadamnern Stadium in Bangkok, Thailand.",
+     "date": "2007-07-01",
+     "primary": true,
+     "sha256": "a803608432d2a0a6749fe681567ca953b0b8ac4c881f4c9f94e86c93094d10d0"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "channel-7",
+     "type": "venue",
+     "name": "The Channel 7 ring",
+     "as": "Absent here, and audible for it."
+    },
+    {
+     "from": "lumpinee",
+     "type": "venue",
+     "name": "Lumpinee Boxing Stadium",
+     "as": "What fills the seats."
+    },
+    {
+     "from": "rajadamnern",
+     "type": "venue",
+     "name": "Rajadamnern Stadium",
+     "as": "What fills the seats."
+    },
+    {
+     "from": "purse",
+     "type": "rule",
+     "name": "What a fighter is paid",
+     "as": "The money that is actually moving."
+    },
+    {
+     "from": "rounds",
+     "type": "rule",
+     "name": "Five rounds of three minutes",
+     "as": "What happens in the gaps."
+    },
+    {
+     "from": "scoring",
+     "type": "rule",
+     "name": "How a fight is actually scored",
+     "as": "Who the rules are shaped around."
+    },
+    {
+     "from": "why-foreigners-lose-decisions",
+     "type": "story",
+     "name": "Why you thought he won",
+     "as": "The noise."
+    },
+    {
+     "from": "sat",
+     "type": "org",
+     "name": "The Sports Authority of Thailand",
+     "as": "The licensed part."
+    }
+   ]
+  },
+  {
+   "id": "doctor-stoppage",
+   "type": "rule",
+   "names": {
+    "name": "The doctor, and the cut",
+    "th": "หมอสนาม",
+    "rtgs": "mo sanam",
+    "said": "A fight can end with both men standing and neither tired.",
+    "said_th": "ไฟต์จบได้ทั้งที่ทั้งคู่ยังยืนและยังไม่เหนื่อย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "body": "safety"
+   },
+   "text": {
+    "what": "The ringside doctor inspects cuts between rounds and can end a fight over one.",
+    "story": "This is the elbow's delivery mechanism. An elbow to the eyebrow opens a cut that bleeds into the eye; the doctor looks at it at the bell; the fight is over.\n\n*Inference —* for a fighter behind on the cards with two rounds left, the cut is the shortest route left, and that is why the fourth round of a one-sided fight suddenly becomes an elbow fight."
+   },
+   "text_th": {
+    "what": "แพทย์ข้างเวทีตรวจบาดแผลระหว่างยก และสั่งยุติไฟต์เพราะแผลได้",
+    "story": "นี่คือกลไกส่งมอบของศอก ศอกที่คิ้วเปิดแผลที่ไหลลงตา หมอมาดูตอนระฆัง ไฟต์จบ\n\n*อนุมาน —* สำหรับคนที่ตามคะแนนและเหลืออีกสองยก แผลคือทางที่สั้นที่สุดที่ยังเหลือ และนั่นคือเหตุที่ยกสี่ของไฟต์ที่ห่างกันมาก ๆ กลายเป็นไฟต์ศอกขึ้นมาทันที"
+   },
+   "kin": [
+    {
+     "to": "elbow",
+     "as": "What opens it.",
+     "rel": "weapon"
+    },
+    {
+     "to": "scoring",
+     "as": "What it overrides.",
+     "rel": "rule"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "elbow",
+     "type": "weapon",
+     "name": "The elbow",
+     "as": "How an elbow usually wins."
+    }
+   ]
+  },
+  {
+   "id": "fouls",
+   "type": "rule",
+   "names": {
+    "name": "What is not allowed",
+    "th": "สิ่งที่ผิดกติกา",
+    "rtgs": "sing thi phit katika",
+    "said": "The head is out. The groin, in Thailand, is a more complicated answer.",
+    "said_th": "หัวใช้ไม่ได้ ส่วนเป้า ในเมืองไทย คำตอบซับซ้อนกว่านั้น"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "body": "conduct"
+   },
+   "text": {
+    "what": "Headbutts, biting, eye attacks and strikes to a downed opponent are out everywhere. The interesting exception is the groin.",
+    "story": "The English article records that strikes to the groin were **permitted until the late 1980s**, and are \"still permitted in Thailand itself, and in club or competition events that abide to the traditional rules\". Fighters wear a hard cup; that is what the cup is for.\n\nThe other silent rule is the head. Thai sources note that some manuals count **nine** weapons rather than eight by adding the head, and **ten** by adding the backside. Neither is legal in the ring, which is exactly why the count that survived into the sport's English name is eight."
+   },
+   "text_th": {
+    "what": "โขกหัว กัด ทำร้ายตา และการออกอาวุธใส่คนที่ล้มแล้ว ผิดกติกาทุกที่ ข้อยกเว้นที่น่าสนใจคือเป้า",
+    "story": "บทความภาษาอังกฤษบันทึกว่าการออกอาวุธใส่เป้า **ใช้ได้จนถึงปลายทศวรรษ 1980** และ \"ยังใช้ได้ในประเทศไทยเอง และในรายการระดับสโมสรหรือการแข่งขันที่ยึดกติกาดั้งเดิม\" นักมวยใส่กระจับ และนั่นคือหน้าที่ของกระจับ\n\nกติกาเงียบอีกข้อคือหัว แหล่งไทยระบุว่าบางตำรานับ **นวอาวุธ** เก้าชิ้นแทนแปด โดยเพิ่มศีรษะ และ **ทศอาวุธ** สิบชิ้น โดยเพิ่มบั้นท้าย ทั้งสองอย่างใช้ไม่ได้บนเวที ซึ่งคือเหตุผลตรง ๆ ว่าทำไมจำนวนที่รอดมาอยู่ในชื่อภาษาอังกฤษของกีฬานี้คือแปด"
+   },
+   "kin": [
+    {
+     "to": "eight-limbs",
+     "as": "Why the count stops at eight.",
+     "rel": "weapon"
+    },
+    {
+     "to": "cup",
+     "as": "What the groin rule requires.",
+     "rel": "kit"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "cup",
+     "type": "kit",
+     "name": "The cup",
+     "as": "Why it is made of steel."
+    }
+   ]
+  },
+  {
+   "id": "purse",
+   "type": "rule",
+   "names": {
+    "name": "What a fighter is paid",
+    "th": "ค่าตัว",
+    "rtgs": "kha tua",
+    "said": "100,000 baht for a superstar in 2016. The gate that night was worth more.",
+    "said_th": "ค่าตัวซูเปอร์สตาร์ราวหนึ่งแสนบาทในปี 2559 ส่วนเงินที่ไหลเวียนคืนนั้นมากกว่านั้น"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "body": "conduct"
+   },
+   "text": {
+    "what": "Purse figures, and the cuts taken out of them before the fighter sees anything.",
+    "story": "The English article gives three figures and they are worth holding together. In the 1980s and 1990s top fighters commanded **up to 200,000 baht**. In 2016 a payout to a superstar was **about 100,000 baht**, ranging as high as 540,000. And the purse is \"sought as a means of support for the fighters and their families\" **after other parties have their cut** — the camp, the trainer, the manager.\n\nSet that against the 40 billion baht a year estimated to move through the betting, and against the note in the same article that the going rate to lose a fight on purpose is 60,000 to 150,000 baht.\n\n*Inference —* a sport where throwing a fight pays the same as winning one is not being held together by its purses."
+   },
+   "text_th": {
+    "what": "ตัวเลขค่าตัว และส่วนแบ่งที่ถูกหักออกก่อนนักมวยจะได้เห็นอะไร",
+    "story": "บทความภาษาอังกฤษให้ตัวเลขสามตัวที่ควรถือไว้ด้วยกัน ในทศวรรษ 1980 ถึง 1990 นักมวยระดับบนได้ **ถึงสองแสนบาท** ในปี 2559 ค่าตัวซูเปอร์สตาร์อยู่ที่ **ราวหนึ่งแสนบาท** สูงสุดถึงห้าแสนสี่หมื่น และค่าตัวนั้นเป็น \"ทางเลี้ยงดูนักมวยและครอบครัว\" **หลังจากฝ่ายอื่นหักส่วนแบ่งไปแล้ว** ทั้งค่าย ครูฝึก และผู้จัดการ\n\nเทียบกับเงินสี่หมื่นล้านบาทต่อปีที่ประเมินว่าหมุนอยู่ในวงพนัน และเทียบกับข้อความในบทความเดียวกันว่าราคาของการล้มมวยอยู่ที่หกหมื่นถึงหนึ่งแสนห้าหมื่นบาท\n\n*อนุมาน —* กีฬาที่การล้มมวยได้เงินพอ ๆ กับการชนะ ไม่ได้ถูกยึดไว้ด้วยค่าตัวของมัน"
+   },
+   "kin": [
+    {
+     "to": "betting",
+     "as": "The money that is actually moving.",
+     "rel": "rule"
+    },
+    {
+     "to": "child-boxing",
+     "as": "Why a family puts a nine-year-old on a card.",
+     "rel": "issue"
+    },
+    {
+     "to": "isan",
+     "as": "Where most of the fighters come from.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "money",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "betting",
+     "type": "rule",
+     "name": "The gambling floor",
+     "as": "What a fighter is paid against it."
+    },
+    {
+     "from": "isan",
+     "type": "place",
+     "name": "Isan",
+     "as": "The money."
+    },
+    {
+     "from": "child-boxing",
+     "type": "issue",
+     "name": "Children in the ring",
+     "as": "The money in question."
+    }
+   ]
+  },
+  {
+   "id": "rounds",
+   "type": "rule",
+   "names": {
+    "name": "Five rounds of three minutes",
+    "th": "ห้ายก ยกละสามนาที",
+    "rtgs": "ha yok yok la sam nathi",
+    "said": "Fifteen minutes of work and eight minutes of sitting down.",
+    "said_th": "ทำงานสิบห้านาที นั่งพักแปดนาที"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "body": "conduct"
+   },
+   "text": {
+    "what": "Five rounds of three minutes, two minutes of rest between each. A professional card runs eight to ten of these in an evening.",
+    "story": "Two minutes is a long rest — boxing gives one — and it is the reason the fifth round of a muay thai fight is not the shambles the fifth round of a boxing match can be.\n\n*Inference —* the long rest also gives the gambling floor time to re-price. Odds move between rounds, out loud, and the noise between the bells is people buying the second half of a fight at a new number.\n\nThe ring itself arrived late: Thailand's first permanent one was built at Suan Kulap College in **1921**, and rounds until then were timed by a pierced coconut shell sinking in a barrel of water."
+   },
+   "text_th": {
+    "what": "ห้ายก ยกละสามนาที พักระหว่างยกสองนาที รายการอาชีพหนึ่งคืนมีแบบนี้แปดถึงสิบคู่",
+    "story": "สองนาทีคือการพักที่ยาว — มวยสากลให้หนึ่งนาที — และเป็นเหตุที่ยกห้าของมวยไทยไม่ใช่ความยับเยินแบบที่ยกสุดท้ายของมวยสากลเป็นได้\n\n*อนุมาน —* การพักยาวยังให้เวลากับวงพนันในการตั้งราคาใหม่ ราคาขยับระหว่างยก ดัง ๆ และเสียงระหว่างระฆังคือคนกำลังซื้อครึ่งหลังของไฟต์ที่ราคาใหม่\n\nตัวเวทีเองมาทีหลัง เวทีถาวรแห่งแรกของไทยสร้างที่โรงเรียนสวนกุหลาบใน **พ.ศ. 2464** ก่อนหน้านั้นจับเวลายกด้วยกะลามะพร้าวเจาะรูจมลงในถังน้ำ"
+   },
+   "kin": [
+    {
+     "to": "scoring",
+     "as": "What the five are for.",
+     "rel": "rule"
+    },
+    {
+     "to": "betting",
+     "as": "What happens in the gaps.",
+     "rel": "rule"
+    },
+    {
+     "to": "first-ring",
+     "as": "Where the ring came from.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "tradition",
+      "note": "the coconut clock is widely told and this project has no primary source for it"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "betting",
+     "type": "rule",
+     "name": "The gambling floor",
+     "as": "Where it re-prices."
+    },
+    {
+     "from": "scoring",
+     "type": "rule",
+     "name": "How a fight is actually scored",
+     "as": "The shape of the five."
+    },
+    {
+     "from": "first-ring",
+     "type": "story",
+     "name": "The ring arrives, 1921",
+     "as": "What it standardised."
+    },
+    {
+     "from": "one-championship",
+     "type": "org",
+     "name": "ONE Championship",
+     "as": "What it shortened."
+    },
+    {
+     "from": "yok",
+     "type": "term",
+     "name": "yok",
+     "as": "Five of them."
+    }
+   ]
+  },
+  {
+   "id": "scoring",
+   "type": "rule",
+   "names": {
+    "name": "How a fight is actually scored",
+    "th": "การให้คะแนน",
+    "rtgs": "kan hai khanaen",
+    "said": "The whole fight is one thing. Round one is not worth winning.",
+    "said_th": "ทั้งไฟต์คือสิ่งเดียวกัน ยกหนึ่งไม่คุ้มที่จะชนะ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "body": "scoring"
+   },
+   "text": {
+    "what": "Three judges, five rounds, one decision. Everything else about it is different from boxing, and the differences are what make a visitor think the scoring is broken.",
+    "story": "*Tradition —* stadium scoring in Thailand is not that, and is not written down anywhere a visitor can read it. What follows is how it is described by people inside the sport, and this project marks it as tradition rather than citing a rulebook it has not got.\n\n**The fight is scored as one thing.** Rounds one and two are treated as assessment and are frequently scored even by all three judges. The decision is made in rounds three, four and five, and a fighter who was behind after two has lost nothing.\n\n**Effect beats volume.** A kick that folds a man scores; six punches that do not move him score nothing. Being knocked off balance, dumped or visibly hurt is what a judge is watching for.\n\n**Kicks and knees outrank punches and elbows.** Not because they are harder — an elbow ends more fights — but because the scoring tradition treats them as the art's own weapons.\n\n**Walking forward is not scoring.** Aggression that lands nothing is read as clumsiness, and the man going backwards while landing is ahead.\n\n*Inference —* every one of those rules makes sense if you assume the audience is betting, in play, on a five-round arc. You cannot bet on a fight that is decided in round one.",
+    "how": "The written amateur rule, from IFMA, is narrow: a strike scores if it connects without being blocked, and a strike that lands on a glove, forearm, shin or foot does not score. If the scores are level at the end, the fighter who landed more full-contact blows wins."
+   },
+   "text_th": {
+    "what": "กรรมการสามคน ห้ายก หนึ่งคำตัดสิน ที่เหลือทุกอย่างต่างจากมวยสากล และความต่างนั้นคือเหตุที่ผู้มาชมคิดว่าการให้คะแนนพัง",
+    "story": "*ตามธรรมเนียม —* การให้คะแนนบนเวทีในเมืองไทยไม่ใช่แบบนั้น และไม่ได้เขียนไว้ที่ไหนที่ผู้มาเยือนจะอ่านได้ สิ่งที่ตามมาคือวิธีที่คนในวงการอธิบาย และโครงการนี้ระบุว่าเป็นธรรมเนียม ไม่ใช่การอ้างกติกาเล่มที่ไม่มีอยู่ในมือ\n\n**ไฟต์ถูกให้คะแนนเป็นก้อนเดียว** ยกหนึ่งกับยกสองถือเป็นการหยั่งเชิง และมักถูกให้เท่ากันโดยกรรมการทั้งสาม คำตัดสินเกิดในยกสาม สี่ และห้า คนที่ตามอยู่หลังสองยกแรกยังไม่ได้เสียอะไร\n\n**ผลสำคัญกว่าจำนวน** เตะที่ทำให้คนพับได้คะแนน หมัดหกครั้งที่ไม่ทำให้เขาขยับไม่ได้อะไร การเสียหลัก ถูกทุ่ม หรือเจ็บให้เห็น คือสิ่งที่กรรมการมองหา\n\n**เตะและเข่าอยู่เหนือหมัดและศอก** ไม่ใช่เพราะหนักกว่า — ศอกจบไฟต์ได้มากกว่า — แต่เพราะธรรมเนียมการให้คะแนนถือว่าสองอย่างนี้เป็นอาวุธของศิลปะนี้เอง\n\n**การเดินเข้าไม่ใช่การทำคะแนน** ความดุที่ไม่มีอะไรลงถูกอ่านว่าเก้งก้าง และคนที่ถอยหลังพลางออกอาวุธเข้าเป้าคือคนที่นำอยู่\n\n*อนุมาน —* กฎทุกข้อข้างบนเข้าท่าทันที ถ้าสมมติว่าคนดูกำลังเดิมพันสด ๆ บนเส้นเรื่องห้ายก คุณเดิมพันกับไฟต์ที่จบตั้งแต่ยกหนึ่งไม่ได้",
+    "how": "กติกาสมัครเล่นที่เขียนไว้ของ IFMA นั้นแคบ อาวุธได้คะแนนเมื่อเข้าโดยไม่ถูกบล็อก อาวุธที่ลงบนนวม ท่อนแขน แข้ง หรือเท้า ไม่ได้คะแนน ถ้าคะแนนเท่ากันเมื่อจบ ผู้ที่ออกอาวุธเต็มแรงเข้าเป้ามากกว่าเป็นผู้ชนะ"
+   },
+   "kin": [
+    {
+     "to": "betting",
+     "as": "Who the rules are shaped around.",
+     "rel": "rule"
+    },
+    {
+     "to": "rounds",
+     "as": "The shape of the five.",
+     "rel": "rule"
+    },
+    {
+     "to": "fist",
+     "as": "The weapon this system punishes.",
+     "rel": "weapon"
+    },
+    {
+     "to": "muay-femur",
+     "as": "The fighter this system rewards.",
+     "rel": "style"
+    },
+    {
+     "to": "why-foreigners-lose-decisions",
+     "as": "What it looks like from the cheap seats.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text.how": {
+      "tier": "cited",
+      "source": "s:wp-muay-thai"
+     },
+     "text.story": {
+      "tier": "tradition",
+      "note": "described from inside the sport; this project has no rulebook for stadium scoring"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner",
+    "watching",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "scoring/scoring-muay-thai-match-at-rajadamnern-stadium-2007-05-20-13.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai match at Rajadamnern Stadium 2007-05-20 13.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_13.JPG",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "BrokenSphere",
+     "credit": "Own work",
+     "alt": "A Muay Thai match at Rajadamnern Stadium in Bangkok, Thailand.",
+     "date": "2007-07-01",
+     "primary": true,
+     "sha256": "53f8481b8ff1b091db0f15960e4555b9f013ebe507d365a60b50967ca5fa24aa"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "eight-limbs",
+     "type": "weapon",
+     "name": "The eight limbs",
+     "as": "Which of the eight a judge rewards."
+    },
+    {
+     "from": "fist",
+     "type": "weapon",
+     "name": "The fist",
+     "as": "Why it is worth so little."
+    },
+    {
+     "from": "clinch",
+     "type": "move",
+     "name": "The clinch",
+     "as": "Why the crowd is shouting."
+    },
+    {
+     "from": "sweep",
+     "type": "move",
+     "name": "The dump",
+     "as": "What it is worth."
+    },
+    {
+     "from": "te-chiang",
+     "type": "move",
+     "name": "The round kick",
+     "as": "Why it counts for so much."
+    },
+    {
+     "from": "four-styles-of-fighter",
+     "type": "style",
+     "name": "Four ways to win a fight",
+     "as": "What sorts between them."
+    },
+    {
+     "from": "muay-femur",
+     "type": "style",
+     "name": "Muay femur",
+     "as": "The system it is built for."
+    },
+    {
+     "from": "muay-mat",
+     "type": "style",
+     "name": "Muay mat",
+     "as": "What it is up against."
+    },
+    {
+     "from": "rodtang",
+     "type": "person",
+     "name": "Rodtang Jitmuangnon",
+     "as": "The rules he does not fight under."
+    },
+    {
+     "from": "betting",
+     "type": "rule",
+     "name": "The gambling floor",
+     "as": "What it shapes."
+    },
+    {
+     "from": "doctor-stoppage",
+     "type": "rule",
+     "name": "The doctor, and the cut",
+     "as": "What it overrides."
+    },
+    {
+     "from": "rounds",
+     "type": "rule",
+     "name": "Five rounds of three minutes",
+     "as": "What the five are for."
+    },
+    {
+     "from": "why-foreigners-lose-decisions",
+     "type": "story",
+     "name": "Why you thought he won",
+     "as": "The rules behind it."
+    },
+    {
+     "from": "te",
+     "type": "term",
+     "name": "te",
+     "as": "Why it is what they shout."
+    }
+   ]
+  }
+ ]
+}

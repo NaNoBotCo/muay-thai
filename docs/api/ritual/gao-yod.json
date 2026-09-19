@@ -1,0 +1,96 @@
+{
+ "id": "gao-yod",
+ "type": "ritual",
+ "names": {
+  "name": "Gao yod, the nine spires",
+  "th": "เก้ายอด",
+  "rtgs": "kao yot",
+  "said": "Nine peaks up the spine. Almost nobody's first yant is anything else.",
+  "said_th": "เก้ายอดไล่ขึ้นแนวกระดูกสันหลัง แทบไม่มีใครได้ยันต์แรกเป็นลายอื่น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "always"
+ },
+ "text": {
+  "what": "A column of nine spires, placed in the centre of the upper back and running a little onto the neck. At Wat Bang Phra it is the standard first tattoo; other lineages start elsewhere.",
+  "story": "Its extension is **Yeesip Gao Yord**, twenty-nine spires, spread across the whole upper back. After those two, Wat Bang Phra's practice treats the body as opened and able to receive what comes next.\n\n*Inference —* the ordering matters more than the design. A first yant that everybody gets, in a place everybody can see, is an initiation before it is a protection: it marks that a person has stood in the line, made the offering and accepted the rules."
+ },
+ "text_th": {
+  "what": "แถวยอดเก้ายอด ลงกลางหลังส่วนบน ไล่ขึ้นต้นคอเล็กน้อย ที่วัดบางพระถือเป็นลายแรกมาตรฐาน ส่วนสายอื่นเริ่มที่ลายอื่น",
+  "story": "ลายที่ต่อจากมันคือ **ยี่สิบเก้ายอด** แผ่ทั่วหลังส่วนบน หลังสองลายนี้ ธรรมเนียมที่วัดบางพระถือว่าร่างกายเปิดแล้วและรับลายต่อไปได้\n\n*อนุมาน —* ลำดับสำคัญกว่าตัวลาย ยันต์แรกที่ทุกคนได้ ในตำแหน่งที่ทุกคนเห็น คือการรับเข้าก่อนจะเป็นการคุ้มครอง มันบอกว่าคนคนนี้เคยยืนในแถว ถวายเครื่องบูชา และรับข้อห้ามมาแล้ว"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "The practice.",
+   "rel": "ritual"
+  },
+  {
+   "to": "wat-bang-phra",
+   "as": "Where.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-wat-bang-phra"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-wat-bang-phra"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ritual"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "gao-yod/gao-yod-own-01.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "A finished spires yant across the upper back, at Sak Yant Chiang Mai.",
+   "primary": true,
+   "sha256": "adc56e1176c16f197fd42ff0c0173f50601f12e8cfa7799e699c2d55d38e021f"
+  },
+  {
+   "file": "gao-yod/gao-yod-own-02.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "The same yant, with the shrine behind, at Sak Yant Chiang Mai.",
+   "primary": false,
+   "sha256": "350cf4b70709b8cc8f82201cb275fb0752352621bced751653b80b7ac1932b8c"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "sak-yant",
+   "type": "ritual",
+   "name": "Sak yant",
+   "as": "The first one, almost always."
+  },
+  {
+   "from": "wat-bang-phra",
+   "type": "venue",
+   "name": "Wat Bang Phra",
+   "as": "What you get first."
+  }
+ ]
+}

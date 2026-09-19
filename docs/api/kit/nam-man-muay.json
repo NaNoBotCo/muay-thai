@@ -1,0 +1,62 @@
+{
+ "id": "nam-man-muay",
+ "type": "kit",
+ "names": {
+  "name": "The oil",
+  "th": "น้ำมันมวย",
+  "rtgs": "nam man muay",
+  "said": "It is a liniment. It is not a warm-up.",
+  "said_th": "มันคือยาทานวด ไม่ใช่การวอร์ม"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "fight",
+  "price": "cheap"
+ },
+ "text": {
+  "what": "The camphor and menthol liniment rubbed into a fighter's legs before a fight, and sold in every pharmacy in Thailand in a small yellow bottle.",
+  "story": "It smells like the sport. What it does is raise the skin temperature and distract from soreness, which is not the same as warming a muscle — a fighter still skips and shadow-boxes.\n\n*Inference —* the reason a gym insists on it before pads is partly the rub itself: two minutes of someone working your calves is a check for damage as much as a preparation."
+ },
+ "text_th": {
+  "what": "ยาทาน้ำมันการบูรและเมนทอลที่นวดลงขานักมวยก่อนชก ขายในร้านขายยาทุกร้านในเมืองไทย ขวดเหลืองเล็ก ๆ",
+  "story": "กลิ่นของมันคือกลิ่นของกีฬานี้ สิ่งที่มันทำคือเพิ่มอุณหภูมิผิวและกลบความปวดระบม ซึ่งไม่ใช่เรื่องเดียวกับการอุ่นกล้ามเนื้อ นักมวยก็ยังต้องกระโดดเชือกและชกลม\n\n*อนุมาน —* เหตุที่ยิมยืนกรานให้ทาก่อนซ้อมเป้าส่วนหนึ่งคือตัวการนวดเอง สองนาทีที่มีคนคลึงน่องคุณคือการตรวจหาความเสียหายพอ ๆ กับการเตรียมตัว"
+ },
+ "kin": [
+  {
+   "to": "first-session",
+   "as": "What happens to you in it.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "first-session",
+   "type": "drill",
+   "name": "Your first session",
+   "as": "What goes on your legs."
+  }
+ ]
+}

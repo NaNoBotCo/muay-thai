@@ -1,0 +1,96 @@
+{
+ "id": "korat",
+ "type": "style",
+ "names": {
+  "name": "Muay Korat",
+  "th": "มวยโคราช",
+  "rtgs": "muay khorat",
+  "said": "Heavy fists. The long swinging arm, thrown from the shoulder.",
+  "said_th": "หมัดหนัก หมัดเหวี่ยงยาวออกจากไหล่"
+ },
+ "region": [
+  "isan",
+  "korat"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "The northeastern line, from Nakhon Ratchasima. The rope was wound to the elbow here, and the punch it is known for travels furthest.",
+  "story": "Under Rama V, bouts were held before the throne at Suan Misakawan and fighters were selected from every province. Korat's man was **Nai Daeng Thai-prasert**, a student of the governor, who was given the title *Muen Changat Choeng Chok*.\n\nThe style's own list is the longest of the four and the strangest. Five teaching techniques, all of them plain instructions — *going in, punch outside; coming out, punch inside* — and then twenty-one older ones which are nothing of the kind. This project counted them: **eleven of the twenty-one name an animal**, six name a figure out of the epic, and two name an object.\n\nThe animals are not the temple menagerie either. A carp hiding by a stump. A quail going into its nest. A rat running along a rail. A crow slipping a snare.\n\n*Inference —* the central curriculum is a court's bestiary and Korat's is a farmer's."
+ },
+ "text_th": {
+  "what": "สายอีสาน จากนครราชสีมา ที่นี่พันเชือกขึ้นไปถึงข้อศอก และหมัดที่ขึ้นชื่อของสายนี้เดินทางไกลที่สุด",
+  "story": "ในรัชกาลที่ 5 มีการชกหน้าพระที่นั่งที่สวนมิสกวัน และคัดนักมวยจากทุกหัวเมือง คนของโคราชคือ **นายแดง ไทยประเสริฐ** ศิษย์ของเจ้าเมือง ได้รับบรรดาศักดิ์เป็น หมื่นชงัดเชิงชก\n\nรายการท่าของสายนี้ยาวที่สุดในสี่สายและแปลกที่สุด แม่ไม้ครูห้าท่าเป็นคำสั่งตรง ๆ ทั้งหมด — *เมื่อเข้าให้ชกนอก เมื่อออกให้ชกใน* — แล้วตามด้วยท่าโบราณอีกยี่สิบเอ็ดท่าที่ไม่ใช่อย่างนั้นเลย โครงการนี้นับดู **สิบเอ็ดในยี่สิบเอ็ดท่าตั้งชื่อตามสัตว์** หกท่าตั้งตามตัวละครในวรรณคดี และสองท่าตั้งตามสิ่งของ\n\nสัตว์เหล่านั้นก็ไม่ใช่สัตว์หิมพานต์ในวัด ตะเพียนแฝงตอ นกคุ้มเข้ารัง หนูไต่ราว กาลอดบ่วง\n\n*อนุมาน —* หลักสูตรส่วนกลางคือสมุดสัตว์ของราชสำนัก ส่วนของโคราชคือของชาวนา"
+ },
+ "kin": [
+  {
+   "to": "four-lines",
+   "as": "One of the four.",
+   "rel": "style"
+  },
+  {
+   "to": "mae-mai",
+   "as": "Which its list disagrees with.",
+   "rel": "move"
+  },
+  {
+   "to": "kaad-chuek",
+   "as": "Wound to the elbow here.",
+   "rel": "kit"
+  },
+  {
+   "to": "isan",
+   "as": "Where most stadium fighters still come from.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยโคราช",
+  "s:maemai-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยโคราช"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "hanuman-thawai-waen",
+   "type": "move",
+   "name": "Hanuman presents the ring",
+   "as": "Which also names it."
+  },
+  {
+   "from": "four-lines",
+   "type": "style",
+   "name": "The four lines, and the rhyme that ranks them",
+   "as": "Heavy fists."
+  },
+  {
+   "from": "isan",
+   "type": "place",
+   "name": "Isan",
+   "as": "The school."
+  },
+  {
+   "from": "korat-place",
+   "type": "place",
+   "name": "Nakhon Ratchasima",
+   "as": "The style."
+  }
+ ]
+}

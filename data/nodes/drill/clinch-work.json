@@ -1,0 +1,79 @@
+{
+ "id": "clinch-work",
+ "type": "drill",
+ "names": {
+  "name": "Clinch",
+  "th": "ซ้อมวงใน",
+  "rtgs": "som wong nai"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "part": "clinch"
+ },
+ "text": {
+  "what": "Two people fighting for the inside position, over and over, until the session ends.",
+  "story": "It is the least fun thing in the gym and the part that separates this sport from kickboxing. A round of clinch with someone better than you is twenty minutes of being moved around by the head.\n\n*Inference —* it is also the thing that does not transfer from any other striking art, and so the thing a visiting kickboxer is worst at on day one."
+ },
+ "text_th": {
+  "what": "สองคนแย่งตำแหน่งวงในซ้ำแล้วซ้ำเล่าจนหมดรอบ",
+  "story": "มันคือสิ่งที่สนุกน้อยที่สุดในยิม และเป็นส่วนที่แยกกีฬานี้ออกจากคิกบ็อกซิ่ง หนึ่งยกวงในกับคนที่เก่งกว่าคือยี่สิบนาทีของการถูกจับหัวเหวี่ยงไปมา\n\n*อนุมาน —* มันยังเป็นสิ่งที่ถ่ายโอนมาจากศิลปะการต่อสู้แบบยืนอื่น ๆ ไม่ได้เลย จึงเป็นสิ่งที่นักคิกบ็อกซิ่งที่มาเยือนทำได้แย่ที่สุดในวันแรก"
+ },
+ "kin": [
+  {
+   "to": "clinch",
+   "as": "What is being trained.",
+   "rel": "move"
+  },
+  {
+   "to": "first-session",
+   "as": "The order it all comes in.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "session": {
+  "part": "clinch",
+  "minutes": "10–20 min",
+  "when": "End of the session, when nobody has anything left.",
+  "hurts": "Your neck."
+ },
+ "images": [
+  {
+   "file": "clinch-work/clinch-work-learning-muay-thai-with-royal-thai-marines-160213-m-d527180.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-077.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-077.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-077.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421337/learning-muay-thai-with-royal-thai-marines",
+   "alt": "U.S. Marine Corps Sgt. Absalom Burton, with Maritime Raid Force, 31st Marine Expeditionary Unit, practices Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip,",
+   "date": "2016-02-11",
+   "primary": true,
+   "sha256": "f4f58cbeb8514da1a2a9e7bcfdbe5cd39a2c6e72c43af52ceb2ec827fc975b5d"
+  }
+ ]
+}

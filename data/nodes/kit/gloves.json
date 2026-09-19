@@ -1,0 +1,81 @@
+{
+ "id": "gloves",
+ "type": "kit",
+ "names": {
+  "name": "Gloves",
+  "th": "นวม",
+  "rtgs": "nuam",
+  "said": "They came in at Lumpinee, for fights against foreigners, before they came in for Thais.",
+  "said_th": "นวมเข้ามาที่ลุมพินีก่อน ในไฟต์ที่ชกกับชาวต่างชาติ ก่อนจะเข้ามาสำหรับคนไทย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ring",
+  "worn": "fight"
+ },
+ "text": {
+  "what": "Padded gloves, plus a hard groin cup, adopted in the late 1920s. Modern fights use 8oz or 10oz depending on weight; a gym will hand a beginner 14oz or 16oz.",
+  "story": "The order of adoption in the English article is worth reading twice: gloves and hard groin protectors came in \"during training and in boxing matches against foreigners\" — and rope-binding \"was still used in fights between Thais\" until a death in the ring settled it.\n\nSo the glove arrives as a condition of the international fixture, not as a safety reform, and the safety reform follows it.\n\nA heavier glove is a bigger surface and a slower hand, so gym sparring in 16oz is not the same sport as a fight in 8oz. That is a standard thing for a beginner to misread about their own progress."
+ },
+ "text_th": {
+  "what": "นวมบุนุ่ม พร้อมกระจับแข็ง เริ่มใช้ปลายทศวรรษ 2460 ไฟต์สมัยใหม่ใช้ 8 หรือ 10 ออนซ์ตามพิกัดน้ำหนัก ส่วนยิมจะยื่นนวม 14 หรือ 16 ออนซ์ให้ผู้เริ่มต้น",
+  "story": "ลำดับการรับนวมในบทความภาษาอังกฤษควรอ่านสองรอบ นวมกับกระจับแข็งเข้ามา \"ในการฝึกซ้อมและในไฟต์ที่ชกกับชาวต่างชาติ\" — ส่วนการคาดเชือก \"ยังใช้ในไฟต์ระหว่างคนไทยด้วยกัน\" จนกระทั่งมีคนตายบนเวทีจึงยุติ\n\nนวมจึงมาถึงในฐานะเงื่อนไขของการชกกับต่างชาติ ไม่ใช่ในฐานะการปฏิรูปความปลอดภัย และการปฏิรูปความปลอดภัยตามมาทีหลัง\n\nนวมที่หนักกว่าคือพื้นที่ที่ใหญ่กว่าและมือที่ช้ากว่า การสปาร์ในยิมด้วยนวม 16 ออนซ์จึงไม่ใช่กีฬาเดียวกับการชกจริงด้วยนวม 8 ออนซ์ นั่นคือสิ่งที่ผู้เริ่มต้นเข้าใจผิดเกี่ยวกับความก้าวหน้าของตัวเองเป็นปกติ"
+ },
+ "kin": [
+  {
+   "to": "kaad-chuek",
+   "as": "What it replaced.",
+   "rel": "kit"
+  },
+  {
+   "to": "cup",
+   "as": "What came in with it.",
+   "rel": "kit"
+  },
+  {
+   "to": "lumpinee",
+   "as": "Where the article puts the change.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "gloves/gloves-kruang-muay-thai.jpg",
+   "source": "commons",
+   "title": "File:Kruang Muay Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kruang_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKruang_Muay_Thai.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Victor Soares Cardoso",
+   "credit": "Own work",
+   "alt": "Kruang",
+   "date": "2012-03-25",
+   "primary": true,
+   "sha256": "03a69bf349e730f92a31683f982d74d46df6820e465a8467f917b3b66f04bb70"
+  }
+ ]
+}

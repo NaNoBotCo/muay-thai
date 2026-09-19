@@ -1,0 +1,87 @@
+{
+ "id": "manop-yarana",
+ "type": "person",
+ "names": {
+  "name": "Manop Yarana",
+  "th": "มานพ ยาระณะ",
+  "rtgs": "manop yarana",
+  "said": "National Artist 2005. Taught fon jerng and muay thai for fifty years without charging.",
+  "said_th": "ศิลปินแห่งชาติ พ.ศ. 2548 สอนฟ้อนเจิงและมวยไทยห้าสิบปีโดยไม่เคยเก็บเงิน",
+  "aliases": [
+   "Pho Khru Phan",
+   "พ่อครูพัน"
+  ]
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "5 September 1930 – 22 November 2015, Chiang Mai. National Artist in the performing arts, 2548 BE, for Lanna dance, martial arts and drumming.",
+  "story": "Finished primary school at Wat Si Don Chai, helped his parents trade, and learned the fighting arts, the music and the Lanna drums from whoever had them. Then taught them on for about fifty years: muay thai, fon jerng, the spear dance, the lamp dance, the pu cha drum, the old sabatchai, the mong soeng drum, the pu che drum.\n\nThe Thai article's last clause is the one worth keeping: he did it **without ever taking a fee**.\n\n*Inference —* a transmission like that is the reason there is anything left to write about. Chaiya survived because a governor's son had a printing press. Lanna survived because two men in Chiang Mai taught for free until they died."
+ },
+ "text_th": {
+  "what": "5 กันยายน พ.ศ. 2473 – 22 พฤศจิกายน พ.ศ. 2558 เชียงใหม่ ศิลปินแห่งชาติ สาขาศิลปะการแสดง ประจำ พ.ศ. 2548 ด้านการฟ้อน ศิลปะการต่อสู้ และการตีกลองล้านนา",
+  "story": "จบชั้นประถมที่โรงเรียนวัดศรีดอนไชย ช่วยพ่อแม่ค้าขาย และเรียนศิลปะการต่อสู้ ดนตรี และการตีกลองล้านนาจากผู้รู้ จากนั้นก็ถ่ายทอดต่อราวห้าสิบปี ทั้งมวยไทย ฟ้อนเจิง ฟ้อนหอก ฟ้อนผางประทีป กลองปู่จา กลองสะบัดชัยแบบโบราณ กลองมองเซิง กลองปู่เจ่\n\nอนุประโยคสุดท้ายของบทความไทยคือส่วนที่ควรเก็บไว้ เขาทำทั้งหมดนั้น **โดยไม่เคยเก็บค่าสอน**\n\n*อนุมาน —* การสืบทอดแบบนั้นคือเหตุผลที่ยังมีอะไรเหลือให้เขียนถึง ไชยารอดมาเพราะบุตรเจ้าเมืองมีแท่นพิมพ์ ล้านนารอดมาเพราะชายสองคนในเชียงใหม่สอนฟรีจนวันตาย"
+ },
+ "kin": [
+  {
+   "to": "fon-jerng",
+   "as": "What he taught.",
+   "rel": "style"
+  },
+  {
+   "to": "kham-kaiwai",
+   "as": "The other one.",
+   "rel": "person"
+  },
+  {
+   "to": "lanna",
+   "as": "Where.",
+   "rel": "place"
+  },
+  {
+   "to": "khet-sriyaphai",
+   "as": "The southern equivalent.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:thwp-มานพ ยาระณะ"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มานพ ยาระณะ"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "fon-jerng",
+   "type": "style",
+   "name": "Fon jerng",
+   "as": "Who taught it, for fifty years."
+  },
+  {
+   "from": "kham-kaiwai",
+   "type": "person",
+   "name": "Kham Kaiwai",
+   "as": "The other one."
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "id": "mae-mai",
+ "type": "move",
+ "names": {
+  "name": "The fifteen mother techniques",
+  "th": "แม่ไม้มวยไทย",
+  "rtgs": "mae mai muay thai",
+  "said": "Not one of them is named after what it does.",
+  "said_th": "ไม่มีสักท่าเดียวที่ตั้งชื่อตามสิ่งที่มันทำ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "mae-mai"
+ },
+ "text": {
+  "what": "The first fifteen named techniques, taught as a set. *Mae* is mother, *mai* is a move; the fifteen that come after are called *luk mai*, child moves.",
+  "story": "Thai Wikipedia lists them with a sentence of description each, sourcing the Thai Encyclopedia for Youth. This project took the list off the page at revision 13177866 rather than retyping it, glossed each name, and then counted what the names point at.\n\n**Fourteen of the fifteen name a picture and one names a movement.** Salap fan pla is the zigzag of a fish's jaw. Chorakhe fat hang is a crocodile's tail. Hak kho erawan breaks the neck of the three-headed elephant that Indra rides. Wirunhok klap turns Virūḷhaka, guardian of the south, upside down.\n\n*Inference —* this is why translating the names does not help a beginner and never has. The name is a mnemonic for a **shape**, held by people who had the shapes in front of them already: at Wat Bang Kung in Samut Songkhram the techniques stand in the courtyard as statues. The word was never carrying the instruction. The word was carrying the picture.\n\nSome sources put the count at 385 techniques rather than thirty, with the hardest named as *Narai ban sian* — Narayana beheads. This project prints the fifteen and the fifteen because those are the two lists with a source attached."
+ },
+ "text_th": {
+  "what": "สิบห้าท่าแรกที่มีชื่อ สอนเป็นชุด *แม่* คือแม่ *ไม้* คือท่า อีกสิบห้าท่าที่ตามมาเรียกว่า *ลูกไม้*",
+  "story": "วิกิพีเดียภาษาไทยลงรายการไว้พร้อมคำอธิบายท่าละหนึ่งประโยค โดยอ้างสารานุกรมไทยสำหรับเยาวชนฯ โครงการนี้ดึงรายการออกจากหน้าเว็บที่รุ่นแก้ไข 13177866 แทนการพิมพ์ใหม่ แล้วแปลชื่อแต่ละท่า และนับว่าชื่อเหล่านั้นชี้ไปที่อะไร\n\n**สิบสี่ในสิบห้าท่าตั้งชื่อเป็นภาพ มีเพียงท่าเดียวที่ตั้งชื่อตามการเคลื่อนไหว** สลับฟันปลาคือฟันปลาสองแถวที่เหลื่อมกัน จระเข้ฟาดหางคือหางจระเข้ หักคอเอราวัณคือการหักคอช้างสามเศียรที่พระอินทร์ทรง วิรุฬหกกลับคือการพลิกท้าวิรุฬหก ผู้รักษาทิศใต้ ให้กลับหัว\n\n*อนุมาน —* นี่คือเหตุที่การแปลชื่อท่าไม่ช่วยผู้เริ่มต้น และไม่เคยช่วย ชื่อคือกลอุบายช่วยจำ**รูปร่าง** สำหรับคนที่มีรูปร่างเหล่านั้นอยู่ตรงหน้าแล้ว ที่วัดบางกุ้ง สมุทรสงคราม ท่าเหล่านี้ตั้งเป็นรูปปั้นอยู่กลางลาน คำไม่เคยเป็นตัวบอกวิธี คำเป็นตัวถือภาพไว้\n\nบางแหล่งระบุว่ามีถึง 385 ท่า ไม่ใช่สามสิบ โดยท่าที่ยากที่สุดชื่อ *นารายณ์บั่นเศียร* โครงการนี้พิมพ์สิบห้ากับสิบห้า เพราะสองรายการนั้นคือรายการที่มีแหล่งอ้างอิงติดมาด้วย"
+ },
+ "kin": [
+  {
+   "to": "luk-mai",
+   "as": "The second fifteen.",
+   "rel": "move"
+  },
+  {
+   "to": "ramakien-in-the-ring",
+   "as": "Where half the names come from.",
+   "rel": "art"
+  },
+  {
+   "to": "wat-bang-kung-statues",
+   "as": "The fifteen, standing up, in a courtyard.",
+   "rel": "art"
+  },
+  {
+   "to": "hak-kho-erawan",
+   "as": "Number fifteen.",
+   "rel": "move"
+  },
+  {
+   "to": "chorakhe-fat-hang",
+   "as": "Number nine, and the one every gym still says.",
+   "rel": "move"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:saranukrom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "inference",
+    "note": "the classification of the names is this project's, off the cited list"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted",
+  "ramakien",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "mae-mai/mae-mai-11.jpg",
+   "source": "commons",
+   "title": "File:วัดบางกุ้ง อำเภอบางคนที จังหวัดสมุทรสงคราม 11.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_11.JPG",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "KengCH",
+   "credit": "Own work",
+   "alt": "This is a photo of a monument in Thailand identified by the ID",
+   "date": "2013-01-10 15:02:33",
+   "primary": true,
+   "sha256": "06dced42a7afbcad3db2bfc2b64f0a7e1d9f875f05f85719392e63247d4b0328"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "batha-lup-phak",
+   "type": "move",
+   "name": "The foot strokes the face",
+   "as": "And the exception to the whole set."
+  },
+  {
+   "from": "chorakhe-fat-hang",
+   "type": "move",
+   "name": "The crocodile lashes its tail",
+   "as": "The list it is ninth on."
+  },
+  {
+   "from": "hak-kho-erawan",
+   "type": "move",
+   "name": "Breaking Erawan's neck",
+   "as": "The list it closes."
+  },
+  {
+   "from": "luk-mai",
+   "type": "move",
+   "name": "The fifteen that come after",
+   "as": "The first fifteen."
+  },
+  {
+   "from": "korat",
+   "type": "style",
+   "name": "Muay Korat",
+   "as": "Which its list disagrees with."
+  },
+  {
+   "from": "tiger-king",
+   "type": "person",
+   "name": "The Tiger King",
+   "as": "What he is credited with."
+  },
+  {
+   "from": "ong-bak",
+   "type": "art",
+   "name": "Ong-Bak",
+   "as": "What the song is named after."
+  },
+  {
+   "from": "ramakien-in-the-ring",
+   "type": "art",
+   "name": "The epic in the technique list",
+   "as": "The first list."
+  },
+  {
+   "from": "wat-bang-kung-statues",
+   "type": "art",
+   "name": "The fifteen, standing in a courtyard",
+   "as": "What is standing there."
+  }
+ ]
+}

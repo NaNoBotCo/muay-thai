@@ -1,0 +1,73 @@
+{
+ "id": "la-loubere-1687",
+ "type": "story",
+ "names": {
+  "name": "A French diplomat, 1687",
+  "th": "ทูตฝรั่งเศส พ.ศ. 2230",
+  "rtgs": "thut farangset",
+  "said": "\"Wrestling and fighting with fists or elbows were just their occupations.\"",
+  "said_th": "\"การปล้ำและการต่อสู้ด้วยหมัดหรือศอกเป็นเพียงอาชีพของพวกเขา\""
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "Simon de la Loubère, envoy of Louis XIV to the court of King Narai, wrote down what Siamese men did with their time.",
+  "story": "From *Du Royaume de Siam*: the heat wearies them; wrestling and fighting with fists or elbows are the trades of showmen; the boat races are their only exercise.\n\n*Inference —* the sentence is dismissive and that is what makes it useful. A visitor who thought little of it still recorded, in 1687, that fist-and-elbow fighting was **a trade somebody was paid for** — not a military art, not a ceremony. Professional prize-fighting in Siam is documented by a man who was not impressed by it.\n\nEleven years later the same court was training it in a hurry. After the revolution of 1688, with French warships reported off Puducherry and Mergui, King Phetracha ordered recruitment and training in wrestling, muay and krabi-krabong — and a letter of 9 June 1699 says the training was a heavy burden on the veterans."
+ },
+ "text_th": {
+  "what": "ซีมง เดอ ลา ลูแบร์ ราชทูตของพระเจ้าหลุยส์ที่ 14 สู่ราชสำนักสมเด็จพระนารายณ์ จดไว้ว่าชายชาวสยามใช้เวลาทำอะไร",
+  "story": "จาก *Du Royaume de Siam* อากาศร้อนทำให้พวกเขาอ่อนล้า การปล้ำและการต่อสู้ด้วยหมัดหรือศอกเป็นอาชีพของนักแสดง และการแข่งเรือเป็นการออกกำลังอย่างเดียวของพวกเขา\n\n*อนุมาน —* ประโยคนี้ดูแคลน และนั่นคือสิ่งที่ทำให้มันมีประโยชน์ ผู้มาเยือนที่ไม่ได้คิดอะไรมากกับมัน ยังบันทึกไว้ในปี พ.ศ. 2230 ว่าการต่อสู้ด้วยหมัดและศอกคือ **อาชีพที่มีคนจ่ายเงินให้** ไม่ใช่ศิลปะการทหาร ไม่ใช่พิธีกรรม การชกชิงรางวัลเป็นอาชีพในสยามมีหลักฐานจากชายที่ไม่ได้ประทับใจกับมัน\n\nสิบเอ็ดปีต่อมา ราชสำนักเดียวกันฝึกมันอย่างเร่งรีบ หลังการปฏิวัติ พ.ศ. 2231 เมื่อมีรายงานเรือรบฝรั่งเศสนอกเมืองปูดูเชอร์รีและมะริด สมเด็จพระเพทราชาทรงประกาศเกณฑ์คนและฝึกการปล้ำ มวย และกระบี่กระบอง และจดหมายลงวันที่ 9 มิถุนายน พ.ศ. 2242 ระบุว่าการฝึกนั้นเป็นภาระหนักสำหรับทหารผ่านศึก"
+ },
+ "kin": [
+  {
+   "to": "tiger-king",
+   "as": "Three years later, and a temple fair.",
+   "rel": "person"
+  },
+  {
+   "to": "kaad-chuek",
+   "as": "What they were fighting with.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-simon-de-la-loub-re"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "la-loubere-1687/la-loubere-1687-loubere-1691-instrument-musique.jpg",
+   "source": "commons",
+   "title": "File:Loubere,1691,instrument musique.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Loubere%2C1691%2Cinstrument_musique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALoubere%2C1691%2Cinstrument_musique.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Simon de la Loubère (1642-1729)",
+   "credit": "Simon de la Loubère: Du Royaume de Siam. 1691, vol. 2, p. 105",
+   "alt": "Thai gong circle",
+   "date": "1691",
+   "primary": true,
+   "sha256": "51cb6bc16ce217eea1dbbde0daa8673d794a59aecfbfe2b0d436f37c8296441b"
+  }
+ ]
+}

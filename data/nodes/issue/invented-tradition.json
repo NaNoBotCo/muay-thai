@@ -1,0 +1,75 @@
+{
+ "id": "invented-tradition",
+ "type": "issue",
+ "names": {
+  "name": "How old is any of this",
+  "th": "เรื่องนี้เก่าแค่ไหน",
+  "rtgs": "rueang ni kao khae nai",
+  "said": "Scholars call the royal-nationalist history an invented tradition. The article says so itself.",
+  "said_th": "นักวิชาการเรียกประวัติศาสตร์แบบราชาชาตินิยมนี้ว่าประเพณีประดิษฐ์ บทความเองก็ระบุไว้"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "status": "contested"
+ },
+ "text": {
+  "what": "The line between what is documented and what was assembled later, which runs through almost every origin claim on this site.",
+  "story": "English Wikipedia carries the counter-reading in its own voice: scholars have described the royalist-nationalist history as **an invented tradition**, constructed for the needs of Thai nationalism, and that construction attached the sport to an official cultural institution and cut it off from its neighbours — muay Lao, lethwei in Myanmar, kun khmer.\n\nSet the dates out and the pattern is visible without argument:\n\n- **1910** — three provincial fighters win at a royal cremation and their home towns become the regional styles.\n- **1913–1919** — the term *muay thai* first appears in the curriculum of a Bangkok school, to distinguish it from British boxing taught in the same room.\n- **1921** — the first permanent ring, at that same school.\n- **Late 20th century** — the official history is codified, and *muay boran* is coined for whatever came before.\n- **A cabinet resolution** — the fifteen mae mai are attributed to a king who died in 1709.\n\n*Inference —* none of that makes the fighting recent. Bare-hand fighting is in the Mungrai law of 1296 and in a French diplomat's account of Siam in 1687. What is recent is the **package**: a national art, with a founder, a date, a canon of thirty techniques and four schools. The sport is old. The story is a hundred years old, and the story is what gets sold."
+ },
+ "text_th": {
+  "what": "เส้นแบ่งระหว่างสิ่งที่มีหลักฐานกับสิ่งที่ถูกประกอบขึ้นทีหลัง ซึ่งพาดผ่านข้ออ้างเรื่องต้นกำเนิดแทบทุกข้อบนเว็บนี้",
+  "story": "วิกิพีเดียภาษาอังกฤษถือคำอ่านตรงข้ามไว้ในเสียงของตัวเอง นักวิชาการอธิบายประวัติศาสตร์แบบราชาชาตินิยมนี้ว่าเป็น **ประเพณีประดิษฐ์** ที่สร้างขึ้นเพื่อความต้องการของชาตินิยมไทย และการสร้างนั้นผูกกีฬานี้เข้ากับสถาบันทางวัฒนธรรมของรัฐ แล้วตัดมันออกจากเพื่อนบ้าน ทั้งมวยลาว เลทเวในเมียนมา และกุนขแมร์\n\nเรียงวันที่ออกมา แล้วรูปแบบก็ปรากฏโดยไม่ต้องเถียง\n\n- **พ.ศ. 2453** — นักมวยหัวเมืองสามคนชนะในงานพระเมรุ แล้วบ้านเกิดของพวกเขากลายเป็นสายมวยประจำถิ่น\n- **พ.ศ. 2456–2462** — คำว่า *มวยไทย* ปรากฏครั้งแรกในหลักสูตรของโรงเรียนในพระนคร เพื่อแยกจากมวยอังกฤษที่สอนในห้องเดียวกัน\n- **พ.ศ. 2464** — เวทีถาวรแห่งแรก ที่โรงเรียนเดียวกันนั้น\n- **ปลายศตวรรษที่ 20** — ประวัติศาสตร์ทางการถูกจัดเป็นระบบ และคำว่า *มวยโบราณ* ถูกบัญญัติขึ้นสำหรับสิ่งที่มาก่อน\n- **มติคณะรัฐมนตรี** — แม่ไม้สิบห้าท่าถูกยกให้กษัตริย์ที่สวรรคตเมื่อ พ.ศ. 2252\n\n*อนุมาน —* ไม่มีข้อใดทำให้การชกมวยเป็นของใหม่ การต่อสู้ด้วยมือเปล่าอยู่ในมังรายศาสตร์ พ.ศ. 1839 และในบันทึกของทูตฝรั่งเศสเรื่องสยาม พ.ศ. 2230 สิ่งที่ใหม่คือ **ชุดสำเร็จรูป** ศิลปะประจำชาติ ที่มีผู้ก่อตั้ง มีวัน มีสารบบสามสิบท่า และมีสี่สาย กีฬาเก่า เรื่องเล่าอายุร้อยปี และเรื่องเล่าคือสิ่งที่ถูกขาย"
+ },
+ "kin": [
+  {
+   "to": "nai-khanom-tom",
+   "as": "The founder.",
+   "rel": "person"
+  },
+  {
+   "to": "tiger-king",
+   "as": "The inventor.",
+   "rel": "person"
+  },
+  {
+   "to": "four-lines",
+   "as": "The four schools.",
+   "rel": "style"
+  },
+  {
+   "to": "muay-boran",
+   "as": "The name coined last.",
+   "rel": "style"
+  },
+  {
+   "to": "neighbours",
+   "as": "Who got cut off.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "contested",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

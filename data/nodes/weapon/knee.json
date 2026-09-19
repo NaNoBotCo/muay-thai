@@ -1,0 +1,100 @@
+{
+ "id": "knee",
+ "type": "weapon",
+ "names": {
+  "name": "The knee",
+  "th": "เข่า",
+  "rtgs": "khao",
+  "said": "Scores heavily, costs nothing to throw, and needs a hand on the head.",
+  "said_th": "ได้คะแนนหนัก ออกแล้วไม่เสียอะไร แต่ต้องมีมือจับคออยู่"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "range": "close"
+ },
+ "text": {
+  "what": "The point of the thigh bone driven into ribs, liver, sternum or face, usually with the other man's head pulled down onto it.",
+  "story": "Thai names the varieties rather than the angles: *khao dot*, the jumping knee off one leg; *khao loi*, the flying knee after a step; *khao thon*, the straight knee driven forward.\n\n*Tradition holds —* the straight knee is the newest of the three, and the reason given is the rope. With hemp wound over the knuckles, a fighter who saw a knee coming could cut down onto the thigh with the edge of the wrap. Gloves took that answer away and the straight knee came into its own.\n\nFor scoring, the knee is the best deal in the sport: it is visible from the back row, it moves the man it lands on, and a fighter throwing knees in the clinch is doing the thing the judges are watching for."
+ },
+ "text_th": {
+  "what": "ปลายกระดูกต้นขาที่ดันเข้าไปที่ซี่โครง ตับ ลิ้นปี่ หรือหน้า โดยมากคือดึงหัวอีกฝ่ายลงมารับ",
+  "story": "ภาษาไทยตั้งชื่อตามชนิด ไม่ใช่ตามมุม — *เข่าโดด* กระโดดขึ้นด้วยขาข้างเดียว *เข่าลอย* ก้าวแล้วลอยตัวเข้าใส่ *เข่าตรง* ดันตรงไปข้างหน้า\n\n*ตามธรรมเนียม —* เข่าตรงใหม่ที่สุดในสามอย่างนี้ และเหตุผลที่ให้ไว้คือเชือก เมื่อพันเชือกป่านทับข้อนิ้ว คนที่เห็นเข่ามาสามารถฟันขอบเชือกลงบนต้นขาได้ นวมทำให้คำตอบนั้นหายไป เข่าตรงจึงได้ที่ทางของมัน\n\nในแง่คะแนน เข่าคือของคุ้มที่สุดในกีฬานี้ มองเห็นจากแถวหลังสุด ทำให้คนที่โดนขยับ และคนที่ออกเข่าในวงในกำลังทำสิ่งที่กรรมการมองหาอยู่พอดี"
+ },
+ "kin": [
+  {
+   "to": "eight-limbs",
+   "as": "The count it belongs to.",
+   "rel": "weapon"
+  },
+  {
+   "to": "clinch",
+   "as": "What makes it possible.",
+   "rel": "move"
+  },
+  {
+   "to": "dieselnoi",
+   "as": "The fighter nobody could stop kneeing them.",
+   "rel": "person"
+  },
+  {
+   "to": "kaad-chuek",
+   "as": "The rope that the straight knee had to wait out.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "knee/knee-muay-thai-knee.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai Knee.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Muay_Thai_Knee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Knee.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Muay Thai knee on pads",
+   "date": "2003-07-22 11:34:35",
+   "primary": true,
+   "sha256": "33b2932e91f97f86a4765ac1572848b97dbf9485f6849fce12b78ab58078f03d"
+  },
+  {
+   "file": "knee/knee-ugr-t-rd.jpg",
+   "source": "commons",
+   "title": "File:Ugrótérd.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ugr%C3%B3t%C3%A9rd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AUgr%C3%B3t%C3%A9rd.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Mindenkinis Segítő",
+   "credit": "Own work",
+   "alt": "A muaythai technikái közül közepes nehézségű tradicionális elem",
+   "date": "2024-02-13",
+   "primary": false,
+   "sha256": "a9a3c9a9e25d65d978b29a158f7cba59aa646d8380be49d9a7de20d3ed8892ea"
+  }
+ ]
+}

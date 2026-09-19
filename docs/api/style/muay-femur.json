@@ -1,0 +1,112 @@
+{
+ "id": "muay-femur",
+ "type": "style",
+ "names": {
+  "name": "Muay femur",
+  "th": "มวยฝีมือ",
+  "rtgs": "muay fimue",
+  "said": "The technician. Wins by making the other man look clumsy.",
+  "said_th": "นักมวยเชิง ชนะด้วยการทำให้อีกฝ่ายดูเก้งก้าง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "golden"
+ },
+ "text": {
+  "what": "The all-rounder who fights on timing and distance and is usually ahead on the cards without appearing to try.",
+  "story": "The word is *fimue*, skill of hand. A femur fighter teeps you out of range, catches the kick you were going to throw anyway, dumps you, and looks bored.\n\n*Inference —* this is the style Thai judging was built to reward and the style foreign audiences find hardest to enjoy, and those two facts are the same fact."
+ },
+ "text_th": {
+  "what": "นักมวยครบเครื่องที่ชกด้วยจังหวะและระยะ และมักนำคะแนนอยู่โดยไม่ต้องดูเหมือนพยายาม",
+  "story": "คำว่า *ฝีมือ* คือความชำนาญของมือ นักมวยเชิงจะถีบคุณออกนอกระยะ รับเตะที่คุณกำลังจะออกอยู่แล้ว ทุ่มคุณลง แล้วทำหน้าเบื่อ\n\n*อนุมาน —* นี่คือแบบที่การให้คะแนนของไทยถูกสร้างมาเพื่อตอบแทน และเป็นแบบที่คนดูต่างชาติสนุกด้วยยากที่สุด และสองข้อนั้นคือข้อเดียวกัน"
+ },
+ "kin": [
+  {
+   "to": "scoring",
+   "as": "The system it is built for.",
+   "rel": "rule"
+  },
+  {
+   "to": "samart-payakaroon",
+   "as": "The one everybody names.",
+   "rel": "person"
+  },
+  {
+   "to": "four-styles-of-fighter",
+   "as": "One of four ways to win.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "muay-femur/muay-femur-manachai-yokkao.jpg",
+   "source": "commons",
+   "title": "File:Manachai yokkao.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Manachai_yokkao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AManachai_yokkao.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "D3viliz3d",
+   "credit": "Own work",
+   "alt": "Manachai performing the Ram Muay",
+   "date": "2018-02-18",
+   "primary": true,
+   "sha256": "aca5cae2701c0e19cfa8da2607252855840994cd0d8163e22e480d71eaf7d5a1"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "four-styles-of-fighter",
+   "type": "style",
+   "name": "Four ways to win a fight",
+   "as": "One."
+  },
+  {
+   "from": "saenchai",
+   "type": "person",
+   "name": "Saenchai",
+   "as": "The style he defines."
+  },
+  {
+   "from": "samart-payakaroon",
+   "type": "person",
+   "name": "Samart Payakaroon",
+   "as": "The style he defines."
+  },
+  {
+   "from": "scoring",
+   "type": "rule",
+   "name": "How a fight is actually scored",
+   "as": "The fighter this system rewards."
+  },
+  {
+   "from": "fimue",
+   "type": "term",
+   "name": "fimue",
+   "as": "The style."
+  }
+ ]
+}

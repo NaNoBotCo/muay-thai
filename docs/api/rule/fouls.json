@@ -1,0 +1,64 @@
+{
+ "id": "fouls",
+ "type": "rule",
+ "names": {
+  "name": "What is not allowed",
+  "th": "สิ่งที่ผิดกติกา",
+  "rtgs": "sing thi phit katika",
+  "said": "The head is out. The groin, in Thailand, is a more complicated answer.",
+  "said_th": "หัวใช้ไม่ได้ ส่วนเป้า ในเมืองไทย คำตอบซับซ้อนกว่านั้น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "body": "conduct"
+ },
+ "text": {
+  "what": "Headbutts, biting, eye attacks and strikes to a downed opponent are out everywhere. The interesting exception is the groin.",
+  "story": "The English article records that strikes to the groin were **permitted until the late 1980s**, and are \"still permitted in Thailand itself, and in club or competition events that abide to the traditional rules\". Fighters wear a hard cup; that is what the cup is for.\n\nThe other silent rule is the head. Thai sources note that some manuals count **nine** weapons rather than eight by adding the head, and **ten** by adding the backside. Neither is legal in the ring, which is exactly why the count that survived into the sport's English name is eight."
+ },
+ "text_th": {
+  "what": "โขกหัว กัด ทำร้ายตา และการออกอาวุธใส่คนที่ล้มแล้ว ผิดกติกาทุกที่ ข้อยกเว้นที่น่าสนใจคือเป้า",
+  "story": "บทความภาษาอังกฤษบันทึกว่าการออกอาวุธใส่เป้า **ใช้ได้จนถึงปลายทศวรรษ 1980** และ \"ยังใช้ได้ในประเทศไทยเอง และในรายการระดับสโมสรหรือการแข่งขันที่ยึดกติกาดั้งเดิม\" นักมวยใส่กระจับ และนั่นคือหน้าที่ของกระจับ\n\nกติกาเงียบอีกข้อคือหัว แหล่งไทยระบุว่าบางตำรานับ **นวอาวุธ** เก้าชิ้นแทนแปด โดยเพิ่มศีรษะ และ **ทศอาวุธ** สิบชิ้น โดยเพิ่มบั้นท้าย ทั้งสองอย่างใช้ไม่ได้บนเวที ซึ่งคือเหตุผลตรง ๆ ว่าทำไมจำนวนที่รอดมาอยู่ในชื่อภาษาอังกฤษของกีฬานี้คือแปด"
+ },
+ "kin": [
+  {
+   "to": "eight-limbs",
+   "as": "Why the count stops at eight.",
+   "rel": "weapon"
+  },
+  {
+   "to": "cup",
+   "as": "What the groin rule requires.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "cup",
+   "type": "kit",
+   "name": "The cup",
+   "as": "Why it is made of steel."
+  }
+ ]
+}

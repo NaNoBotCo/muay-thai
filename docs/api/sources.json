@@ -1,0 +1,1696 @@
+{
+ "sources": [
+  {
+   "id": "s:wp-muay-thai",
+   "kind": "web",
+   "title": "Muay Thai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Muay_Thai",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-muay-boran",
+   "kind": "web",
+   "title": "Muay boran",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Muay_boran",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-muay-chaiya",
+   "kind": "web",
+   "title": "Muay Chaiya",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Muay_Chaiya",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-muay-lao",
+   "kind": "web",
+   "title": "Muay Lao",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Muay_Lao",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-lethwei",
+   "kind": "web",
+   "title": "Lethwei",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lethwei",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kun-khmer",
+   "kind": "web",
+   "title": "Kun Khmer",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kun_Khmer",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tomoi",
+   "kind": "web",
+   "title": "Tomoi",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tomoi",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-bokator",
+   "kind": "web",
+   "title": "Bokator",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bokator",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-krabi-krabong",
+   "kind": "web",
+   "title": "Krabi–krabong",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Krabi%E2%80%93krabong",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-wai-khru-ram-muay",
+   "kind": "web",
+   "title": "Wai khru ram muay",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wai_khru_ram_muay",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "web",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "web",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ramakien",
+   "kind": "web",
+   "title": "Ramakien",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ramakien",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-hanuman",
+   "kind": "web",
+   "title": "Hanuman",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Hanuman",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-erawan",
+   "kind": "web",
+   "title": "Erawan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Erawan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ayutthaya-kingdom",
+   "kind": "web",
+   "title": "Ayutthaya Kingdom",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ayutthaya_Kingdom",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-naresuan",
+   "kind": "web",
+   "title": "Naresuan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Naresuan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-suriyenthrathibodi",
+   "kind": "web",
+   "title": "Suriyenthrathibodi",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Suriyenthrathibodi",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-rattanakosin-kingdom-1782-1932",
+   "kind": "web",
+   "title": "Rattanakosin Kingdom (1782–1932)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rattanakosin_Kingdom_(1782%E2%80%931932)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-lumpinee-boxing-stadium",
+   "kind": "web",
+   "title": "Lumpinee Boxing Stadium",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lumpinee_Boxing_Stadium",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-rajadamnern-stadium",
+   "kind": "web",
+   "title": "Rajadamnern Stadium",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rajadamnern_Stadium",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-one-championship",
+   "kind": "web",
+   "title": "ONE Championship",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/ONE_Championship",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-kickboxing",
+   "kind": "web",
+   "title": "Kickboxing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Kickboxing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-k-1",
+   "kind": "web",
+   "title": "K-1",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/K-1",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-glory-kickboxing",
+   "kind": "web",
+   "title": "Glory (kickboxing)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Glory_(kickboxing)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-boxing",
+   "kind": "web",
+   "title": "Boxing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Boxing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-weight-class",
+   "kind": "web",
+   "title": "Weight class",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Weight_class",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-clinch-fighting",
+   "kind": "web",
+   "title": "Clinch fighting",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Clinch_fighting",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-roundhouse-kick",
+   "kind": "web",
+   "title": "Roundhouse kick",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Roundhouse_kick",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-elbow-strike",
+   "kind": "web",
+   "title": "Elbow (strike)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Elbow_(strike)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-knee-strike",
+   "kind": "web",
+   "title": "Knee (strike)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Knee_(strike)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-shin",
+   "kind": "web",
+   "title": "Shin",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Shin",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-muay-thai-in-popular-culture",
+   "kind": "web",
+   "title": "Muay Thai in popular culture",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Muay_Thai_in_popular_culture",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ong-bak",
+   "kind": "web",
+   "title": "Ong-Bak",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ong-Bak",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tony-jaa",
+   "kind": "web",
+   "title": "Tony Jaa",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tony_Jaa",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-buakaw-banchamek",
+   "kind": "web",
+   "title": "Buakaw Banchamek",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Buakaw_Banchamek",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-samart-payakaroon",
+   "kind": "web",
+   "title": "Samart Payakaroon",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Samart_Payakaroon",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-dieselnoi-chor-thanasukarn",
+   "kind": "web",
+   "title": "Dieselnoi Chor Thanasukarn",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Dieselnoi_Chor_Thanasukarn",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-saenchai",
+   "kind": "web",
+   "title": "Saenchai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Saenchai",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-rodtang-jitmuangnon",
+   "kind": "web",
+   "title": "Rodtang Jitmuangnon",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Rodtang_Jitmuangnon",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-nong-o-hama",
+   "kind": "web",
+   "title": "Nong-O Hama",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Nong-O_Hama",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-stamp-fairtex",
+   "kind": "web",
+   "title": "Stamp Fairtex",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Stamp_Fairtex",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-somluck-kamsing",
+   "kind": "web",
+   "title": "Somluck Kamsing",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Somluck_Kamsing",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-yodsanklai-fairtex",
+   "kind": "web",
+   "title": "Yodsanklai Fairtex",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Yodsanklai_Fairtex",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-petchboonchu-fa-group",
+   "kind": "web",
+   "title": "Petchboonchu FA Group",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Petchboonchu_FA_Group",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sagat-petchyindee",
+   "kind": "web",
+   "title": "Sagat Petchyindee",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sagat_Petchyindee",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-changpuek-kiatsongrit",
+   "kind": "web",
+   "title": "Changpuek Kiatsongrit",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Changpuek_Kiatsongrit",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ramon-dekkers",
+   "kind": "web",
+   "title": "Ramon Dekkers",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ramon_Dekkers",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-toshio-fujiwara",
+   "kind": "web",
+   "title": "Toshio Fujiwara",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Toshio_Fujiwara",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-john-wayne-parr",
+   "kind": "web",
+   "title": "John Wayne Parr",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/John_Wayne_Parr",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-liam-harrison",
+   "kind": "web",
+   "title": "Liam Harrison",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Liam_Harrison",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-anissa-meksen",
+   "kind": "web",
+   "title": "Anissa Meksen",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Anissa_Meksen",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sports-authority-of-thailand",
+   "kind": "web",
+   "title": "Sports Authority of Thailand",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sports_Authority_of_Thailand",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-international-federation-of-muaythai-associations",
+   "kind": "web",
+   "title": "International Federation of Muaythai Associations",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/International_Federation_of_Muaythai_Associations",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-world-muaythai-council",
+   "kind": "web",
+   "title": "World Muaythai Council",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/World_Muaythai_Council",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-gambling-in-thailand",
+   "kind": "web",
+   "title": "Gambling in Thailand",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Gambling_in_Thailand",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-thai-language",
+   "kind": "web",
+   "title": "Thai language",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thai_language",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-royal-thai-general-system-of-transcription",
+   "kind": "web",
+   "title": "Royal Thai General System of Transcription",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Royal_Thai_General_System_of_Transcription",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-thai-numerals",
+   "kind": "web",
+   "title": "Thai numerals",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thai_numerals",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-bangkok",
+   "kind": "web",
+   "title": "Bangkok",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Bangkok",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chiang-mai",
+   "kind": "web",
+   "title": "Chiang Mai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chiang_Mai",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-isan",
+   "kind": "web",
+   "title": "Isan",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Isan",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-surin-province",
+   "kind": "web",
+   "title": "Surin province",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Surin_province",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-buriram-province",
+   "kind": "web",
+   "title": "Buriram province",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Buriram_province",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chaiya-district",
+   "kind": "web",
+   "title": "Chaiya district",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chaiya_district",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-nakhon-ratchasima",
+   "kind": "web",
+   "title": "Nakhon Ratchasima",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Nakhon_Ratchasima",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-lopburi",
+   "kind": "web",
+   "title": "Lopburi",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lopburi",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-uttaradit",
+   "kind": "web",
+   "title": "Uttaradit",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Uttaradit",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-thailand",
+   "kind": "web",
+   "title": "Thailand",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thailand",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sport-in-thailand",
+   "kind": "web",
+   "title": "Sport in Thailand",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sport_in_Thailand",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-songkran-thailand",
+   "kind": "web",
+   "title": "Songkran (Thailand)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Songkran_(Thailand)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-thai-people",
+   "kind": "web",
+   "title": "Thai people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thai_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-thai-folklore",
+   "kind": "web",
+   "title": "Thai folklore",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Thai_folklore",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-piphat",
+   "kind": "web",
+   "title": "Piphat",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Piphat",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-pi-instrument",
+   "kind": "web",
+   "title": "Pi (instrument)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Pi_(instrument)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ching-instrument",
+   "kind": "web",
+   "title": "Ching (instrument)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ching_(instrument)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-klong-khaek",
+   "kind": "web",
+   "title": "Klong khaek",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Klong_khaek",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-world-games",
+   "kind": "web",
+   "title": "World Games",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/World_Games",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mixed-martial-arts",
+   "kind": "web",
+   "title": "Mixed martial arts",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mixed_martial_arts",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sanda-sport",
+   "kind": "web",
+   "title": "Sanda (sport)",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sanda_(sport)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-savate",
+   "kind": "web",
+   "title": "Savate",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Savate",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-burmese-siamese-wars",
+   "kind": "web",
+   "title": "Burmese–Siamese wars",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_wars",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-konbaung-dynasty",
+   "kind": "web",
+   "title": "Konbaung dynasty",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Konbaung_dynasty",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-yangon",
+   "kind": "web",
+   "title": "Yangon",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Yangon",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-child-labour",
+   "kind": "web",
+   "title": "Child labour",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Child_labour",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-traumatic-brain-injury",
+   "kind": "web",
+   "title": "Traumatic brain injury",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Traumatic_brain_injury",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chronic-traumatic-encephalopathy",
+   "kind": "web",
+   "title": "Chronic traumatic encephalopathy",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-มวยไทย",
+   "kind": "web",
+   "title": "มวยไทย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-มวยไชยา",
+   "kind": "web",
+   "title": "มวยไชยา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-มวยโคราช",
+   "kind": "web",
+   "title": "มวยโคราช",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-มวยลพบ-ร-",
+   "kind": "web",
+   "title": "มวยลพบุรี",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-แม-ไม-มวยไทย",
+   "kind": "web",
+   "title": "แม่ไม้มวยไทย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-นายขนมต-ม",
+   "kind": "web",
+   "title": "นายขนมต้ม",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-พ-ธ-ไหว-คร-",
+   "kind": "web",
+   "title": "พิธีไหว้ครู",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B9%89%E0%B8%84%E0%B8%A3%E0%B8%B9",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-กระบ-กระบอง",
+   "kind": "web",
+   "title": "กระบี่กระบอง",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%AD%E0%B8%87",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-สนามมวยเวท-ล-มพ-น-",
+   "kind": "web",
+   "title": "สนามมวยเวทีลุมพินี",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B5",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-สนามมวยราชดำเน-น",
+   "kind": "web",
+   "title": "สนามมวยราชดำเนิน",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-รามเก-ยรต-",
+   "kind": "web",
+   "title": "รามเกียรติ์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-หน-มาน",
+   "kind": "web",
+   "title": "หนุมาน",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%99",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-เอราว-ณ",
+   "kind": "web",
+   "title": "เอราวัณ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%93",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-บ-วขาว-บ-ญชาเมฆ",
+   "kind": "web",
+   "title": "บัวขาว บัญชาเมฆ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7_%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%86",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-สามารถ-พย-คฆ-อร-ณ",
+   "kind": "web",
+   "title": "สามารถ พยัคฆ์อรุณ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96_%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-รถถ-ง-จ-ตรเม-องนนท-",
+   "kind": "web",
+   "title": "รถถัง จิตรเมืองนนท์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%96%E0%B8%96%E0%B8%B1%E0%B8%87_%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-สมร-กษ-คำส-งห-",
+   "kind": "web",
+   "title": "สมรักษ์ คำสิงห์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C_%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ด-เซลน-อย-ช-ธนะส-กาญจน-",
+   "kind": "web",
+   "title": "ดีเซลน้อย ช.ธนะสุกาญจน์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%A5%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2_%E0%B8%8A.%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ป-ชวา",
+   "kind": "web",
+   "title": "ปี่ชวา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%A7%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-กลองแขก",
+   "kind": "web",
+   "title": "กลองแขก",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%82%E0%B8%81",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ฉ-ง",
+   "kind": "web",
+   "title": "ฉิ่ง",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%89%E0%B8%B4%E0%B9%88%E0%B8%87",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-การส-กย-นต-",
+   "kind": "web",
+   "title": "การสักยันต์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อาณาจ-กรอย-ธยา",
+   "kind": "web",
+   "title": "อาณาจักรอยุธยา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-สมเด-จพระนเรศวรมหาราช",
+   "kind": "web",
+   "title": "สมเด็จพระนเรศวรมหาราช",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-สมเด-จพระเจ-าส-ร-เยนทราธ-บด-",
+   "kind": "web",
+   "title": "สมเด็จพระเจ้าสุริเยนทราธิบดี",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-งหว-ดส-ร-นทร-",
+   "kind": "web",
+   "title": "จังหวัดสุรินทร์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อำเภอไชยา",
+   "kind": "web",
+   "title": "อำเภอไชยา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-งหว-ดนครราชส-มา",
+   "kind": "web",
+   "title": "จังหวัดนครราชสีมา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-งหว-ดลพบ-ร-",
+   "kind": "web",
+   "title": "จังหวัดลพบุรี",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จ-งหว-ดอ-ตรด-ตถ-",
+   "kind": "web",
+   "title": "จังหวัดอุตรดิตถ์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%96%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-มวยสากล",
+   "kind": "web",
+   "title": "มวยสากล",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:osm-gyms",
+   "kind": "dataset",
+   "title": "Gyms, camps and stadiums tagged or named for muay thai",
+   "publisher": "OpenStreetMap contributors, via Overpass",
+   "url": "https://www.openstreetmap.org/",
+   "accessed": "2026-09-19",
+   "licence": "ODbL 1.0",
+   "lang": "mul"
+  },
+  {
+   "id": "s:wikidata",
+   "kind": "dataset",
+   "title": "People recorded as Thai boxers, and muay thai venues",
+   "publisher": "Wikidata Query Service",
+   "url": "https://query.wikidata.org/",
+   "accessed": "2026-09-19",
+   "licence": "CC0 1.0",
+   "lang": "mul"
+  },
+  {
+   "id": "s:maemai-th",
+   "kind": "web",
+   "title": "แม่ไม้มวยไทย — the fifteen and the fifteen, at revision 13177866",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:saranukrom",
+   "kind": "web",
+   "title": "แม่ไม้มวยไทย · ลูกไม้มวยไทย — สารานุกรมไทยสำหรับเยาวชนฯ เล่ม 35",
+   "publisher": "Thai Junior Encyclopedia Project, by royal command of King Bhumibol",
+   "url": "http://kanchanapisek.or.th/kp6/sub/book/book.php?book=35&chap=3&page=t35-3-infodetail05.html",
+   "accessed": "2026-09-19",
+   "licence": "unstated",
+   "lang": "th",
+   "note": "The Thai Wikipedia article's own source for both lists of fifteen. The live URL is dead; the article cites the Internet Archive capture of 2017-02-10."
+  },
+  {
+   "id": "s:commons",
+   "kind": "dataset",
+   "title": "Wikimedia Commons, files and their licences",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/",
+   "accessed": "2026-09-19",
+   "licence": "per file",
+   "lang": "mul"
+  },
+  {
+   "id": "s:naturalearth",
+   "kind": "dataset",
+   "title": "Natural Earth admin-0 countries, 1:50m",
+   "publisher": "Natural Earth",
+   "url": "https://www.naturalearthdata.com/",
+   "accessed": "2026-09-19",
+   "licence": "public domain",
+   "lang": "en"
+  },
+  {
+   "id": "s:taginfo",
+   "kind": "dataset",
+   "title": "taginfo: values of the OpenStreetMap key sport",
+   "publisher": "OpenStreetMap / taginfo",
+   "url": "https://taginfo.openstreetmap.org/keys/sport",
+   "accessed": "2026-09-19",
+   "licence": "ODbL 1.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-parinya-charoenphol",
+   "kind": "web",
+   "title": "Parinya Charoenphol",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Parinya_Charoenphol",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-phraya-phichai",
+   "kind": "web",
+   "title": "Phraya Phichai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Phraya_Phichai",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-wat-bang-kung",
+   "kind": "web",
+   "title": "Wat Bang Kung",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wat_Bang_Kung",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-",
+   "kind": "web",
+   "title": "องค์บาก",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9A%E0%B8%B2%E0%B8%81",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:wp-visa-policy-of-thailand",
+   "kind": "web",
+   "title": "Visa policy of Thailand",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Visa_policy_of_Thailand",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-education-in-thailand",
+   "kind": "web",
+   "title": "Education in Thailand",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Education_in_Thailand",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:cmvd",
+   "kind": "web",
+   "title": "Chiang Mai Visa Desk",
+   "publisher": "Hongdam",
+   "url": "https://chiangmaivisadesk.com/",
+   "accessed": "2026-09-19",
+   "licence": "all rights reserved",
+   "lang": "en",
+   "note": "the publisher's own visa service; named here as such"
+  },
+  {
+   "id": "s:wp-lan-na",
+   "kind": "web",
+   "title": "Lan Na",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Lan_Na",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-mangrai",
+   "kind": "web",
+   "title": "Mangrai",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Mangrai",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ramkhamhaeng",
+   "kind": "web",
+   "title": "Ramkhamhaeng",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ramkhamhaeng",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-haripu-jaya",
+   "kind": "web",
+   "title": "Haripuñjaya",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Haripu%C3%B1jaya",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-phayao-kingdom",
+   "kind": "web",
+   "title": "Phayao Kingdom",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Phayao_Kingdom",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-zinme-yazawin",
+   "kind": "web",
+   "title": "Zinme Yazawin",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Zinme_Yazawin",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-shan-people",
+   "kind": "web",
+   "title": "Shan people",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Shan_people",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-simon-de-la-loub-re",
+   "kind": "web",
+   "title": "Simon de la Loubère",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Simon_de_la_Loub%C3%A8re",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-chulalongkorn",
+   "kind": "web",
+   "title": "Chulalongkorn",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Chulalongkorn",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-borommatrailokkanat",
+   "kind": "web",
+   "title": "Borommatrailokkanat",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Borommatrailokkanat",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-ekathotsarot",
+   "kind": "web",
+   "title": "Ekathotsarot",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Ekathotsarot",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-sukhothai-kingdom",
+   "kind": "web",
+   "title": "Sukhothai Kingdom",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Sukhothai_Kingdom",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-อาณาจักรล้านนา",
+   "kind": "web",
+   "title": "อาณาจักรล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-พญามังราย",
+   "kind": "web",
+   "title": "พญามังราย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-กลองสะบัดชัย",
+   "kind": "web",
+   "title": "กลองสะบัดชัย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-มังรายศาสตร์",
+   "kind": "web",
+   "title": "มังรายศาสตร์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-พญางำเมือง",
+   "kind": "web",
+   "title": "พญางำเมือง",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%87%E0%B8%B3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-วัดคุ้งตะเภา",
+   "kind": "web",
+   "title": "วัดคุ้งตะเภา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อาณาจักรหริภุญชัย",
+   "kind": "web",
+   "title": "อาณาจักรหริภุญชัย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%A0%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ประวัติศาสตร์มวยไทย",
+   "kind": "web",
+   "title": "ประวัติศาสตร์มวยไทย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-นาฏศิลป์ล้านนา",
+   "kind": "web",
+   "title": "นาฏศิลป์ล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B2%E0%B8%8F%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-มานพ ยาระณะ",
+   "kind": "web",
+   "title": "มานพ ยาระณะ",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%9E_%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%93%E0%B8%B0",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-คำ กาไวย์",
+   "kind": "web",
+   "title": "คำ กาไวย์",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%B3_%E0%B8%81%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B8%A2%E0%B9%8C",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ไทยวน",
+   "kind": "web",
+   "title": "ไทยวน",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A7%E0%B8%99",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ฟ้อนสาวไหม",
+   "kind": "web",
+   "title": "ฟ้อนสาวไหม",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B9%84%E0%B8%AB%E0%B8%A1",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-กบฏนักมวย",
+   "kind": "web",
+   "title": "กบฏนักมวย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%9A%E0%B8%8F%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%A7%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จังหวัดเชียงใหม่",
+   "kind": "web",
+   "title": "จังหวัดเชียงใหม่",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-จังหวัดเชียงราย",
+   "kind": "web",
+   "title": "จังหวัดเชียงราย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:wp-wat-bang-phra",
+   "kind": "web",
+   "title": "Wat Bang Phra",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Wat_Bang_Phra",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-khom-thai-script",
+   "kind": "web",
+   "title": "Khom Thai script",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Khom_Thai_script",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-tai-tham-script",
+   "kind": "web",
+   "title": "Tai Tham script",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Tai_Tham_script",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "web",
+   "title": "Takrut",
+   "publisher": "Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "en"
+  },
+  {
+   "id": "s:thwp-วัดบางพระ (จังหวัดนครปฐม)",
+   "kind": "web",
+   "title": "วัดบางพระ (จังหวัดนครปฐม)",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0_(%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1)",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อักษรขอมไทย",
+   "kind": "web",
+   "title": "อักษรขอมไทย",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-ตะกรุด",
+   "kind": "web",
+   "title": "ตะกรุด",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-อักษรธรรมล้านนา",
+   "kind": "web",
+   "title": "อักษรธรรมล้านนา",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  },
+  {
+   "id": "s:thwp-พระเครื่อง",
+   "kind": "web",
+   "title": "พระเครื่อง",
+   "publisher": "Wikipedia (th)",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87",
+   "accessed": "2026-09-19",
+   "licence": "CC BY-SA 4.0",
+   "lang": "th"
+  }
+ ]
+}

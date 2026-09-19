@@ -1,0 +1,74 @@
+{
+ "id": "four-styles-of-fighter",
+ "type": "style",
+ "names": {
+  "name": "Four ways to win a fight",
+  "th": "สี่แบบของนักมวย",
+  "rtgs": "si baep khong nak muay",
+  "said": "Fimue, khao, mat, tae. Pick one and you have picked your problems.",
+  "said_th": "ฝีมือ เข่า หมัด เตะ เลือกอย่างหนึ่ง เท่ากับเลือกปัญหาของตัวเองแล้ว"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Thai commentary sorts fighters into four kinds, and it is the most useful thing anyone can hand a first-time spectator.",
+  "story": "Watch for which one each man is inside the first round and the next four rounds stop being confusing. A knee fighter against a technician is a chase. A puncher against a kicker is a race between a knockout and a scorecard. Two technicians is the fight Thai crowds pay for and foreigners walk out of."
+ },
+ "text_th": {
+  "what": "คนไทยจัดนักมวยเป็นสี่แบบ และนี่คือสิ่งที่มีประโยชน์ที่สุดที่จะยื่นให้คนดูครั้งแรก",
+  "story": "ดูให้ออกในยกแรกว่าแต่ละคนเป็นแบบไหน แล้วอีกสี่ยกจะเลิกสับสน มวยเข่าเจอมวยฝีมือคือการไล่ล่า มวยหมัดเจอมวยเตะคือการแข่งกันระหว่างการน็อกกับใบให้คะแนน มวยฝีมือเจอมวยฝีมือคือไฟต์ที่คนไทยจ่ายเงินมาดู และฝรั่งเดินออก"
+ },
+ "kin": [
+  {
+   "to": "muay-femur",
+   "as": "One.",
+   "rel": "style"
+  },
+  {
+   "to": "muay-khao",
+   "as": "Two.",
+   "rel": "style"
+  },
+  {
+   "to": "muay-mat",
+   "as": "Three.",
+   "rel": "style"
+  },
+  {
+   "to": "muay-tae",
+   "as": "Four.",
+   "rel": "style"
+  },
+  {
+   "to": "scoring",
+   "as": "What sorts between them.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

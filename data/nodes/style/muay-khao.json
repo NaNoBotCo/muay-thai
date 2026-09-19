@@ -1,0 +1,80 @@
+{
+ "id": "muay-khao",
+ "type": "style",
+ "names": {
+  "name": "Muay khao",
+  "th": "มวยเข่า",
+  "rtgs": "muay khao",
+  "said": "The knee fighter. Walks through you and does not stop.",
+  "said_th": "นักมวยเข่า เดินทับแล้วไม่หยุด"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "golden"
+ },
+ "text": {
+  "what": "Built entirely around getting hold of you and kneeing until the round ends.",
+  "story": "A knee fighter takes shots to get inside, and the arithmetic works because a knee scores more than the two punches it cost to walk through. The cost is that it demands a level of fitness the other styles do not.\n\nDieselnoi Chor Thanasukarn was so much the best at it that Thai promoters could not find him opponents and he retired undefeated as champion at twenty-four."
+ },
+ "text_th": {
+  "what": "สร้างมาเพื่อจับคุณให้ได้แล้วเข่าไปจนหมดยก",
+  "story": "นักมวยเข่ายอมกินอาวุธเพื่อเข้าวงใน และการคิดเลขนั้นคุ้ม เพราะเข่าหนึ่งได้คะแนนมากกว่าสองหมัดที่จ่ายไปตอนเดินเข้า ต้นทุนคือมันต้องการความฟิตระดับที่สายอื่นไม่ต้องการ\n\nดีเซลน้อย ช.ธนะสุกาญจน์ เก่งเรื่องนี้จนโปรโมเตอร์ไทยหาคู่ชกให้ไม่ได้ และแขวนนวมทั้งที่ยังเป็นแชมป์ไม่แพ้ใคร ตอนอายุยี่สิบสี่"
+ },
+ "kin": [
+  {
+   "to": "clinch",
+   "as": "Where it lives.",
+   "rel": "move"
+  },
+  {
+   "to": "dieselnoi",
+   "as": "Who it is named after, in effect.",
+   "rel": "person"
+  },
+  {
+   "to": "four-styles-of-fighter",
+   "as": "One of four ways to win.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "muay-khao/muay-khao-muay-thai-knee-clinch.jpg",
+   "source": "commons",
+   "title": "File:Muay thai knee clinch.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Muay_thai_knee_clinch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_knee_clinch.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "superwebdeveloper",
+   "credit": "https://www.flickr.com/photos/superwebdeveloper/5106996626/",
+   "alt": "Knee in muay thai clinch",
+   "date": "2010-10-22",
+   "primary": true,
+   "sha256": "c8935d7c29a1636782bd1fab9fc40b1f70eb910db2cac3bbd83fed4bb254d575"
+  }
+ ]
+}

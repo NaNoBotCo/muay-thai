@@ -1,0 +1,64 @@
+{
+ "id": "somrak",
+ "type": "person",
+ "names": {
+  "name": "Somrak Khamsing",
+  "th": "สมรักษ์ คำสิงห์",
+  "rtgs": "somrak khamsing",
+  "said": "Thailand's first Olympic gold, and it was at boxing, not at this.",
+  "said_th": "เหรียญทองโอลิมปิกเหรียญแรกของไทย และเป็นมวยสากล ไม่ใช่มวยไทย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Born 16 January 1973 in Ban Phai district, Khon Kaen, into a poor family. Won featherweight gold at Atlanta in 1996 — the first Olympic gold medal Thailand had ever won.",
+  "story": "He came out of Isan, out of muay thai, and won the country's first gold in the other code. Then he played Nai Khanom Tom on television the same year.\n\n*Inference —* that sequence is the whole relationship between the two sports in Thailand. Muay thai is where the fighters are made, western boxing is where the medals are, and the national story is told in muay thai regardless. Muaythai itself did not get full IOC recognition until **20 July 2021**, twenty-five years after Somrak's gold."
+ },
+ "text_th": {
+  "what": "เกิด 16 มกราคม พ.ศ. 2516 ที่อำเภอบ้านไผ่ จังหวัดขอนแก่น ในครอบครัวยากจน ได้เหรียญทองรุ่นเฟเธอร์เวทที่แอตแลนตา พ.ศ. 2539 — เหรียญทองโอลิมปิกเหรียญแรกของประเทศไทย",
+  "story": "เขามาจากอีสาน มาจากมวยไทย และได้เหรียญทองเหรียญแรกของประเทศในกีฬาอีกประเภท แล้วปีเดียวกันนั้นก็รับบทนายขนมต้มทางโทรทัศน์\n\n*อนุมาน —* ลำดับนั้นคือความสัมพันธ์ทั้งหมดระหว่างสองกีฬาในเมืองไทย มวยไทยคือที่ที่นักมวยถูกสร้าง มวยสากลคือที่ที่เหรียญอยู่ และเรื่องเล่าของชาติเล่าเป็นมวยไทยอยู่ดี ส่วนมวยไทยเองเพิ่งได้รับการรับรองเต็มรูปแบบจาก IOC เมื่อ **20 กรกฎาคม พ.ศ. 2564** ยี่สิบห้าปีหลังเหรียญทองของสมรักษ์"
+ },
+ "kin": [
+  {
+   "to": "nai-khanom-tom",
+   "as": "Whom he played.",
+   "rel": "person"
+  },
+  {
+   "to": "ifma",
+   "as": "The body that got the recognition.",
+   "rel": "org"
+  },
+  {
+   "to": "isan",
+   "as": "Where he is from.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:thwp-สมร-กษ-คำส-งห-",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-สมร-กษ-คำส-งห-"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

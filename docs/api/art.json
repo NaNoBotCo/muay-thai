@@ -1,0 +1,333 @@
+{
+ "type": "art",
+ "count": 3,
+ "nodes": [
+  {
+   "id": "ong-bak",
+   "type": "art",
+   "names": {
+    "name": "Ong-Bak",
+    "th": "องค์บาก",
+    "rtgs": "ong bak",
+    "said": "2003. No wires, no doubles, and a title song about the mae mai.",
+    "said_th": "พ.ศ. 2546 ไม่มีสลิง ไม่มีตัวแสดงแทน และเพลงท้ายเรื่องชื่อแม่ไม้มวยไทย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "medium": "film"
+   },
+   "text": {
+    "what": "Prachya Pinkaew's film, starring Tony Jaa, which sold muay boran to an international audience that had never heard of it.",
+    "story": "Its marketing was a negative claim — no wires, no computer graphics, no stunt double — and the claim was the product. What the audience was buying was the absence of the thing Hong Kong action had taught them to expect.\n\nThe closing song is called *Mae Mai Muay Thai*, sung by Add Carabao.\n\n*Inference —* the film that taught the world the word taught it the wrong half. Ong-Bak is muay boran: flying elbows, knees off a man's shoulders, techniques that are not legal or not survivable in a ring. The sport in the stadium is five rounds of a man kicking another man in the arm, and the gap between those two products is most of what a first-time spectator has to get over."
+   },
+   "text_th": {
+    "what": "ภาพยนตร์ของปรัชญา ปิ่นแก้ว นำแสดงโดยโทนี่ จา ที่ขายมวยโบราณให้ผู้ชมต่างชาติที่ไม่เคยได้ยินชื่อมาก่อน",
+    "story": "การตลาดของมันคือคำกล่าวเชิงปฏิเสธ ไม่มีสลิง ไม่มีคอมพิวเตอร์กราฟิก ไม่มีตัวแสดงแทน และคำกล่าวนั้นคือตัวสินค้า สิ่งที่คนดูซื้อคือการไม่มีสิ่งที่หนังบู๊ฮ่องกงสอนให้เขาคาดหวัง\n\nเพลงปิดเรื่องชื่อ *แม่ไม้มวยไทย* ขับร้องโดยแอ๊ด คาราบาว\n\n*อนุมาน —* หนังที่สอนคำนี้ให้โลก สอนไปครึ่งที่ผิด องค์บากคือมวยโบราณ ศอกลอย เข่าที่เหยียบไหล่คนขึ้นไป ท่าที่ผิดกติกาหรือรอดยากบนเวที ส่วนกีฬาในสนามคือห้ายกของชายคนหนึ่งเตะแขนชายอีกคน และช่องว่างระหว่างสินค้าสองอย่างนั้นคือสิ่งที่คนดูครั้งแรกต้องข้ามให้ได้เป็นส่วนใหญ่"
+   },
+   "kin": [
+    {
+     "to": "muay-boran",
+     "as": "What it is selling.",
+     "rel": "style"
+    },
+    {
+     "to": "mae-mai",
+     "as": "What the song is named after.",
+     "rel": "move"
+    },
+    {
+     "to": "the-gym-map",
+     "as": "What it did to the count abroad.",
+     "rel": "gym"
+    }
+   ],
+   "sources": [
+    "s:wp-ong-bak",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-ong-bak"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "abroad"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "ong-bak/ong-bak-tony-jaa.jpg",
+     "source": "commons",
+     "title": "File:Tony Jaa.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tony_Jaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATony_Jaa.jpg",
+     "license": "CC BY 2.5",
+     "license_url": "https://creativecommons.org/licenses/by/2.5/",
+     "author": "1987porsche944",
+     "credit": "https://www.flickr.com/photos/1987porsche944/221170990/sizes/l/",
+     "alt": "Tony Jaa, Martial Arts demonstration @ The Museum of the Moving Image, Astoria, Queens, NYC 8/20/06",
+     "date": "2006-08-20",
+     "primary": true,
+     "sha256": "0f80389e48424d6418e887aa3fa774814ea6da594a83ad880685708463cb4b72"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "muay-boran",
+     "type": "style",
+     "name": "Muay boran",
+     "as": "The film that sold it to the world."
+    }
+   ]
+  },
+  {
+   "id": "ramakien-in-the-ring",
+   "type": "art",
+   "names": {
+    "name": "The epic in the technique list",
+    "th": "รามเกียรติ์ในสังเวียน",
+    "rtgs": "ramakian nai sangwian",
+    "said": "Fourteen of the thirty named techniques come out of one story cycle.",
+    "said_th": "สิบสี่ในสามสิบท่าที่มีชื่อ มาจากเรื่องเดียว"
+   },
+   "region": [
+    "myth"
+   ],
+   "facets": {
+    "medium": "text"
+   },
+   "text": {
+    "what": "The Ramakien — the Thai telling of the Ramayana — supplies the cast of the curriculum: Rama, Hanuman, Thotsakan, Sida, Erawan, the nagas, the kumbhanda, Hiranyaksha.",
+    "story": "Counted off the two lists of fifteen: **fourteen of the thirty** name a figure from the epic or its Hindu antecedents, six name a person by their trade or their people, five name an object or a household job, four name an ordinary animal, and one names the movement.\n\nLopburi's school list is more concentrated still: five of six.\n\n*Inference —* the Ramakien was the state's own narrative property — painted round the cloister at Wat Phra Kaew, performed as khon at court, versified by Rama I and Rama II. A technique list built out of it is not folk memory. It is a curriculum written by people who had that wall in front of them.\n\nAnd it is why the names cannot be translated into instructions. *Hanuman presents the ring* is not a description of two fists going up. It is a pointer at a scene everybody in the room had seen painted."
+   },
+   "text_th": {
+    "what": "รามเกียรติ์ ฉบับไทยของรามายณะ คือแหล่งตัวละครของหลักสูตรมวย พระราม หนุมาน ทศกัณฐ์ นางสีดา เอราวัณ นาค กุมภัณฑ์ หิรัญยักษ์",
+    "story": "นับจากรายการสิบห้าสองชุด **สิบสี่ในสามสิบท่า** ตั้งชื่อตามตัวละครในวรรณคดีหรือต้นทางฮินดูของมัน หกท่าตั้งตามคนตามอาชีพหรือตามชาติพันธุ์ ห้าท่าตั้งตามสิ่งของหรืองานในบ้าน สี่ท่าตั้งตามสัตว์ธรรมดา และหนึ่งท่าตั้งตามการเคลื่อนไหว\n\nรายการของสายลพบุรียิ่งเข้มข้นกว่านั้น ห้าในหก\n\n*อนุมาน —* รามเกียรติ์เป็นทรัพย์สินทางเรื่องเล่าของรัฐเอง เขียนรอบระเบียงวัดพระแก้ว แสดงเป็นโขนในราชสำนัก และพระราชนิพนธ์โดยรัชกาลที่ 1 และที่ 2 รายการท่าที่สร้างขึ้นจากมันไม่ใช่ความทรงจำชาวบ้าน แต่เป็นหลักสูตรที่เขียนโดยคนที่มีผนังนั้นอยู่ตรงหน้า\n\nและนั่นคือเหตุที่ชื่อท่าแปลเป็นคำสั่งไม่ได้ *หนุมานถวายแหวน* ไม่ใช่คำอธิบายว่าสองหมัดยกขึ้น มันคือตัวชี้ไปยังฉากที่ทุกคนในห้องเคยเห็นเขียนไว้"
+   },
+   "kin": [
+    {
+     "to": "mae-mai",
+     "as": "The first list.",
+     "rel": "move"
+    },
+    {
+     "to": "luk-mai",
+     "as": "The second.",
+     "rel": "move"
+    },
+    {
+     "to": "hanuman-thawai-waen",
+     "as": "The scene.",
+     "rel": "move"
+    },
+    {
+     "to": "lopburi",
+     "as": "Five of six.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:thwp-รามเก-ยรต-",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ramakien",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "ramakien-in-the-ring/ramakien-in-the-ring-19th-century-ramayana-manuscript-ramakien-thailand-v-3ced689.jpg",
+     "source": "commons",
+     "title": "File:19th-century Ramayana manuscript, Ramakien, Thailand version, Khom script, Hanuman with sword reaches Ravana's palace.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Ms Sarah Welch",
+     "credit": "Own work",
+     "alt": "The Ramayana is a Sanskrit language Hindu epic attributed to Valmiki, whose first redaction is dated between 5th-century to 4th-century BCE (see J. L. Brockington        Academic The Sanskrit Epics, p",
+     "date": "2018-10-30 12:03:36",
+     "primary": true,
+     "sha256": "9f44351cfe408c48612781c265e4ba33347daa8799b725cb43922dede93f4902"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "hak-kho-erawan",
+     "type": "move",
+     "name": "Breaking Erawan's neck",
+     "as": "Whose elephant."
+    },
+    {
+     "from": "hanuman-thawai-waen",
+     "type": "move",
+     "name": "Hanuman presents the ring",
+     "as": "The scene it comes from."
+    },
+    {
+     "from": "luk-mai",
+     "type": "move",
+     "name": "The fifteen that come after",
+     "as": "The cast list."
+    },
+    {
+     "from": "mae-mai",
+     "type": "move",
+     "name": "The fifteen mother techniques",
+     "as": "Where half the names come from."
+    },
+    {
+     "from": "lopburi",
+     "type": "style",
+     "name": "Muay Lopburi",
+     "as": "Which its list is almost entirely made of."
+    }
+   ]
+  },
+  {
+   "id": "wat-bang-kung-statues",
+   "type": "art",
+   "names": {
+    "name": "The fifteen, standing in a courtyard",
+    "th": "รูปปั้นแม่ไม้ วัดบางกุ้ง",
+    "rtgs": "rup pan mae mai wat bang kung",
+    "said": "The techniques as statues, at a temple inside a tree.",
+    "said_th": "ท่ามวยในรูปปั้น ที่วัดซึ่งอยู่ในต้นไม้"
+   },
+   "region": [
+    "central"
+   ],
+   "facets": {
+    "medium": "sculpture"
+   },
+   "text": {
+    "what": "Wat Bang Kung in Samut Songkhram — an Ayutthaya-period temple wrapped in the roots of a banyan — has the mae mai and luk mai set up in its grounds as figures.",
+    "story": "The temple's own history is a war. In 1765 Burmese troops overran the camp built around it; in 1767 Taksin restored the kingdom and put a Chinese guard here; in 1768 the Burmese besieged it again and Taksin and Maha Sura Singhanat drove them off.\n\n*Inference —* a courtyard of boxing statues at a battle site reads as continuous with all of that, and the reading is the point of building them there.\n\nFor anyone trying to learn the names: this is the fastest way. Fourteen of the fifteen mae mai are pictures, and here the pictures are three-dimensional and labelled."
+   },
+   "text_th": {
+    "what": "วัดบางกุ้ง จังหวัดสมุทรสงคราม วัดสมัยอยุธยาที่ถูกรากไทรห่อไว้ มีรูปปั้นแม่ไม้และลูกไม้มวยไทยตั้งอยู่ในบริเวณวัด",
+    "story": "ประวัติของวัดเองคือสงคราม พ.ศ. 2308 ทหารพม่าตีค่ายที่สร้างล้อมวัดแตก พ.ศ. 2310 พระเจ้าตากกู้บ้านเมืองแล้วให้ชาวจีนมาตั้งกองรักษาที่นี่ พ.ศ. 2311 พม่ายกมาล้อมอีก และพระเจ้าตากกับพระมหาสุรสิงหนาทตีแตกไป\n\n*อนุมาน —* ลานรูปปั้นมวยที่สมรภูมิย่อมถูกอ่านว่าต่อเนื่องกับทั้งหมดนั้น และการอ่านแบบนั้นคือเหตุผลที่สร้างมันไว้ตรงนั้น\n\nสำหรับคนที่พยายามจำชื่อท่า นี่คือทางที่เร็วที่สุด สิบสี่ในสิบห้าแม่ไม้คือภาพ และที่นี่ภาพเป็นสามมิติและมีป้ายกำกับ"
+   },
+   "kin": [
+    {
+     "to": "mae-mai",
+     "as": "What is standing there.",
+     "rel": "move"
+    },
+    {
+     "to": "chorakhe-fat-hang",
+     "as": "The one on the right of the row.",
+     "rel": "move"
+    }
+   ],
+   "geo": {
+    "lat": 13.3644,
+    "lon": 99.9628,
+    "precision": "town"
+   },
+   "sources": [
+    "s:wp-wat-bang-kung",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-wat-bang-kung"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ramakien"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "wat-bang-kung-statues/wat-bang-kung-statues-bang-kung-barracks-martial-art-sculptures-for-learne-6ac73f3.jpg",
+     "source": "commons",
+     "title": "File:Bang Kung Barracks - Martial Art Sculptures For Learners - panoramio.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bang_Kung_Barracks_-_Martial_Art_Sculptures_For_Learners_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABang_Kung_Barracks_-_Martial_Art_Sculptures_For_Learners_-_panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Kasom SKULTAB",
+     "credit": "https://web.archive.org/web/20161025201321/http://www.panoramio.com/photo/80227508",
+     "alt": "Bang Kung Barracks - Martial Art Sculptures For Learners",
+     "date": "Taken on 28 September 2012",
+     "primary": true,
+     "sha256": "619c1de4a3e885403b8bc934ecc3bddb102f601ca302994f21bec45f3acecb92"
+    },
+    {
+     "file": "wat-bang-kung-statues/wat-bang-kung-statues-bang-kung-barracks-thai-boxing-sculptures-for-learne-a9d69ef.jpg",
+     "source": "commons",
+     "title": "File:Bang Kung Barracks - Thai Boxing Sculptures For Learners - panoramio.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bang_Kung_Barracks_-_Thai_Boxing_Sculptures_For_Learners_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABang_Kung_Barracks_-_Thai_Boxing_Sculptures_For_Learners_-_panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Kasom SKULTAB",
+     "credit": "https://web.archive.org/web/20161025201316/http://www.panoramio.com/photo/80227504",
+     "alt": "Bang Kung Barracks  - Thai Boxing Sculptures For Learners",
+     "date": "Taken on 28 September 2012",
+     "primary": false,
+     "sha256": "4495727d53243e7c9620ef37d10b519a2e457c4642d6164ff12dd6becd473bff"
+    },
+    {
+     "file": "wat-bang-kung-statues/wat-bang-kung-statues-11.jpg",
+     "source": "commons",
+     "title": "File:วัดบางกุ้ง อำเภอบางคนที จังหวัดสมุทรสงคราม 11.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_11.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "KengCH",
+     "credit": "Own work",
+     "alt": "This is a photo of a monument in Thailand identified by the ID",
+     "date": "2013-01-10 15:02:33",
+     "primary": false,
+     "sha256": "06dced42a7afbcad3db2bfc2b64f0a7e1d9f875f05f85719392e63247d4b0328"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "mae-mai",
+     "type": "move",
+     "name": "The fifteen mother techniques",
+     "as": "The fifteen, standing up, in a courtyard."
+    }
+   ]
+  }
+ ]
+}

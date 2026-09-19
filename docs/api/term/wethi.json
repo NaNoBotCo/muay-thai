@@ -1,0 +1,63 @@
+{
+ "id": "wethi",
+ "type": "term",
+ "names": {
+  "name": "wethi",
+  "th": "เวที",
+  "rtgs": "wethi",
+  "said": "The ring. The word is an altar platform."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "card"
+ },
+ "text": {
+  "what": "The word for a boxing ring, and for a stage.",
+  "story": "*Wethi* is the raised platform — a stage, a ring, a dais. It comes from *vedī*, the raised ground of a Vedic altar.\n\n*Inference —* that etymology sits directly under the tradition that a consecrated ring loses its protection if someone passes under the ropes. The word for the thing was already the word for an altar."
+ },
+ "text_th": {
+  "what": "คำที่ใช้เรียกเวทีมวย และเรียกเวทีแสดง",
+  "story": "*เวที* คือแท่นยกพื้น ทั้งเวทีแสดง เวทีมวย และแท่นประทับ มาจาก *เวที* ที่แปลว่าพื้นยกของแท่นบูชาในพระเวท\n\n*อนุมาน —* รากศัพท์นั้นวางอยู่ใต้ธรรมเนียมที่ว่าเวทีซึ่งผ่านพิธีจะเสียการคุ้มครองไปถ้ามีคนลอดใต้เชือก คำที่ใช้เรียกสิ่งนี้เป็นคำเรียกแท่นบูชาอยู่ก่อนแล้ว"
+ },
+ "kin": [
+  {
+   "to": "women-in-the-ring",
+   "as": "The tradition it sits under.",
+   "rel": "issue"
+  },
+  {
+   "to": "lumpinee",
+   "as": "One of them.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Pali/Sanskrit वेदी vedī — a raised platform, an altar",
+  "tier": "cited",
+  "source": "s:thwp-มวยไทย"
+ },
+ "kin_in": []
+}

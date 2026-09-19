@@ -1,0 +1,83 @@
+{
+ "id": "ed-visa",
+ "type": "gym",
+ "names": {
+  "name": "Training on a study visa",
+  "th": "วีซ่านักเรียนเพื่อฝึกมวย",
+  "rtgs": "wisa nakrian phuea fuek muay",
+  "said": "The visa list names muay thai courses in its own words.",
+  "said_th": "บัญชีประเภทวีซ่าระบุคำว่าหลักสูตรมวยไทยไว้เอง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "country": "th"
+ },
+ "text": {
+  "what": "Thailand's non-immigrant visa categories include study, and a registered muay thai school can be the reason for one. This is a long-standing, ordinary arrangement, not a loophole.",
+  "story": "*Inference —* the reason this matters is arithmetic. A visa exemption stamp gives you weeks. Muay thai does not work in weeks: the shin needs months, the clinch needs months, and every fighter on this site started as a child and trained daily for years. Anyone serious about training in Thailand runs into the visa before they run into a plateau.\n\nWhat this project can say is what the categories are, because they are published. **What it does not have on this disk:** current fees, current processing times, the current list of schools approved to sponsor, the current in-country extension rules, or what changed last month. Those move, they move without notice, and a page that printed them would be wrong before the next reader arrived.\n\n**Who to ask.** The people who publish this site also run **[Chiang Mai Visa Desk](https://chiangmaivisadesk.com/)**, which answers visa questions for Thailand, and is happy to take one about training. That is a sibling business, said so plainly: it is the publisher's own, not an independent recommendation and not a paid placement by anybody else.",
+  "how": "Two categories are relevant and they are not the same thing.\n\n**Type ED** is the study visa — *to study; to come on a work study tour or observation tour; to participate in projects or seminars; to attend a conference or training course; to study as a foreign Buddhist monk*.\n\n**Type B** is the business category, and its own published description includes **\"attend scuba diving, muay Thai, and massage courses\"** — the sport is named, in the list, by the state.\n\nWhich one a given school sponsors depends on how that school is registered, and that is the question to ask before paying anyone."
+ },
+ "text_th": {
+  "what": "ประเภทวีซ่าคนอยู่ชั่วคราวของไทยมีประเภทเพื่อการศึกษา และโรงเรียนมวยไทยที่จดทะเบียนเป็นเหตุผลของวีซ่านั้นได้ นี่เป็นการจัดการที่มีมานานและเป็นเรื่องปกติ ไม่ใช่ช่องโหว่",
+  "story": "*อนุมาน —* เหตุที่เรื่องนี้สำคัญคือการคิดเลข ตราประทับนักท่องเที่ยวให้เวลาเป็นสัปดาห์ มวยไทยไม่ทำงานในหน่วยสัปดาห์ แข้งต้องใช้เดือน วงในต้องใช้เดือน และนักมวยทุกคนบนเว็บนี้เริ่มตั้งแต่เด็กและซ้อมทุกวันเป็นปี ใครที่จริงจังกับการฝึกในเมืองไทยจะชนเรื่องวีซ่าก่อนจะชนกำแพงฝีมือ\n\nสิ่งที่โครงการนี้พูดได้คือประเภทวีซ่ามีอะไรบ้าง เพราะมันเผยแพร่ไว้ **สิ่งที่ไม่มีอยู่บนดิสก์นี้** คือค่าธรรมเนียมปัจจุบัน ระยะเวลาดำเนินการปัจจุบัน รายชื่อโรงเรียนที่ได้รับอนุมัติให้ออกเอกสารในปัจจุบัน กฎการต่ออายุในประเทศปัจจุบัน หรืออะไรที่เปลี่ยนไปเมื่อเดือนที่แล้ว สิ่งเหล่านี้ขยับ ขยับโดยไม่บอกล่วงหน้า และหน้าที่พิมพ์มันไว้จะผิดก่อนผู้อ่านคนถัดไปจะมาถึง\n\n**ถามใคร** คนกลุ่มเดียวกับที่จัดทำเว็บนี้ทำ **[Chiang Mai Visa Desk](https://chiangmaivisadesk.com/)** ซึ่งตอบคำถามเรื่องวีซ่าประเทศไทย และยินดีรับคำถามเรื่องการฝึกมวยด้วย นั่นเป็นธุรกิจในเครือ และบอกไว้ตรง ๆ มันเป็นของผู้จัดทำเอง ไม่ใช่คำแนะนำจากคนนอก และไม่ใช่การลงโฆษณาที่ใครจ่ายมา",
+  "how": "มีสองประเภทที่เกี่ยวข้อง และไม่ใช่สิ่งเดียวกัน\n\n**ประเภท ED** คือวีซ่าเพื่อการศึกษา *เพื่อศึกษา ดูงาน เข้าร่วมโครงการหรือสัมมนา เข้าประชุมหรือหลักสูตรฝึกอบรม หรือศึกษาในฐานะพระภิกษุชาวต่างชาติ*\n\n**ประเภท B** คือประเภทธุรกิจ และคำอธิบายที่เผยแพร่ของมันรวม **\"เข้าร่วมหลักสูตรดำน้ำ มวยไทย และนวด\"** ไว้ด้วย รัฐระบุชื่อกีฬานี้ไว้ในบัญชีเอง\n\nโรงเรียนแห่งใดออกประเภทไหนขึ้นอยู่กับว่าโรงเรียนนั้นจดทะเบียนอย่างไร และนั่นคือคำถามที่ควรถามก่อนจ่ายเงินให้ใคร"
+ },
+ "kin": [
+  {
+   "to": "choosing-a-gym",
+   "as": "What to ask the school.",
+   "rel": "gym"
+  },
+  {
+   "to": "camp-vs-school",
+   "as": "Which word applies to it.",
+   "rel": "gym"
+  },
+  {
+   "to": "first-session",
+   "as": "What you are staying for.",
+   "rel": "drill"
+  },
+  {
+   "to": "chiangmai",
+   "as": "Where the desk is.",
+   "rel": "place"
+  }
+ ],
+ "links": [
+  {
+   "label": "Chiang Mai Visa Desk",
+   "url": "https://chiangmaivisadesk.com/"
+  }
+ ],
+ "sources": [
+  "s:wp-visa-policy-of-thailand",
+  "s:cmvd"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-visa-policy-of-thailand"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "inference",
+    "note": "the visa categories are cited; the note about the publisher's own service is a disclosure, not a claim about the service"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "tags": [
+  "beginner",
+  "money"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

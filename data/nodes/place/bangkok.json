@@ -1,0 +1,88 @@
+{
+ "id": "bangkok",
+ "type": "place",
+ "names": {
+  "name": "Bangkok",
+  "th": "กรุงเทพมหานคร",
+  "rtgs": "bangkok",
+  "said": "Two ranking stadiums, one free television ring, and the money.",
+  "said_th": "สนามหลักสองแห่ง เวทีโทรทัศน์ที่เข้าฟรีหนึ่งแห่ง และเงิน"
+ },
+ "region": [
+  "bangkok"
+ ],
+ "facets": {
+  "region": "the capital"
+ },
+ "text": {
+  "what": "Where a fighter's career is decided, regardless of where he is from.",
+  "story": "Rajadamnern opened in 1945 on a royal processional avenue; Lumpinee in 1956 under the army; Channel 7's ring is behind a television studio at Mo Chit and free to enter. The first permanent ring in the country was built here in 1921, at a school.\n\n*Inference —* the sport's whole geography is a funnel. The provinces make the fighters, Bangkok holds the belts, and a career is the journey between the two."
+ },
+ "text_th": {
+  "what": "ที่ที่อาชีพของนักมวยถูกตัดสิน ไม่ว่าเขาจะมาจากไหน",
+  "story": "ราชดำเนินเปิดปี 2488 บนถนนพระราชพิธี ลุมพินีปี 2499 ภายใต้กองทัพบก ส่วนเวทีช่อง 7 อยู่หลังสถานีโทรทัศน์ที่หมอชิตและเข้าฟรี เวทีถาวรแห่งแรกของประเทศสร้างที่นี่เมื่อปี 2464 ในโรงเรียน\n\n*อนุมาน —* ภูมิศาสตร์ทั้งหมดของกีฬานี้คือกรวย ต่างจังหวัดสร้างนักมวย กรุงเทพฯ ถือเข็มขัด และอาชีพหนึ่งคือการเดินทางระหว่างสองสิ่งนั้น"
+ },
+ "kin": [
+  {
+   "to": "lumpinee",
+   "as": "One.",
+   "rel": "venue"
+  },
+  {
+   "to": "rajadamnern",
+   "as": "Two.",
+   "rel": "venue"
+  },
+  {
+   "to": "channel-7",
+   "as": "Three.",
+   "rel": "venue"
+  },
+  {
+   "to": "first-ring",
+   "as": "Where it started.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 13.7563,
+  "lon": 100.5018,
+  "precision": "town"
+ },
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "bangkok/bangkok-rajadamnern-stadium.jpg",
+   "source": "commons",
+   "title": "File:Rajadamnern Stadium.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rajadamnern_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARajadamnern_Stadium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "DiverDave",
+   "credit": "Own work",
+   "alt": "Rajadamnern Stadium, Ratchadamnoen Avenue, Pom Prap Sattru Phai district, Bangkok, Thailand",
+   "date": "2022-11-05 12:41:00",
+   "primary": true,
+   "sha256": "731cff1f1bca9b3d56112d9ad5bbe7f43b5c4578c0518505dbe3e085b710cb95"
+  }
+ ]
+}

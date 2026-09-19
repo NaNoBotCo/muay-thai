@@ -1,0 +1,59 @@
+{
+ "id": "head-injury",
+ "type": "issue",
+ "names": {
+  "name": "What ten years of kicks does",
+  "th": "ผลของการรับแรงสิบปี",
+  "rtgs": "phon khong kan rap raeng sip pi",
+  "said": "80 to 90 percent of injuries are soft tissue. The ones that are not are the point.",
+  "said_th": "80 ถึง 90 เปอร์เซ็นต์ของการบาดเจ็บคือเนื้อเยื่ออ่อน ส่วนที่ไม่ใช่คือประเด็น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "status": "unmeasured"
+ },
+ "text": {
+  "what": "Injury rates, what they are made of, and the part of the question that is not settled.",
+  "story": "**Soft tissue is 80 to 90 percent of all injuries** — repeated trauma to the parts that have no padding, in a sport with almost none. Sprains and strains come next, and the article notes that many of those follow an inadequate warm-up, which is an avoidable category. Fractures are third, and they rise with level: nose, carpals, metacarpals, fingers, ribs.\n\nBeginners get hurt more often than professionals and less seriously. As a fighter moves up, the padding comes off and the forces go up.\n\n**And the under-reporting is structural.** The article lists why a fighter does not report an injury: not noticing, refusing to admit it, a raised pain threshold, fear of what the instructor will think, and confusion about what counts as an injury at all.\n\n*Inference —* the numbers for cumulative head trauma in adult muay thai are not in the literature the way they are for American football. What exists is the child-boxing research. Absence of a study is not absence of an effect, and this project does not have the study either way."
+ },
+ "text_th": {
+  "what": "อัตราการบาดเจ็บ ประกอบด้วยอะไร และส่วนของคำถามที่ยังไม่ยุติ",
+  "story": "**เนื้อเยื่ออ่อนคือ 80 ถึง 90 เปอร์เซ็นต์ของการบาดเจ็บทั้งหมด** คือแรงกระแทกซ้ำ ๆ ต่อส่วนที่ไม่มีอะไรรอง ในกีฬาที่แทบไม่มีเครื่องป้องกัน ถัดมาคือข้อเคล็ดและกล้ามเนื้อฉีก และบทความระบุว่าหลายกรณีตามหลังการอุ่นร่างกายที่ไม่พอ ซึ่งเป็นหมวดที่เลี่ยงได้ อันดับสามคือกระดูกหัก และเพิ่มขึ้นตามระดับ ทั้งจมูก กระดูกข้อมือ ฝ่ามือ นิ้ว และซี่โครง\n\nผู้เริ่มต้นบาดเจ็บบ่อยกว่านักมวยอาชีพ แต่เบากว่า เมื่อไต่ระดับขึ้นไป เครื่องป้องกันถูกถอดออกและแรงก็เพิ่มขึ้น\n\n**และการรายงานที่ต่ำกว่าจริงเป็นเรื่องเชิงโครงสร้าง** บทความระบุเหตุผลที่นักมวยไม่รายงานการบาดเจ็บ ไม่ทันสังเกต ไม่ยอมรับ ทนความเจ็บได้สูง กลัวว่าครูจะคิดอย่างไร และสับสนว่าอะไรนับเป็นการบาดเจ็บ\n\n*อนุมาน —* ตัวเลขการบาดเจ็บสะสมที่ศีรษะในมวยไทยผู้ใหญ่ไม่ได้อยู่ในงานวิจัยแบบที่มีในอเมริกันฟุตบอล สิ่งที่มีคืองานวิจัยเรื่องมวยเด็ก การไม่มีงานวิจัยไม่ใช่การไม่มีผล และโครงการนี้ก็ไม่มีงานวิจัยที่จะชี้ไปทางไหนเช่นกัน"
+ },
+ "kin": [
+  {
+   "to": "child-boxing",
+   "as": "Where the research is.",
+   "rel": "issue"
+  },
+  {
+   "to": "first-session",
+   "as": "What a beginner is walking into.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "contested",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

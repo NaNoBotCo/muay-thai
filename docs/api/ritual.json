@@ -1,0 +1,933 @@
+{
+ "type": "ritual",
+ "count": 7,
+ "nodes": [
+  {
+   "id": "gao-yod",
+   "type": "ritual",
+   "names": {
+    "name": "Gao yod, the nine spires",
+    "th": "เก้ายอด",
+    "rtgs": "kao yot",
+    "said": "Nine peaks up the spine. Almost nobody's first yant is anything else.",
+    "said_th": "เก้ายอดไล่ขึ้นแนวกระดูกสันหลัง แทบไม่มีใครได้ยันต์แรกเป็นลายอื่น"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "always"
+   },
+   "text": {
+    "what": "A column of nine spires, placed in the centre of the upper back and running a little onto the neck. At Wat Bang Phra it is the standard first tattoo; other lineages start elsewhere.",
+    "story": "Its extension is **Yeesip Gao Yord**, twenty-nine spires, spread across the whole upper back. After those two, Wat Bang Phra's practice treats the body as opened and able to receive what comes next.\n\n*Inference —* the ordering matters more than the design. A first yant that everybody gets, in a place everybody can see, is an initiation before it is a protection: it marks that a person has stood in the line, made the offering and accepted the rules."
+   },
+   "text_th": {
+    "what": "แถวยอดเก้ายอด ลงกลางหลังส่วนบน ไล่ขึ้นต้นคอเล็กน้อย ที่วัดบางพระถือเป็นลายแรกมาตรฐาน ส่วนสายอื่นเริ่มที่ลายอื่น",
+    "story": "ลายที่ต่อจากมันคือ **ยี่สิบเก้ายอด** แผ่ทั่วหลังส่วนบน หลังสองลายนี้ ธรรมเนียมที่วัดบางพระถือว่าร่างกายเปิดแล้วและรับลายต่อไปได้\n\n*อนุมาน —* ลำดับสำคัญกว่าตัวลาย ยันต์แรกที่ทุกคนได้ ในตำแหน่งที่ทุกคนเห็น คือการรับเข้าก่อนจะเป็นการคุ้มครอง มันบอกว่าคนคนนี้เคยยืนในแถว ถวายเครื่องบูชา และรับข้อห้ามมาแล้ว"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The practice.",
+     "rel": "ritual"
+    },
+    {
+     "to": "wat-bang-phra",
+     "as": "Where.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:wp-wat-bang-phra"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-wat-bang-phra"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ritual"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "gao-yod/gao-yod-own-01.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "A finished spires yant across the upper back, at Sak Yant Chiang Mai.",
+     "primary": true,
+     "sha256": "adc56e1176c16f197fd42ff0c0173f50601f12e8cfa7799e699c2d55d38e021f"
+    },
+    {
+     "file": "gao-yod/gao-yod-own-02.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "The same yant, with the shrine behind, at Sak Yant Chiang Mai.",
+     "primary": false,
+     "sha256": "350cf4b70709b8cc8f82201cb275fb0752352621bced751653b80b7ac1932b8c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "The first one, almost always."
+    },
+    {
+     "from": "wat-bang-phra",
+     "type": "venue",
+     "name": "Wat Bang Phra",
+     "as": "What you get first."
+    }
+   ]
+  },
+  {
+   "id": "kho-ham",
+   "type": "ritual",
+   "names": {
+    "name": "The rules that come with it",
+    "th": "ข้อห้าม",
+    "rtgs": "kho ham",
+    "said": "It works while you keep them, and it fades anyway.",
+    "said_th": "มันทำงานตราบที่คุณถือไว้ และถึงอย่างไรมันก็จาง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "always"
+   },
+   "text": {
+    "what": "A yant is conditional. The bearer accepts precepts and taboos with it, and the power holds only while those are kept.",
+    "story": "The English article puts it in one clause: the tattoo confers its powers **only so long as the bearer observes certain rules and taboos**, which can include abstaining from a particular food. Different masters set different lists, and the list is part of what you are receiving.\n\nAnd separately from conduct, **the power decreases with time**. That is why Wai Khru exists: once a year the disciples come back to the master's parlour to have the yant honoured, blessed and re-empowered.\n\n*Inference —* these two facts together are what make sak yant a relationship rather than a purchase. A tattoo you can buy in an afternoon and never think about again is a different object, whatever is drawn on it."
+   },
+   "text_th": {
+    "what": "ยันต์มีเงื่อนไข ผู้สักรับศีลและข้อห้ามมาพร้อมกับมัน และอำนาจคงอยู่ตราบที่ถือสิ่งเหล่านั้นไว้",
+    "story": "บทความภาษาอังกฤษพูดไว้ในอนุประโยคเดียว รอยสักให้อำนาจ **เฉพาะตราบที่ผู้สักถือกฎและข้อห้ามบางอย่าง** ซึ่งอาจรวมถึงการงดอาหารบางชนิด ครูแต่ละท่านตั้งรายการไม่เหมือนกัน และรายการนั้นเป็นส่วนหนึ่งของสิ่งที่คุณรับมา\n\nและแยกจากเรื่องความประพฤติ **อำนาจลดลงตามเวลา** นั่นคือเหตุที่มีวันไหว้ครู ปีละครั้งศิษย์กลับมาที่สำนักของครูเพื่อให้ยันต์ได้รับการคารวะ เสก และเพิ่มพลังใหม่\n\n*อนุมาน —* ข้อเท็จจริงสองข้อนี้รวมกันคือสิ่งที่ทำให้สักยันต์เป็นความสัมพันธ์ ไม่ใช่การซื้อขาย รอยสักที่ซื้อได้ในบ่ายเดียวแล้วไม่ต้องคิดถึงอีกเลย เป็นวัตถุคนละอย่าง ไม่ว่าจะวาดอะไรลงไป"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The practice.",
+     "rel": "ritual"
+    },
+    {
+     "to": "wat-bang-phra",
+     "as": "Where Wai Khru happens.",
+     "rel": "venue"
+    },
+    {
+     "to": "wai-kru-ram-muay",
+     "as": "The same two words, in the ring.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:wp-yantra-tattooing",
+    "s:wp-wat-bang-phra"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-yantra-tattooing"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ritual"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "kho-ham/kho-ham-own-01.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "Two finished yant in front of the shrine where the work was done, at Sak Yant Chiang Mai.",
+     "primary": true,
+     "sha256": "e6b63c531e8cb83c55660c9a0cce2f7bf9e156c6337ac6a63bfa216788a2e822"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "What keeps it working."
+    },
+    {
+     "from": "wat-bang-phra",
+     "type": "venue",
+     "name": "Wat Bang Phra",
+     "as": "What you take on with it."
+    }
+   ]
+  },
+  {
+   "id": "mongkhon",
+   "type": "ritual",
+   "names": {
+    "name": "The mongkhon",
+    "th": "มงคล",
+    "rtgs": "mongkhon",
+    "said": "The trainer puts it on. The trainer takes it off. Never the fighter.",
+    "said_th": "ครูเป็นคนสวมให้ ครูเป็นคนถอดออก ไม่ใช่นักมวย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "ring"
+   },
+   "text": {
+    "what": "The cord headband worn into the ring and removed before the first bell. It belongs to the gym, not the man wearing it.",
+    "story": "The origin the English article gives is domestic: when Siam was at war, young men tore a strip from a mother's or a lover's clothing and wore it into the fight for luck and against harmful spirits.\n\nWhat it means now is institutional. A trainer presents the mongkhon when he judges a fighter fit to represent the gym, and takes it off in the corner after the dance. Fighters commonly bring it to a monk to be blessed first, whether or not they are Buddhist.\n\nTwo things follow that visitors get wrong. It is not a rank, and it is not yours: the shop-bought mongkhon hanging in a hotel room is a souvenir of an object that only means anything when someone else puts it on your head. And it does not stay on during the fight — a mongkhon in the ring at the bell is a film, not a card."
+   },
+   "text_th": {
+    "what": "มงคลคือวงด้ายที่คาดศีรษะขึ้นเวที และถอดออกก่อนระฆังยกแรก เป็นของค่าย ไม่ใช่ของคนที่สวม",
+    "story": "ที่มาที่บทความภาษาอังกฤษให้ไว้เป็นเรื่องในบ้าน เมื่อสยามอยู่ในภาวะสงคราม ชายหนุ่มฉีกผ้าจากเสื้อผ้าของแม่หรือคนรักมาคาดไว้ตอนออกรบ เพื่อความโชคดีและกันผีร้าย\n\nความหมายในวันนี้เป็นเรื่องของสถาบัน ครูมอบมงคลให้เมื่อเห็นว่านักมวยพร้อมจะเป็นตัวแทนค่าย แล้วถอดออกที่มุมหลังรำเสร็จ นักมวยมักนำไปให้พระปลุกเสกก่อน ไม่ว่าจะนับถือพุทธหรือไม่\n\nสองเรื่องที่ผู้มาเยือนเข้าใจผิด มันไม่ใช่ระดับขั้น และมันไม่ใช่ของคุณ มงคลที่ซื้อจากร้านแล้วแขวนไว้ในห้องพักคือของที่ระลึกของวัตถุซึ่งมีความหมายก็ต่อเมื่อคนอื่นเป็นผู้สวมให้ และมันไม่ได้อยู่บนหัวระหว่างชก มงคลที่ยังอยู่บนเวทีตอนระฆังดังคือหนัง ไม่ใช่ไฟต์จริง"
+   },
+   "kin": [
+    {
+     "to": "wai-kru-ram-muay",
+     "as": "When it comes off.",
+     "rel": "ritual"
+    },
+    {
+     "to": "prajiat",
+     "as": "The armband version.",
+     "rel": "ritual"
+    },
+    {
+     "to": "sak-yant",
+     "as": "The one that cannot be taken off.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ritual",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "mongkhon/mongkhon-mongkhon-in-singapore-1.jpg",
+     "source": "commons",
+     "title": "File:Mongkhon in Singapore (1).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mongkhon_in_Singapore_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMongkhon_in_Singapore_%281%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "B20180",
+     "credit": "Own work",
+     "alt": "มงคลในประเทศสิงคโปร์",
+     "date": "2023-08-19 11:23:11",
+     "primary": true,
+     "sha256": "4ebbb626fd36f673dd28e8f5e8b685827a4636c29eb6a6c86d831bd330b0f12f"
+    },
+    {
+     "file": "mongkhon/mongkhon-muay-thai-boxer.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai boxer.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Muay_Thai_boxer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_boxer.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Dmitri Markine",
+     "credit": "Own workTransferred from en.wikipedia",
+     "alt": "Muay Thai boxer",
+     "date": "Taken on 2 March 2008, 04:08",
+     "primary": false,
+     "sha256": "6e35b51925ec3a1b5f4ffa198a51cdaae82181abf7e88c1893f783f03ee0ad54"
+    },
+    {
+     "file": "mongkhon/mongkhon-wai-khru-ram-muay-1-head.jpg",
+     "source": "commons",
+     "title": "File:Wai khru ram muay 1-head.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Wai_khru_ram_muay_1-head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWai_khru_ram_muay_1-head.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "selbst",
+     "credit": "Bildausschnitt aus File:Wai khru ram muay 1.jpg von B20180",
+     "alt": "Muay Thai Kämpfer mit Mongkon",
+     "date": "2015-10-28",
+     "primary": false,
+     "sha256": "2b45c1e2ece03142d69f15527e62de929346da9cabf09505a2c5c79311b367a0"
+    },
+    {
+     "file": "mongkhon/mongkhon-young-thai-boxer-thailand.jpg",
+     "source": "commons",
+     "title": "File:Young Thai Boxer, Thailand.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Young_Thai_Boxer%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AYoung_Thai_Boxer%2C_Thailand.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "Young Thai boxer waiting for his call to the ring.",
+     "date": "2016-04-11 12:08:57",
+     "primary": false,
+     "sha256": "497be9e31761b163aa2c0b0f125d5f3d6bcd3d327a87dddbdc55bd4aea7fd8dc"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "prajiat",
+     "type": "ritual",
+     "name": "The armbands",
+     "as": "The headband."
+    },
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "The same thing, on cord."
+    },
+    {
+     "from": "wai-kru-ram-muay",
+     "type": "ritual",
+     "name": "The dance before the fight",
+     "as": "Worn through it, and taken off at the end."
+    },
+    {
+     "from": "takrut",
+     "type": "kit",
+     "name": "Takrut",
+     "as": "The same thing on cord."
+    },
+    {
+     "from": "women-in-the-ring",
+     "type": "issue",
+     "name": "Women in the ring",
+     "as": "The other consecrated object."
+    }
+   ]
+  },
+  {
+   "id": "prajiat",
+   "type": "ritual",
+   "names": {
+    "name": "The armbands",
+    "th": "ประเจียด",
+    "rtgs": "prachiat",
+    "said": "These stay on. In Chaiya they were tied round the head.",
+    "said_th": "อันนี้ไม่ถอด ที่ไชยาเขาคาดไว้ที่ศีรษะ",
+    "aliases": [
+     "pra jiad"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "fight"
+   },
+   "text": {
+    "what": "Cloth or cord tied round the upper arms, worn through the fight.",
+    "story": "Same origin story as the mongkhon and the same function: a piece of somebody else's cloth, worn into danger. And the cloth is usually not blank — a prajiat carries a **yantra**, written in the same script and by the same kind of master as a tattoo. Thai accounts of what a warrior took into battle list the prajiat beside the takrut, before the moulded Buddha image took over that job. At Sala Kao Hong in Chaiya the prajiat went round the head and stayed there for all five rounds, which is a different object from the modern armband.\n\nIn some gyms outside Thailand, and the article names Brazil in particular through the Chute Boxe lineage, prajiat are coloured by rank in the way a karate belt is. That is a western graft onto a Thai object, and Thai gyms do not read them."
+   },
+   "text_th": {
+    "what": "ผ้าหรือด้ายผูกรอบต้นแขน สวมตลอดการชก",
+    "story": "ที่มาเดียวกับมงคลและหน้าที่เดียวกัน ผ้าของคนอื่นชิ้นหนึ่ง สวมเข้าไปในอันตราย และผ้าผืนนั้นมักไม่ได้ว่างเปล่า ประเจียดถือ **ยันต์** ไว้ เขียนด้วยอักษรชุดเดียวกันและโดยครูประเภทเดียวกันกับรอยสัก ตำราไทยที่ว่าด้วยสิ่งที่นักรบพกเข้าสนามรบระบุประเจียดไว้คู่กับตะกรุด ก่อนที่พระพิมพ์จะมารับหน้าที่นั้นไป ที่ศาลาเก้าห้องในไชยา ประเจียดคาดรอบศีรษะและอยู่อย่างนั้นครบห้ายก ซึ่งเป็นคนละวัตถุกับผ้าคาดแขนสมัยใหม่\n\nในบางยิมนอกประเทศไทย และบทความระบุถึงบราซิลเป็นพิเศษผ่านสาย Chute Boxe ประเจียดถูกกำหนดสีตามระดับขั้นแบบสายคาดเอวคาราเต้ นั่นคือการต่อกิ่งของตะวันตกลงบนวัตถุไทย และยิมไทยไม่ได้อ่านมัน"
+   },
+   "kin": [
+    {
+     "to": "mongkhon",
+     "as": "The headband.",
+     "rel": "ritual"
+    },
+    {
+     "to": "chaiya",
+     "as": "Where it went round the head.",
+     "rel": "style"
+    },
+    {
+     "to": "sak-yant",
+     "as": "The same yantra, on skin.",
+     "rel": "ritual"
+    },
+    {
+     "to": "takrut",
+     "as": "The same yantra, in metal.",
+     "rel": "kit"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-thai-buddha-amulet"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ritual"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "prajiat/prajiat-faixas-do-muay-thai.jpg",
+     "source": "commons",
+     "title": "File:Faixas do Muay Thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Faixas_do_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AFaixas_do_Muay_Thai.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Victor Soares Cardoso",
+     "credit": "Own work",
+     "alt": "Graduação do Muay Thai",
+     "date": "2012-03-25",
+     "primary": true,
+     "sha256": "06dbbe8871ca042910190032ee6f143f61492780dca9eb228f1ee7954cc7f1e7"
+    },
+    {
+     "file": "prajiat/prajiat-wai-khru-ram-muay-2.jpg",
+     "source": "commons",
+     "title": "File:Wai khru ram muay 2.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wai_khru_ram_muay_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWai_khru_ram_muay_2.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "B20180",
+     "credit": "Own work",
+     "alt": "Wai khru ram muay 2",
+     "date": "2011-09-12",
+     "primary": false,
+     "sha256": "2fa5b8ba79515c8fcc776cb3c6f75ab9a4267a91ae6265cff18b05326690f2f6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chaiya",
+     "type": "style",
+     "name": "Muay Chaiya",
+     "as": "Worn through the fight, not just into the ring."
+    },
+    {
+     "from": "mongkhon",
+     "type": "ritual",
+     "name": "The mongkhon",
+     "as": "The armband version."
+    },
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "The same thing, on cloth."
+    },
+    {
+     "from": "wai-kru-ram-muay",
+     "type": "ritual",
+     "name": "The dance before the fight",
+     "as": "The other thing tied on."
+    },
+    {
+     "from": "takrut",
+     "type": "kit",
+     "name": "Takrut",
+     "as": "The same thing on cloth."
+    }
+   ]
+  },
+  {
+   "id": "sak-yant",
+   "type": "ritual",
+   "names": {
+    "name": "Sak yant",
+    "th": "สักยันต์",
+    "rtgs": "sak yan",
+    "said": "Prick the skin, hold the power. The ink is a device, not a picture.",
+    "said_th": "แทงผิวหนัง ตรึงอำนาจไว้ หมึกคืออุปกรณ์ ไม่ใช่ภาพ",
+    "aliases": [
+     "yantra tattooing",
+     "สักยันต์"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "always"
+   },
+   "text": {
+    "what": "A tattoo that is a working object: geometry and syllables in an old script, applied by a master, carrying protection, fortune, charisma or fear — and conditional on rules the bearer keeps afterwards.",
+    "story": "**Where it comes from.** The practice is dated to the Khmer Empire around the ninth century, resting on Mainland Southeast Asian animist tattooing that goes back far further, with the geometry taken from Indian yantras. It is Cambodian, Lao, Thai and Burmese, and it does not belong to one of them.\n\n**What the script tells you.** There is no single alphabet for this. In Cambodia, Khmer script. In central Thailand, **Khom** — the Khmer-derived script used there for Pali and for anything sacred. **In the north the yant is written in northern Thai, Shan or Tai Lu script**, and in Laos in Lao Tham. A yant done in Chiang Mai and a yant done in Nakhon Pathom are not written in the same letters. The alphabet on a person's back is a map of where their master's lineage is from, and it is the first thing to read.\n\n**Three kinds of effect**, in the article's own division: what benefits the bearer — eloquence, charm; what protects — warding off harm, which is why it is carried by soldiers, police, taxi drivers and anyone whose work is dangerous; and what acts on other people, including invoking fear.\n\n**And it is conditional.** The power holds only while the bearer keeps the rules and the taboos that came with it, which can include abstaining from a particular food. It also **fades with time**, which is why masters re-empower their disciples' tattoos once a year at Wai Khru.\n\n**In this sport.** A fighter's whole ritual kit is the same practice in different materials: the mongkhon blessed by a monk, the prajiat tied round the arm, the takrut rolled in metal, and the yant under the shirt. They carry the same syllables, from the same masters, for the same reasons. The difference is only whether the surface can be taken off.",
+    "how": "**The word.** *Sak* (สัก) is to prick, a native Khmer word from a Mon-Khmer root *cɔkʔ, to prick — not a Sanskrit loan. *Yant* is *yantra* (यन्त्र), from Sanskrit *yam*, to hold or sustain, plus *tra*, an instrument. A yantra is an instrument for holding something in place. The name says exactly what the thing is meant to do.\n\n**The needle.** A *khem sak* about eighteen inches long and four millimetres wide, the tip split so each strike puts down two dots. A typical design takes about **three thousand strikes**. The needle is dipped every thirty seconds into a mix of oil, Chinese charcoal ink, and — the account says possibly — snake venom.\n\n**The finish.** When the drawing is done the master blesses it and **blows a kata onto it**, and that is the step that makes it work. The ink without the breath is a drawing.",
+    "notes": "The photographs on this page and on the pages for gao yod and the rules were taken at **Sak Yant Chiang Mai**, where the ajarns welcome photography, and are used with their permission. They are published CC BY 4.0 like everything else here."
+   },
+   "text_th": {
+    "what": "รอยสักที่เป็นวัตถุใช้งาน ลายเรขาคณิตและอักขระในอักษรโบราณ ครูสักให้ ถือความคุ้มครอง โชค เสน่ห์ หรือความน่าเกรงขาม และมีเงื่อนไขคือข้อห้ามที่ผู้สักต้องถือต่อไป",
+    "story": "**มาจากไหน** แนวปฏิบัตินี้กำหนดอายุไว้ที่จักรวรรดิเขมรราวศตวรรษที่เก้า วางอยู่บนการสักแบบผีของแผ่นดินใหญ่เอเชียตะวันออกเฉียงใต้ที่เก่ากว่านั้นมาก โดยรับลายเรขาคณิตมาจากยันตระของอินเดีย มันเป็นของเขมร ลาว ไทย และพม่า และไม่ได้เป็นของชาติใดชาติเดียว\n\n**อักษรบอกอะไร** เรื่องนี้ไม่มีอักษรชุดเดียว ในกัมพูชาใช้อักษรเขมร ในภาคกลางของไทยใช้ **อักษรขอม** อักษรที่แตกจากเขมรซึ่งใช้ที่นั่นสำหรับบาลีและสิ่งศักดิ์สิทธิ์ **ทางเหนือ ยันต์เขียนด้วยอักษรธรรมล้านนา อักษรไทใหญ่ หรืออักษรไทลื้อ** ส่วนในลาวใช้อักษรธรรมลาว ยันต์ที่สักในเชียงใหม่กับยันต์ที่สักในนครปฐมไม่ได้เขียนด้วยตัวอักษรชุดเดียวกัน ตัวอักษรบนหลังคนหนึ่งคือแผนที่ว่าสายครูของเขามาจากไหน และเป็นสิ่งแรกที่ควรอ่าน\n\n**ผลสามแบบ** ตามที่บทความแบ่งไว้ แบบที่เป็นคุณแก่ผู้สักเอง เช่น วาจาดี เสน่ห์ แบบที่คุ้มครอง กันภัย ซึ่งเป็นเหตุที่ทหาร ตำรวจ คนขับแท็กซี่ และคนที่ทำงานอันตรายพกไว้ และแบบที่ออกฤทธิ์กับคนรอบข้าง รวมถึงทำให้เกิดความเกรงกลัว\n\n**และมันมีเงื่อนไข** อำนาจคงอยู่ตราบที่ผู้สักถือข้อห้ามที่ติดมากับมัน ซึ่งอาจรวมถึงการงดอาหารบางอย่าง และมัน **จางลงตามเวลา** จึงเป็นเหตุที่ครูเสกซ้ำให้ศิษย์ปีละครั้งในวันไหว้ครู\n\n**ในกีฬานี้** ของประจำตัวเชิงพิธีของนักมวยทั้งชุดคือแนวปฏิบัติเดียวกันในวัสดุต่างกัน มงคลที่พระปลุกเสก ประเจียดที่ผูกรอบแขน ตะกรุดที่ม้วนในแผ่นโลหะ และยันต์ใต้เสื้อ ทั้งหมดถืออักขระชุดเดียวกัน จากครูสายเดียวกัน ด้วยเหตุผลเดียวกัน ต่างกันแค่ว่าพื้นผิวนั้นถอดออกได้หรือไม่",
+    "how": "**คำ** *สัก* เป็นคำเขมรแท้ จากรากมอญ-เขมร *cɔkʔ ที่แปลว่าแทง ไม่ใช่คำยืมสันสกฤต *ยันต์* คือ *ยนฺตฺร* จากสันสกฤต *ยมฺ* ที่แปลว่าตรึงหรือค้ำไว้ บวก *ตฺร* ที่แปลว่าเครื่องมือ ยันต์จึงคือเครื่องมือสำหรับตรึงบางอย่างไว้กับที่ ชื่อของมันบอกตรง ๆ ว่ามันมีไว้ทำอะไร\n\n**เข็ม** เข็มสักยาวราวสิบแปดนิ้ว กว้างราวสี่มิลลิเมตร ปลายผ่าสองแฉก แต่ละครั้งที่แทงจึงลงหมึกสองจุด ลายหนึ่งใช้การแทงราว **สามพันครั้ง** จุ่มหมึกทุกสามสิบวินาที หมึกเป็นส่วนผสมของน้ำมัน หมึกถ่านจีน และ — ตามคำบอกเล่า อาจมี — พิษงู\n\n**ขั้นจบ** เมื่อวาดเสร็จ ครูจะเสกและ **เป่าคาถาลงไป** และนั่นคือขั้นที่ทำให้มันทำงาน หมึกที่ไม่มีลมหายใจคือภาพวาด",
+    "notes": "ภาพถ่ายในหน้านี้ รวมถึงหน้าเก้ายอดและหน้าข้อห้าม ถ่ายที่ **สักยันต์เชียงใหม่** ซึ่งอาจารย์ยินดีให้ถ่ายภาพ และใช้โดยได้รับอนุญาตจากท่าน เผยแพร่ภายใต้ CC BY 4.0 เช่นเดียวกับทุกอย่างบนเว็บนี้"
+   },
+   "kin": [
+    {
+     "to": "wat-bang-phra",
+     "as": "The one outsiders have heard of.",
+     "rel": "venue"
+    },
+    {
+     "to": "gao-yod",
+     "as": "The first one, almost always.",
+     "rel": "ritual"
+    },
+    {
+     "to": "suea-phen",
+     "as": "The one fighters are known for.",
+     "rel": "ritual"
+    },
+    {
+     "to": "khom-script",
+     "as": "The central Thai script for it. The north uses its own.",
+     "rel": "term"
+    },
+    {
+     "to": "kho-ham",
+     "as": "What keeps it working.",
+     "rel": "ritual"
+    },
+    {
+     "to": "takrut",
+     "as": "The same thing, in metal.",
+     "rel": "kit"
+    },
+    {
+     "to": "mongkhon",
+     "as": "The same thing, on cord.",
+     "rel": "ritual"
+    },
+    {
+     "to": "prajiat",
+     "as": "The same thing, on cloth.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:wp-yantra-tattooing",
+    "s:wp-wat-bang-phra",
+    "s:wp-khom-thai-script",
+    "s:wp-tai-tham-script"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-yantra-tattooing"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "ritual",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "sak-yant/sak-yant-own-01.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "A yant finished on the nape of the neck, at Sak Yant Chiang Mai.",
+     "primary": true,
+     "sha256": "4e5d29f6fff34dce14dbd458ea73ce12202967d9f0e5e34e0682d10d82d39d0b"
+    },
+    {
+     "file": "sak-yant/sak-yant-own-02.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "The ajarn at work with the long needle, at Sak Yant Chiang Mai.",
+     "primary": false,
+     "sha256": "9e56c4a5096ee92f27fa7fb077bb06b12eb9ab6e712df05501dd37e57903bbcf"
+    },
+    {
+     "file": "sak-yant/sak-yant-own-03.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "The template inked and pressed onto the back before the work starts, at Sak Yant Chiang Mai.",
+     "primary": false,
+     "sha256": "6adfeeef9a061252d6fe4e3826843a7884562aebe89ea67b56cdd7ea79de0e1d"
+    },
+    {
+     "file": "sak-yant/sak-yant-own-04.jpg",
+     "source": "own",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "NaN",
+     "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+     "alt": "Two finished backs in front of the shrine, at Sak Yant Chiang Mai.",
+     "primary": false,
+     "sha256": "89fc45a067ed0d4aeac4b126fb6879d846d8722d5bd64c4c01a7e43ef8d0bd3b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "gao-yod",
+     "type": "ritual",
+     "name": "Gao yod, the nine spires",
+     "as": "The practice."
+    },
+    {
+     "from": "kho-ham",
+     "type": "ritual",
+     "name": "The rules that come with it",
+     "as": "The practice."
+    },
+    {
+     "from": "mongkhon",
+     "type": "ritual",
+     "name": "The mongkhon",
+     "as": "The one that cannot be taken off."
+    },
+    {
+     "from": "prajiat",
+     "type": "ritual",
+     "name": "The armbands",
+     "as": "The same yantra, on skin."
+    },
+    {
+     "from": "suea-phen",
+     "type": "ritual",
+     "name": "Suea phen, the leaping tiger",
+     "as": "The practice."
+    },
+    {
+     "from": "wat-bang-phra",
+     "type": "venue",
+     "name": "Wat Bang Phra",
+     "as": "The practice."
+    },
+    {
+     "from": "takrut",
+     "type": "kit",
+     "name": "Takrut",
+     "as": "The same thing on skin."
+    },
+    {
+     "from": "khom-script",
+     "type": "term",
+     "name": "Khom, and the scripts it is not",
+     "as": "What it writes."
+    }
+   ]
+  },
+  {
+   "id": "suea-phen",
+   "type": "ritual",
+   "names": {
+    "name": "Suea phen, the leaping tiger",
+    "th": "เสือเผ่น",
+    "rtgs": "suea phen",
+    "said": "One monk, one forest, and a tiger on half the backs in the sport.",
+    "said_th": "พระรูปเดียว ป่าผืนเดียว และเสือบนหลังคนครึ่งวงการ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "always"
+   },
+   "text": {
+    "what": "A tiger in mid-leap, usually one on each shoulder blade, for strength, command and the turning away of an attack.",
+    "story": "The design is old and the reason it is everywhere is recent and traceable. In 1953 Luang Phor Pern walked into the forest on the Kanchanaburi border, where tigers had been killing villagers, and gave out kata and sak yant — telling them that **the tiger yantra in particular would fend off an attack**. His reputation was built on that, and the tiger came with it.\n\n*Inference —* a fighter and a villager on that border want the same thing from it. Not luck. A specific mechanism against something coming at you fast."
+   },
+   "text_th": {
+    "what": "เสือกำลังเผ่น มักลงข้างละตัวบนสะบักสองข้าง เพื่อพละกำลัง อำนาจ และการพลิกการจู่โจม",
+    "story": "ลายนี้เก่า แต่เหตุที่มันอยู่ทุกที่นั้นใหม่และสืบย้อนได้ พ.ศ. 2496 หลวงพ่อเปิ่นเดินเข้าป่าชายแดนกาญจนบุรี ที่ซึ่งเสือกัดชาวบ้านตาย แล้วให้คาถาและสักยันต์ โดยบอกว่า **ยันต์เสือจะกันการจู่โจมได้** ชื่อเสียงของท่านสร้างขึ้นจากเรื่องนั้น และเสือก็ติดมาด้วย\n\n*อนุมาน —* นักมวยกับชาวบ้านชายแดนนั้นต้องการสิ่งเดียวกันจากมัน ไม่ใช่โชค แต่เป็นกลไกเฉพาะที่ใช้กับสิ่งที่พุ่งเข้ามาเร็ว ๆ"
+   },
+   "kin": [
+    {
+     "to": "wat-bang-phra",
+     "as": "Whose forest.",
+     "rel": "venue"
+    },
+    {
+     "to": "sak-yant",
+     "as": "The practice.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:wp-wat-bang-phra",
+    "s:wp-yantra-tattooing"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-wat-bang-phra"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ritual"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "The one fighters are known for."
+    },
+    {
+     "from": "wat-bang-phra",
+     "type": "venue",
+     "name": "Wat Bang Phra",
+     "as": "What the tiger story produced."
+    }
+   ]
+  },
+  {
+   "id": "wai-kru-ram-muay",
+   "type": "ritual",
+   "names": {
+    "name": "The dance before the fight",
+    "th": "ไหว้ครูรำมวย",
+    "rtgs": "wai khru ram muay",
+    "said": "Four minutes of not fighting, and it is not a warm-up.",
+    "said_th": "สี่นาทีที่ไม่ได้ชก และไม่ใช่การวอร์ม"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "ring"
+   },
+   "text": {
+    "what": "Two halves. *Wai khru* is paying respect to the teacher — kneeling, bowing three times toward the corner. *Ram muay* is the dance that follows, which is the fighter's own and belongs to his gym.",
+    "story": "*Wai khru* is not a boxing ritual. The Thai article on it lists the same ceremony for school teachers, for shadow puppetry, for krabi-krabong, and for writing poetry: the form belongs to apprenticeship in general, and boxing is one of its borrowers.\n\nWhat the fighter is doing in the second half is more specific. A ram muay is taught, it is a gym's signature, and a Thai watching can often name the camp from it. It also tells the other corner something: a man who takes his time in the dance is making a statement about his own composure while the other man stands there in the cold.\n\n*Inference —* the reason the ceremony survived professionalisation intact, when the rope, the bare feet and the open-weight matchmaking all went, is that it costs the promoter nothing and fills four minutes of a television slot."
+   },
+   "text_th": {
+    "what": "สองส่วน *ไหว้ครู* คือการคารวะครู คุกเข่า กราบสามครั้งไปทางมุมของตน *รำมวย* คือการรำที่ตามมา ซึ่งเป็นของนักมวยเองและเป็นของค่ายเขา",
+    "story": "*ไหว้ครู* ไม่ใช่พิธีของมวย บทความไทยว่าด้วยเรื่องนี้ระบุพิธีเดียวกันสำหรับครูในโรงเรียน สำหรับหนังตะลุง สำหรับกระบี่กระบอง และสำหรับการประพันธ์ รูปแบบนี้เป็นของการเป็นศิษย์โดยทั่วไป มวยเป็นผู้ยืมมาใช้รายหนึ่ง\n\nสิ่งที่นักมวยทำในครึ่งหลังเฉพาะเจาะจงกว่านั้น รำมวยเป็นสิ่งที่ถูกสอน เป็นลายเซ็นของค่าย และคนไทยที่ดูอยู่มักบอกชื่อค่ายได้จากการรำ มันยังบอกอะไรกับมุมตรงข้ามด้วย คนที่รำช้า ๆ กำลังแถลงเรื่องความนิ่งของตัวเอง ขณะที่อีกคนยืนรออยู่ตรงนั้นจนตัวเย็น\n\n*อนุมาน —* เหตุที่พิธีนี้รอดผ่านการทำให้เป็นอาชีพมาได้ทั้งดุ้น ทั้งที่เชือก เท้าเปล่า และการจับคู่ไม่ชั่งน้ำหนักหายไปหมด คือมันไม่มีต้นทุนสำหรับโปรโมเตอร์ และเติมเวลาออกอากาศได้สี่นาที"
+   },
+   "kin": [
+    {
+     "to": "mongkhon",
+     "as": "Worn through it, and taken off at the end.",
+     "rel": "ritual"
+    },
+    {
+     "to": "sarama",
+     "as": "What is played under it.",
+     "rel": "music"
+    },
+    {
+     "to": "prajiat",
+     "as": "The other thing tied on.",
+     "rel": "ritual"
+    },
+    {
+     "to": "ram-muay-reading",
+     "as": "How to read one from the seats.",
+     "rel": "term"
+    }
+   ],
+   "sources": [
+    "s:thwp-พ-ธ-ไหว-คร-",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-พ-ธ-ไหว-คร-"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "beginner",
+    "ritual",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "wai-kru-ram-muay/wai-kru-ram-muay-ram-muay.jpg",
+     "source": "commons",
+     "title": "File:Ram Muay.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ram_Muay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARam_Muay.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "Wai Kru/Ram Muay (Ritual Dance)",
+     "date": "2014-10-25 12:33:38",
+     "primary": true,
+     "sha256": "465ef9dc8d7da39a8ab38ea715da0fb8b842161c612f34afcb13159175179ba0"
+    },
+    {
+     "file": "wai-kru-ram-muay/wai-kru-ram-muay-sitsiam-ram-muay.jpg",
+     "source": "commons",
+     "title": "File:Sitsiam Ram Muay.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sitsiam_Ram_Muay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASitsiam_Ram_Muay.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "Thai Dance,Wai Kru/Ram Muay, Pra Ram Plaeng Sorn.",
+     "date": "2015-01-15 19:20:36",
+     "primary": false,
+     "sha256": "d226d66ef50890360c241112f3234b1eaa3c61764ac5dd3905864271512074f9"
+    },
+    {
+     "file": "wai-kru-ram-muay/wai-kru-ram-muay-thai-boxing-dance-ram-muay.jpg",
+     "source": "commons",
+     "title": "File:Thai Boxing Dance (Ram Muay).JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Thai_Boxing_Dance_%28Ram_Muay%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_Boxing_Dance_%28Ram_Muay%29.JPG",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "Thai boxers performing ritual dance at the Sitsiam camp",
+     "date": "2016-05-05",
+     "primary": false,
+     "sha256": "afd799b50d7c601d26ef06d7bfc86701315f9c0647914ae3bd42efd780f16e0f"
+    },
+    {
+     "file": "wai-kru-ram-muay/wai-kru-ram-muay-wai-kru-muay-thai.jpg",
+     "source": "commons",
+     "title": "File:Wai Kru Muay Thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Wai_Kru_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWai_Kru_Muay_Thai.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "The Wai Kru / Ram Muay",
+     "date": "2011-04-10 16:26:59",
+     "primary": false,
+     "sha256": "acc0010b2b4206ce5c8aa7e6af84b3f0af73a433481195a035c2f80d8472f4f2"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "fon-jerng",
+     "type": "style",
+     "name": "Fon jerng",
+     "as": "The other dance, and a different relationship."
+    },
+    {
+     "from": "kho-ham",
+     "type": "ritual",
+     "name": "The rules that come with it",
+     "as": "The same two words, in the ring."
+    },
+    {
+     "from": "mongkhon",
+     "type": "ritual",
+     "name": "The mongkhon",
+     "as": "When it comes off."
+    },
+    {
+     "from": "sarama",
+     "type": "music",
+     "name": "The band",
+     "as": "What it opens under."
+    },
+    {
+     "from": "fight-night",
+     "type": "story",
+     "name": "What an evening is shaped like",
+     "as": "The four minutes."
+    },
+    {
+     "from": "khru",
+     "type": "term",
+     "name": "khru",
+     "as": "The ceremony."
+    },
+    {
+     "from": "ram-muay-reading",
+     "type": "term",
+     "name": "Reading a ram muay",
+     "as": "The ceremony."
+    }
+   ]
+  }
+ ]
+}

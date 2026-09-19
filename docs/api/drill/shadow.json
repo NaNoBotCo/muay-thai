@@ -1,0 +1,80 @@
+{
+ "id": "shadow",
+ "type": "drill",
+ "names": {
+  "name": "Skipping and shadow",
+  "th": "กระโดดเชือกและชกลม",
+  "rtgs": "kradot chueak lae chok lom"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "part": "shadow"
+ },
+ "text": {
+  "what": "Rope, then shadow boxing — the movements thrown at nobody.",
+  "story": "Shadow is where the shape is fixed, because nothing is pushing back. A trainer watching shadow is watching the hips on the kick and the hand that drops.\n\n*Inference —* it is also the only part of the session a beginner can do wrong for a month without finding out."
+ },
+ "text_th": {
+  "what": "กระโดดเชือก แล้วชกลม คือการออกอาวุธใส่ความว่างเปล่า",
+  "story": "ชกลมคือที่ที่รูปทรงถูกจัด เพราะไม่มีอะไรดันกลับ ครูที่ยืนดูชกลมคือคนที่กำลังดูสะโพกตอนเตะและมือที่ตก\n\n*อนุมาน —* มันยังเป็นส่วนเดียวของการซ้อมที่ผู้เริ่มต้นทำผิดได้เป็นเดือนโดยไม่รู้ตัว"
+ },
+ "kin": [
+  {
+   "to": "first-session",
+   "as": "Where it sits.",
+   "rel": "drill"
+  },
+  {
+   "to": "first-session",
+   "as": "The order it all comes in.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "session": {
+  "part": "shadow",
+  "minutes": "15–20 min",
+  "when": "After the run, before anything is hit.",
+  "hurts": "Nothing. That is the point."
+ },
+ "images": [
+  {
+   "file": "shadow/shadow-learning-muay-thai-with-royal-thai-marines-160213-m-19aade7.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-035.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-035.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421271/learning-muay-thai-with-royal-thai-marines",
+   "alt": "Royal Thai Marines demonstrate Muay Thai techniques to U.S., Royal Thai and Republic of Korea Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016. CG 16 is a multinational training exerc",
+   "date": "Taken on 13 February 2016",
+   "primary": true,
+   "sha256": "ef2b3a12158100c41042ec74508c68bb27284d0976b8ceeeda7124037589778e"
+  }
+ ],
+ "kin_in": []
+}

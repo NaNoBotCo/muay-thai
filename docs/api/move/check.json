@@ -1,0 +1,85 @@
+{
+ "id": "check",
+ "type": "move",
+ "names": {
+  "name": "Checking the kick",
+  "th": "เช็กแข้ง",
+  "rtgs": "chek khaeng",
+  "said": "The one exchange where the defender wins outright.",
+  "said_th": "การแลกครั้งเดียวที่ฝ่ายรับชนะขาด"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "everyday",
+  "range": "long"
+ },
+ "text": {
+  "what": "Lifting the shin to meet an incoming round kick, so that the two bones collide and the thrower takes the worse end.",
+  "story": "Everything else in the sport costs something to defend. A blocked punch still moves you; a caught kick still turns you. A checked kick turns the attack into an injury for the attacker, which is why a fighter who checks well can change somebody's whole game plan inside two rounds without throwing anything."
+ },
+ "text_th": {
+  "what": "ยกแข้งขึ้นรับเตะวงที่เข้ามา ให้กระดูกสองชิ้นชนกัน แล้วคนเตะเป็นฝ่ายเจ็บกว่า",
+  "story": "ทุกอย่างในกีฬานี้มีต้นทุนในการป้องกัน หมัดที่บล็อกได้ก็ยังทำให้คุณขยับ เตะที่รับไว้ก็ยังทำให้คุณหมุน แต่เตะที่ถูกเช็กเปลี่ยนการโจมตีให้กลายเป็นอาการบาดเจ็บของคนโจมตีเอง คนที่เช็กเก่งจึงเปลี่ยนแผนของอีกฝ่ายได้ภายในสองยก โดยไม่ต้องออกอาวุธอะไรเลย"
+ },
+ "kin": [
+  {
+   "to": "te-chiang",
+   "as": "What it is aimed at.",
+   "rel": "move"
+  },
+  {
+   "to": "shin",
+   "as": "Bone against bone.",
+   "rel": "weapon"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "check/check-muay-thai-low-kick.jpg",
+   "source": "commons",
+   "title": "File:Muay thai low kick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Muay_thai_low_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_low_kick.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "superwebdeveloper",
+   "credit": "https://www.flickr.com/photos/superwebdeveloper/5106991788/sizes/o/in/photostream/",
+   "alt": "Fighter throwing a lowkick during an amateur muay thai competition.",
+   "date": "2010-10-22",
+   "primary": true,
+   "sha256": "5a8e046a376314a071708fea93e639a2e5949cb22e2f4d2b7c30a4d98e5957a0"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "te-chiang",
+   "type": "move",
+   "name": "The round kick",
+   "as": "What stops it."
+  }
+ ]
+}

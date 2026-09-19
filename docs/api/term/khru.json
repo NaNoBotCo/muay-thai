@@ -1,0 +1,63 @@
+{
+ "id": "khru",
+ "type": "term",
+ "names": {
+  "name": "khru",
+  "th": "ครู",
+  "rtgs": "khru",
+  "said": "Teacher. The same word the wai kru is addressed to."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "gym"
+ },
+ "text": {
+  "what": "What a trainer is, and what the ceremony before the fight is aimed at.",
+  "story": "*Wai khru* is *wai* — the palms-together greeting — plus *khru*. It is the same ceremony Thai schools hold for schoolteachers on a Thursday in June, and the same one a shadow-puppet troupe or a poet performs.\n\n*Inference —* the thing a fighter kneels to at the start of a fight is not a god and not the ring. It is a person who taught him, present or not."
+ },
+ "text_th": {
+  "what": "ครูคืออะไร และพิธีก่อนชกมุ่งไปที่ใคร",
+  "story": "*ไหว้ครู* คือ *ไหว้* บวก *ครู* เป็นพิธีเดียวกับที่โรงเรียนไทยจัดให้ครูในวันพฤหัสบดีของเดือนมิถุนายน และเป็นพิธีเดียวกับที่คณะหนังตะลุงหรือกวีทำ\n\n*อนุมาน —* สิ่งที่นักมวยคุกเข่าให้ตอนเริ่มไฟต์ไม่ใช่เทพและไม่ใช่เวที แต่เป็นคนที่สอนเขา จะอยู่ตรงนั้นหรือไม่ก็ตาม"
+ },
+ "kin": [
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "The ceremony.",
+   "rel": "ritual"
+  },
+  {
+   "to": "camp-vs-school",
+   "as": "Who has one.",
+   "rel": "gym"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Sanskrit गुरु guru — heavy, weighty; hence a teacher",
+  "tier": "cited",
+  "source": "s:wp-muay-thai"
+ },
+ "kin_in": []
+}

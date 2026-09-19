@@ -1,0 +1,84 @@
+{
+ "id": "pads",
+ "type": "drill",
+ "names": {
+  "name": "Pads",
+  "th": "เตะเป้า",
+  "rtgs": "te pao"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "part": "pads"
+ },
+ "text": {
+  "what": "Rounds with a trainer holding Thai pads — thick forearm shields — calling combinations and hitting back.",
+  "story": "This is the session. A pad round is a conversation: the trainer calls, you throw, he corrects by hitting the gap you left. He wears a belly pad so the body kick and the knee have somewhere to go at any moment.\n\n*Inference —* the quality of a gym is the quality of its pad holders and the number of students per one of them. Everything else in the timetable you could do in a park."
+ },
+ "text_th": {
+  "what": "ซ้อมกับครูที่ถือเป้ามวย คือเป้าหนาสวมท่อนแขน เรียกชุดอาวุธและตีสวนกลับ",
+  "story": "นี่คือตัวการซ้อม หนึ่งยกเป้าคือการสนทนา ครูเรียก คุณออกอาวุธ เขาแก้ด้วยการตีเข้าช่องที่คุณเปิดไว้ เขาใส่เป้าท้องไว้ด้วย เพื่อให้เตะลำตัวและเข่ามีที่ไปได้ทุกเมื่อ\n\n*อนุมาน —* คุณภาพของยิมคือคุณภาพของคนถือเป้า และจำนวนนักเรียนต่อคนถือเป้าหนึ่งคน ที่เหลือในตารางคุณไปทำที่สวนสาธารณะก็ได้"
+ },
+ "kin": [
+  {
+   "to": "choosing-a-gym",
+   "as": "The question to ask about it.",
+   "rel": "gym"
+  },
+  {
+   "to": "te-chiang",
+   "as": "What is being built.",
+   "rel": "move"
+  },
+  {
+   "to": "first-session",
+   "as": "The order it all comes in.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "session": {
+  "part": "pads",
+  "minutes": "3–5 rounds",
+  "when": "The middle of the session, and the reason you paid.",
+  "hurts": "Everything."
+ },
+ "images": [
+  {
+   "file": "pads/pads-learning-muay-thai-with-royal-thai-marines-160213-m-baf2866.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-047.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-047.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421301/learning-muay-thai-with-royal-thai-marines",
+   "alt": "Service members from the Royal Thai, Republic of Korea, and U.S. Marines practice Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016.",
+   "date": "Taken on 13 February 2016",
+   "primary": true,
+   "sha256": "48d4f9e3dfafed922da349756c8b0508e660294e514d27e1578679534476577d"
+  }
+ ]
+}

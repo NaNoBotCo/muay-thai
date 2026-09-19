@@ -1,0 +1,70 @@
+{
+ "id": "kings-guard",
+ "type": "story",
+ "names": {
+  "name": "The King's Guard, 1455",
+  "th": "กรมทนายเลือก พ.ศ. 1998",
+  "rtgs": "krom thanai lueak",
+  "said": "Boxing becomes a government department with two directors and a payroll.",
+  "said_th": "มวยกลายเป็นกรมของรัฐ มีเจ้ากรมสองตำแหน่งและมีบัญชีเงินเดือน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "Under the Law of the Military and Provincial Hierarchy of 1455, boxing was folded into the Ayutthaya court as the King's Guard Department — with a sub-division, the *Krom Nak Muay*, the department of boxers.",
+  "story": "Two director-generals, with the noble titles **Khun Phakdee Asa** and **Khun Yothaphakdee**. The boxers were picked by the king out of competition, and their duties were to guard him and patrol the palace — in peacetime by fighting each other, in war by going with him.\n\nThe historical term for one of them is **ทนายเลือก** *thanai lueak*, the chosen. It stayed on the books until the reign of King Mongkut, 1851 to 1868.\n\n*Inference —* four hundred years of a state selecting fighters by tournament, for a job. The stadium system that replaced it kept the selection and changed the employer."
+ },
+ "text_th": {
+  "what": "ภายใต้พระอัยการตำแหน่งนาทหารหัวเมือง พ.ศ. 1998 มวยถูกผนวกเข้าราชสำนักอยุธยาในชื่อกรมทนายเลือก โดยมีหน่วยย่อยคือ *กรมนักมวย*",
+  "story": "เจ้ากรมสองตำแหน่ง มีบรรดาศักดิ์ **ขุนภักดีอาสา** และ **ขุนโยธาภักดี** นักมวยถูกคัดเลือกโดยพระมหากษัตริย์จากการแข่งขัน และมีหน้าที่ถวายอารักขาและตรวจตราพระราชวัง ยามสงบด้วยการชกกันเอง ยามศึกด้วยการตามเสด็จ\n\nคำเรียกคนเหล่านี้คือ **ทนายเลือก** คงอยู่ในกฎหมายจนถึงรัชกาลที่ 4 พ.ศ. 2394 ถึง 2411\n\n*อนุมาน —* สี่ร้อยปีที่รัฐคัดนักสู้ด้วยการแข่งขัน เพื่องานหนึ่ง ระบบสนามมวยที่มาแทนที่เก็บการคัดเลือกไว้ และเปลี่ยนนายจ้าง"
+ },
+ "kin": [
+  {
+   "to": "angkor-1431",
+   "as": "The campaign before it.",
+   "rel": "story"
+  },
+  {
+   "to": "sat",
+   "as": "Who the employer is now.",
+   "rel": "org"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-borommatrailokkanat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "angkor-1431",
+   "type": "story",
+   "name": "Boxers at Angkor, 1431",
+   "as": "What it became, twenty-four years later."
+  },
+  {
+   "from": "ekathotsarot-law",
+   "type": "story",
+   "name": "The law that would not punish it",
+   "as": "The other half of the same society."
+  }
+ ]
+}

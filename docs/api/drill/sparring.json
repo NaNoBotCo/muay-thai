@@ -1,0 +1,80 @@
+{
+ "id": "sparring",
+ "type": "drill",
+ "names": {
+  "name": "Sparring",
+  "th": "สปาร์",
+  "rtgs": "spa"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "part": "spar"
+ },
+ "text": {
+  "what": "Light to medium contact, because a fighter with a card booked cannot afford to be hurt in the gym.",
+  "story": "The English article is clear that sparring is \"often a light to medium contact exercise\" for exactly that reason, and that specific things get trained in it — close range, clinch and knees only, cutting off the ring, keeping an aggressor at distance.\n\n*Inference —* a gym where the sparring is hard every day is a gym that is not preparing anyone for anything."
+ },
+ "text_th": {
+  "what": "สัมผัสเบาถึงปานกลาง เพราะนักมวยที่มีคิวชกเสียเวลากับการบาดเจ็บในยิมไม่ได้",
+  "story": "บทความภาษาอังกฤษระบุชัดว่าการสปาร์ \"มักเป็นการฝึกสัมผัสเบาถึงปานกลาง\" ด้วยเหตุผลนั้นพอดี และมีเรื่องเฉพาะที่ฝึกในนั้น ทั้งระยะประชิด การจับคอตีและเข่าอย่างเดียว การต้อนเข้ามุม และการกันคนบุกไว้นอกระยะ\n\n*อนุมาน —* ยิมที่สปาร์หนักทุกวันคือยิมที่ไม่ได้เตรียมใครไปทำอะไรทั้งนั้น"
+ },
+ "kin": [
+  {
+   "to": "head-injury",
+   "as": "Why the contact is light.",
+   "rel": "issue"
+  },
+  {
+   "to": "first-session",
+   "as": "The order it all comes in.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "session": {
+  "part": "spar",
+  "minutes": "3–5 rounds",
+  "when": "Two or three times a week, not every day.",
+  "hurts": "Less than you expect, if it is done right."
+ },
+ "images": [
+  {
+   "file": "sparring/sparring-learning-muay-thai-with-royal-thai-marines-160213-m-8d91170.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-083.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-083.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421338/learning-muay-thai-with-royal-thai-marines",
+   "alt": "Royal Thai Marines demonstrate a Muay Thai martial arts techniques to U.S., Royal Thai and Republic of Korea Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016. CG 16 is a multinational",
+   "date": "2016-02-11",
+   "primary": true,
+   "sha256": "6876d13e0b7ce01b54003edf2f763f1ce7a8476ebcb62933f1fd7a06384eea5f"
+  }
+ ],
+ "kin_in": []
+}

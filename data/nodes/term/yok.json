@@ -1,0 +1,62 @@
+{
+ "id": "yok",
+ "type": "term",
+ "names": {
+  "name": "yok",
+  "th": "ยก",
+  "rtgs": "yok",
+  "said": "A round. The word is *lift*."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "ring"
+ },
+ "text": {
+  "what": "The unit a fight is divided into. Five of them.",
+  "story": "*Yok wian*, the rotating round, is the format Chaiya used at Sala Kao Hong: every pair on the bill fought round one, then every pair fought round two, and any pair that could not finish five dropped out.\n\n*Inference —* the word being *lift* rather than *round* is a small tell that the unit predates the ring. Something was being raised to mark it."
+ },
+ "text_th": {
+  "what": "หน่วยที่ไฟต์ถูกแบ่ง มีห้ายก",
+  "story": "*ยกเวียน* คือรูปแบบที่ไชยาใช้ที่ศาลาเก้าห้อง ทุกคู่บนรายการชกยกหนึ่ง แล้วทุกคู่ชกยกสอง คู่ไหนชกไม่ครบห้ายกก็ออกไป\n\n*อนุมาน —* การที่คำนี้แปลว่า *ยก* แทนที่จะแปลว่ารอบ เป็นร่องรอยเล็ก ๆ ว่าหน่วยนี้มีมาก่อนเวที มีอะไรบางอย่างถูกยกขึ้นเพื่อบอกจังหวะ"
+ },
+ "kin": [
+  {
+   "to": "rounds",
+   "as": "Five of them.",
+   "rel": "rule"
+  },
+  {
+   "to": "chaiya",
+   "as": "Where yok wian was fought.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Thai ยก — to lift, to raise",
+  "tier": "cited",
+  "source": "s:thwp-มวยไทย"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "built": "2026-09-19 19:42",
+ "records": 129,
+ "by_type": {
+  "weapon": 5,
+  "move": 13,
+  "style": 12,
+  "ritual": 7,
+  "music": 5,
+  "bout": 2,
+  "person": 15,
+  "venue": 5,
+  "gym": 4,
+  "drill": 7,
+  "rule": 6,
+  "kit": 6,
+  "story": 14,
+  "place": 7,
+  "org": 4,
+  "issue": 4,
+  "term": 10,
+  "art": 3
+ },
+ "kin_edges": 394,
+ "sources": 169,
+ "needs_verification": 12,
+ "bilingual": 129,
+ "th_fields": 266,
+ "images": 112,
+ "records_with_images": 79,
+ "techniques": 30,
+ "gyms": 527,
+ "gym_countries": 58,
+ "roster": 1186,
+ "tiers": {
+  "cited": 104,
+  "tradition": 6,
+  "inference": 16,
+  "harvested": 3
+ }
+}

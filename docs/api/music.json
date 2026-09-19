@@ -1,0 +1,482 @@
+{
+ "type": "music",
+ "count": 5,
+ "nodes": [
+  {
+   "id": "ching",
+   "type": "music",
+   "names": {
+    "name": "The time",
+    "th": "ฉิ่ง",
+    "rtgs": "ching",
+    "said": "Two small cups of bronze. They decide where the beat is.",
+    "said_th": "ถ้วยทองเหลืองเล็ก ๆ สองใบ เป็นตัวกำหนดว่าจังหวะอยู่ตรงไหน"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "instrument": "time"
+   },
+   "text": {
+    "what": "A pair of thick bronze cups on a cord, struck together. Closed, they say *ching*; let ring, they say *chap*, and the two syllables are the name and the notation.",
+    "story": "The smallest instrument in the band and the one that is in charge. Thai classical time is counted off the ching, not the drum: the closed stroke and the open stroke mark the weak and the strong, and every other player is hanging off them.\n\n*Inference —* this is why a stadium band can accelerate without falling apart. The tempo is being carried by two pieces of metal that cannot get tired."
+   },
+   "text_th": {
+    "what": "ถ้วยทองเหลืองหนาสองใบร้อยเชือก ตีกระทบกัน ปิดเสียงเป็น *ฉิ่ง* ปล่อยกังวานเป็น *ฉับ* สองพยางค์นั้นคือทั้งชื่อและตัวโน้ต",
+    "story": "เครื่องที่เล็กที่สุดในวง และเป็นเครื่องที่คุมอยู่ จังหวะในดนตรีไทยนับจากฉิ่ง ไม่ใช่จากกลอง เสียงปิดกับเสียงเปิดบอกเบาและหนัก และคนเล่นที่เหลือทั้งหมดเกาะอยู่กับมัน\n\n*อนุมาน —* นี่คือเหตุที่วงริมเวทีเร่งความเร็วได้โดยไม่หลุด ความเร็วถูกถือไว้โดยโลหะสองชิ้นที่ไม่มีวันเหนื่อย"
+   },
+   "kin": [
+    {
+     "to": "sarama",
+     "as": "The band.",
+     "rel": "music"
+    }
+   ],
+   "sources": [
+    "s:thwp-ฉ-ง"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-ฉ-ง"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "sarama",
+     "type": "music",
+     "name": "The band",
+     "as": "The time."
+    }
+   ]
+  },
+  {
+   "id": "klong-khaek",
+   "type": "music",
+   "names": {
+    "name": "The drums",
+    "th": "กลองแขก",
+    "rtgs": "klong khaek",
+    "said": "A pair, and the pair is male and female.",
+    "said_th": "หนึ่งคู่ และคู่นั้นคือตัวผู้กับตัวเมีย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "instrument": "drum"
+   },
+   "text": {
+    "what": "Two long double-headed drums played with the hands, one pitched higher than the other. Thai names them *tua phu* and *tua mia* — the male and the female.",
+    "story": "The two drums do not play the same thing. One keeps the frame and the other answers inside it, which is where the drive comes from as the fight speeds up.\n\n*Khaek* is a Thai word for people from the west and south — Malay, Javanese, Indian, Middle Eastern — and the drum is named after where it came from rather than what it is. The sport's soundtrack is an import, and so is its oboe."
+   },
+   "text_th": {
+    "what": "กลองสองหน้าทรงยาวสองใบ ตีด้วยมือ ใบหนึ่งเสียงสูงกว่าอีกใบ ไทยเรียก ตัวผู้ กับ ตัวเมีย",
+    "story": "กลองสองใบไม่ได้ตีเหมือนกัน ใบหนึ่งคุมกรอบ อีกใบตอบอยู่ข้างใน และนั่นคือที่มาของแรงขับเมื่อไฟต์เร่งขึ้น\n\n*แขก* เป็นคำไทยเรียกผู้คนจากทางตะวันตกและทางใต้ — มลายู ชวา อินเดีย ตะวันออกกลาง — กลองนี้ตั้งชื่อตามที่มา ไม่ใช่ตามสิ่งที่มันเป็น เสียงประกอบของกีฬานี้เป็นของนำเข้า และปี่ของมันก็เช่นกัน"
+   },
+   "kin": [
+    {
+     "to": "sarama",
+     "as": "The band.",
+     "rel": "music"
+    },
+    {
+     "to": "pi-chawa",
+     "as": "What it came in with.",
+     "rel": "music"
+    }
+   ],
+   "sources": [
+    "s:thwp-กลองแขก"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-กลองแขก"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "klong-khaek/klong-khaek-piphat-mon.jpg",
+     "source": "commons",
+     "title": "File:Piphat Mon.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Piphat_Mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APiphat_Mon.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Mahatee",
+     "credit": "Own work",
+     "alt": "Thailand: Mon Pi Paat Band Rayong Witthayakhom School",
+     "date": "",
+     "primary": true,
+     "sha256": "8af946af14de73c401ff8c513e81fc816d6fc39ea490777f5cfeff1ff7998bb4"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "pi-chawa",
+     "type": "music",
+     "name": "The oboe",
+     "as": "What it came in with."
+    },
+    {
+     "from": "sarama",
+     "type": "music",
+     "name": "The band",
+     "as": "The drums."
+    }
+   ]
+  },
+  {
+   "id": "klong-sabatchai",
+   "type": "music",
+   "names": {
+    "name": "The victory drum",
+    "th": "กลองสะบัดชัย",
+    "rtgs": "klong sabat chai",
+    "said": "Played with the elbow, the knee and the head. The drumming uses the weapons.",
+    "said_th": "ตีด้วยศอก เข่า และศีรษะ การตีกลองใช้อาวุธของมวย"
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "instrument": "drum"
+   },
+   "text": {
+    "what": "The Lanna war drum, beaten going out to battle for good fortune and to hold the soldiers' nerve. Three old melodies are named: *Chaiphaeri*, *Chaithiti*, *Chanamarn*.",
+    "story": "The Thai article describes how it is played now, and the sentence is the finding: the style is **bold and rousing, and the player uses parts of the body — the elbow, the knee, the head — to strike the drum**.\n\n*Inference —* a drum played with the elbow and the knee, in a region whose martial dance is the sport's claimed origin, is not a coincidence anyone needs to argue for. The same body is being trained. In one direction it hits a drum; in the other it hits a man.\n\n**Where the oldest one was found.** A miniature sabatchai drum set in bronze was excavated at Wat Chedi Sung, Ban Luang subdistrict, **Hot district, Chiang Mai** — two double-headed drums of different sizes, a gong as wide as the larger drum, three beaters and a carrying pole for the lot. Hot sits on Route 108, on the Mae Hong Son loop.\n\nThe common form hangs in temple drum-towers across Lanna: one big double-headed drum, 30 to 35 inches across and about 45 inches long, hide fixed with pegs — Lanna calls them *saeo* — left long rather than trimmed flush, with two or three small drums called *luk tup* beside it."
+   },
+   "text_th": {
+    "what": "กลองศึกของล้านนา ตียามออกศึกเพื่อเป็นสิริมงคลและเป็นขวัญกำลังใจแก่เหล่าทหาร มีทำนองโบราณสามทำนอง คือ ชัยเภรี ชัยดิถี และชนะมาร",
+    "story": "บทความไทยอธิบายวิธีตีในปัจจุบัน และประโยคนั้นคือข้อค้นพบ ลีลาการตี **โลดโผนเร้าใจ และผู้ตีใช้อวัยวะส่วนต่าง ๆ ของร่างกาย เช่น ศอก เข่า ศีรษะ ประกอบในการตี**\n\n*อนุมาน —* กลองที่ตีด้วยศอกและเข่า ในภูมิภาคที่การฟ้อนเชิงต่อสู้ของมันคือต้นทางที่กีฬานี้อ้าง ไม่ใช่ความบังเอิญที่ต้องเถียงให้ใครฟัง ร่างกายชุดเดียวกันกำลังถูกฝึก ทางหนึ่งมันตีกลอง อีกทางหนึ่งมันตีคน\n\n**ของเก่าที่สุดพบที่ไหน** กลองสะบัดชัยจำลองทำด้วยสำริดขุดพบที่วัดเจดีย์สูง ตำบลบ้านหลวง **อำเภอฮอด จังหวัดเชียงใหม่** ประกอบด้วยกลองสองหน้าขนาดเล็กหนึ่งลูก ขนาดใหญ่หนึ่งลูก ฆ้องหน้ากว้างพอ ๆ กับกลองใหญ่อีกหนึ่งใบ ไม้ตีสามอัน และคานหามรวมกันทั้งชุด อำเภอฮอดอยู่บนทางหลวง 108 บนวงรอบแม่ฮ่องสอน\n\nแบบที่พบทั่วไปแขวนอยู่ตามหอกลองของวัดในเขตล้านนา กลองสองหน้าขนาดใหญ่หนึ่งลูก หน้ากว้างราว 30–35 นิ้ว ยาวราว 45 นิ้ว หุ้มหนังตรึงด้วยหมุดที่ล้านนาเรียกว่า *แซว่* ปล่อยยาวไม่ตัดเรียบ ข้าง ๆ มีกลองลูกเล็กสองสามลูกเรียกว่า *ลูกตุบ*"
+   },
+   "kin": [
+    {
+     "to": "fon-jerng",
+     "as": "What it is played over.",
+     "rel": "style"
+    },
+    {
+     "to": "kham-kaiwai",
+     "as": "The National Artist of it.",
+     "rel": "person"
+    },
+    {
+     "to": "sarama",
+     "as": "The other band, at the ring.",
+     "rel": "music"
+    },
+    {
+     "to": "lanna",
+     "as": "Whose drum.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:thwp-กลองสะบัดชัย",
+    "s:thwp-นาฏศิลป์ล้านนา"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-กลองสะบัดชัย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "klong-sabatchai/klong-sabatchai-piphat-mon.jpg",
+     "source": "commons",
+     "title": "File:Piphat Mon.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Piphat_Mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APiphat_Mon.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Mahatee",
+     "credit": "Own work",
+     "alt": "Thailand: Mon Pi Paat Band Rayong Witthayakhom School",
+     "date": "",
+     "primary": true,
+     "sha256": "8af946af14de73c401ff8c513e81fc816d6fc39ea490777f5cfeff1ff7998bb4"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "fon-jerng",
+     "type": "style",
+     "name": "Fon jerng",
+     "as": "What is played over it."
+    },
+    {
+     "from": "kham-kaiwai",
+     "type": "person",
+     "name": "Kham Kaiwai",
+     "as": "His drum."
+    },
+    {
+     "from": "lanna",
+     "type": "place",
+     "name": "Lanna",
+     "as": "The drum."
+    }
+   ]
+  },
+  {
+   "id": "pi-chawa",
+   "type": "music",
+   "names": {
+    "name": "The oboe",
+    "th": "ปี่ชวา",
+    "rtgs": "pi chawa",
+    "said": "Its reed is four folded leaves of an old palm.",
+    "said_th": "ลิ้นของมันคือใบตาลแก่พับซ้อนสี่กลีบ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "instrument": "wind"
+   },
+   "text": {
+    "what": "A double-reed pipe in two pieces — a bored body with seven finger holes and a thumb hole, and a flared bell — with a reed made of four folded pieces of mature palm leaf.",
+    "story": "*Chawa* means Java. The Thai article's reading is that the pipe arrived in Thailand at the same time as the klong khaek, the drums it still plays with — two imports that came in as a pair and stayed a pair.\n\nAnd the pipe is not only a boxing instrument. The article lists it in the *bua loi* ensemble, in the *pi phat nang hong* ensemble, in the string ensemble that takes its name, and then, at the end of the list, for krabi-krabong dance and for boxing. The same reed plays a funeral and a fight."
+   },
+   "text_th": {
+    "what": "ปี่ลิ้นคู่ สองท่อน ตัวเลาเจาะรูนิ้วเจ็ดรูกับรูนิ้วค้ำ และลำโพงบาน ลิ้นทำจากใบตาลแก่พับซ้อนกันสี่กลีบ",
+    "story": "*ชวา* คือชวา การอ่านของบทความไทยคือปี่นี้เข้ามาในเมืองไทยพร้อมกับกลองแขก กลองที่มันยังบรรเลงคู่กันอยู่ ของนำเข้าสองอย่างที่มาเป็นคู่และอยู่เป็นคู่\n\nและปี่นี้ไม่ใช่เครื่องดนตรีของมวยอย่างเดียว บทความระบุไว้ในวงบัวลอย ในวงปี่พาทย์นางหงส์ ในวงเครื่องสายปี่ชวาที่ตั้งชื่อตามมัน แล้วท้ายรายการจึงเป็นการรำกระบี่กระบองและการชกมวย ลิ้นอันเดียวกันบรรเลงทั้งงานศพและไฟต์"
+   },
+   "kin": [
+    {
+     "to": "sarama",
+     "as": "The band it leads.",
+     "rel": "music"
+    },
+    {
+     "to": "klong-khaek",
+     "as": "What it came in with.",
+     "rel": "music"
+    }
+   ],
+   "sources": [
+    "s:thwp-ป-ชวา"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-ป-ชวา"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "pi-chawa/pi-chawa-lorchestre-tha-landais-piphat-mon-mus-e-de-la-musiqu-d522f54.jpg",
+     "source": "commons",
+     "title": "File:Lorchestre thaïlandais piphat mon (musée de la musique) (3771128467).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lorchestre_tha%C3%AFlandais_piphat_mon_%28mus%C3%A9e_de_la_musique%29_%283771128467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALorchestre_tha%C3%AFlandais_piphat_mon_%28mus%C3%A9e_de_la_musique%29_%283771128467%29.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Jean-Pierre Dalbéra from Paris, France",
+     "credit": "L'orchestre thaïlandais piphat mon (musée de la musique)",
+     "alt": "Le musée de la musique est un des départements de la Cité de la musique, à Paris. Héritier de la collection d'instruments de musique du Conservatoire National, il a été inauguré en 1997 dans ses locau",
+     "date": "2009-07-29 17:08",
+     "primary": true,
+     "sha256": "76056c57e0be5a731c62884324d5053fe45ea268cd2df4a3438fdfb8d7a2b461"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "klong-khaek",
+     "type": "music",
+     "name": "The drums",
+     "as": "What it came in with."
+    },
+    {
+     "from": "sarama",
+     "type": "music",
+     "name": "The band",
+     "as": "The oboe."
+    }
+   ]
+  },
+  {
+   "id": "sarama",
+   "type": "music",
+   "names": {
+    "name": "The band",
+    "th": "วงปี่กลอง",
+    "rtgs": "wong pi klong",
+    "said": "Four instruments, live, and they speed up when it matters.",
+    "said_th": "เครื่องดนตรีสี่ชิ้น บรรเลงสด และเร่งขึ้นเมื่อถึงเวลา",
+    "aliases": [
+     "sarama",
+     "เพลงมวย"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "instrument": "ensemble"
+   },
+   "text": {
+    "what": "Every stadium fight in Thailand is played live by a small band: an oboe, a pair of drums and a pair of hand cymbals, sitting at the ring apron.",
+    "story": "The music is not atmosphere. It is a clock and a commentary.\n\nIt starts slow under the wai kru, holds a walking pace through the early rounds, and accelerates — the drums first, then the oboe climbing — as the fight goes on. By the fifth round a good band is playing at a speed that makes two tired men look faster than they are, and the crowd noise is timed to it.\n\n*Inference —* if you cannot follow the scoring, follow the band. It is a reliable guide to where a stadium thinks the fight is, and it is free."
+   },
+   "text_th": {
+    "what": "ไฟต์บนเวทีในเมืองไทยทุกไฟต์มีวงเล็ก ๆ บรรเลงสด ปี่หนึ่งเลา กลองหนึ่งคู่ และฉิ่งหนึ่งคู่ นั่งอยู่ริมเวที",
+    "story": "ดนตรีไม่ใช่บรรยากาศ มันคือนาฬิกาและคำบรรยาย\n\nเริ่มช้าใต้การไหว้ครู คงจังหวะเดินไว้ในยกต้น ๆ แล้วเร่งขึ้น กลองก่อน ปี่ไต่ตาม เมื่อไฟต์ดำเนินไป พอถึงยกห้า วงที่ดีจะเล่นในความเร็วที่ทำให้คนเหนื่อยสองคนดูเร็วกว่าที่เป็น และเสียงคนดูก็จับจังหวะนั้น\n\n*อนุมาน —* ถ้าตามคะแนนไม่ทัน ให้ตามวงดนตรี มันเป็นเครื่องชี้ที่เชื่อถือได้ว่าสนามคิดว่าไฟต์อยู่ตรงไหน และฟรี"
+   },
+   "kin": [
+    {
+     "to": "pi-chawa",
+     "as": "The oboe.",
+     "rel": "music"
+    },
+    {
+     "to": "klong-khaek",
+     "as": "The drums.",
+     "rel": "music"
+    },
+    {
+     "to": "ching",
+     "as": "The time.",
+     "rel": "music"
+    },
+    {
+     "to": "wai-kru-ram-muay",
+     "as": "What it opens under.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:thwp-ป-ชวา",
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-ป-ชวา"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "sarama/sarama-piphat-mon.jpg",
+     "source": "commons",
+     "title": "File:Piphat Mon.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Piphat_Mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APiphat_Mon.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Mahatee",
+     "credit": "Own work",
+     "alt": "Thailand: Mon Pi Paat Band Rayong Witthayakhom School",
+     "date": "",
+     "primary": true,
+     "sha256": "8af946af14de73c401ff8c513e81fc816d6fc39ea490777f5cfeff1ff7998bb4"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "wai-kru-ram-muay",
+     "type": "ritual",
+     "name": "The dance before the fight",
+     "as": "What is played under it."
+    },
+    {
+     "from": "ching",
+     "type": "music",
+     "name": "The time",
+     "as": "The band."
+    },
+    {
+     "from": "klong-khaek",
+     "type": "music",
+     "name": "The drums",
+     "as": "The band."
+    },
+    {
+     "from": "klong-sabatchai",
+     "type": "music",
+     "name": "The victory drum",
+     "as": "The other band, at the ring."
+    },
+    {
+     "from": "pi-chawa",
+     "type": "music",
+     "name": "The oboe",
+     "as": "The band it leads."
+    },
+    {
+     "from": "fight-night",
+     "type": "story",
+     "name": "What an evening is shaped like",
+     "as": "What you are listening to."
+    }
+   ]
+  }
+ ]
+}

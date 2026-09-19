@@ -1,0 +1,111 @@
+{
+ "id": "elbow",
+ "type": "weapon",
+ "names": {
+  "name": "The elbow",
+  "th": "ศอก",
+  "rtgs": "sok",
+  "said": "The only weapon that ends a fight without knocking anyone out.",
+  "said_th": "อาวุธเดียวที่จบไฟต์ได้โดยไม่ต้องน็อก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "range": "close"
+ },
+ "text": {
+  "what": "A short bone with no padding on it, swung horizontally, diagonally, upward, downward, off a spin, or in the air.",
+  "story": "The English article calls the elbow \"the most dangerous form of attack in the sport\". The reason is not power — a knee carries more of it — it is the edge. An elbow opens the skin over the eyebrow, the eyebrow bleeds into the eye, the doctor looks at it, and the fight is over with both men still standing.\n\nSo the elbow is the weapon that beats the referee's arithmetic. You do not have to out-score anyone. You have to land once.\n\nTwo consequences for a spectator. A corner that is behind on points starts throwing elbows in the fourth, which is why the fourth is the round to watch. And elbows are why the clinch is not the rest it looks like: the two men with their heads together are each waiting for the other to loosen a hand."
+ },
+ "text_th": {
+  "what": "กระดูกสั้นที่ไม่มีอะไรหุ้ม เหวี่ยงได้ทั้งแนวขวาง เฉียงขึ้น เฉียงลง เสย งัดกลับหลัง และลอยตัว",
+  "story": "บทความภาษาอังกฤษเรียกศอกว่า \"รูปแบบการโจมตีที่อันตรายที่สุดในกีฬานี้\" เหตุผลไม่ใช่แรง — เข่ามีแรงกว่า — แต่คือคม ศอกเปิดหนังเหนือคิ้ว คิ้วเลือดไหลลงตา หมอมาดู และไฟต์จบลงทั้งที่ทั้งคู่ยังยืนอยู่\n\nศอกจึงเป็นอาวุธที่เอาชนะการคิดเลขของกรรมการ ไม่ต้องทำแต้มนำใคร แค่ลงให้ได้ครั้งเดียว\n\nผลสองข้อสำหรับคนดู มุมที่ตามหลังคะแนนจะเริ่มออกศอกในยกสี่ นั่นคือเหตุที่ยกสี่เป็นยกที่ต้องดู และศอกคือเหตุผลว่าทำไมการกอดคอไม่ใช่ช่วงพักอย่างที่เห็น สองคนที่เอาหัวชนกันอยู่นั้น ต่างรอให้อีกฝ่ายคลายมือ"
+ },
+ "kin": [
+  {
+   "to": "eight-limbs",
+   "as": "The count it belongs to.",
+   "rel": "weapon"
+  },
+  {
+   "to": "clinch",
+   "as": "Where most of them are thrown from.",
+   "rel": "move"
+  },
+  {
+   "to": "chorakhe-fat-hang",
+   "as": "A named technique that is not an elbow, and is mistaken for one.",
+   "rel": "move"
+  },
+  {
+   "to": "doctor-stoppage",
+   "as": "How an elbow usually wins.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "elbow/elbow-muay-thai-fight-us-vs-burma-80668065.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai Fight Us Vs Burma (80668065).jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Muay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Fight_Us_Vs_Burma_%2880668065%29.jpeg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Gerrit Phil Baumann",
+   "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "alt": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "date": "before 23 August 2014, 02:36:43 (UTC)",
+   "primary": true,
+   "sha256": "63722bf848261deb2f40af8408e57e49aec2f6d04abd47f775a14456a754a3cd"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "eight-limbs",
+   "type": "weapon",
+   "name": "The eight limbs",
+   "as": "One pair of the eight."
+  },
+  {
+   "from": "clinch",
+   "type": "move",
+   "name": "The clinch",
+   "as": "The other thing waiting in there."
+  },
+  {
+   "from": "buakaw-k1-2004",
+   "type": "bout",
+   "name": "Buakaw at K-1 Max, 2004",
+   "as": "And what else."
+  },
+  {
+   "from": "doctor-stoppage",
+   "type": "rule",
+   "name": "The doctor, and the cut",
+   "as": "What opens it."
+  }
+ ]
+}

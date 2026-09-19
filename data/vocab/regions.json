@@ -1,0 +1,89 @@
+{
+ "note": "Open list. A record may name a region not listed here; validate.py warns so it can be added.",
+ "entries": [
+  {
+   "key": "thailand",
+   "name": "Thailand",
+   "th": "ประเทศไทย",
+   "note": "the country the sport is from and where its two ranking stadiums are"
+  },
+  {
+   "key": "bangkok",
+   "name": "Bangkok",
+   "th": "กรุงเทพมหานคร",
+   "note": "Lumpinee, Rajadamnern, Channel 7, and the gambling floor that pays for them"
+  },
+  {
+   "key": "isan",
+   "name": "Isan",
+   "th": "อีสาน",
+   "note": "the northeast; the plurality of Thai stadium fighters are from here"
+  },
+  {
+   "key": "central",
+   "name": "The central plain",
+   "th": "ภาคกลาง",
+   "note": "Ayutthaya, Lopburi, Korat's western edge — where the court schools were"
+  },
+  {
+   "key": "south",
+   "name": "The south",
+   "th": "ภาคใต้",
+   "note": "Chaiya, and the style named after it"
+  },
+  {
+   "key": "north",
+   "name": "The north",
+   "th": "ภาคเหนือ",
+   "note": "Chiang Mai and the tourist-facing gyms"
+  },
+  {
+   "key": "uttaradit",
+   "name": "Uttaradit",
+   "th": "จังหวัดอุตรดิตถ์",
+   "note": "Thasao, and Phraya Phichai of the broken sword"
+  },
+  {
+   "key": "korat",
+   "name": "Nakhon Ratchasima",
+   "th": "จังหวัดนครราชสีมา",
+   "note": "Korat, the school of the long swinging punch"
+  },
+  {
+   "key": "lopburi",
+   "name": "Lopburi",
+   "th": "จังหวัดลพบุรี",
+   "note": "the school named for the old Khmer-Thai city"
+  },
+  {
+   "key": "chaiya",
+   "name": "Chaiya",
+   "th": "อำเภอไชยา",
+   "note": "a district of Surat Thani; the southern school"
+  },
+  {
+   "key": "phuket",
+   "name": "Phuket",
+   "th": "จังหวัดภูเก็ต",
+   "note": "where the foreign training industry is densest"
+  },
+  {
+   "key": "world",
+   "name": "Abroad",
+   "th": "ต่างประเทศ",
+   "note": "the fifty-seven other countries with a gym on the map"
+  },
+  {
+   "key": "myth",
+   "name": "In the epic",
+   "th": "ในวรรณคดี",
+   "note": "the Ramakien and its Hindu antecedents, where half the technique names live"
+  },
+  {
+   "key": "lanna",
+   "name": "Lanna",
+   "th": "ล้านนา",
+   "note": "the northern kingdom — Chiang Mai, Chiang Rai, Lamphun, Lampang, Phrae, Nan, Phayao"
+  }
+ ]
+}

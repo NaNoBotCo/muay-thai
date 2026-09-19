@@ -1,0 +1,67 @@
+{
+ "id": "khom-script",
+ "type": "term",
+ "names": {
+  "name": "Khom, and the scripts it is not",
+  "th": "อักษรขอม",
+  "rtgs": "akson khom",
+  "said": "Central Thailand's sacred alphabet is Khmer. The north's is not.",
+  "said_th": "อักษรศักดิ์สิทธิ์ของภาคกลางเป็นของเขมร ของภาคเหนือไม่ใช่"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "ring"
+ },
+ "text": {
+  "what": "The Khmer-derived script used in central Thailand for Pali, Sanskrit and anything sacred — including yant done there. It is not the only script a yant is written in, and in the north it is not the usual one.",
+  "story": "Thai took the old Khmer script as its official script around the tenth century, because Thai had no writing system yet. Around the fifteenth century letters were added so it could write Thai, and the result was called **khom** — which is simply the Thai word for Khmer.\n\nFrom then the two scripts divided the work: Thai script for everything secular, Khom for religious text. Its letterforms have barely changed since Sukhothai.\n\n**And in the north it is a different alphabet.** A yant written in Lanna uses northern Thai — *tua mueang*, the Tham script — or Shan or Tai Lu, and in Laos the Lao Tham script. Lanna kept a writing system of its own for exactly the same job, and the yant done there are in it. A yant tells you where its lineage is from before it tells you what it does."
+ },
+ "text_th": {
+  "what": "อักษรที่แตกจากเขมร ใช้ในภาคกลางของไทยสำหรับบาลี สันสกฤต และสิ่งศักดิ์สิทธิ์ รวมถึงยันต์ที่สักที่นั่น มันไม่ใช่อักษรชุดเดียวที่ยันต์เขียนด้วย และทางเหนือก็ไม่ใช่อักษรที่ใช้ตามปกติ",
+  "story": "ไทยรับอักษรเขมรโบราณมาเป็นอักษรทางการราวศตวรรษที่สิบ เพราะภาษาไทยยังไม่มีระบบเขียน ราวศตวรรษที่สิบห้ามีการเพิ่มตัวอักษรเพื่อให้เขียนภาษาไทยได้ และผลลัพธ์เรียกว่า **ขอม** ซึ่งก็คือคำไทยที่แปลว่าเขมรนั่นเอง\n\nจากนั้นอักษรสองชุดก็แบ่งงานกัน อักษรไทยสำหรับเรื่องทางโลก อักษรขอมสำหรับข้อความทางศาสนา รูปตัวอักษรของมันแทบไม่เปลี่ยนเลยตั้งแต่สมัยสุโขทัย\n\n**และทางเหนือใช้คนละอักษร** ยันต์ที่เขียนในล้านนาใช้อักษรธรรมล้านนา หรือ *ตัวเมือง* หรืออักษรไทใหญ่ หรืออักษรไทลื้อ ส่วนในลาวใช้อักษรธรรมลาว ล้านนามีระบบเขียนของตัวเองไว้ทำงานเดียวกันนี้ และยันต์ที่สักที่นั่นก็อยู่ในอักษรนั้น ยันต์บอกคุณว่าสายของมันมาจากไหน ก่อนจะบอกว่ามันทำอะไร"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "What it writes.",
+   "rel": "ritual"
+  },
+  {
+   "to": "lanna",
+   "as": "Where a different alphabet is used.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:wp-khom-thai-script",
+  "s:wp-tai-tham-script",
+  "s:wp-yantra-tattooing"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-khom-thai-script"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ritual",
+  "lanna"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Thai ขอม khom — Khmer, Cambodia; the modern word is เขมร khamen",
+  "note": "the script is named after the people it was taken from",
+  "tier": "cited",
+  "source": "s:wp-khom-thai-script"
+ }
+}

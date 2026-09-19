@@ -1,0 +1,280 @@
+{
+ "type": "org",
+ "count": 4,
+ "nodes": [
+  {
+   "id": "ifma",
+   "type": "org",
+   "names": {
+    "name": "IFMA",
+    "th": "สหพันธ์มวยไทยนานาชาติ",
+    "rtgs": "saphan muay thai nanachat",
+    "said": "Got the sport into the Olympic movement by taking the country out of its name.",
+    "said_th": "พากีฬานี้เข้าสู่ขบวนการโอลิมปิกด้วยการเอาชื่อประเทศออกจากชื่อกีฬา"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "scope": "world"
+   },
+   "text": {
+    "what": "The International Federation of Muaythai Associations, founded 1993, the amateur governing body, with 128 member countries.",
+    "story": "In 2006 the sport was admitted to SportAccord, whose rules say no sport may carry a country's name. So IFMA amended its constitution and the sport became **Muaythai**, one word, for Olympic purposes.\n\nThe rest followed: the World Games in 2017, full IOC recognition on **20 July 2021**, and a demonstration slot at Paris in 2024.\n\n*Inference —* the price of admission was the adjective. A sport whose entire claim is that it is Thai had to stop saying so in its own name to be let in."
+   },
+   "text_th": {
+    "what": "สหพันธ์สมาคมมวยไทยนานาชาติ ก่อตั้ง พ.ศ. 2536 เป็นองค์กรกำกับฝ่ายสมัครเล่น มีประเทศสมาชิก 128 ประเทศ",
+    "story": "ในปี 2549 กีฬานี้เข้าเป็นสมาชิก SportAccord ซึ่งมีกฎว่ากีฬาใดจะมีชื่อประเทศอยู่ในชื่อไม่ได้ IFMA จึงแก้ธรรมนูญ และกีฬานี้กลายเป็น **Muaythai** คำเดียว สำหรับวัตถุประสงค์ทางโอลิมปิก\n\nที่เหลือตามมา เวิลด์เกมส์ปี 2560 การรับรองเต็มรูปแบบจาก IOC เมื่อ **20 กรกฎาคม พ.ศ. 2564** และการเป็นกีฬาสาธิตที่ปารีสปี 2567\n\n*อนุมาน —* ค่าผ่านประตูคือคำคุณศัพท์ กีฬาที่ข้ออ้างทั้งหมดของมันคือความเป็นไทย ต้องเลิกพูดแบบนั้นในชื่อของตัวเองเพื่อจะได้เข้าไป"
+   },
+   "kin": [
+    {
+     "to": "somrak",
+     "as": "The medal that came twenty-five years earlier.",
+     "rel": "person"
+    },
+    {
+     "to": "wmc",
+     "as": "The professional body.",
+     "rel": "org"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "somrak",
+     "type": "person",
+     "name": "Somrak Khamsing",
+     "as": "The body that got the recognition."
+    },
+    {
+     "from": "wmc",
+     "type": "org",
+     "name": "The World Muaythai Council",
+     "as": "The amateur side."
+    }
+   ]
+  },
+  {
+   "id": "one-championship",
+   "type": "org",
+   "names": {
+    "name": "ONE Championship",
+    "th": "วัน แชมเปียนชิพ",
+    "rtgs": "wan chaempiaenchip",
+    "said": "Foreign money, four-ounce gloves, and three rounds instead of five.",
+    "said_th": "เงินต่างชาติ นวมสี่ออนซ์ และสามยกแทนห้ายก"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "scope": "promotion"
+   },
+   "text": {
+    "what": "A Singapore-based promotion running muay thai under its own rules, and paying the best Thai fighters more than the stadium system does.",
+    "story": "It is a promotion, not a federation, and that distinction matters: it sanctions nothing outside its own cards. What it does is buy the fighters.\n\n*Inference —* its rule changes all point the same way — shorter, smaller gloves, more finishes — because its product is a broadcast and a five-round points win does not travel. That is the same pressure that produced K-1, and the same pressure that produced the three-rope ring in 1923. Every time this sport has met an international audience it has been asked to be shorter and more conclusive."
+   },
+   "text_th": {
+    "what": "รายการที่ตั้งฐานในสิงคโปร์ จัดมวยไทยภายใต้กติกาของตัวเอง และจ่ายนักมวยไทยชั้นนำมากกว่าที่ระบบสนามจ่าย",
+    "story": "มันคือรายการ ไม่ใช่สหพันธ์ และความต่างนั้นสำคัญ มันไม่ได้รับรองอะไรนอกรายการของตัวเอง สิ่งที่มันทำคือซื้อตัวนักมวย\n\n*อนุมาน —* การเปลี่ยนกติกาของมันชี้ไปทางเดียวกันหมด สั้นลง นวมเล็กลง จบไฟต์มากขึ้น เพราะสินค้าของมันคือการออกอากาศ และการชนะคะแนนห้ายกเดินทางไม่ได้ นั่นคือแรงกดดันเดียวกับที่สร้าง K-1 และแรงกดดันเดียวกับที่สร้างเวทีสามเชือกในปี 2466 ทุกครั้งที่กีฬานี้เจอผู้ชมต่างชาติ มันถูกขอให้สั้นลงและชี้ขาดกว่าเดิม"
+   },
+   "kin": [
+    {
+     "to": "rodtang",
+     "as": "Whom it pays.",
+     "rel": "person"
+    },
+    {
+     "to": "rounds",
+     "as": "What it shortened.",
+     "rel": "rule"
+    },
+    {
+     "to": "buakaw",
+     "as": "The earlier version of the same deal.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "buakaw-k1-2004",
+     "type": "bout",
+     "name": "Buakaw at K-1 Max, 2004",
+     "as": "The next version of the same deal."
+    },
+    {
+     "from": "rodtang",
+     "type": "person",
+     "name": "Rodtang Jitmuangnon",
+     "as": "Who pays him."
+    }
+   ]
+  },
+  {
+   "id": "sat",
+   "type": "org",
+   "names": {
+    "name": "The Sports Authority of Thailand",
+    "th": "การกีฬาแห่งประเทศไทย",
+    "rtgs": "kan kila haeng prathet thai",
+    "said": "The state body under which the professional league sits.",
+    "said_th": "หน่วยงานรัฐที่ลีกอาชีพอยู่ภายใต้"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "scope": "thai"
+   },
+   "text": {
+    "what": "The government agency that sanctions the Professional Boxing Association of Thailand, which governs the professional league.",
+    "story": "The chain is worth stating plainly, because it explains why the Boxing Act's age limits are a government matter rather than a promoter's: the league is sanctioned by the state, the ranking stadiums are held by the army and by a company on a royal avenue, and the betting inside them is licensed.\n\n*Inference —* this is not a sport with a governing body on top of a market. It is an arm of the state with a market inside it."
+   },
+   "text_th": {
+    "what": "หน่วยงานรัฐที่รับรองสมาคมกีฬามวยอาชีพแห่งประเทศไทย ซึ่งกำกับลีกอาชีพ",
+    "story": "ลูกโซ่นี้ควรพูดให้ตรง เพราะมันอธิบายว่าทำไมอายุขั้นต่ำตามพระราชบัญญัติกีฬามวยจึงเป็นเรื่องของรัฐ ไม่ใช่ของโปรโมเตอร์ ลีกได้รับการรับรองจากรัฐ สนามหลักถือโดยกองทัพบกและโดยบริษัทบนถนนพระราชพิธี และการพนันภายในนั้นมีใบอนุญาต\n\n*อนุมาน —* นี่ไม่ใช่กีฬาที่มีองค์กรกำกับวางอยู่บนตลาด แต่เป็นแขนงหนึ่งของรัฐที่มีตลาดอยู่ข้างใน"
+   },
+   "kin": [
+    {
+     "to": "betting",
+     "as": "The licensed part.",
+     "rel": "rule"
+    },
+    {
+     "to": "child-boxing",
+     "as": "The act being flouted.",
+     "rel": "issue"
+    },
+    {
+     "to": "lumpinee",
+     "as": "Whose ring.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "kings-guard",
+     "type": "story",
+     "name": "The King's Guard, 1455",
+     "as": "Who the employer is now."
+    }
+   ]
+  },
+  {
+   "id": "wmc",
+   "type": "org",
+   "names": {
+    "name": "The World Muaythai Council",
+    "th": "สภามวยไทยโลก",
+    "rtgs": "sapha muay thai lok",
+    "said": "Set up by the Thai government in 1995.",
+    "said_th": "ตั้งขึ้นโดยรัฐบาลไทยเมื่อ พ.ศ. 2538"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "scope": "thai"
+   },
+   "text": {
+    "what": "The professional sanctioning body, established by the Thai government and sanctioned by the Sports Authority of Thailand.",
+    "story": "Two bodies, two logics. IFMA exists to get the sport into the Olympics and is international by design. The WMC exists because the Thai state wanted the professional belts sanctioned from Bangkok.\n\n*Inference —* in practice neither settles an argument in Thailand. A Lumpinee or Rajadamnern title does."
+   },
+   "text_th": {
+    "what": "องค์กรรับรองฝ่ายอาชีพ ตั้งขึ้นโดยรัฐบาลไทยและได้รับการรับรองจากการกีฬาแห่งประเทศไทย",
+    "story": "สององค์กร สองตรรกะ IFMA มีอยู่เพื่อพากีฬานี้เข้าโอลิมปิก และเป็นนานาชาติโดยการออกแบบ ส่วนสภามวยไทยโลกมีอยู่เพราะรัฐไทยต้องการให้เข็มขัดอาชีพถูกรับรองจากกรุงเทพฯ\n\n*อนุมาน —* ในทางปฏิบัติ ไม่มีองค์กรไหนยุติข้อโต้แย้งในเมืองไทยได้ แชมป์ลุมพินีหรือราชดำเนินต่างหากที่ยุติ"
+   },
+   "kin": [
+    {
+     "to": "ifma",
+     "as": "The amateur side.",
+     "rel": "org"
+    },
+    {
+     "to": "lumpinee",
+     "as": "What actually settles it.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "ifma",
+     "type": "org",
+     "name": "IFMA",
+     "as": "The professional body."
+    }
+   ]
+  }
+ ]
+}

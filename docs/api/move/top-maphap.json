@@ -1,0 +1,69 @@
+{
+ "id": "top-maphap",
+ "type": "move",
+ "names": {
+  "name": "Top maphap",
+  "th": "ตบมะผาบ",
+  "rtgs": "top maphap",
+  "said": "Slapping your own body, hard, in rhythm, before anyone is touched.",
+  "said_th": "ตบร่างกายตัวเองแรง ๆ เป็นจังหวะ ก่อนจะมีใครถูกแตะ"
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "set": "regional"
+ },
+ "text": {
+  "what": "The Lanna display in which a man slaps his own arms, chest and thighs in a driving rhythm. Thai Wikipedia's article on Lanna performing arts names it beside the sabatchai drum as the strong end of the repertoire.",
+  "story": "*Inference —* three things are happening at once, and a spectator only sees the third. It conditions the surface it strikes. It sets a tempo the body then moves in. And it is a declaration to whoever is watching that the man is not afraid of being hit, which is the whole content of a pre-fight display in any tradition that has one.\n\nIt belongs to fon jerng rather than to the ring, and it is the part of the northern repertoire that looks least like anything in the modern sport and most like where the sport says it came from."
+ },
+ "text_th": {
+  "what": "การแสดงของล้านนาที่ชายคนหนึ่งตบแขน อก และต้นขาของตัวเองเป็นจังหวะรัว บทความนาฏศิลป์ล้านนาของวิกิพีเดียไทยระบุไว้คู่กับกลองสะบัดชัยในฐานะส่วนที่เข้มแข็งหนักแน่นของชุดการแสดง",
+  "story": "*อนุมาน —* มีสามอย่างเกิดขึ้นพร้อมกัน และคนดูเห็นแค่อย่างที่สาม มันทำให้ผิวที่ถูกตบทนขึ้น มันตั้งจังหวะที่ร่างกายจะเคลื่อนตาม และมันคือการประกาศต่อคนที่มองอยู่ว่าชายคนนี้ไม่กลัวการถูกตี ซึ่งคือเนื้อหาทั้งหมดของการแสดงก่อนชกในทุกธรรมเนียมที่มีมัน\n\nมันเป็นของฟ้อนเจิง ไม่ใช่ของเวที และเป็นส่วนของชุดการแสดงภาคเหนือที่ดูไม่เหมือนอะไรในกีฬาสมัยใหม่ที่สุด และเหมือนที่ที่กีฬานี้บอกว่าตัวเองมาจากมากที่สุด"
+ },
+ "kin": [
+  {
+   "to": "fon-jerng",
+   "as": "The dance it belongs to.",
+   "rel": "style"
+  },
+  {
+   "to": "lanna",
+   "as": "Where it is from.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:thwp-นาฏศิลป์ล้านนา",
+  "s:thwp-ประวัติศาสตร์มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:thwp-นาฏศิลป์ล้านนา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "lanna"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "fon-jerng",
+   "type": "style",
+   "name": "Fon jerng",
+   "as": "The part with no weapon and no opponent."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "wmc",
+ "type": "org",
+ "names": {
+  "name": "The World Muaythai Council",
+  "th": "สภามวยไทยโลก",
+  "rtgs": "sapha muay thai lok",
+  "said": "Set up by the Thai government in 1995.",
+  "said_th": "ตั้งขึ้นโดยรัฐบาลไทยเมื่อ พ.ศ. 2538"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "scope": "thai"
+ },
+ "text": {
+  "what": "The professional sanctioning body, established by the Thai government and sanctioned by the Sports Authority of Thailand.",
+  "story": "Two bodies, two logics. IFMA exists to get the sport into the Olympics and is international by design. The WMC exists because the Thai state wanted the professional belts sanctioned from Bangkok.\n\n*Inference —* in practice neither settles an argument in Thailand. A Lumpinee or Rajadamnern title does."
+ },
+ "text_th": {
+  "what": "องค์กรรับรองฝ่ายอาชีพ ตั้งขึ้นโดยรัฐบาลไทยและได้รับการรับรองจากการกีฬาแห่งประเทศไทย",
+  "story": "สององค์กร สองตรรกะ IFMA มีอยู่เพื่อพากีฬานี้เข้าโอลิมปิก และเป็นนานาชาติโดยการออกแบบ ส่วนสภามวยไทยโลกมีอยู่เพราะรัฐไทยต้องการให้เข็มขัดอาชีพถูกรับรองจากกรุงเทพฯ\n\n*อนุมาน —* ในทางปฏิบัติ ไม่มีองค์กรไหนยุติข้อโต้แย้งในเมืองไทยได้ แชมป์ลุมพินีหรือราชดำเนินต่างหากที่ยุติ"
+ },
+ "kin": [
+  {
+   "to": "ifma",
+   "as": "The amateur side.",
+   "rel": "org"
+  },
+  {
+   "to": "lumpinee",
+   "as": "What actually settles it.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

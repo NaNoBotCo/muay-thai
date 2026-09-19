@@ -1,0 +1,103 @@
+{
+ "id": "isan",
+ "type": "place",
+ "names": {
+  "name": "Isan",
+  "th": "อีสาน",
+  "rtgs": "isan",
+  "said": "The northeast. Where most Thai stadium fighters are from, and why.",
+  "said_th": "ภาคตะวันออกเฉียงเหนือ ที่ที่นักมวยเวทีส่วนใหญ่มาจาก และเหตุผล"
+ },
+ "region": [
+  "isan"
+ ],
+ "facets": {
+  "region": "north-east"
+ },
+ "text": {
+  "what": "Twenty provinces on the Khorat plateau, Lao-speaking, the driest farmland in the country and the lowest household incomes.",
+  "story": "*Inference —* the link between the region and the sport is not culture, it is the purse. A boy who fights is a boy earning, and a camp that takes him in is feeding and schooling him. Read the fighter pages on this site and the pattern is flat: started at eleven, started at twelve, family was poor.\n\nKorat, on the plateau's western edge, is also one of the four named schools — heavy fists, and a list of twenty-one techniques full of carp and quail and rats rather than gods."
+ },
+ "text_th": {
+  "what": "ยี่สิบจังหวัดบนที่ราบสูงโคราช พูดลาว มีที่นาแห้งแล้งที่สุดในประเทศ และรายได้ครัวเรือนต่ำที่สุด",
+  "story": "*อนุมาน —* ความเชื่อมโยงระหว่างภูมิภาคนี้กับกีฬานี้ไม่ใช่วัฒนธรรม แต่คือค่าตัว เด็กที่ชกคือเด็กที่หาเงินได้ และค่ายที่รับเขาไว้คือคนที่เลี้ยงข้าวและส่งเรียน อ่านหน้าบุคคลบนเว็บนี้แล้วรูปแบบราบเรียบ เริ่มตอนสิบเอ็ด เริ่มตอนสิบสอง ครอบครัวยากจน\n\nโคราช บนขอบตะวันตกของที่ราบสูง ยังเป็นหนึ่งในสี่สายที่มีชื่อ หมัดหนัก และมีรายการยี่สิบเอ็ดท่าที่เต็มไปด้วยปลาตะเพียน นกคุ้ม และหนู มากกว่าเทพเจ้า"
+ },
+ "kin": [
+  {
+   "to": "purse",
+   "as": "The money.",
+   "rel": "rule"
+  },
+  {
+   "to": "korat",
+   "as": "The school.",
+   "rel": "style"
+  },
+  {
+   "to": "somrak",
+   "as": "Khon Kaen.",
+   "rel": "person"
+  },
+  {
+   "to": "child-boxing",
+   "as": "The argument.",
+   "rel": "issue"
+  }
+ ],
+ "geo": {
+  "lat": 15.8,
+  "lon": 103.5,
+  "precision": "region"
+ },
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "korat",
+   "type": "style",
+   "name": "Muay Korat",
+   "as": "Where most stadium fighters still come from."
+  },
+  {
+   "from": "somrak",
+   "type": "person",
+   "name": "Somrak Khamsing",
+   "as": "Where he is from."
+  },
+  {
+   "from": "purse",
+   "type": "rule",
+   "name": "What a fighter is paid",
+   "as": "Where most of the fighters come from."
+  },
+  {
+   "from": "korat-place",
+   "type": "place",
+   "name": "Nakhon Ratchasima",
+   "as": "The region."
+  },
+  {
+   "from": "child-boxing",
+   "type": "issue",
+   "name": "Children in the ring",
+   "as": "Where the households are."
+  }
+ ]
+}

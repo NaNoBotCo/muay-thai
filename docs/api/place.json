@@ -1,0 +1,646 @@
+{
+ "type": "place",
+ "count": 7,
+ "nodes": [
+  {
+   "id": "bangkok",
+   "type": "place",
+   "names": {
+    "name": "Bangkok",
+    "th": "กรุงเทพมหานคร",
+    "rtgs": "bangkok",
+    "said": "Two ranking stadiums, one free television ring, and the money.",
+    "said_th": "สนามหลักสองแห่ง เวทีโทรทัศน์ที่เข้าฟรีหนึ่งแห่ง และเงิน"
+   },
+   "region": [
+    "bangkok"
+   ],
+   "facets": {
+    "region": "the capital"
+   },
+   "text": {
+    "what": "Where a fighter's career is decided, regardless of where he is from.",
+    "story": "Rajadamnern opened in 1945 on a royal processional avenue; Lumpinee in 1956 under the army; Channel 7's ring is behind a television studio at Mo Chit and free to enter. The first permanent ring in the country was built here in 1921, at a school.\n\n*Inference —* the sport's whole geography is a funnel. The provinces make the fighters, Bangkok holds the belts, and a career is the journey between the two."
+   },
+   "text_th": {
+    "what": "ที่ที่อาชีพของนักมวยถูกตัดสิน ไม่ว่าเขาจะมาจากไหน",
+    "story": "ราชดำเนินเปิดปี 2488 บนถนนพระราชพิธี ลุมพินีปี 2499 ภายใต้กองทัพบก ส่วนเวทีช่อง 7 อยู่หลังสถานีโทรทัศน์ที่หมอชิตและเข้าฟรี เวทีถาวรแห่งแรกของประเทศสร้างที่นี่เมื่อปี 2464 ในโรงเรียน\n\n*อนุมาน —* ภูมิศาสตร์ทั้งหมดของกีฬานี้คือกรวย ต่างจังหวัดสร้างนักมวย กรุงเทพฯ ถือเข็มขัด และอาชีพหนึ่งคือการเดินทางระหว่างสองสิ่งนั้น"
+   },
+   "kin": [
+    {
+     "to": "lumpinee",
+     "as": "One.",
+     "rel": "venue"
+    },
+    {
+     "to": "rajadamnern",
+     "as": "Two.",
+     "rel": "venue"
+    },
+    {
+     "to": "channel-7",
+     "as": "Three.",
+     "rel": "venue"
+    },
+    {
+     "to": "first-ring",
+     "as": "Where it started.",
+     "rel": "story"
+    }
+   ],
+   "geo": {
+    "lat": 13.7563,
+    "lon": 100.5018,
+    "precision": "town"
+   },
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "bangkok/bangkok-rajadamnern-stadium.jpg",
+     "source": "commons",
+     "title": "File:Rajadamnern Stadium.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rajadamnern_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARajadamnern_Stadium.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "DiverDave",
+     "credit": "Own work",
+     "alt": "Rajadamnern Stadium, Ratchadamnoen Avenue, Pom Prap Sattru Phai district, Bangkok, Thailand",
+     "date": "2022-11-05 12:41:00",
+     "primary": true,
+     "sha256": "731cff1f1bca9b3d56112d9ad5bbe7f43b5c4578c0518505dbe3e085b710cb95"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "chaiya-place",
+   "type": "place",
+   "names": {
+    "name": "Chaiya",
+    "th": "ไชยา",
+    "rtgs": "chaiya",
+    "said": "A district of Surat Thani, and a style named after it.",
+    "said_th": "อำเภอหนึ่งของสุราษฎร์ธานี และสายมวยที่ตั้งชื่อตามมัน"
+   },
+   "region": [
+    "south",
+    "chaiya"
+   ],
+   "facets": {
+    "region": "the south"
+   },
+   "text": {
+    "what": "An old town on the Gulf coast, once a seat of Srivijaya, now best known outside Thailand for a boxing style and a forest monastery.",
+    "story": "The fights were at Sala Kao Hong, the nine-room pavilion at Phumriang, at the Chak Phra festival: a dirt floor, four posts, hemp rope, no weigh-in, five rounds rotated between every pair on the bill.\n\nThe pavilion was later pulled down by the governor's third son. The well is still there."
+   },
+   "text_th": {
+    "what": "เมืองเก่าริมอ่าวไทย เคยเป็นที่ตั้งของศรีวิชัย ปัจจุบันเป็นที่รู้จักนอกประเทศจากสายมวยและวัดป่าแห่งหนึ่ง",
+    "story": "การชกจัดที่ศาลาเก้าห้อง ตำบลพุมเรียง ในงานชักพระ ลานดิน เสาสี่ต้น เชือกป่าน ไม่มีการชั่งน้ำหนัก ห้ายกเวียนไปทุกคู่บนรายการ\n\nต่อมาศาลาถูกรื้อโดยบุตรคนที่สามของเจ้าเมือง บ่อน้ำยังอยู่"
+   },
+   "kin": [
+    {
+     "to": "chaiya",
+     "as": "The style.",
+     "rel": "style"
+    },
+    {
+     "to": "khet-sriyaphai",
+     "as": "The governor's son who wrote.",
+     "rel": "person"
+    }
+   ],
+   "geo": {
+    "lat": 9.3885,
+    "lon": 99.1876,
+    "precision": "town"
+   },
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "id": "chiangmai",
+   "type": "place",
+   "names": {
+    "name": "Chiang Mai",
+    "th": "เชียงใหม่",
+    "rtgs": "chiang mai",
+    "said": "Fourteen places to train on the map, in a city of two hundred thousand.",
+    "said_th": "สิบสี่แห่งบนแผนที่ที่ฝึกได้ ในเมืองที่มีคนสองแสน"
+   },
+   "region": [
+    "north"
+   ],
+   "facets": {
+    "region": "the north"
+   },
+   "text": {
+    "what": "The northern city, and the densest cluster of foreigner-facing gyms outside Phuket.",
+    "story": "The harvest found fourteen rows inside the Chiang Mai basin: gyms, camps, one shop selling Twins and Fairtex kit, and a stadium in town. Those are places OpenStreetMap knows about, not a ranking and not a complete list — a gym nobody has mapped is missing from this and present in the city.\n\n*Inference —* the city is a training destination rather than a fighting one. The cards here are small, the gyms are full, and most of the people in them arrived on a thirty-day stamp."
+   },
+   "text_th": {
+    "what": "เมืองทางเหนือ และเป็นกลุ่มยิมที่รับคนต่างชาติหนาแน่นที่สุดรองจากภูเก็ต",
+    "story": "การเก็บข้อมูลพบสิบสี่แถวในแอ่งเชียงใหม่ ทั้งยิม ค่าย ร้านขายอุปกรณ์ Twins กับ Fairtex หนึ่งร้าน และเวทีในเมืองหนึ่งแห่ง นั่นคือที่ที่ OpenStreetMap รู้จัก ไม่ใช่การจัดอันดับและไม่ใช่รายการที่ครบ ยิมที่ไม่มีใครลงแผนที่จะหายไปจากตรงนี้ และยังอยู่ในเมือง\n\n*อนุมาน —* เมืองนี้เป็นจุดหมายของการฝึก มากกว่าจุดหมายของการชก รายการที่นี่เล็ก ยิมเต็ม และคนส่วนใหญ่ในนั้นมาถึงด้วยตราประทับสามสิบวัน"
+   },
+   "kin": [
+    {
+     "to": "the-gym-map",
+     "as": "Where the count comes from.",
+     "rel": "gym"
+    },
+    {
+     "to": "choosing-a-gym",
+     "as": "What to ask before paying a month.",
+     "rel": "gym"
+    }
+   ],
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9853,
+    "precision": "town"
+   },
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "chiangmai/chiangmai-muay-thai-in-lamai.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai in Lamai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Muay_Thai_in_Lamai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_in_Lamai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Muay Thai in Lamai, Ko Samui.",
+     "date": "2018-06-09 22:45:21",
+     "primary": true,
+     "sha256": "b464b8d95c3f3782ac2719c23584cc4e984db84cd1743a31c67a3ddf0b619e05"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "ed-visa",
+     "type": "gym",
+     "name": "Training on a study visa",
+     "as": "Where the desk is."
+    },
+    {
+     "from": "the-gym-map",
+     "type": "gym",
+     "name": "Every gym on the map",
+     "as": "Fourteen of them."
+    },
+    {
+     "from": "lanna",
+     "type": "place",
+     "name": "Lanna",
+     "as": "The city."
+    }
+   ]
+  },
+  {
+   "id": "isan",
+   "type": "place",
+   "names": {
+    "name": "Isan",
+    "th": "อีสาน",
+    "rtgs": "isan",
+    "said": "The northeast. Where most Thai stadium fighters are from, and why.",
+    "said_th": "ภาคตะวันออกเฉียงเหนือ ที่ที่นักมวยเวทีส่วนใหญ่มาจาก และเหตุผล"
+   },
+   "region": [
+    "isan"
+   ],
+   "facets": {
+    "region": "north-east"
+   },
+   "text": {
+    "what": "Twenty provinces on the Khorat plateau, Lao-speaking, the driest farmland in the country and the lowest household incomes.",
+    "story": "*Inference —* the link between the region and the sport is not culture, it is the purse. A boy who fights is a boy earning, and a camp that takes him in is feeding and schooling him. Read the fighter pages on this site and the pattern is flat: started at eleven, started at twelve, family was poor.\n\nKorat, on the plateau's western edge, is also one of the four named schools — heavy fists, and a list of twenty-one techniques full of carp and quail and rats rather than gods."
+   },
+   "text_th": {
+    "what": "ยี่สิบจังหวัดบนที่ราบสูงโคราช พูดลาว มีที่นาแห้งแล้งที่สุดในประเทศ และรายได้ครัวเรือนต่ำที่สุด",
+    "story": "*อนุมาน —* ความเชื่อมโยงระหว่างภูมิภาคนี้กับกีฬานี้ไม่ใช่วัฒนธรรม แต่คือค่าตัว เด็กที่ชกคือเด็กที่หาเงินได้ และค่ายที่รับเขาไว้คือคนที่เลี้ยงข้าวและส่งเรียน อ่านหน้าบุคคลบนเว็บนี้แล้วรูปแบบราบเรียบ เริ่มตอนสิบเอ็ด เริ่มตอนสิบสอง ครอบครัวยากจน\n\nโคราช บนขอบตะวันตกของที่ราบสูง ยังเป็นหนึ่งในสี่สายที่มีชื่อ หมัดหนัก และมีรายการยี่สิบเอ็ดท่าที่เต็มไปด้วยปลาตะเพียน นกคุ้ม และหนู มากกว่าเทพเจ้า"
+   },
+   "kin": [
+    {
+     "to": "purse",
+     "as": "The money.",
+     "rel": "rule"
+    },
+    {
+     "to": "korat",
+     "as": "The school.",
+     "rel": "style"
+    },
+    {
+     "to": "somrak",
+     "as": "Khon Kaen.",
+     "rel": "person"
+    },
+    {
+     "to": "child-boxing",
+     "as": "The argument.",
+     "rel": "issue"
+    }
+   ],
+   "geo": {
+    "lat": 15.8,
+    "lon": 103.5,
+    "precision": "region"
+   },
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "korat",
+     "type": "style",
+     "name": "Muay Korat",
+     "as": "Where most stadium fighters still come from."
+    },
+    {
+     "from": "somrak",
+     "type": "person",
+     "name": "Somrak Khamsing",
+     "as": "Where he is from."
+    },
+    {
+     "from": "purse",
+     "type": "rule",
+     "name": "What a fighter is paid",
+     "as": "Where most of the fighters come from."
+    },
+    {
+     "from": "korat-place",
+     "type": "place",
+     "name": "Nakhon Ratchasima",
+     "as": "The region."
+    },
+    {
+     "from": "child-boxing",
+     "type": "issue",
+     "name": "Children in the ring",
+     "as": "Where the households are."
+    }
+   ]
+  },
+  {
+   "id": "korat-place",
+   "type": "place",
+   "names": {
+    "name": "Nakhon Ratchasima",
+    "th": "นครราชสีมา",
+    "rtgs": "nakhon ratchasima",
+    "said": "Korat: the gateway to the plateau, and the heavy fist.",
+    "said_th": "โคราช ประตูสู่ที่ราบสูง และหมัดหนัก"
+   },
+   "region": [
+    "isan",
+    "korat"
+   ],
+   "facets": {
+    "region": "north-east"
+   },
+   "text": {
+    "what": "The largest province in Thailand by area and the entry point to Isan from the central plain.",
+    "story": "Its man at the Rama V bouts was Nai Daeng Thai-prasert, made *Muen Changat Choeng Chok*. The rope here was wound to the elbow, and the punch the province is named for in the rhyme travels further than anyone else's."
+   },
+   "text_th": {
+    "what": "จังหวัดที่ใหญ่ที่สุดของไทยตามพื้นที่ และเป็นประตูเข้าสู่อีสานจากภาคกลาง",
+    "story": "คนของจังหวัดในการชกหน้าพระที่นั่งสมัยรัชกาลที่ 5 คือนายแดง ไทยประเสริฐ ได้เป็นหมื่นชงัดเชิงชก เชือกที่นี่พันขึ้นไปถึงข้อศอก และหมัดที่จังหวัดนี้ถูกเอ่ยชื่อในคำกล่าว เดินทางไกลกว่าของใคร"
+   },
+   "kin": [
+    {
+     "to": "korat",
+     "as": "The style.",
+     "rel": "style"
+    },
+    {
+     "to": "isan",
+     "as": "The region.",
+     "rel": "place"
+    }
+   ],
+   "geo": {
+    "lat": 14.9799,
+    "lon": 102.0977,
+    "precision": "town"
+   },
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "id": "lanna",
+   "type": "place",
+   "names": {
+    "name": "Lanna",
+    "th": "ล้านนา",
+    "rtgs": "lan na",
+    "said": "A million rice fields. Chiang Mai 1296, and its own script, language and law.",
+    "said_th": "ล้านนา นาหนึ่งล้าน เชียงใหม่ พ.ศ. 1839 พร้อมอักษร ภาษา และกฎหมายของตัวเอง"
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "region": "north"
+   },
+   "text": {
+    "what": "The northern kingdom — Chiang Mai, Chiang Rai, Lamphun, Lampang, Phrae, Nan, Phayao — founded by Mangrai and independent of Ayutthaya and Siam for most of its history. Its people call themselves Tai Yuan.",
+    "story": "It matters here for three reasons, and they are separable.\n\n**One: the earliest writing.** The Mangrai law of 1296 carries the oldest recorded *muay* anybody can point to, in Northern Thai, on palm leaf.\n\n**Two: the claimed origin.** The Thai-language history of the sport begins the craft with *jerng*, the Lanna martial dance — not in Ayutthaya, not in the south.\n\n**Three: the drum.** The sabatchai drum is beaten with the elbow, the knee and the head, and the oldest one found is bronze, from Hot district in Chiang Mai.\n\n*Inference —* and then the national story goes elsewhere. The four canonical schools are Korat, Lopburi, Chaiya and Thasao: northeast, centre, south, and the northern edge at Uttaradit, which is below Lanna proper. Lanna is in the origin and out of the canon. A kingdom annexed late and awkwardly does not get a line in the rhyme."
+   },
+   "text_th": {
+    "what": "อาณาจักรทางเหนือ เชียงใหม่ เชียงราย ลำพูน ลำปาง แพร่ น่าน พะเยา สถาปนาโดยพญามังราย และเป็นอิสระจากอยุธยาและสยามตลอดช่วงเวลาส่วนใหญ่ของประวัติศาสตร์ ผู้คนเรียกตัวเองว่าไทยวน",
+    "story": "ล้านนาสำคัญตรงนี้ด้วยสามเหตุผล และแยกออกจากกันได้\n\n**หนึ่ง เอกสารที่เก่าที่สุด** มังรายศาสตร์ พ.ศ. 1839 ถือคำว่ามวยที่เก่าที่สุดเท่าที่ใครชี้ได้ เป็นภาษาไทยถิ่นเหนือ บนใบลาน\n\n**สอง ต้นกำเนิดที่อ้าง** ประวัติศาสตร์มวยไทยฉบับภาษาไทยเริ่มวิชานี้จาก *เจิง* การฟ้อนเชิงต่อสู้ของล้านนา ไม่ใช่ที่อยุธยา ไม่ใช่ทางใต้\n\n**สาม กลอง** กลองสะบัดชัยตีด้วยศอก เข่า และศีรษะ และชุดที่เก่าที่สุดที่พบเป็นสำริด จากอำเภอฮอด เชียงใหม่\n\n*อนุมาน —* แล้วเรื่องเล่าของชาติก็เดินไปทางอื่น สี่สายในสารบบคือโคราช ลพบุรี ไชยา และท่าเสา อีสาน กลาง ใต้ และขอบเหนือที่อุตรดิตถ์ ซึ่งอยู่ใต้เขตล้านนาแท้ ล้านนาอยู่ในต้นกำเนิดและอยู่นอกสารบบ อาณาจักรที่ถูกผนวกช้าและอย่างกระอักกระอ่วนไม่ได้วรรคในคำกล่าว"
+   },
+   "kin": [
+    {
+     "to": "fon-jerng",
+     "as": "The dance.",
+     "rel": "style"
+    },
+    {
+     "to": "mangrai-law",
+     "as": "The law.",
+     "rel": "story"
+    },
+    {
+     "to": "klong-sabatchai",
+     "as": "The drum.",
+     "rel": "music"
+    },
+    {
+     "to": "chiangmai",
+     "as": "The city.",
+     "rel": "place"
+    },
+    {
+     "to": "four-lines",
+     "as": "The canon it is outside.",
+     "rel": "style"
+    },
+    {
+     "to": "thasao",
+     "as": "The nearest line to it.",
+     "rel": "style"
+    }
+   ],
+   "geo": {
+    "lat": 18.7883,
+    "lon": 98.9853,
+    "precision": "region"
+   },
+   "sources": [
+    "s:thwp-อาณาจักรล้านนา",
+    "s:wp-lan-na",
+    "s:thwp-ไทยวน",
+    "s:thwp-พญามังราย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-อาณาจักรล้านนา"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "lanna"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "lanna/lanna-2.jpg",
+     "source": "commons",
+     "title": "File:อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (2).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "กสิณธร ราชโอรส",
+     "credit": "Own work",
+     "alt": "อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (2).jpg",
+     "date": "2022-03-13 08:45:08",
+     "primary": true,
+     "sha256": "342072f0573ebd1d5b3374df049d742a23fcd1e1470ce7893925a86ecb7ff707"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "top-maphap",
+     "type": "move",
+     "name": "Top maphap",
+     "as": "Where it is from."
+    },
+    {
+     "from": "fon-jerng",
+     "type": "style",
+     "name": "Fon jerng",
+     "as": "Where it is from."
+    },
+    {
+     "from": "klong-sabatchai",
+     "type": "music",
+     "name": "The victory drum",
+     "as": "Whose drum."
+    },
+    {
+     "from": "kham-kaiwai",
+     "type": "person",
+     "name": "Kham Kaiwai",
+     "as": "Where."
+    },
+    {
+     "from": "manop-yarana",
+     "type": "person",
+     "name": "Manop Yarana",
+     "as": "Where."
+    },
+    {
+     "from": "mai-sastra",
+     "type": "story",
+     "name": "The hermit's school",
+     "as": "Who is in the room."
+    },
+    {
+     "from": "mangrai-law",
+     "type": "story",
+     "name": "The Mangrai law, 1296",
+     "as": "Whose law."
+    },
+    {
+     "from": "khom-script",
+     "type": "term",
+     "name": "Khom, and the scripts it is not",
+     "as": "Where a different alphabet is used."
+    }
+   ]
+  },
+  {
+   "id": "uttaradit",
+   "type": "place",
+   "names": {
+    "name": "Uttaradit",
+    "th": "อุตรดิตถ์",
+    "rtgs": "uttaradit",
+    "said": "Tha Sao, and a general with half a sword.",
+    "said_th": "ท่าเสา และแม่ทัพที่มีดาบครึ่งเล่ม"
+   },
+   "region": [
+    "north",
+    "uttaradit"
+   ],
+   "facets": {
+    "region": "the north"
+   },
+   "text": {
+    "what": "A northern province on the Nan river, home of Muay Thasao and of Phraya Phichai.",
+    "story": "The line from here is the one the rhyme uses as its yardstick — *faster than Thasao* — and the one whose twenty-four techniques are recorded as a count with no names."
+   },
+   "text_th": {
+    "what": "จังหวัดทางเหนือริมแม่น้ำน่าน บ้านของมวยท่าเสาและพระยาพิชัยดาบหัก",
+    "story": "สายจากที่นี่คือสายที่คำกล่าวใช้เป็นไม้บรรทัด — *ไวกว่าท่าเสา* — และเป็นสายที่ท่ายี่สิบสี่ท่าถูกบันทึกไว้เป็นจำนวน โดยไม่มีชื่อ"
+   },
+   "kin": [
+    {
+     "to": "thasao",
+     "as": "The style.",
+     "rel": "style"
+    },
+    {
+     "to": "phraya-phichai",
+     "as": "The general.",
+     "rel": "person"
+    }
+   ],
+   "geo": {
+    "lat": 17.62,
+    "lon": 100.0993,
+    "precision": "town"
+   },
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "thasao",
+     "type": "style",
+     "name": "Muay Thasao",
+     "as": "Where it is from."
+    }
+   ]
+  }
+ ]
+}

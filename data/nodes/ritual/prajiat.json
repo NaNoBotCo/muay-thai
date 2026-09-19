@@ -1,0 +1,104 @@
+{
+ "id": "prajiat",
+ "type": "ritual",
+ "names": {
+  "name": "The armbands",
+  "th": "ประเจียด",
+  "rtgs": "prachiat",
+  "said": "These stay on. In Chaiya they were tied round the head.",
+  "said_th": "อันนี้ไม่ถอด ที่ไชยาเขาคาดไว้ที่ศีรษะ",
+  "aliases": [
+   "pra jiad"
+  ]
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "fight"
+ },
+ "text": {
+  "what": "Cloth or cord tied round the upper arms, worn through the fight.",
+  "story": "Same origin story as the mongkhon and the same function: a piece of somebody else's cloth, worn into danger. And the cloth is usually not blank — a prajiat carries a **yantra**, written in the same script and by the same kind of master as a tattoo. Thai accounts of what a warrior took into battle list the prajiat beside the takrut, before the moulded Buddha image took over that job. At Sala Kao Hong in Chaiya the prajiat went round the head and stayed there for all five rounds, which is a different object from the modern armband.\n\nIn some gyms outside Thailand, and the article names Brazil in particular through the Chute Boxe lineage, prajiat are coloured by rank in the way a karate belt is. That is a western graft onto a Thai object, and Thai gyms do not read them."
+ },
+ "text_th": {
+  "what": "ผ้าหรือด้ายผูกรอบต้นแขน สวมตลอดการชก",
+  "story": "ที่มาเดียวกับมงคลและหน้าที่เดียวกัน ผ้าของคนอื่นชิ้นหนึ่ง สวมเข้าไปในอันตราย และผ้าผืนนั้นมักไม่ได้ว่างเปล่า ประเจียดถือ **ยันต์** ไว้ เขียนด้วยอักษรชุดเดียวกันและโดยครูประเภทเดียวกันกับรอยสัก ตำราไทยที่ว่าด้วยสิ่งที่นักรบพกเข้าสนามรบระบุประเจียดไว้คู่กับตะกรุด ก่อนที่พระพิมพ์จะมารับหน้าที่นั้นไป ที่ศาลาเก้าห้องในไชยา ประเจียดคาดรอบศีรษะและอยู่อย่างนั้นครบห้ายก ซึ่งเป็นคนละวัตถุกับผ้าคาดแขนสมัยใหม่\n\nในบางยิมนอกประเทศไทย และบทความระบุถึงบราซิลเป็นพิเศษผ่านสาย Chute Boxe ประเจียดถูกกำหนดสีตามระดับขั้นแบบสายคาดเอวคาราเต้ นั่นคือการต่อกิ่งของตะวันตกลงบนวัตถุไทย และยิมไทยไม่ได้อ่านมัน"
+ },
+ "kin": [
+  {
+   "to": "mongkhon",
+   "as": "The headband.",
+   "rel": "ritual"
+  },
+  {
+   "to": "chaiya",
+   "as": "Where it went round the head.",
+   "rel": "style"
+  },
+  {
+   "to": "sak-yant",
+   "as": "The same yantra, on skin.",
+   "rel": "ritual"
+  },
+  {
+   "to": "takrut",
+   "as": "The same yantra, in metal.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-thai-buddha-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ritual"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "prajiat/prajiat-faixas-do-muay-thai.jpg",
+   "source": "commons",
+   "title": "File:Faixas do Muay Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Faixas_do_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AFaixas_do_Muay_Thai.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Victor Soares Cardoso",
+   "credit": "Own work",
+   "alt": "Graduação do Muay Thai",
+   "date": "2012-03-25",
+   "primary": true,
+   "sha256": "06dbbe8871ca042910190032ee6f143f61492780dca9eb228f1ee7954cc7f1e7"
+  },
+  {
+   "file": "prajiat/prajiat-wai-khru-ram-muay-2.jpg",
+   "source": "commons",
+   "title": "File:Wai khru ram muay 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wai_khru_ram_muay_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWai_khru_ram_muay_2.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "B20180",
+   "credit": "Own work",
+   "alt": "Wai khru ram muay 2",
+   "date": "2011-09-12",
+   "primary": false,
+   "sha256": "2fa5b8ba79515c8fcc776cb3c6f75ab9a4267a91ae6265cff18b05326690f2f6"
+  }
+ ]
+}

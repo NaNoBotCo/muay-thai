@@ -1,0 +1,62 @@
+{
+ "id": "chaiya-place",
+ "type": "place",
+ "names": {
+  "name": "Chaiya",
+  "th": "ไชยา",
+  "rtgs": "chaiya",
+  "said": "A district of Surat Thani, and a style named after it.",
+  "said_th": "อำเภอหนึ่งของสุราษฎร์ธานี และสายมวยที่ตั้งชื่อตามมัน"
+ },
+ "region": [
+  "south",
+  "chaiya"
+ ],
+ "facets": {
+  "region": "the south"
+ },
+ "text": {
+  "what": "An old town on the Gulf coast, once a seat of Srivijaya, now best known outside Thailand for a boxing style and a forest monastery.",
+  "story": "The fights were at Sala Kao Hong, the nine-room pavilion at Phumriang, at the Chak Phra festival: a dirt floor, four posts, hemp rope, no weigh-in, five rounds rotated between every pair on the bill.\n\nThe pavilion was later pulled down by the governor's third son. The well is still there."
+ },
+ "text_th": {
+  "what": "เมืองเก่าริมอ่าวไทย เคยเป็นที่ตั้งของศรีวิชัย ปัจจุบันเป็นที่รู้จักนอกประเทศจากสายมวยและวัดป่าแห่งหนึ่ง",
+  "story": "การชกจัดที่ศาลาเก้าห้อง ตำบลพุมเรียง ในงานชักพระ ลานดิน เสาสี่ต้น เชือกป่าน ไม่มีการชั่งน้ำหนัก ห้ายกเวียนไปทุกคู่บนรายการ\n\nต่อมาศาลาถูกรื้อโดยบุตรคนที่สามของเจ้าเมือง บ่อน้ำยังอยู่"
+ },
+ "kin": [
+  {
+   "to": "chaiya",
+   "as": "The style.",
+   "rel": "style"
+  },
+  {
+   "to": "khet-sriyaphai",
+   "as": "The governor's son who wrote.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 9.3885,
+  "lon": 99.1876,
+  "precision": "town"
+ },
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

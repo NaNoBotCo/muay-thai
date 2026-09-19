@@ -1,0 +1,183 @@
+{
+ "type": "bout",
+ "count": 2,
+ "nodes": [
+  {
+   "id": "buakaw-k1-2004",
+   "type": "bout",
+   "names": {
+    "name": "Buakaw at K-1 Max, 2004",
+    "th": "บัวขาว ใน K-1 Max 2547",
+    "rtgs": "buakhao nai K-1 Max",
+    "said": "Won the tournament with two of the eight limbs switched off.",
+    "said_th": "ชนะทัวร์นาเมนต์โดยที่อาวุธสองในแปดชิ้นถูกปิดไว้"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Buakaw Banchamek won the K-1 World Max tournament in Japan in 2004, beating John Wayne Parr and Masato, and won it again in 2006.",
+    "story": "K-1 rules are kickboxing rules: no elbows, and the clinch is broken. A muay thai fighter entering that tournament gives up the elbow and the knee-in-the-clinch — half of what makes the sport what it is — and Buakaw won it twice on the remainder.\n\n*Inference —* which is why the world's picture of muay thai is a man throwing hard round kicks and not a man holding another man's head. The version that travelled was the version television could sell, and television could not sell the clinch."
+   },
+   "text_th": {
+    "what": "บัวขาว บัญชาเมฆ ชนะทัวร์นาเมนต์ K-1 World Max ที่ญี่ปุ่นในปี 2547 ชนะทั้งจอห์น เวย์น พารร์ และมาซาโตะ และชนะอีกครั้งในปี 2549",
+    "story": "กติกา K-1 คือกติกาคิกบ็อกซิ่ง ไม่มีศอก และแยกวงใน นักมวยไทยที่ลงแข่งรายการนั้นต้องสละศอกและเข่าในวงใน ซึ่งเป็นครึ่งหนึ่งของสิ่งที่ทำให้กีฬานี้เป็นกีฬานี้ แล้วบัวขาวชนะมันสองครั้งด้วยส่วนที่เหลือ\n\n*อนุมาน —* นั่นคือเหตุที่ภาพมวยไทยในสายตาโลกคือชายที่เตะวงหนัก ๆ ไม่ใช่ชายที่จับหัวอีกคนไว้ รุ่นที่เดินทางไปได้คือรุ่นที่โทรทัศน์ขายได้ และโทรทัศน์ขายวงในไม่ได้"
+   },
+   "kin": [
+    {
+     "to": "buakaw",
+     "as": "Who won it.",
+     "rel": "person"
+    },
+    {
+     "to": "clinch",
+     "as": "What was taken out.",
+     "rel": "move"
+    },
+    {
+     "to": "elbow",
+     "as": "And what else.",
+     "rel": "weapon"
+    },
+    {
+     "to": "one-championship",
+     "as": "The next version of the same deal.",
+     "rel": "org"
+    }
+   ],
+   "sources": [
+    "s:wp-buakaw-banchamek",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-buakaw-banchamek"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "abroad"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "bout": {
+    "date": "2004",
+    "city": "Tokyo",
+    "red": "Buakaw Banchamek",
+    "rules": "K-1: no elbows, clinch broken",
+    "result": "Tournament winner; won again in 2006",
+    "why": "It set the world's picture of what muay thai looks like."
+   },
+   "kin_in": []
+  },
+  {
+   "id": "changpuek-vs-roufus",
+   "type": "bout",
+   "names": {
+    "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+    "th": "ช้างเผือก พบ ริค รูฟัส",
+    "rtgs": "changphueak phop rik rufat",
+    "said": "He was knocked down in the first, had his jaw broken, and won in the fourth by kicking one leg.",
+    "said_th": "ถูกน็อกดาวน์ยกแรก กรามหัก และชนะในยกสี่ด้วยการเตะขาข้างเดียว"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "A non-title fight in Las Vegas between Changpuek Kiatsongrit, a 70kg Thai who could not get matched at home, and Rick Roufus, the K.I.C.K. world champion.",
+    "story": "Changpuek was born in a village thirty kilometres from Prakhonchai in Buriram, one of seven children, first fight at fourteen, and made his Rajadamnern debut weighing **49 kilos**. By his late twenties he weighed 70, which in Thailand meant there was nobody to fight, so he went abroad.\n\nAmerican kickboxing at the time had a rule against kicking below the waist, and Roufus had never had to deal with a leg kick in competition. Changpuek was put down in the first round and his jaw was broken. He kept kicking the same leg. The fight was stopped in the fourth.\n\n*Inference —* one evening did more to explain muay thai to the United States than a decade of demonstrations, because it was not a demonstration. It was a Thai man losing every exchange he was supposed to lose and winning anyway with the one weapon the other code had legislated away."
+   },
+   "text_th": {
+    "what": "ไฟต์นอกรอบชิงที่ลาสเวกัส ระหว่างช้างเผือก เกียรติทรงฤทธิ์ คนไทยน้ำหนัก 70 กิโลที่หาคู่ชกในบ้านไม่ได้ กับริค รูฟัส แชมป์โลก K.I.C.K.",
+    "story": "ช้างเผือกเกิดในหมู่บ้านห่างจากตัวอำเภอประโคนชัย บุรีรัมย์ ราวสามสิบกิโลเมตร เป็นลูกคนหนึ่งในเจ็ดคน ชกครั้งแรกตอนสิบสี่ และขึ้นเวทีราชดำเนินครั้งแรกด้วยน้ำหนัก **49 กิโลกรัม** พออายุปลายยี่สิบเขาหนัก 70 ซึ่งในเมืองไทยแปลว่าไม่มีใครให้ชก เขาจึงออกไปต่างประเทศ\n\nคิกบ็อกซิ่งอเมริกันยุคนั้นมีกติกาห้ามเตะต่ำกว่าเอว และรูฟัสไม่เคยต้องรับมือกับเตะขาในการแข่งขัน ช้างเผือกถูกน็อกดาวน์ยกแรกและกรามหัก เขาเตะขาข้างเดิมต่อไป ไฟต์ถูกยุติในยกสี่\n\n*อนุมาน —* เย็นวันเดียวอธิบายมวยไทยให้สหรัฐอเมริกาเข้าใจได้มากกว่าการสาธิตสิบปี เพราะมันไม่ใช่การสาธิต มันคือคนไทยที่แพ้ทุกการแลกที่เขาควรแพ้ แล้วชนะอยู่ดีด้วยอาวุธชิ้นเดียวที่กีฬาอีกประเภทออกกฎตัดทิ้งไป"
+   },
+   "kin": [
+    {
+     "to": "te-chiang",
+     "as": "The weapon.",
+     "rel": "move"
+    },
+    {
+     "to": "buakaw",
+     "as": "The next crossing.",
+     "rel": "person"
+    },
+    {
+     "to": "the-gym-map",
+     "as": "What followed abroad.",
+     "rel": "gym"
+    }
+   ],
+   "sources": [
+    "s:wp-changpuek-kiatsongrit"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-changpuek-kiatsongrit"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "abroad",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "bout": {
+    "date": "1988",
+    "venue": "Las Vegas",
+    "city": "Las Vegas",
+    "red": "Changpuek Kiatsongrit",
+    "blue": "Rick Roufus",
+    "result": "TKO, round four",
+    "rules": "American kickboxing, no kicks below the waist",
+    "why": "It put the low kick into American kickboxing."
+   },
+   "images": [
+    {
+     "file": "changpuek-vs-roufus/changpuek-vs-roufus-muay-thai-low-kick.jpg",
+     "source": "commons",
+     "title": "File:Muay thai low kick.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Muay_thai_low_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_low_kick.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "superwebdeveloper",
+     "credit": "https://www.flickr.com/photos/superwebdeveloper/5106991788/sizes/o/in/photostream/",
+     "alt": "Fighter throwing a lowkick during an amateur muay thai competition.",
+     "date": "2010-10-22",
+     "primary": true,
+     "sha256": "5a8e046a376314a071708fea93e639a2e5949cb22e2f4d2b7c30a4d98e5957a0"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "buakaw",
+     "type": "person",
+     "name": "Buakaw Banchamek",
+     "as": "The earlier crossing."
+    }
+   ]
+  }
+ ]
+}

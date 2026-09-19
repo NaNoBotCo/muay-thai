@@ -1,0 +1,89 @@
+{
+ "id": "pi-chawa",
+ "type": "music",
+ "names": {
+  "name": "The oboe",
+  "th": "ปี่ชวา",
+  "rtgs": "pi chawa",
+  "said": "Its reed is four folded leaves of an old palm.",
+  "said_th": "ลิ้นของมันคือใบตาลแก่พับซ้อนสี่กลีบ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "instrument": "wind"
+ },
+ "text": {
+  "what": "A double-reed pipe in two pieces — a bored body with seven finger holes and a thumb hole, and a flared bell — with a reed made of four folded pieces of mature palm leaf.",
+  "story": "*Chawa* means Java. The Thai article's reading is that the pipe arrived in Thailand at the same time as the klong khaek, the drums it still plays with — two imports that came in as a pair and stayed a pair.\n\nAnd the pipe is not only a boxing instrument. The article lists it in the *bua loi* ensemble, in the *pi phat nang hong* ensemble, in the string ensemble that takes its name, and then, at the end of the list, for krabi-krabong dance and for boxing. The same reed plays a funeral and a fight."
+ },
+ "text_th": {
+  "what": "ปี่ลิ้นคู่ สองท่อน ตัวเลาเจาะรูนิ้วเจ็ดรูกับรูนิ้วค้ำ และลำโพงบาน ลิ้นทำจากใบตาลแก่พับซ้อนกันสี่กลีบ",
+  "story": "*ชวา* คือชวา การอ่านของบทความไทยคือปี่นี้เข้ามาในเมืองไทยพร้อมกับกลองแขก กลองที่มันยังบรรเลงคู่กันอยู่ ของนำเข้าสองอย่างที่มาเป็นคู่และอยู่เป็นคู่\n\nและปี่นี้ไม่ใช่เครื่องดนตรีของมวยอย่างเดียว บทความระบุไว้ในวงบัวลอย ในวงปี่พาทย์นางหงส์ ในวงเครื่องสายปี่ชวาที่ตั้งชื่อตามมัน แล้วท้ายรายการจึงเป็นการรำกระบี่กระบองและการชกมวย ลิ้นอันเดียวกันบรรเลงทั้งงานศพและไฟต์"
+ },
+ "kin": [
+  {
+   "to": "sarama",
+   "as": "The band it leads.",
+   "rel": "music"
+  },
+  {
+   "to": "klong-khaek",
+   "as": "What it came in with.",
+   "rel": "music"
+  }
+ ],
+ "sources": [
+  "s:thwp-ป-ชวา"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-ป-ชวา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "pi-chawa/pi-chawa-lorchestre-tha-landais-piphat-mon-mus-e-de-la-musiqu-d522f54.jpg",
+   "source": "commons",
+   "title": "File:Lorchestre thaïlandais piphat mon (musée de la musique) (3771128467).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Lorchestre_tha%C3%AFlandais_piphat_mon_%28mus%C3%A9e_de_la_musique%29_%283771128467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALorchestre_tha%C3%AFlandais_piphat_mon_%28mus%C3%A9e_de_la_musique%29_%283771128467%29.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "credit": "L'orchestre thaïlandais piphat mon (musée de la musique)",
+   "alt": "Le musée de la musique est un des départements de la Cité de la musique, à Paris. Héritier de la collection d'instruments de musique du Conservatoire National, il a été inauguré en 1997 dans ses locau",
+   "date": "2009-07-29 17:08",
+   "primary": true,
+   "sha256": "76056c57e0be5a731c62884324d5053fe45ea268cd2df4a3438fdfb8d7a2b461"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "klong-khaek",
+   "type": "music",
+   "name": "The drums",
+   "as": "What it came in with."
+  },
+  {
+   "from": "sarama",
+   "type": "music",
+   "name": "The band",
+   "as": "The oboe."
+  }
+ ]
+}

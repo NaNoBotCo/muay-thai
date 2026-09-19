@@ -1,0 +1,776 @@
+{
+ "n": 30,
+ "mae_mai": [
+  {
+   "th": "สลับฟันปลา",
+   "rtgs": "salap fan pla",
+   "gloss": "Alternating fish teeth",
+   "refers": "thing",
+   "figure": "the zigzag of a fish's jaw",
+   "set": "mae_mai",
+   "note": "The name is a shape, not a fish: two rows of teeth that pass each other.",
+   "n": 1,
+   "described_th": "ใช้มือข้างหนึ่งปัดหมัดของอีกฝ่าย แล้วใช้มืออีกข้างกระแทกที่ไหล่ด้านนอกของฝ่ายรุก"
+  },
+  {
+   "th": "ปักษาแหวกรัง",
+   "rtgs": "paksa waek rang",
+   "gloss": "The bird parts its nest",
+   "refers": "beast",
+   "figure": "a bird",
+   "set": "mae_mai",
+   "n": 2,
+   "described_th": "ก้าวเท้าข้างหนึ่งทแยงเข้าวงใน ใช้แขนปัดหมัดฝ่ายรุกให้พ้นใบหน้า และใช้มืออีกข้างกระแทกไหล่ด้านในของฝ่ายรุก"
+  },
+  {
+   "th": "ชวาซัดหอก",
+   "rtgs": "chawa sat hok",
+   "gloss": "The Javanese hurls the spear",
+   "refers": "people",
+   "figure": "a Javanese",
+   "set": "mae_mai",
+   "n": 3,
+   "described_th": "ก้าวเท้าเฉียงออกวงนอก ยกแขนข้างหนึ่งปัดหมัดฝ่ายรุกออก แล้วใช้แขนอีกข้างหนึ่งยกศอกกระแทกชายโครงฝ่ายรุก"
+  },
+  {
+   "th": "อิเหนาแทงกริช",
+   "rtgs": "Inao thaeng krit",
+   "gloss": "Inao stabs with the kris",
+   "refers": "myth",
+   "figure": "Inao",
+   "set": "mae_mai",
+   "note": "Inao is the hero of the Javanese Panji romance as the Thai court retold it — a play, not a fighter.",
+   "n": 4,
+   "described_th": "ก้าวเท้าทแยงเข้าวงใน ยกแขนข้างหนึ่งปัดหมัดฝ่ายรุกออก แล้วใช้แขนอีกข้างหนึ่งยกศอกกระแทกชายโครงฝ่ายรุก"
+  },
+  {
+   "th": "ยอเขาพระสุเมรุ",
+   "rtgs": "yo khao phra sumen",
+   "gloss": "Lifting Mount Meru",
+   "refers": "myth",
+   "figure": "Mount Meru",
+   "set": "mae_mai",
+   "n": 5,
+   "described_th": "ก้มศีรษะเพื่อให้หมัดฝ่ายรุกพ้นไป พร้อมก้าวเท้าไปข้างหน้าเล็กน้อย แล้วใช้หมัดเสยคางฝ่ายรุก"
+  },
+  {
+   "th": "ตาเถรค้ำฝัก",
+   "rtgs": "ta then kham fak",
+   "gloss": "The old monk props up the pod",
+   "refers": "people",
+   "figure": "an elderly monk",
+   "set": "mae_mai",
+   "n": 6,
+   "described_th": "ก้าวเท้าข้างหนึ่งเข้าวงใน พร้อมกับงอแขนข้างหนึ่งปัดหมัดฝ่ายรุกให้พ้นศีรษะ แล้วใช้มืออีกข้างชกปลายคางฝ่ายรุกทันที"
+  },
+  {
+   "th": "มอญยันหลัก",
+   "rtgs": "mon yan lak",
+   "gloss": "The Mon braces against the post",
+   "refers": "people",
+   "figure": "a Mon",
+   "set": "mae_mai",
+   "n": 7,
+   "described_th": "ยกแขนทั้งสองป้องกันหน้า แล้วใช้เท้าข้างหนึ่งถีบท้องหรือช่องอกฝ่ายรุกให้กระเด็น"
+  },
+  {
+   "th": "ปักลูกทอย",
+   "rtgs": "pak luk thoi",
+   "gloss": "Driving in the wedge",
+   "refers": "thing",
+   "figure": "a wooden wedge",
+   "set": "mae_mai",
+   "n": 8,
+   "described_th": "หันตัวหาทิศทางที่ฝ่ายรุกเตะมา ยกศอกทั้งสองขึ้นป้องกัน พร้อมกับใช้มือป้องกันการพลาดถูกใบหน้าไปในตัว"
+  },
+  {
+   "th": "จระเข้ฟาดหาง",
+   "rtgs": "chorakhe fat hang",
+   "gloss": "The crocodile lashes its tail",
+   "refers": "beast",
+   "figure": "a crocodile",
+   "set": "mae_mai",
+   "note": "The spinning back kick, and the one name most non-Thai gyms also use.",
+   "n": 9,
+   "described_th": "ใช้ส้นเท้ากระแทกเข้าที่ศีรษะของฝ่ายรุก"
+  },
+  {
+   "th": "หักงวงไอยรา",
+   "rtgs": "hak nguang aiyara",
+   "gloss": "Breaking the elephant's trunk",
+   "refers": "myth",
+   "figure": "Airavata",
+   "set": "mae_mai",
+   "note": "Aiyara is Airavata, Indra's elephant — the same animal as Erawan below, under its Pali name.",
+   "n": 10,
+   "described_th": "ใช้แขนโอบจับบริเวณน่องฝ่ายรุก พร้อมกับใช้ศอกอีกข้างแทงเข้าที่บริเวณโคนขาของฝ่ายรุก"
+  },
+  {
+   "th": "นาคาบิดหาง",
+   "rtgs": "nakha bit hang",
+   "gloss": "The naga twists the tail",
+   "refers": "myth",
+   "figure": "a naga",
+   "set": "mae_mai",
+   "n": 11,
+   "described_th": "ใช้มือทั้งสองตะปบส้นเท้าอีกฝ่ายที่เตะมา แล้วใช้มือที่จับปลายเท้าฝ่ายรุกบิดออกด้านนอก ใช้มือที่จับส้นเท้าฝ่ายรุกดึงเข้าหาตัว พร้อมใช้เข่ากระแทกเข้าที่น่องฝ่ายรุก"
+  },
+  {
+   "th": "วิรุฬหกกลับ",
+   "rtgs": "wirunhok klap",
+   "gloss": "Virulhaka turns over",
+   "refers": "myth",
+   "figure": "Virūḷhaka",
+   "set": "mae_mai",
+   "note": "One of the four heavenly kings, guardian of the south.",
+   "n": 12,
+   "described_th": "พลิกตัวทแยงสู่ทิศที่ฝ่ายรุกเตะมา แล้วใช้เท้ากระแทกต้นขาฝ่ายรุกออกไป โดยใช้มือทั้งสองป้องกันการพลาดเตะถูกชายโครง"
+  },
+  {
+   "th": "ดับชวาลา",
+   "rtgs": "dap chawala",
+   "gloss": "Putting out the lamp",
+   "refers": "thing",
+   "figure": "an oil lamp",
+   "set": "mae_mai",
+   "n": 13,
+   "described_th": "ใช้มือข้างหนึ่งกดแขนฝ่ายรุกที่ชกมาให้ลงต่ำ พร้อมกับใช้มืออีกข้างชกหน้าฝ่ายรุกในเวลาเดียวกัน"
+  },
+  {
+   "th": "ขุนยักษ์จับลิง",
+   "rtgs": "khun yak chap ling",
+   "gloss": "The giant catches the monkey",
+   "refers": "myth",
+   "figure": "Thotsakan and Hanuman",
+   "set": "mae_mai",
+   "note": "The demon king and the monkey: the Ramakien in four syllables.",
+   "n": 14,
+   "described_th": "ยกแขนทั้งสองปัดการเตะที่แข้งของฝ่ายรุก แล้วยกแขนข้างหนึ่งป้องกันศอกของฝ่ายรุก ซึ่งเป็นการหลบการชก, การเตะ และการศอกในเวลาเดียวกัน"
+  },
+  {
+   "th": "หักคอเอราวัณ",
+   "rtgs": "hak kho erawan",
+   "gloss": "Breaking Erawan's neck",
+   "refers": "myth",
+   "figure": "Erawan",
+   "set": "mae_mai",
+   "note": "The three-headed elephant Indra rides. The technique is the clinch knee to the face.",
+   "n": 15,
+   "described_th": "ใช้มือทั้งสองจับที่ต้นคอของฝ่ายรุก แล้วกระแทกเข่าข้างหนึ่งไปที่หน้าของฝ่ายรุก\n|}"
+  }
+ ],
+ "luk_mai": [
+  {
+   "th": "เอราวัณเสยงา",
+   "rtgs": "erawan soei nga",
+   "gloss": "Erawan tosses its tusks",
+   "refers": "myth",
+   "figure": "Erawan",
+   "set": "luk_mai",
+   "n": 1
+  },
+  {
+   "th": "บาทาลูบพักตร์",
+   "rtgs": "batha lup phak",
+   "gloss": "The foot strokes the face",
+   "refers": "plain",
+   "figure": "",
+   "set": "luk_mai",
+   "note": "The one name in the thirty that describes the movement — and it still does it in Sanskrit loanwords, bāda for foot and vaktra for face, not the everyday Thai words.",
+   "n": 2
+  },
+  {
+   "th": "ขุนยักษ์พานาง",
+   "rtgs": "khun yak pha nang",
+   "gloss": "The giant carries off the lady",
+   "refers": "myth",
+   "figure": "Thotsakan and Sida",
+   "set": "luk_mai",
+   "n": 3
+  },
+  {
+   "th": "พระรามน้าวศร",
+   "rtgs": "phra ram nao son",
+   "gloss": "Rama draws the bow",
+   "refers": "myth",
+   "figure": "Rama",
+   "set": "luk_mai",
+   "n": 4
+  },
+  {
+   "th": "ไกรสรข้ามห้วย",
+   "rtgs": "kraison kham huai",
+   "gloss": "The lion crosses the stream",
+   "refers": "myth",
+   "figure": "Kraison, the mythic lion",
+   "set": "luk_mai",
+   "n": 5
+  },
+  {
+   "th": "กวางเหลียวหลัง",
+   "rtgs": "kwang liao lang",
+   "gloss": "The deer looks back",
+   "refers": "beast",
+   "figure": "a deer",
+   "set": "luk_mai",
+   "n": 6
+  },
+  {
+   "th": "หิรัญม้วนแผ่นดิน",
+   "rtgs": "hiran muan phaendin",
+   "gloss": "Hiran rolls up the earth",
+   "refers": "myth",
+   "figure": "Hiranyaksha",
+   "set": "luk_mai",
+   "note": "The demon who rolled the earth up like a mat and carried it to the bottom of the sea.",
+   "n": 7
+  },
+  {
+   "th": "นาคมุดบาดาล",
+   "rtgs": "nak mut badan",
+   "gloss": "The naga dives to the underworld",
+   "refers": "myth",
+   "figure": "a naga",
+   "set": "luk_mai",
+   "n": 8
+  },
+  {
+   "th": "หนุมานถวายแหวน",
+   "rtgs": "hanuman thawai waen",
+   "gloss": "Hanuman presents the ring",
+   "refers": "myth",
+   "figure": "Hanuman",
+   "set": "luk_mai",
+   "note": "The moment Hanuman reaches Sida with Rama's ring. Three of the four regional lists carry this one.",
+   "n": 9
+  },
+  {
+   "th": "ญวนทอดแห",
+   "rtgs": "yuan thot hae",
+   "gloss": "The Vietnamese casts the net",
+   "refers": "people",
+   "figure": "a Vietnamese",
+   "set": "luk_mai",
+   "n": 10
+  },
+  {
+   "th": "ทะแยค้ำเสา",
+   "rtgs": "thayae kham sao",
+   "gloss": "The thayae props the pillar",
+   "refers": "people",
+   "figure": "a thayae",
+   "set": "luk_mai",
+   "note": "Thayae is a Mon melody and, by extension, a Mon musician. The reading is not certain.",
+   "n": 11
+  },
+  {
+   "th": "หงส์ปีกหัก",
+   "rtgs": "hong pik hak",
+   "gloss": "The swan with the broken wing",
+   "refers": "beast",
+   "figure": "a hamsa",
+   "set": "luk_mai",
+   "n": 12
+  },
+  {
+   "th": "สักพวงมาลัย",
+   "rtgs": "sak phuang malai",
+   "gloss": "Threading the garland",
+   "refers": "thing",
+   "figure": "a flower garland",
+   "set": "luk_mai",
+   "n": 13
+  },
+  {
+   "th": "เถรกวาดลาน",
+   "rtgs": "then kwat lan",
+   "gloss": "The elder sweeps the courtyard",
+   "refers": "people",
+   "figure": "an elder monk",
+   "set": "luk_mai",
+   "n": 14
+  },
+  {
+   "th": "ฝานลูกบวบ",
+   "rtgs": "fan luk buap",
+   "gloss": "Slicing the gourd",
+   "refers": "thing",
+   "figure": "a gourd",
+   "set": "luk_mai",
+   "n": 15
+  }
+ ],
+ "by_class": {
+  "thing": 5,
+  "beast": 4,
+  "people": 6,
+  "myth": 14,
+  "plain": 1
+ },
+ "picture": 29,
+ "plain": 1,
+ "myth": 14,
+ "classes": {
+  "myth": "a god, a demon, or a character from the Ramakien and its Hindu antecedents",
+  "beast": "an ordinary animal",
+  "people": "an ethnonym, or a person by their trade or station",
+  "thing": "an object or a piece of household work",
+  "plain": "the movement described as movement"
+ },
+ "schools": {
+  "korat": {
+   "rows": [
+    {
+     "th": "ชักหมัดมาเตะตีนหน้าพร้อมหมัดชัก",
+     "rtgs": "chak mat ma te tin na phrom mat chak",
+     "gloss": "Draw the fist, kick with the lead foot as the fist draws",
+     "refers": "plain",
+     "figure": "",
+     "set": "korat"
+    },
+    {
+     "th": "ชักปิดปกด้วยศอก",
+     "rtgs": "chak pit pok duai sok",
+     "gloss": "Draw and cover with the elbow",
+     "refers": "plain",
+     "figure": "",
+     "set": "korat"
+    },
+    {
+     "th": "ชกห้ามไหล่",
+     "rtgs": "chok ham lai",
+     "gloss": "Punch, checking the shoulder",
+     "refers": "plain",
+     "figure": "",
+     "set": "korat"
+    },
+    {
+     "th": "เมื่อเข้าให้ชกนอกเมื่อออกให้ชกใน",
+     "rtgs": "muea khao hai chok nok muea ok hai chok nai",
+     "gloss": "Going in, punch outside; coming out, punch inside",
+     "refers": "plain",
+     "figure": "",
+     "set": "korat"
+    },
+    {
+     "th": "ชกช้างประสานงา",
+     "rtgs": "chok chang prasan nga",
+     "gloss": "Punch as elephants lock tusks",
+     "refers": "beast",
+     "figure": "elephants",
+     "set": "korat"
+    },
+    {
+     "th": "ทัดมาลา",
+     "rtgs": "that mala",
+     "gloss": "Wearing the garland at the ear",
+     "refers": "thing",
+     "figure": "a garland",
+     "set": "korat"
+    },
+    {
+     "th": "กาฉีกรัง",
+     "rtgs": "ka chik rang",
+     "gloss": "The crow tears the nest",
+     "refers": "beast",
+     "figure": "a crow",
+     "set": "korat"
+    },
+    {
+     "th": "หนุมานถวายแหวน",
+     "rtgs": "hanuman thawai waen",
+     "gloss": "Hanuman presents the ring",
+     "refers": "myth",
+     "figure": "Hanuman",
+     "set": "korat"
+    },
+    {
+     "th": "ล้มพลอยอาย",
+     "rtgs": "lom phloi ai",
+     "gloss": "Falling as if ashamed",
+     "refers": "plain",
+     "figure": "",
+     "set": "korat"
+    },
+    {
+     "th": "ลิงชิงลูกไม้",
+     "rtgs": "ling ching luk mai",
+     "gloss": "The monkey snatches the fruit",
+     "refers": "beast",
+     "figure": "a monkey",
+     "set": "korat"
+    },
+    {
+     "th": "กุมภัณฑ์หักหอก",
+     "rtgs": "kumphan hak hok",
+     "gloss": "The kumbhanda breaks the spear",
+     "refers": "myth",
+     "figure": "a kumbhanda",
+     "set": "korat"
+    },
+    {
+     "th": "ฤาษีมุดสระ",
+     "rtgs": "ruesi mut sa",
+     "gloss": "The hermit dives the pool",
+     "refers": "people",
+     "figure": "a ruesi",
+     "set": "korat"
+    },
+    {
+     "th": "ทศกัณฑ์โศก",
+     "rtgs": "thotsakan sok",
+     "gloss": "Thotsakan grieves",
+     "refers": "myth",
+     "figure": "Thotsakan",
+     "set": "korat"
+    },
+    {
+     "th": "ตะเพียนแฝงตอ",
+     "rtgs": "taphian faeng to",
+     "gloss": "The carp hides by the stump",
+     "refers": "beast",
+     "figure": "a carp",
+     "set": "korat"
+    },
+    {
+     "th": "นกคุ้มเข้ารัง",
+     "rtgs": "nok khum khao rang",
+     "gloss": "The quail enters the nest",
+     "refers": "beast",
+     "figure": "a quail",
+     "set": "korat"
+    },
+    {
+     "th": "คชสารกวาดหญ้า",
+     "rtgs": "khotchasan kwat ya",
+     "gloss": "The elephant sweeps the grass",
+     "refers": "beast",
+     "figure": "an elephant",
+     "set": "korat"
+    },
+    {
+     "th": "หักหลักเพ็ชร",
+     "rtgs": "hak lak phet",
+     "gloss": "Breaking the diamond post",
+     "refers": "thing",
+     "figure": "a post",
+     "set": "korat"
+    },
+    {
+     "th": "คชสารแทงโรง",
+     "rtgs": "khotchasan thaeng rong",
+     "gloss": "The elephant charges the stockade",
+     "refers": "beast",
+     "figure": "an elephant",
+     "set": "korat"
+    },
+    {
+     "th": "หนุมานแหวกฟอง",
+     "rtgs": "hanuman waek fong",
+     "gloss": "Hanuman parts the waves",
+     "refers": "myth",
+     "figure": "Hanuman",
+     "set": "korat"
+    },
+    {
+     "th": "ลิงพลิ้ว",
+     "rtgs": "ling phliu",
+     "gloss": "The monkey slips away",
+     "refers": "beast",
+     "figure": "a monkey",
+     "set": "korat"
+    },
+    {
+     "th": "กาลอดบ่วง",
+     "rtgs": "ka lot buang",
+     "gloss": "The crow slips the snare",
+     "refers": "beast",
+     "figure": "a crow",
+     "set": "korat"
+    },
+    {
+     "th": "หนุมานแบกพระ",
+     "rtgs": "hanuman baek phra",
+     "gloss": "Hanuman carries the lord",
+     "refers": "myth",
+     "figure": "Hanuman",
+     "set": "korat"
+    },
+    {
+     "th": "หนูไต่ราว",
+     "rtgs": "nu tai rao",
+     "gloss": "The rat runs the rail",
+     "refers": "beast",
+     "figure": "a rat",
+     "set": "korat"
+    },
+    {
+     "th": "ตลบนก",
+     "rtgs": "talop nok",
+     "gloss": "Flipping the bird over",
+     "refers": "beast",
+     "figure": "a bird",
+     "set": "korat"
+    },
+    {
+     "th": "หนุมานถอนตอ",
+     "rtgs": "hanuman thon to",
+     "gloss": "Hanuman pulls up the stump",
+     "refers": "myth",
+     "figure": "Hanuman",
+     "set": "korat"
+    },
+    {
+     "th": "ตอแหล",
+     "rtgs": "to lae",
+     "gloss": "The liar",
+     "refers": "people",
+     "figure": "a liar",
+     "set": "korat"
+    }
+   ],
+   "by_class": {
+    "plain": 5,
+    "beast": 11,
+    "thing": 2,
+    "myth": 6,
+    "people": 2
+   },
+   "n": 26
+  },
+  "chaiya": {
+   "rows": [
+    {
+     "th": "ปั้นหมัด",
+     "rtgs": "pan mat",
+     "gloss": "Moulding the fist",
+     "refers": "plain",
+     "figure": "",
+     "set": "chaiya"
+    },
+    {
+     "th": "พันแขน",
+     "rtgs": "phan khaen",
+     "gloss": "Winding the arm",
+     "refers": "plain",
+     "figure": "",
+     "set": "chaiya"
+    },
+    {
+     "th": "พันหมัด",
+     "rtgs": "phan mat",
+     "gloss": "Winding the fist",
+     "refers": "plain",
+     "figure": "",
+     "set": "chaiya"
+    },
+    {
+     "th": "พันหมัดพลิกเหลี่ยม",
+     "rtgs": "phan mat phlik liam",
+     "gloss": "Winding the fist, turning the angle",
+     "refers": "plain",
+     "figure": "",
+     "set": "chaiya"
+    },
+    {
+     "th": "กระโดดตบศอก",
+     "rtgs": "kradot top sok",
+     "gloss": "Jumping elbow slap",
+     "refers": "plain",
+     "figure": "",
+     "set": "chaiya"
+    },
+    {
+     "th": "เต้นแร้งเต้นกา",
+     "rtgs": "ten raeng ten ka",
+     "gloss": "The vulture dance, the crow dance",
+     "refers": "beast",
+     "figure": "a vulture and a crow",
+     "set": "chaiya"
+    },
+    {
+     "th": "ย่างสามขุม",
+     "rtgs": "yang sam khum",
+     "gloss": "The three-pit step",
+     "refers": "thing",
+     "figure": "three pits in the ground",
+     "set": "chaiya"
+    }
+   ],
+   "by_class": {
+    "plain": 5,
+    "beast": 1,
+    "thing": 1
+   },
+   "n": 7
+  },
+  "lopburi": {
+   "rows": [
+    {
+     "th": "เอราวัณเสยงา",
+     "rtgs": "erawan soei nga",
+     "gloss": "Erawan tosses its tusks",
+     "refers": "myth",
+     "figure": "Erawan",
+     "set": "lopburi"
+    },
+    {
+     "th": "ขุนยักษ์พานาง",
+     "rtgs": "khun yak pha nang",
+     "gloss": "The giant carries off the lady",
+     "refers": "myth",
+     "figure": "Thotsakan and Sida",
+     "set": "lopburi"
+    },
+    {
+     "th": "พระรามน้าวศร",
+     "rtgs": "phra ram nao son",
+     "gloss": "Rama draws the bow",
+     "refers": "myth",
+     "figure": "Rama",
+     "set": "lopburi"
+    },
+    {
+     "th": "กวางเหลียวหลัง",
+     "rtgs": "kwang liao lang",
+     "gloss": "The deer looks back",
+     "refers": "beast",
+     "figure": "a deer",
+     "set": "lopburi"
+    },
+    {
+     "th": "หิรัญม้วนแผ่นดิน",
+     "rtgs": "hiran muan phaendin",
+     "gloss": "Hiran rolls up the earth",
+     "refers": "myth",
+     "figure": "Hiranyaksha",
+     "set": "lopburi"
+    },
+    {
+     "th": "หนุมานถวายแหวน",
+     "rtgs": "hanuman thawai waen",
+     "gloss": "Hanuman presents the ring",
+     "refers": "myth",
+     "figure": "Hanuman",
+     "set": "lopburi"
+    }
+   ],
+   "by_class": {
+    "myth": 5,
+    "beast": 1
+   },
+   "n": 6
+  }
+ },
+ "figures": [
+  [
+   "a naga",
+   2
+  ],
+  [
+   "Erawan",
+   2
+  ],
+  [
+   "the zigzag of a fish's jaw",
+   1
+  ],
+  [
+   "a bird",
+   1
+  ],
+  [
+   "a Javanese",
+   1
+  ],
+  [
+   "Inao",
+   1
+  ],
+  [
+   "Mount Meru",
+   1
+  ],
+  [
+   "an elderly monk",
+   1
+  ],
+  [
+   "a Mon",
+   1
+  ],
+  [
+   "a wooden wedge",
+   1
+  ],
+  [
+   "a crocodile",
+   1
+  ],
+  [
+   "Airavata",
+   1
+  ],
+  [
+   "Virūḷhaka",
+   1
+  ],
+  [
+   "an oil lamp",
+   1
+  ],
+  [
+   "Thotsakan and Hanuman",
+   1
+  ],
+  [
+   "Thotsakan and Sida",
+   1
+  ],
+  [
+   "Rama",
+   1
+  ],
+  [
+   "Kraison, the mythic lion",
+   1
+  ],
+  [
+   "a deer",
+   1
+  ],
+  [
+   "Hiranyaksha",
+   1
+  ],
+  [
+   "Hanuman",
+   1
+  ],
+  [
+   "a Vietnamese",
+   1
+  ],
+  [
+   "a thayae",
+   1
+  ],
+  [
+   "a hamsa",
+   1
+  ],
+  [
+   "a flower garland",
+   1
+  ],
+  [
+   "an elder monk",
+   1
+  ],
+  [
+   "a gourd",
+   1
+  ]
+ ],
+ "note": "Thai names and descriptions are harvested (see data/harvest/maemai.json). The transliteration, the English gloss and the classification of what each name points at are this project's own reading and are marked as inference wherever they are printed. A reader who would classify one differently is reading the same table."
+}

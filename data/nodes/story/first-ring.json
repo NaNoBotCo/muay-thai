@@ -1,0 +1,68 @@
+{
+ "id": "first-ring",
+ "type": "story",
+ "names": {
+  "name": "The ring arrives, 1921",
+  "th": "เวทีมาถึง พ.ศ. 2464",
+  "rtgs": "wethi ma thueng",
+  "said": "Built at a school, for muay and British boxing, in the same room.",
+  "said_th": "สร้างที่โรงเรียน สำหรับมวยไทยและมวยอังกฤษ ในที่เดียวกัน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ring"
+ },
+ "text": {
+  "what": "The first permanent ring in Siam, at Suan Kulap College, and everything that came in with it.",
+  "story": "The sequence in the English article is tight enough to list:\n\n- **1913** — British boxing enters the curriculum at Suan Kulap College. The first descriptive use of the term *muay thai*.\n- **1919** — British boxing and muay taught as one subject there. Judo too.\n- **1921** — the first permanent ring in Siam, at that school, used for both.\n- **1923** — Suan Sanuk Stadium, near Lumpini Park: the first international-style three-rope ring with red and blue padded corners.\n- **Under Rama VII (1925–1935)** — codified rules, referees, and rounds timed by a clock rather than by kick.\n\n*Inference —* the modern sport was assembled in a school, next to a foreign sport, by people teaching both. The name *muay thai* exists because two kinds of boxing were being taught in the same room and somebody needed to say which one they meant."
+ },
+ "text_th": {
+  "what": "เวทีถาวรแห่งแรกในสยาม ที่โรงเรียนสวนกุหลาบวิทยาลัย และทุกอย่างที่เข้ามาพร้อมกับมัน",
+  "story": "ลำดับในบทความภาษาอังกฤษแน่นพอจะเรียงออกมาได้\n\n- **พ.ศ. 2456** — มวยอังกฤษเข้าสู่หลักสูตรโรงเรียนสวนกุหลาบ และเป็นการใช้คำว่า *มวยไทย* เชิงพรรณนาครั้งแรก\n- **พ.ศ. 2462** — มวยอังกฤษกับมวยไทยสอนรวมเป็นวิชาเดียวที่นั่น และมียูโดด้วย\n- **พ.ศ. 2464** — เวทีถาวรแห่งแรกในสยาม ที่โรงเรียนนั้น ใช้ทั้งสองอย่าง\n- **พ.ศ. 2466** — สนามมวยสวนสนุก ใกล้สวนลุมพินี เวทีสามเชือกแบบสากลแห่งแรก มีมุมแดงมุมน้ำเงินบุนวม\n- **รัชกาลที่ 7 (พ.ศ. 2468–2478)** — กติกาถูกจัดเป็นระบบ มีผู้ตัดสิน และจับเวลายกด้วยนาฬิกาแทนการนับเตะ\n\n*อนุมาน —* กีฬาสมัยใหม่ถูกประกอบขึ้นในโรงเรียน ข้าง ๆ กีฬาต่างชาติ โดยคนที่สอนทั้งสองอย่าง คำว่า *มวยไทย* มีอยู่เพราะมีมวยสองชนิดสอนกันอยู่ในห้องเดียวกัน และต้องมีใครสักคนบอกว่าหมายถึงอันไหน"
+ },
+ "kin": [
+  {
+   "to": "rounds",
+   "as": "What it standardised.",
+   "rel": "rule"
+  },
+  {
+   "to": "gloves",
+   "as": "What came next.",
+   "rel": "kit"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "The pattern.",
+   "rel": "issue"
+  },
+  {
+   "to": "muay-boran",
+   "as": "What got renamed.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

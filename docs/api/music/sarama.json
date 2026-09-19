@@ -1,0 +1,129 @@
+{
+ "id": "sarama",
+ "type": "music",
+ "names": {
+  "name": "The band",
+  "th": "วงปี่กลอง",
+  "rtgs": "wong pi klong",
+  "said": "Four instruments, live, and they speed up when it matters.",
+  "said_th": "เครื่องดนตรีสี่ชิ้น บรรเลงสด และเร่งขึ้นเมื่อถึงเวลา",
+  "aliases": [
+   "sarama",
+   "เพลงมวย"
+  ]
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "instrument": "ensemble"
+ },
+ "text": {
+  "what": "Every stadium fight in Thailand is played live by a small band: an oboe, a pair of drums and a pair of hand cymbals, sitting at the ring apron.",
+  "story": "The music is not atmosphere. It is a clock and a commentary.\n\nIt starts slow under the wai kru, holds a walking pace through the early rounds, and accelerates — the drums first, then the oboe climbing — as the fight goes on. By the fifth round a good band is playing at a speed that makes two tired men look faster than they are, and the crowd noise is timed to it.\n\n*Inference —* if you cannot follow the scoring, follow the band. It is a reliable guide to where a stadium thinks the fight is, and it is free."
+ },
+ "text_th": {
+  "what": "ไฟต์บนเวทีในเมืองไทยทุกไฟต์มีวงเล็ก ๆ บรรเลงสด ปี่หนึ่งเลา กลองหนึ่งคู่ และฉิ่งหนึ่งคู่ นั่งอยู่ริมเวที",
+  "story": "ดนตรีไม่ใช่บรรยากาศ มันคือนาฬิกาและคำบรรยาย\n\nเริ่มช้าใต้การไหว้ครู คงจังหวะเดินไว้ในยกต้น ๆ แล้วเร่งขึ้น กลองก่อน ปี่ไต่ตาม เมื่อไฟต์ดำเนินไป พอถึงยกห้า วงที่ดีจะเล่นในความเร็วที่ทำให้คนเหนื่อยสองคนดูเร็วกว่าที่เป็น และเสียงคนดูก็จับจังหวะนั้น\n\n*อนุมาน —* ถ้าตามคะแนนไม่ทัน ให้ตามวงดนตรี มันเป็นเครื่องชี้ที่เชื่อถือได้ว่าสนามคิดว่าไฟต์อยู่ตรงไหน และฟรี"
+ },
+ "kin": [
+  {
+   "to": "pi-chawa",
+   "as": "The oboe.",
+   "rel": "music"
+  },
+  {
+   "to": "klong-khaek",
+   "as": "The drums.",
+   "rel": "music"
+  },
+  {
+   "to": "ching",
+   "as": "The time.",
+   "rel": "music"
+  },
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "What it opens under.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:thwp-ป-ชวา",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-ป-ชวา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "sarama/sarama-piphat-mon.jpg",
+   "source": "commons",
+   "title": "File:Piphat Mon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Piphat_Mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APiphat_Mon.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Mahatee",
+   "credit": "Own work",
+   "alt": "Thailand: Mon Pi Paat Band Rayong Witthayakhom School",
+   "date": "",
+   "primary": true,
+   "sha256": "8af946af14de73c401ff8c513e81fc816d6fc39ea490777f5cfeff1ff7998bb4"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "wai-kru-ram-muay",
+   "type": "ritual",
+   "name": "The dance before the fight",
+   "as": "What is played under it."
+  },
+  {
+   "from": "ching",
+   "type": "music",
+   "name": "The time",
+   "as": "The band."
+  },
+  {
+   "from": "klong-khaek",
+   "type": "music",
+   "name": "The drums",
+   "as": "The band."
+  },
+  {
+   "from": "klong-sabatchai",
+   "type": "music",
+   "name": "The victory drum",
+   "as": "The other band, at the ring."
+  },
+  {
+   "from": "pi-chawa",
+   "type": "music",
+   "name": "The oboe",
+   "as": "The band it leads."
+  },
+  {
+   "from": "fight-night",
+   "type": "story",
+   "name": "What an evening is shaped like",
+   "as": "What you are listening to."
+  }
+ ]
+}

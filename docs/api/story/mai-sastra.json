@@ -1,0 +1,107 @@
+{
+ "id": "mai-sastra",
+ "type": "story",
+ "names": {
+  "name": "The hermit's school",
+  "th": "สำนักพระฤๅษีสุกกะทันตะ",
+  "rtgs": "samnak phra ruesi sukkathanta",
+  "said": "Mangrai of Chiang Mai and Ngam Mueang of Phayao are said to have learned to box in Lopburi.",
+  "said_th": "ว่ากันว่าพญามังรายแห่งเชียงใหม่และพญางำเมืองแห่งพะเยาเรียนมวยที่ลพบุรี"
+ },
+ "region": [
+  "north",
+  "lanna",
+  "central",
+  "lopburi"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "A school at Khao Samo Khon in Lavo — now Lopburi — kept by a hermit called Sukkathanta, teaching a subject called *Mai Sastra*.",
+  "story": "Thai Wikipedia's history of the sport dates it to **AD 657, the Hariphunchai period**, and names the subject: **มัยศาสตร์**, *Mai Sastra* — glossed there against Kannada ಮೈಶಾಸ್ತ್ರ, where *mai* is courage or the facing of danger and *sastra* is a manual or body of knowledge. It covered boxing, the sword, the bow, and the handling of elephants and horses.\n\nThe students it names are the point. **Mangrai**, who founded Chiang Mai. **Ngam Mueang**, who ruled Phayao. **Ban Mueang** and **Ram Khamhaeng** of Sukhothai. Four northern and central rulers, in one classroom, in the city that one of the four named boxing styles is named after.\n\nThe hermitage is still visitable, at Wat Khao Samo Khon in Lopburi.\n\n*Inference —* hold this the way you would hold any origin story that arrives already tidy. A seventh-century date, a single named teacher, and a class list of exactly the kings a national history would want in it, is a story doing work. What it is good evidence of is that the tradition places the sport's teaching **north and central rather than in Ayutthaya**, and that it wants Lanna in the room. The Mangrai law of 1296 is the harder evidence for that, and it is on its own page."
+ },
+ "text_th": {
+  "what": "สำนักเรียนที่เขาสมอคอน เมืองละโว้ ปัจจุบันคือลพบุรี ของพระฤๅษีสุกกะทันตะ สอนวิชาชื่อ มัยศาสตร์",
+  "story": "ประวัติศาสตร์มวยไทยฉบับวิกิพีเดียไทยกำหนดไว้ที่ **พ.ศ. 1200 สมัยหริภุญชัย** และระบุชื่อวิชา **มัยศาสตร์** เทียบไว้กับคำกันนาดา ಮೈಶಾಸ್ತ್ರ โดย *มัย* คือความกล้าหาญหรือการกล้าเผชิญอันตราย และ *ศาสตร์* คือคู่มือหรือองค์ความรู้ ครอบคลุมวิชามวย ดาบ ธนู และการบังคับช้างและม้า\n\nรายชื่อศิษย์คือประเด็น **พญามังราย** ผู้สร้างเชียงใหม่ **พญางำเมือง** ผู้ครองพะเยา **พ่อขุนบานเมือง** และ **พ่อขุนรามคำแหง** แห่งสุโขทัย ผู้ปกครองทางเหนือและภาคกลางสี่พระองค์ ในห้องเรียนเดียวกัน ในเมืองที่สายมวยหนึ่งในสี่สายตั้งชื่อตาม\n\nอาศรมยังไปเยือนได้ที่วัดเขาสมอคอน จังหวัดลพบุรี\n\n*อนุมาน —* ถือเรื่องนี้แบบที่ควรถือเรื่องต้นกำเนิดใด ๆ ที่มาถึงในสภาพเรียบร้อยแล้ว วันที่ในศตวรรษที่เจ็ด ครูที่ระบุชื่อคนเดียว และรายชื่อนักเรียนที่เป็นกษัตริย์ชุดที่ประวัติศาสตร์ชาติต้องการพอดี คือเรื่องเล่าที่กำลังทำงานอยู่ สิ่งที่มันเป็นหลักฐานได้ดีคือธรรมเนียมวางการสอนวิชานี้ไว้ที่**เหนือและกลาง ไม่ใช่ที่อยุธยา** และมันต้องการให้ล้านนาอยู่ในห้องด้วย ส่วนมังรายศาสตร์ พ.ศ. 1839 คือหลักฐานที่แข็งกว่า และอยู่ในหน้าของตัวเอง"
+ },
+ "kin": [
+  {
+   "to": "mangrai-law",
+   "as": "The harder evidence.",
+   "rel": "story"
+  },
+  {
+   "to": "lopburi",
+   "as": "The school named for the city.",
+   "rel": "style"
+  },
+  {
+   "to": "lanna",
+   "as": "Who is in the room.",
+   "rel": "place"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "How to hold a tidy origin.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:thwp-ประวัติศาสตร์มวยไทย",
+  "s:thwp-อาณาจักรหริภุญชัย",
+  "s:thwp-พญามังราย",
+  "s:thwp-พญางำเมือง"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:thwp-ประวัติศาสตร์มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "lanna",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "mai-sastra/mai-sastra-hermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg",
+   "source": "commons",
+   "title": "File:Hermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AHermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Quantplinus",
+   "credit": "Own work",
+   "alt": "Statue of hermit Sukatanta, the Muay Thai martial art's progenitor, located at Khao Samo Khon hermitage, Lopburi province, Thailand, as recorded in the Yonok Chronicle.",
+   "date": "2024-06-05",
+   "primary": true,
+   "sha256": "35684f8107b264fd44ecd6fecbd09baf4f37e10a00ec0f584de50b4f2b5c99a9"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "fon-jerng",
+   "type": "style",
+   "name": "Fon jerng",
+   "as": "The older claim underneath it."
+  },
+  {
+   "from": "mangrai-law",
+   "type": "story",
+   "name": "The Mangrai law, 1296",
+   "as": "The softer claim."
+  }
+ ]
+}

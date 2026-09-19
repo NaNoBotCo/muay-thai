@@ -1,0 +1,62 @@
+{
+ "id": "te",
+ "type": "term",
+ "names": {
+  "name": "te",
+  "th": "เตะ",
+  "rtgs": "te",
+  "said": "Kick."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "corner"
+ },
+ "text": {
+  "what": "The other thing the corner shouts, and the one that scores.",
+  "story": "*Te chiang* is the angled kick, the round kick. *Te* on its own from the corner in round four means they think the round is close and they want it settled with the highest-value thing you own."
+ },
+ "text_th": {
+  "what": "อีกคำที่มุมตะโกน และเป็นคำที่ได้คะแนน",
+  "story": "*เตะเฉียง* คือเตะเฉียง หรือเตะวง ส่วน *เตะ* เฉย ๆ จากมุมในยกสี่แปลว่าเขาคิดว่ายกนี้สูสี และอยากให้จบด้วยของที่มีค่าที่สุดที่คุณมี"
+ },
+ "kin": [
+  {
+   "to": "te-chiang",
+   "as": "The kick.",
+   "rel": "move"
+  },
+  {
+   "to": "scoring",
+   "as": "Why it is what they shout.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Thai เตะ — to kick",
+  "tier": "cited",
+  "source": "s:thwp-มวยไทย"
+ }
+}

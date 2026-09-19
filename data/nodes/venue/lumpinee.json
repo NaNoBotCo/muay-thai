@@ -1,0 +1,126 @@
+{
+ "id": "lumpinee",
+ "type": "venue",
+ "names": {
+  "name": "Lumpinee Boxing Stadium",
+  "th": "สนามมวยเวทีลุมพินี",
+  "rtgs": "sanam muay wethi lumphini",
+  "said": "Opened 1956 by the army. Moved in 2014, and is no longer near Lumpini Park.",
+  "said_th": "เปิด พ.ศ. 2499 โดยกองทัพบก ย้ายเมื่อ พ.ศ. 2557 และไม่ได้อยู่ใกล้สวนลุมพินีอีกแล้ว"
+ },
+ "region": [
+  "bangkok"
+ ],
+ "facets": {
+  "city": "bangkok",
+  "price": "high"
+ },
+ "text": {
+  "what": "The second of the two ranking stadiums, run by the Royal Thai Army.",
+  "story": "The name is the trap. Lumpinee was built beside Lumpini Park on Rama IV Road and kept the name when it moved out to **Ram Intra Road** in 2014, seven kilometres north-east. OpenStreetMap has it at 13.867, 100.609, which is the new site; a taxi told \"Lumpinee\" may take you to the park.\n\nThe army connection is not decorative. A ranking stadium in Thailand is an institution with a licence, a gambling floor and an owner, and the two that matter are held by the army and by a company on a royal avenue."
+ },
+ "text_th": {
+  "what": "สนามที่สองในสองสนามหลัก ดำเนินการโดยกองทัพบก",
+  "story": "ชื่อคือกับดัก ลุมพินีสร้างข้างสวนลุมพินีบนถนนพระรามที่ 4 แล้วเก็บชื่อไว้ตอนย้ายออกไปที่ **ถนนรามอินทรา** เมื่อ พ.ศ. 2557 ห่างออกไปทางตะวันออกเฉียงเหนือเจ็ดกิโลเมตร OpenStreetMap ระบุไว้ที่ 13.867, 100.609 ซึ่งคือที่ตั้งใหม่ แท็กซี่ที่ได้ยินคำว่า \"ลุมพินี\" อาจพาคุณไปที่สวน\n\nความเกี่ยวข้องกับกองทัพไม่ใช่เครื่องประดับ สนามหลักในเมืองไทยคือสถาบันที่มีใบอนุญาต มีวงพนัน และมีเจ้าของ และสองแห่งที่สำคัญนั้นถือโดยกองทัพบกและโดยบริษัทบนถนนพระราชพิธี"
+ },
+ "kin": [
+  {
+   "to": "rajadamnern",
+   "as": "The other one.",
+   "rel": "venue"
+  },
+  {
+   "to": "betting",
+   "as": "What fills the seats.",
+   "rel": "rule"
+  },
+  {
+   "to": "gloves",
+   "as": "Where the article puts the change.",
+   "rel": "kit"
+  }
+ ],
+ "geo": {
+  "lat": 13.867,
+  "lon": 100.6087,
+  "precision": "street"
+ },
+ "sources": [
+  "s:thwp-สนามมวยเวท-ล-มพ-น-",
+  "s:osm-gyms"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-สนามมวยเวท-ล-มพ-น-"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "tags": [
+  "watching",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "venue": {
+  "opened": "1956",
+  "city": "Bangkok",
+  "moved": "2014, to Ram Intra Road",
+  "nights_note": "Fight nights and ticket prices change with the promotion holding the card.",
+  "check": true
+ },
+ "images": [
+  {
+   "file": "lumpinee/lumpinee-bangkok-lumpinee-boxing-stadium-3.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Lumpinee Boxing Stadium 3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bangkok_Lumpinee_Boxing_Stadium_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABangkok_Lumpinee_Boxing_Stadium_3.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Mr.Peerapong Prasutr",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "alt": "Lumpinee Boxing Stadium was originally located on Rama IV road, Pathumwan district, adjacent to the former Armed Forces Academies Preparatory School. The stadium was as high standard boxing arena as R",
+   "date": "2015-01-16 22:40:29",
+   "primary": true,
+   "sha256": "9ed3bc0e9d7ade425f8d688d0abfdf4079b871975d39551ffb2219e3b504bf39"
+  },
+  {
+   "file": "lumpinee/lumpinee-lumpinee-s-ring-bell.jpg",
+   "source": "commons",
+   "title": "File:Lumpinee's ring bell.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lumpinee%27s_ring_bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALumpinee%27s_ring_bell.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "B20180",
+   "credit": "Own work",
+   "alt": "Lumpinee's ring bell",
+   "date": "2013-01-12 20:04:41",
+   "primary": false,
+   "sha256": "1498e0e7ccebcf6430667d4c6ab070088bb8f8fedcbd4ee0de3603a528ef4396"
+  },
+  {
+   "file": "lumpinee/lumpinee-muay-thai-champion-belt-of-lumpinee-1.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai champion belt of Lumpinee 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Muay_Thai_champion_belt_of_Lumpinee_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_champion_belt_of_Lumpinee_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "B20180",
+   "credit": "Own work",
+   "alt": "Muay Thai champion belt of Lumpinee",
+   "date": "2013-01-12 23:08:17",
+   "primary": false,
+   "sha256": "c9dc4b3ec544f4ec8c54011bcb2eac6556437ce2c38cdf1a9b551bdd0a14a874"
+  }
+ ]
+}

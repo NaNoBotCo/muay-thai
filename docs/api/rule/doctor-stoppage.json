@@ -1,0 +1,66 @@
+{
+ "id": "doctor-stoppage",
+ "type": "rule",
+ "names": {
+  "name": "The doctor, and the cut",
+  "th": "หมอสนาม",
+  "rtgs": "mo sanam",
+  "said": "A fight can end with both men standing and neither tired.",
+  "said_th": "ไฟต์จบได้ทั้งที่ทั้งคู่ยังยืนและยังไม่เหนื่อย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "body": "safety"
+ },
+ "text": {
+  "what": "The ringside doctor inspects cuts between rounds and can end a fight over one.",
+  "story": "This is the elbow's delivery mechanism. An elbow to the eyebrow opens a cut that bleeds into the eye; the doctor looks at it at the bell; the fight is over.\n\n*Inference —* for a fighter behind on the cards with two rounds left, the cut is the shortest route left, and that is why the fourth round of a one-sided fight suddenly becomes an elbow fight."
+ },
+ "text_th": {
+  "what": "แพทย์ข้างเวทีตรวจบาดแผลระหว่างยก และสั่งยุติไฟต์เพราะแผลได้",
+  "story": "นี่คือกลไกส่งมอบของศอก ศอกที่คิ้วเปิดแผลที่ไหลลงตา หมอมาดูตอนระฆัง ไฟต์จบ\n\n*อนุมาน —* สำหรับคนที่ตามคะแนนและเหลืออีกสองยก แผลคือทางที่สั้นที่สุดที่ยังเหลือ และนั่นคือเหตุที่ยกสี่ของไฟต์ที่ห่างกันมาก ๆ กลายเป็นไฟต์ศอกขึ้นมาทันที"
+ },
+ "kin": [
+  {
+   "to": "elbow",
+   "as": "What opens it.",
+   "rel": "weapon"
+  },
+  {
+   "to": "scoring",
+   "as": "What it overrides.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "elbow",
+   "type": "weapon",
+   "name": "The elbow",
+   "as": "How an elbow usually wins."
+  }
+ ]
+}

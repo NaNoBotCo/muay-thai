@@ -1,0 +1,53 @@
+{
+ "id": "ching",
+ "type": "music",
+ "names": {
+  "name": "The time",
+  "th": "ฉิ่ง",
+  "rtgs": "ching",
+  "said": "Two small cups of bronze. They decide where the beat is.",
+  "said_th": "ถ้วยทองเหลืองเล็ก ๆ สองใบ เป็นตัวกำหนดว่าจังหวะอยู่ตรงไหน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "instrument": "time"
+ },
+ "text": {
+  "what": "A pair of thick bronze cups on a cord, struck together. Closed, they say *ching*; let ring, they say *chap*, and the two syllables are the name and the notation.",
+  "story": "The smallest instrument in the band and the one that is in charge. Thai classical time is counted off the ching, not the drum: the closed stroke and the open stroke mark the weak and the strong, and every other player is hanging off them.\n\n*Inference —* this is why a stadium band can accelerate without falling apart. The tempo is being carried by two pieces of metal that cannot get tired."
+ },
+ "text_th": {
+  "what": "ถ้วยทองเหลืองหนาสองใบร้อยเชือก ตีกระทบกัน ปิดเสียงเป็น *ฉิ่ง* ปล่อยกังวานเป็น *ฉับ* สองพยางค์นั้นคือทั้งชื่อและตัวโน้ต",
+  "story": "เครื่องที่เล็กที่สุดในวง และเป็นเครื่องที่คุมอยู่ จังหวะในดนตรีไทยนับจากฉิ่ง ไม่ใช่จากกลอง เสียงปิดกับเสียงเปิดบอกเบาและหนัก และคนเล่นที่เหลือทั้งหมดเกาะอยู่กับมัน\n\n*อนุมาน —* นี่คือเหตุที่วงริมเวทีเร่งความเร็วได้โดยไม่หลุด ความเร็วถูกถือไว้โดยโลหะสองชิ้นที่ไม่มีวันเหนื่อย"
+ },
+ "kin": [
+  {
+   "to": "sarama",
+   "as": "The band.",
+   "rel": "music"
+  }
+ ],
+ "sources": [
+  "s:thwp-ฉ-ง"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-ฉ-ง"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

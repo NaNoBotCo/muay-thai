@@ -1,0 +1,146 @@
+{
+ "id": "child-boxing",
+ "type": "issue",
+ "names": {
+  "name": "Children in the ring",
+  "th": "เด็กบนเวที",
+  "rtgs": "dek bon wethi",
+  "said": "Both arguments are about poverty, and neither side denies the brain scans.",
+  "said_th": "ข้อโต้แย้งทั้งสองฝ่ายเป็นเรื่องความยากจน และไม่มีฝ่ายไหนปฏิเสธผลสแกนสมอง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "status": "contested"
+ },
+ "text": {
+  "what": "Thai children fight professionally from single-digit ages. The Boxing Act sets a minimum age for professional competition; the English article says it \"was largely being flouted\".",
+  "story": "**What is measured.** Research cited in the English article reports lower IQ in child fighters, correlating with the length of their training, and deaths in the ring do occur. At the 13th World Conference on Injury Prevention in 2018 it was put that up to three percent of the coming generation would grow up with learning disabilities unless children under twelve were banned from bouts.\n\n**What the paediatricians ask for.** Adisak Plitapolkarnpim of CSIP is quoted asking for no head contact under fifteen, no competition at all under nine, and light head contact only between thirteen and fifteen — not a ban on the sport for children, a ban on the head. He also names the 2014 US Department of Labor findings on the worst forms of child labour, and says exploitation \"still remains a serious concern\".\n\n**What the other side says.** A child fighting is earning, and in a rural household the purse is real money against a real shortfall. Gyms feed, house and school children who would otherwise be working. The sport is also a route out — every name on the people pages here started at eleven, twelve, thirteen.\n\n**What both sides agree on.** Neither argument disputes the scans. The dispute is about what a family is supposed to do instead, and that is a question about rural income, not about boxing.\n\nThis project does not resolve it and does not pretend the two positions are the same size: one is a measurement and one is an economy."
+ },
+ "text_th": {
+  "what": "เด็กไทยชกอาชีพตั้งแต่อายุหลักหน่วย พระราชบัญญัติกีฬามวยกำหนดอายุขั้นต่ำสำหรับการแข่งขันอาชีพไว้ บทความภาษาอังกฤษระบุว่ากฎนั้น \"ถูกฝ่าฝืนเป็นส่วนใหญ่\"",
+  "story": "**สิ่งที่วัดได้** งานวิจัยที่บทความภาษาอังกฤษอ้างถึงรายงานว่าเด็กนักมวยมีระดับเชาวน์ปัญญาต่ำกว่า และสัมพันธ์กับระยะเวลาที่ฝึก ส่วนการเสียชีวิตบนเวทีก็เกิดขึ้นจริง ในการประชุมโลกว่าด้วยการป้องกันการบาดเจ็บครั้งที่ 13 เมื่อปี 2561 มีการเสนอว่า เด็กรุ่นต่อไปมากถึงสามเปอร์เซ็นต์จะโตขึ้นพร้อมความบกพร่องในการเรียนรู้ หากไม่ห้ามเด็กอายุต่ำกว่าสิบสองขึ้นชก\n\n**สิ่งที่กุมารแพทย์ขอ** อดิศักดิ์ ผลิตผลการพิมพ์ แห่งศูนย์วิจัยเพื่อสร้างเสริมความปลอดภัยในเด็ก ถูกอ้างว่าขอให้ไม่มีการกระทบศีรษะในเด็กต่ำกว่าสิบห้า ไม่ให้แข่งเลยต่ำกว่าเก้า และให้กระทบศีรษะแบบเบาเท่านั้นในช่วงสิบสามถึงสิบห้า — ไม่ใช่การห้ามเด็กเล่นกีฬานี้ แต่เป็นการห้ามที่ศีรษะ เขายังอ้างถึงรายงานปี 2557 ของกระทรวงแรงงานสหรัฐเรื่องรูปแบบที่เลวร้ายที่สุดของการใช้แรงงานเด็ก และกล่าวว่าการเอารัดเอาเปรียบ \"ยังคงเป็นข้อกังวลที่ร้ายแรง\"\n\n**สิ่งที่อีกฝ่ายพูด** เด็กที่ชกคือเด็กที่หาเงินได้ และในครัวเรือนชนบท ค่าตัวคือเงินจริงที่ชนกับความขาดแคลนจริง ค่ายเลี้ยงข้าว ให้ที่อยู่ และส่งเด็กเรียน ซึ่งไม่อย่างนั้นก็ต้องไปทำงาน กีฬานี้ยังเป็นทางออกด้วย ทุกชื่อในหน้าบุคคลของเว็บนี้เริ่มชกตอนสิบเอ็ด สิบสอง สิบสาม\n\n**สิ่งที่ทั้งสองฝ่ายเห็นตรงกัน** ไม่มีฝ่ายใดโต้แย้งผลสแกน ข้อพิพาทอยู่ที่ว่าครอบครัวควรทำอะไรแทน และนั่นคือคำถามเรื่องรายได้ชนบท ไม่ใช่คำถามเรื่องมวย\n\nโครงการนี้ไม่ได้ตัดสิน และไม่ได้ทำเป็นว่าสองจุดยืนนี้ขนาดเท่ากัน ฝ่ายหนึ่งคือการวัด อีกฝ่ายคือเศรษฐกิจ"
+ },
+ "kin": [
+  {
+   "to": "purse",
+   "as": "The money in question.",
+   "rel": "rule"
+  },
+  {
+   "to": "head-injury",
+   "as": "The measurement.",
+   "rel": "issue"
+  },
+  {
+   "to": "isan",
+   "as": "Where the households are.",
+   "rel": "place"
+  },
+  {
+   "to": "mae-sariang-ring",
+   "as": "Where it happens, away from the cameras.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "children",
+  "contested",
+  "money"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "child-boxing/child-boxing-muay-thai-thai-boxing-kids-img-1824.jpg",
+   "source": "commons",
+   "title": "File:Muay-Thai Thai-boxing-kids IMG 1824.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Muay-Thai_Thai-boxing-kids_IMG_1824.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay-Thai_Thai-boxing-kids_IMG_1824.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Per Meistrup",
+   "credit": "Own work",
+   "alt": "Kids in professional Muay Thai (Thai boxing) fight (Lamai, Koh Samui, 2016)",
+   "date": "2016-07-02",
+   "primary": true,
+   "sha256": "39a9875720f48e36713a86b625d15f184d03deb4555687190d054be186a89425"
+  },
+  {
+   "file": "child-boxing/child-boxing-muay-thai-kids.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai Kids.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Muay_Thai_Kids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Kids.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "ja:利用者:Yosemite",
+   "credit": "ja:画像:Muay Thai.jpg",
+   "alt": "Young Muay Thai fighters in Bangkok",
+   "date": "Unknown date",
+   "primary": false,
+   "sha256": "7f53ee2a3231069e06f405eaf8618f4940e1fe556ece2ad2c324c732f5dfadf1"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "mae-sariang-ring",
+   "type": "venue",
+   "name": "The ring at Mae Sariang",
+   "as": "Who fights at a ring like this."
+  },
+  {
+   "from": "purse",
+   "type": "rule",
+   "name": "What a fighter is paid",
+   "as": "Why a family puts a nine-year-old on a card."
+  },
+  {
+   "from": "ekathotsarot-law",
+   "type": "story",
+   "name": "The law that would not punish it",
+   "as": "The modern version of the same question."
+  },
+  {
+   "from": "fight-night",
+   "type": "story",
+   "name": "What an evening is shaped like",
+   "as": "Who is on first."
+  },
+  {
+   "from": "isan",
+   "type": "place",
+   "name": "Isan",
+   "as": "The argument."
+  },
+  {
+   "from": "sat",
+   "type": "org",
+   "name": "The Sports Authority of Thailand",
+   "as": "The act being flouted."
+  },
+  {
+   "from": "head-injury",
+   "type": "issue",
+   "name": "What ten years of kicks does",
+   "as": "Where the research is."
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "id": "mae-sariang-ring",
+ "type": "venue",
+ "names": {
+  "name": "The ring at Mae Sariang",
+  "th": "เวทีมวยไทย แม่สะเรียง",
+  "rtgs": "wethi muay thai mae sariang",
+  "said": "On the Mae Hong Son loop, at 18.177, 97.928.",
+  "said_th": "อยู่บนวงรอบแม่ฮ่องสอน ที่พิกัด 18.177, 97.928"
+ },
+ "region": [
+  "north"
+ ],
+ "facets": {
+  "city": "province"
+ },
+ "text": {
+  "what": "A provincial boxing ring in Mae Sariang, western Mae Hong Son province — one of eighteen stadiums this project found on the map worldwide.",
+  "story": "It is here because the map put it here, and because of where here is: Mae Sariang sits on Route 108 on the Mae Hong Son loop, between Hot and Khun Yuam.\n\n*Inference —* a provincial ring is where the sport actually runs. Two ranking stadiums in Bangkok are the top of a structure whose base is a few hundred rings like this one, at temple fairs and festivals, where a fifteen-year-old has his eighth fight for eight hundred baht. This project has no schedule for it and does not know whether it runs weekly, monthly or at festivals."
+ },
+ "text_th": {
+  "what": "เวทีมวยต่างจังหวัดที่แม่สะเรียง ทางตะวันตกของจังหวัดแม่ฮ่องสอน หนึ่งในสิบแปดสนามที่โครงการนี้พบบนแผนที่ทั้งโลก",
+  "story": "มันอยู่ตรงนี้เพราะแผนที่วางไว้ตรงนี้ และเพราะตรงนี้คือที่ไหน แม่สะเรียงอยู่บนทางหลวง 108 บนวงรอบแม่ฮ่องสอน ระหว่างฮอดกับขุนยวม\n\n*อนุมาน —* เวทีต่างจังหวัดคือที่ที่กีฬานี้ทำงานจริง สองสนามหลักในกรุงเทพฯ คือยอดของโครงสร้างที่มีฐานเป็นเวทีอีกไม่กี่ร้อยแห่งแบบนี้ ตามงานวัดและงานเทศกาล ที่ซึ่งเด็กสิบห้าชกไฟต์ที่แปดของเขาเพื่อเงินแปดร้อยบาท โครงการนี้ไม่มีตารางของมัน และไม่รู้ว่ามันจัดทุกสัปดาห์ ทุกเดือน หรือเฉพาะงานเทศกาล"
+ },
+ "kin": [
+  {
+   "to": "the-gym-map",
+   "as": "Where the count comes from.",
+   "rel": "gym"
+  },
+  {
+   "to": "child-boxing",
+   "as": "Who fights at a ring like this.",
+   "rel": "issue"
+  }
+ ],
+ "links": [
+  {
+   "label": "The Mae Hong Son Loop",
+   "url": "https://motdang.net/loop/"
+  }
+ ],
+ "geo": {
+  "lat": 18.1772,
+  "lon": 97.9283,
+  "precision": "exact"
+ },
+ "sources": [
+  "s:osm-gyms"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm-gyms"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "abroad"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "venue": {
+  "city": "Mae Sariang, Mae Hong Son",
+  "check": true
+ },
+ "images": [
+  {
+   "file": "mae-sariang-ring/mae-sariang-ring-.jpg",
+   "source": "commons",
+   "title": "File:สนามมวยรังสิต.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "มวยไทยรังสิต",
+   "credit": "Own work",
+   "alt": "สนามมวยมาตรฐานจังหวัดปทุมธานี",
+   "date": "2017-04-14",
+   "primary": true,
+   "sha256": "e0c0788a42581366a8345b9dab9513a0b0040e014122bfa629af88c7af355b05"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "the-gym-map",
+   "type": "gym",
+   "name": "Every gym on the map",
+   "as": "One of the eighteen stadiums."
+  },
+  {
+   "from": "child-boxing",
+   "type": "issue",
+   "name": "Children in the ring",
+   "as": "Where it happens, away from the cameras."
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "id": "neighbours",
+ "type": "story",
+ "names": {
+  "name": "The same sport, four borders",
+  "th": "กีฬาเดียวกัน สี่ชายแดน",
+  "rtgs": "kila diaokan si chaidaen",
+  "said": "Lethwei, kun khmer, muay lao, tomoi. Four names, one region, and a long argument.",
+  "said_th": "เลทเว กุนขแมร์ มวยลาว โตมอย สี่ชื่อ ภูมิภาคเดียว และข้อถกเถียงที่ยาวนาน"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Myanmar, Cambodia, Laos and the Malay peninsula each have a striking art with the same eight weapons and a different name.",
+  "story": "**Lethwei**, in Myanmar, keeps the headbutt — nine weapons, not eight — and was fought bare-knuckle. **Kun khmer** in Cambodia, **muay lao** in Laos, **tomoi** on the Malay peninsula.\n\nThe dispute is public and recurring, most visibly over what the sport is called at the SEA Games when Cambodia hosts. Both sides argue from temple carvings and from chronicles, and neither set of evidence is decisive, because the thing they are arguing about — a regional practice older than any of the modern states — does not belong to a state by the nature of what it is.\n\nEnglish Wikipedia's own note is that the invented-tradition process in Thailand attached the sport to an official cultural institution and **separated it from these neighbours**. The separating is the recent part."
+ },
+ "text_th": {
+  "what": "เมียนมา กัมพูชา ลาว และคาบสมุทรมลายู ต่างมีศิลปะการต่อสู้ที่ใช้อาวุธแปดชิ้นเดียวกัน ในชื่อที่ต่างกัน",
+  "story": "**เลทเว** ในเมียนมา ยังใช้การโขกหัว — เก้าอาวุธ ไม่ใช่แปด — และชกด้วยหมัดเปล่า **กุนขแมร์** ในกัมพูชา **มวยลาว** ในลาว **โตมอย** บนคาบสมุทรมลายู\n\nข้อพิพาทนี้เป็นเรื่องสาธารณะและเกิดซ้ำ ๆ ที่เห็นชัดที่สุดคือเรื่องชื่อของกีฬานี้ในซีเกมส์เมื่อกัมพูชาเป็นเจ้าภาพ ทั้งสองฝ่ายอ้างภาพสลักที่ปราสาทและอ้างพงศาวดาร และหลักฐานทั้งสองชุดไม่ชี้ขาด เพราะสิ่งที่เถียงกันอยู่ — แนวปฏิบัติของภูมิภาคที่เก่ากว่ารัฐสมัยใหม่ทุกรัฐ — ไม่ได้เป็นของรัฐใดโดยธรรมชาติของมันเอง\n\nหมายเหตุของวิกิพีเดียภาษาอังกฤษเองคือกระบวนการประเพณีประดิษฐ์ในไทยผูกกีฬานี้ไว้กับสถาบันวัฒนธรรมของรัฐ และ **แยกมันออกจากเพื่อนบ้านเหล่านี้** การแยกคือส่วนที่เพิ่งเกิด"
+ },
+ "kin": [
+  {
+   "to": "invented-tradition",
+   "as": "The mechanism.",
+   "rel": "issue"
+  },
+  {
+   "to": "eight-limbs",
+   "as": "Nine, across one border.",
+   "rel": "weapon"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-lethwei"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "neighbours/neighbours-long-chin-kun-khmer-fighter-at-the-final-kubota-champion.jpg",
+   "source": "commons",
+   "title": "File:Long Chin, Kun Khmer Fighter at the Final Kubota Champion.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Long_Chin%2C_Kun_Khmer_Fighter_at_the_Final_Kubota_Champion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALong_Chin%2C_Kun_Khmer_Fighter_at_the_Final_Kubota_Champion.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Mao Piseth",
+   "credit": "Own work",
+   "alt": "Long Chin, Kun Khmer Fighter at the Final Kubota Champion on Bayon TV, during which he was defeated  by Sok Thy",
+   "date": "2018-04-27",
+   "primary": true,
+   "sha256": "f34bab474e5a30030504508bb8b0518449982681363527f10b776208f33b8522"
+  },
+  {
+   "file": "neighbours/neighbours-tway-ma-shaung.jpg",
+   "source": "commons",
+   "title": "File:Tway Ma Shaung.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tway_Ma_Shaung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATway_Ma_Shaung.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Ligerpaingz",
+   "credit": "Own work",
+   "alt": "Myanmar Lethwei Champion",
+   "date": "2012-01-03 10:31:03",
+   "primary": false,
+   "sha256": "a9e4aae646abf50432a0601554134ce90668736cdb10718177bba1c9f712aa3b"
+  },
+  {
+   "file": "neighbours/neighbours-2014.jpg",
+   "source": "commons",
+   "title": "File:Чемпионат мира по бирманскому боксу, Таиланд, 2014 год.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B8%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%B1%D0%BE%D0%BA%D1%81%D1%83%2C_%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%2C_2014_%D0%B3%D0%BE%D0%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B8%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%B1%D0%BE%D0%BA%D1%81%D1%83%2C_%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%2C_2014_%D0%B3%D0%BE%D0%B4.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Иосиф123",
+   "credit": "Own work",
+   "alt": "Чемпионат мира по бирманскому боксу, Таиланд, 2014 год",
+   "date": "2014-07-01 13:57:46",
+   "primary": false,
+   "sha256": "dbb7d5c95e13fabb1ee9eed0fa72de5ca2428c3b0105b59813d2fcf6830ff068"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "invented-tradition",
+   "type": "issue",
+   "name": "How old is any of this",
+   "as": "Who got cut off."
+  }
+ ]
+}

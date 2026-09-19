@@ -1,0 +1,101 @@
+{
+ "id": "hak-kho-erawan",
+ "type": "move",
+ "names": {
+  "name": "Breaking Erawan's neck",
+  "th": "หักคอเอราวัณ",
+  "rtgs": "hak kho erawan",
+  "said": "Breaking Erawan's neck"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "mae-mai"
+ },
+ "text": {
+  "what": "The last of the fifteen, and the plainest thing in the sport: the clinch knee, named after killing the mount of a god.",
+  "story": "Erawan is Airavata, the three-headed white elephant Indra rides, and the animal on the flag of Laos and on a hundred temple gables. The technique named after breaking its neck is the first thing a beginner is shown in the clinch.\n\nNumber ten on the same list, *hak nguang aiyara*, breaks the same elephant's trunk under its Pali name — the arm trapped and the elbow driven into the thigh."
+ },
+ "text_th": {
+  "what": "ท่าสุดท้ายในสิบห้า และเป็นสิ่งที่ธรรมดาที่สุดในกีฬานี้ เข่าในวงใน ที่ตั้งชื่อตามการฆ่าพาหนะของเทพ",
+  "story": "เอราวัณคือไอราวตะ ช้างเผือกสามเศียรที่พระอินทร์ทรง เป็นสัตว์บนธงชาติลาวและบนหน้าบันวัดนับร้อย ท่าที่ตั้งชื่อตามการหักคอมันคือสิ่งแรกที่ผู้เริ่มต้นถูกสอนในวงใน\n\nท่าที่สิบในรายการเดียวกัน *หักงวงไอยรา* หักงวงช้างตัวเดียวกันในชื่อบาลี คือการล็อกแขนไว้แล้วแทงศอกลงต้นขา"
+ },
+ "kin": [
+  {
+   "to": "mae-mai",
+   "as": "The list it closes.",
+   "rel": "move"
+  },
+  {
+   "to": "clinch",
+   "as": "What it is.",
+   "rel": "move"
+  },
+  {
+   "to": "knee",
+   "as": "The weapon it delivers.",
+   "rel": "weapon"
+  },
+  {
+   "to": "ramakien-in-the-ring",
+   "as": "Whose elephant.",
+   "rel": "art"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:saranukrom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "move.gloss": {
+    "tier": "inference",
+    "note": "this project's translation"
+   },
+   "move.refers": {
+    "tier": "inference",
+    "note": "this project's classification of what the name points at"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ramakien"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "move": {
+  "th": "หักคอเอราวัณ",
+  "rtgs": "hak kho erawan",
+  "gloss": "Breaking Erawan's neck",
+  "refers": "myth",
+  "figure": "Erawan, the three-headed elephant",
+  "set": "mae-mai",
+  "n": 15,
+  "does": "Both hands onto the back of the neck, pull down, knee into the face.",
+  "does_th": "สองมือจับต้นคอ ดึงลง แล้วกระแทกเข่าเข้าหน้า"
+ },
+ "kin_in": [
+  {
+   "from": "clinch",
+   "type": "move",
+   "name": "The clinch",
+   "as": "The named version of it."
+  },
+  {
+   "from": "mae-mai",
+   "type": "move",
+   "name": "The fifteen mother techniques",
+   "as": "Number fifteen."
+  }
+ ]
+}

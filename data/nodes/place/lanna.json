@@ -1,0 +1,104 @@
+{
+ "id": "lanna",
+ "type": "place",
+ "names": {
+  "name": "Lanna",
+  "th": "ล้านนา",
+  "rtgs": "lan na",
+  "said": "A million rice fields. Chiang Mai 1296, and its own script, language and law.",
+  "said_th": "ล้านนา นาหนึ่งล้าน เชียงใหม่ พ.ศ. 1839 พร้อมอักษร ภาษา และกฎหมายของตัวเอง"
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "region": "north"
+ },
+ "text": {
+  "what": "The northern kingdom — Chiang Mai, Chiang Rai, Lamphun, Lampang, Phrae, Nan, Phayao — founded by Mangrai and independent of Ayutthaya and Siam for most of its history. Its people call themselves Tai Yuan.",
+  "story": "It matters here for three reasons, and they are separable.\n\n**One: the earliest writing.** The Mangrai law of 1296 carries the oldest recorded *muay* anybody can point to, in Northern Thai, on palm leaf.\n\n**Two: the claimed origin.** The Thai-language history of the sport begins the craft with *jerng*, the Lanna martial dance — not in Ayutthaya, not in the south.\n\n**Three: the drum.** The sabatchai drum is beaten with the elbow, the knee and the head, and the oldest one found is bronze, from Hot district in Chiang Mai.\n\n*Inference —* and then the national story goes elsewhere. The four canonical schools are Korat, Lopburi, Chaiya and Thasao: northeast, centre, south, and the northern edge at Uttaradit, which is below Lanna proper. Lanna is in the origin and out of the canon. A kingdom annexed late and awkwardly does not get a line in the rhyme."
+ },
+ "text_th": {
+  "what": "อาณาจักรทางเหนือ เชียงใหม่ เชียงราย ลำพูน ลำปาง แพร่ น่าน พะเยา สถาปนาโดยพญามังราย และเป็นอิสระจากอยุธยาและสยามตลอดช่วงเวลาส่วนใหญ่ของประวัติศาสตร์ ผู้คนเรียกตัวเองว่าไทยวน",
+  "story": "ล้านนาสำคัญตรงนี้ด้วยสามเหตุผล และแยกออกจากกันได้\n\n**หนึ่ง เอกสารที่เก่าที่สุด** มังรายศาสตร์ พ.ศ. 1839 ถือคำว่ามวยที่เก่าที่สุดเท่าที่ใครชี้ได้ เป็นภาษาไทยถิ่นเหนือ บนใบลาน\n\n**สอง ต้นกำเนิดที่อ้าง** ประวัติศาสตร์มวยไทยฉบับภาษาไทยเริ่มวิชานี้จาก *เจิง* การฟ้อนเชิงต่อสู้ของล้านนา ไม่ใช่ที่อยุธยา ไม่ใช่ทางใต้\n\n**สาม กลอง** กลองสะบัดชัยตีด้วยศอก เข่า และศีรษะ และชุดที่เก่าที่สุดที่พบเป็นสำริด จากอำเภอฮอด เชียงใหม่\n\n*อนุมาน —* แล้วเรื่องเล่าของชาติก็เดินไปทางอื่น สี่สายในสารบบคือโคราช ลพบุรี ไชยา และท่าเสา อีสาน กลาง ใต้ และขอบเหนือที่อุตรดิตถ์ ซึ่งอยู่ใต้เขตล้านนาแท้ ล้านนาอยู่ในต้นกำเนิดและอยู่นอกสารบบ อาณาจักรที่ถูกผนวกช้าและอย่างกระอักกระอ่วนไม่ได้วรรคในคำกล่าว"
+ },
+ "kin": [
+  {
+   "to": "fon-jerng",
+   "as": "The dance.",
+   "rel": "style"
+  },
+  {
+   "to": "mangrai-law",
+   "as": "The law.",
+   "rel": "story"
+  },
+  {
+   "to": "klong-sabatchai",
+   "as": "The drum.",
+   "rel": "music"
+  },
+  {
+   "to": "chiangmai",
+   "as": "The city.",
+   "rel": "place"
+  },
+  {
+   "to": "four-lines",
+   "as": "The canon it is outside.",
+   "rel": "style"
+  },
+  {
+   "to": "thasao",
+   "as": "The nearest line to it.",
+   "rel": "style"
+  }
+ ],
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9853,
+  "precision": "region"
+ },
+ "sources": [
+  "s:thwp-อาณาจักรล้านนา",
+  "s:wp-lan-na",
+  "s:thwp-ไทยวน",
+  "s:thwp-พญามังราย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-อาณาจักรล้านนา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "lanna/lanna-2.jpg",
+   "source": "commons",
+   "title": "File:อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%282%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "alt": "อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (2).jpg",
+   "date": "2022-03-13 08:45:08",
+   "primary": true,
+   "sha256": "342072f0573ebd1d5b3374df049d742a23fcd1e1470ce7893925a86ecb7ff707"
+  }
+ ]
+}

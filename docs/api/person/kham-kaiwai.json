@@ -1,0 +1,82 @@
+{
+ "id": "kham-kaiwai",
+ "type": "person",
+ "names": {
+  "name": "Kham Kaiwai",
+  "th": "คำ กาไวย์",
+  "rtgs": "kham kaiwai",
+  "said": "National Artist 1992, for the sabatchai drum.",
+  "said_th": "ศิลปินแห่งชาติ พ.ศ. 2535 ด้านกลองสะบัดชัย",
+  "aliases": [
+   "Pho Khru Kham",
+   "พ่อครูคำ"
+  ]
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "25 May 1934 – 24 February 2014, born at Nam Phrae in Hang Dong district, Chiang Mai. National Artist in the performing arts (folk performance), 2535 BE.",
+  "story": "Primary school, then the drum. He entered a folk arts competition in 1961 and the sabatchai went from a thing hanging in temple towers to a thing performed.\n\n*Inference —* the modern sabatchai — the leaping, the elbow and knee against the drum head, the version everybody photographs at Songkran — is a twentieth-century stage form built out of a war drum by named people who are datable. That does not make it less Lanna. It makes it traceable, which is more than most of this sport can say about its own performances."
+ },
+ "text_th": {
+  "what": "25 พฤษภาคม พ.ศ. 2477 – 24 กุมภาพันธ์ พ.ศ. 2557 เกิดที่ตำบลน้ำแพร่ อำเภอหางดง จังหวัดเชียงใหม่ ศิลปินแห่งชาติ สาขาศิลปะการแสดง การแสดงพื้นบ้าน ประจำ พ.ศ. 2535",
+  "story": "จบชั้นประถม แล้วก็กลอง เขาเข้าประกวดศิลปะพื้นบ้านเมื่อ พ.ศ. 2504 และกลองสะบัดชัยก็เปลี่ยนจากของที่แขวนอยู่บนหอกลองวัด มาเป็นของที่ถูกแสดง\n\n*อนุมาน —* กลองสะบัดชัยสมัยใหม่ ทั้งการกระโดด ศอกและเข่าที่กระทบหน้ากลอง รุ่นที่คนถ่ายรูปกันในสงกรานต์ คือรูปแบบบนเวทีของศตวรรษที่ยี่สิบ ที่สร้างขึ้นจากกลองศึกโดยคนที่ระบุชื่อและระบุวันได้ นั่นไม่ได้ทำให้มันเป็นล้านนาน้อยลง มันทำให้มันสืบย้อนได้ ซึ่งมากกว่าที่กีฬานี้พูดถึงการแสดงของตัวเองได้เป็นส่วนใหญ่"
+ },
+ "kin": [
+  {
+   "to": "klong-sabatchai",
+   "as": "His drum.",
+   "rel": "music"
+  },
+  {
+   "to": "manop-yarana",
+   "as": "The other one.",
+   "rel": "person"
+  },
+  {
+   "to": "lanna",
+   "as": "Where.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:thwp-คำ กาไวย์"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-คำ กาไวย์"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "lanna"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "klong-sabatchai",
+   "type": "music",
+   "name": "The victory drum",
+   "as": "The National Artist of it."
+  },
+  {
+   "from": "manop-yarana",
+   "type": "person",
+   "name": "Manop Yarana",
+   "as": "The other one."
+  }
+ ]
+}

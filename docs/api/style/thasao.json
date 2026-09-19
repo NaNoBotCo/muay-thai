@@ -1,0 +1,113 @@
+{
+ "id": "thasao",
+ "type": "style",
+ "names": {
+  "name": "Muay Thasao",
+  "th": "มวยท่าเสา",
+  "rtgs": "muay tha sao",
+  "said": "Fast. And the one line whose techniques are not written down.",
+  "said_th": "ไว และเป็นสายเดียวที่ท่าไม่ได้ถูกจดไว้"
+ },
+ "region": [
+  "north",
+  "uttaradit"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "The northern line, from Tha Sao in Uttaradit, tied to Phraya Phichai of the Broken Sword — a general of King Taksin who is said to have been a boxer first.",
+  "story": "The rhyme says *faster than Thasao*, which is a strange way to praise a school — it makes the school the yardstick and gives the prize to whoever beat it.\n\nThe list is where this line differs from the other three. Thai Wikipedia gives it as twelve upper techniques and twelve lower techniques and **names none of them**. Chaiya's seven are named. Korat's twenty-six are named. Lopburi's six are named. Thasao gets a count.\n\nThat is not evidence the techniques are lost; it is evidence they are not on this page. What a gym in Uttaradit teaches today is not on this disk either way."
+ },
+ "text_th": {
+  "what": "สายเหนือ จากท่าเสา จังหวัดอุตรดิตถ์ ผูกกับพระยาพิชัยดาบหัก แม่ทัพของพระเจ้าตากซึ่งว่ากันว่าเป็นนักมวยมาก่อน",
+  "story": "คำกล่าวว่า *ไวกว่าท่าเสา* ซึ่งเป็นวิธีชมสายมวยที่แปลก เพราะทำให้สายนั้นกลายเป็นไม้บรรทัด แล้วยกรางวัลให้คนที่ชนะมันไป\n\nรายการท่าคือจุดที่สายนี้ต่างจากอีกสามสาย วิกิพีเดียไทยระบุว่ามีแม่ไม้บน 12 ไม้ และแม่ไม้ล่าง 12 ไม้ แล้ว**ไม่ได้บอกชื่อสักท่า** ของไชยาเจ็ดท่ามีชื่อ ของโคราชยี่สิบหกท่ามีชื่อ ของลพบุรีหกท่ามีชื่อ ท่าเสาได้แค่จำนวน\n\nนั่นไม่ใช่หลักฐานว่าท่าสูญหาย เป็นหลักฐานว่าไม่ได้อยู่บนหน้านั้น ส่วนค่ายมวยในอุตรดิตถ์วันนี้สอนอะไร ก็ไม่ได้อยู่บนดิสก์นี้เช่นกัน"
+ },
+ "kin": [
+  {
+   "to": "four-lines",
+   "as": "One of the four.",
+   "rel": "style"
+  },
+  {
+   "to": "uttaradit",
+   "as": "Where it is from.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "thasao/thasao-muay-thai-infront-of-king-taksin-phraya-pichai-dabha-4f93870.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai infront of King Taksin & Phraya Pichai Dabhak Monument 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Muay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_02.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Tmd",
+   "credit": "Own work",
+   "alt": "Muay Thai infront of King Taksin &amp; Phraya Pichai Dabhak Monument. Statue found in Hat-Sung Palace (Wat Kungtapao), Uttaradit Province, Thailand.",
+   "date": "2022-01-07",
+   "primary": true,
+   "sha256": "3a4e84a6f44bc166b59b05781227ab12b80d60949607833e7b74013127402305"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "four-lines",
+   "type": "style",
+   "name": "The four lines, and the rhyme that ranks them",
+   "as": "Fast."
+  },
+  {
+   "from": "khet-sriyaphai",
+   "type": "person",
+   "name": "Khet Sriyaphai",
+   "as": "The one that had no such book."
+  },
+  {
+   "from": "phraya-phichai",
+   "type": "person",
+   "name": "Phraya Phichai of the Broken Sword",
+   "as": "The line named with him."
+  },
+  {
+   "from": "what-we-did-not-do",
+   "type": "story",
+   "name": "What this site does not have",
+   "as": "The list with no names."
+  },
+  {
+   "from": "lanna",
+   "type": "place",
+   "name": "Lanna",
+   "as": "The nearest line to it."
+  },
+  {
+   "from": "uttaradit",
+   "type": "place",
+   "name": "Uttaradit",
+   "as": "The style."
+  }
+ ]
+}

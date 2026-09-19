@@ -1,0 +1,1375 @@
+{
+ "type": "person",
+ "count": 15,
+ "nodes": [
+  {
+   "id": "apidej",
+   "type": "person",
+   "names": {
+    "name": "Apidej Sit Hirun",
+    "th": "อภิเดช ศิษย์หิรัญ",
+    "rtgs": "aphidet sit hiran",
+    "said": "Held seven Thai titles at once. It is the left leg people talk about.",
+    "said_th": "ถือแชมป์ไทยเจ็ดเส้นพร้อมกัน แต่สิ่งที่คนพูดถึงคือขาซ้าย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "A fighter of the 1960s, named as the standard by which a muay thai kick is measured, and later a trainer at Fairtex.",
+    "story": "*Tradition holds —* he held seven Thai titles simultaneously across muay thai and boxing, and his left kick broke bones through a guard.\n\nEnglish Wikipedia has no article on him, which is the useful fact here: a man named in every gym in the world as the yardstick for the sport's signature technique has no entry in the encyclopedia most of the world reads. Thai sources carry him; the census at /people/ shows what that gap looks like at scale."
+   },
+   "text_th": {
+    "what": "นักมวยยุคทศวรรษ 2500 ที่ถูกยกเป็นมาตรฐานของการวัดเตะมวยไทย และต่อมาเป็นครูฝึกที่แฟร์เท็กซ์",
+    "story": "*ตามธรรมเนียม —* เขาถือแชมป์ไทยเจ็ดเส้นพร้อมกันทั้งมวยไทยและมวยสากล และเตะซ้ายของเขาหักกระดูกทะลุการ์ด\n\nวิกิพีเดียภาษาอังกฤษไม่มีบทความของเขา ซึ่งคือข้อเท็จจริงที่ใช้ได้ตรงนี้ ชายที่ถูกเอ่ยชื่อในยิมทุกแห่งทั่วโลกในฐานะไม้บรรทัดของท่าประจำกีฬานี้ ไม่มีรายการในสารานุกรมที่คนส่วนใหญ่ในโลกอ่าน แหล่งไทยมีเขา ส่วนสำมะโนที่หน้า /people/ แสดงให้เห็นว่าช่องว่างนั้นหน้าตาเป็นอย่างไรเมื่อดูทั้งกอง"
+   },
+   "kin": [
+    {
+     "to": "muay-tae",
+     "as": "The style he defines.",
+     "rel": "style"
+    },
+    {
+     "to": "shin",
+     "as": "His weapon.",
+     "rel": "weapon"
+    },
+    {
+     "to": "the-roster",
+     "as": "Where the gap is counted.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wikidata"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "needs_verification": true,
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "muay-tae",
+     "type": "style",
+     "name": "Muay tae",
+     "as": "Whose left leg."
+    },
+    {
+     "from": "the-roster",
+     "type": "person",
+     "name": "Who the record remembers",
+     "as": "Who is missing."
+    }
+   ]
+  },
+  {
+   "id": "buakaw",
+   "type": "person",
+   "names": {
+    "name": "Buakaw Banchamek",
+    "th": "บัวขาว บัญชาเมฆ",
+    "rtgs": "buakhao banchamek",
+    "said": "White lotus. The name most of the world learned first.",
+    "said_th": "บัวขาว ชื่อที่คนทั้งโลกรู้จักก่อนชื่ออื่น"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Born Sombat Banchamek, 8 May 1982. Omnoi champion at two weights, and the fighter who won K-1 Max in Japan in 2004 and again in 2006.",
+    "story": "Joined Por Pramuk gym in 1997, won the Toyota Marathon at Lumpinee in late 2002, then entered K-1 Max in 2004 and beat John Wayne Parr and Masato in the same tournament.\n\n*Inference —* K-1 is why. Muay thai had been exported for decades, but K-1 was a television product with a Japanese broadcast budget, and one Thai fighter winning it twice did more for the sport's name abroad than any federation has. The kickboxing rules he won under do not allow elbows and break the clinch — so the world learned the sport from a version of it with two of the eight limbs turned off."
+   },
+   "text_th": {
+    "what": "ชื่อจริง สมบัติ บัญชาเมฆ เกิด 8 พฤษภาคม พ.ศ. 2525 แชมป์อ้อมน้อยสองรุ่น และเป็นนักมวยที่ชนะ K-1 Max ที่ญี่ปุ่นในปี 2547 และอีกครั้งในปี 2549",
+    "story": "เข้าค่าย ป.ประมุข เมื่อ พ.ศ. 2540 ชนะโตโยต้ามาราธอนที่ลุมพินีปลายปี 2545 แล้วเข้าแข่ง K-1 Max ในปี 2547 ชนะทั้งจอห์น เวย์น พารร์ และมาซาโตะ ในทัวร์นาเมนต์เดียวกัน\n\n*อนุมาน —* K-1 คือเหตุผล มวยไทยถูกส่งออกมาหลายสิบปีแล้ว แต่ K-1 เป็นสินค้าโทรทัศน์ที่มีงบออกอากาศแบบญี่ปุ่น และนักมวยไทยคนเดียวที่ชนะมันสองครั้งทำให้ชื่อของกีฬานี้ดังในต่างประเทศมากกว่าที่สหพันธ์ไหนเคยทำ กติกาคิกบ็อกซิ่งที่เขาชนะมานั้นห้ามศอกและแยกวงใน โลกจึงเรียนรู้กีฬานี้จากรุ่นที่ปิดอาวุธไปสองในแปดชิ้น"
+   },
+   "kin": [
+    {
+     "to": "the-gym-map",
+     "as": "The export, counted.",
+     "rel": "gym"
+    },
+    {
+     "to": "shorts",
+     "as": "Whose camp name he carries.",
+     "rel": "kit"
+    },
+    {
+     "to": "changpuek-vs-roufus",
+     "as": "The earlier crossing.",
+     "rel": "bout"
+    }
+   ],
+   "sources": [
+    "s:wp-buakaw-banchamek"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-buakaw-banchamek"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "abroad"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "buakaw/buakaw-vitaly-vs-buakaw-1.jpg",
+     "source": "commons",
+     "title": "File:Vitaly vs Buakaw 1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Vitaly_vs_Buakaw_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AVitaly_vs_Buakaw_1.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "B20180",
+     "credit": "Own work",
+     "alt": "Vitaly vs Buakaw",
+     "date": "2012-12-16 19:41:29",
+     "primary": true,
+     "sha256": "a19482327e5a9377bb97828b0cf65f336c5227c456ffe0b8c75a5786857522f7"
+    },
+    {
+     "file": "buakaw/buakaw-.jpg",
+     "source": "commons",
+     "title": "File:บัวขาว บัญชาเมฆ.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7_%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7_%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%86.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "ตั๊กกะล่อนนน",
+     "credit": "Own work",
+     "alt": "บัวขาว บัญชาเมฆ",
+     "date": "2016-04-23",
+     "primary": false,
+     "sha256": "ed302e832c2c2255dce69d432886cd640d2f12700e835a342cb670be98b0ca0e"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "buakaw-k1-2004",
+     "type": "bout",
+     "name": "Buakaw at K-1 Max, 2004",
+     "as": "Who won it."
+    },
+    {
+     "from": "changpuek-vs-roufus",
+     "type": "bout",
+     "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+     "as": "The next crossing."
+    },
+    {
+     "from": "the-gym-map",
+     "type": "gym",
+     "name": "Every gym on the map",
+     "as": "One reason for the shape."
+    },
+    {
+     "from": "shorts",
+     "type": "kit",
+     "name": "The shorts",
+     "as": "One of the names."
+    },
+    {
+     "from": "one-championship",
+     "type": "org",
+     "name": "ONE Championship",
+     "as": "The earlier version of the same deal."
+    }
+   ]
+  },
+  {
+   "id": "dieselnoi",
+   "type": "person",
+   "names": {
+    "name": "Dieselnoi Chor Thanasukarn",
+    "th": "ดีเซลน้อย ช.ธนะสุกาญจน์",
+    "rtgs": "diesel noi cho thanasukan",
+    "said": "The telegraph-pole knee. Retired at twenty-four because nobody would fight him.",
+    "said_th": "ขุนเข่าเสาโทรเลข แขวนนวมตอนอายุยี่สิบสี่เพราะไม่มีใครยอมชกด้วย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "Born Charin Sondee, 27 December 1961, Nakhon Luang district, Ayutthaya. Lumpinee lightweight champion, and the tallest knee fighter anyone had seen.",
+    "story": "Started at twelve. Followed his brother to Si Racha, joined the So Worakunchai camp there, and took the ring name he kept. Toured the eastern provinces, arrived at Rajadamnern in 1976, and between 1977 and 1985 beat most of the best fighters in Thailand — Samart Payakaroon among them.\n\nThe press called him *khun khao sao thoralek*, the telegraph-pole knee, and *khun khao thalai fa*, the sky-breaking knee. He was long in the arm and longer in the leg, and the whole fight was about getting a hand behind a head that was a foot below his.\n\n*Tradition holds —* he retired as champion because promoters could not find anyone willing to take the fight. That is the story the sport tells about him and it is told about very few others."
+   },
+   "text_th": {
+    "what": "ชื่อจริง ชรินทร์ สอนดี เกิด 27 ธันวาคม พ.ศ. 2504 อำเภอนครหลวง จังหวัดพระนครศรีอยุธยา แชมป์ไลท์เวทเวทีลุมพินี และเป็นนักมวยเข่าที่สูงที่สุดเท่าที่เคยมีใครเห็น",
+    "story": "เริ่มชกตอนสิบสอง ตามพี่ชายไปศรีราชา เข้าค่าย ส.วรกุลชัย ที่นั่น และได้ชื่อในวงการที่ใช้ตลอดมา ตระเวนชกภาคตะวันออก มาถึงราชดำเนินใน พ.ศ. 2519 และระหว่าง พ.ศ. 2520 ถึง 2528 ชนะนักมวยชั้นนำของไทยเกือบทั้งหมด รวมถึงสามารถ พยัคฆ์อรุณ\n\nสื่อเรียกเขาว่า *ขุนเข่าเสาโทรเลข* และ *ขุนเข่าทะลายฟ้า* เขาแขนยาวและขายาวกว่า ทั้งไฟต์คือการพยายามเอามือไปไว้หลังหัวที่อยู่ต่ำกว่าเขาหนึ่งฟุต\n\n*ตามธรรมเนียม —* เขาแขวนนวมทั้งที่ยังเป็นแชมป์ เพราะโปรโมเตอร์หาคนที่ยอมขึ้นชกด้วยไม่ได้ นั่นคือเรื่องที่วงการเล่าถึงเขา และเล่าถึงคนอื่นน้อยมาก"
+   },
+   "kin": [
+    {
+     "to": "muay-khao",
+     "as": "The style he defines.",
+     "rel": "style"
+    },
+    {
+     "to": "knee",
+     "as": "His weapon.",
+     "rel": "weapon"
+    },
+    {
+     "to": "samart-payakaroon",
+     "as": "Whom he beat.",
+     "rel": "person"
+    },
+    {
+     "to": "lumpinee",
+     "as": "His belt.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:thwp-ด-เซลน-อย-ช-ธนะส-กาญจน-"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-ด-เซลน-อย-ช-ธนะส-กาญจน-"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "knee",
+     "type": "weapon",
+     "name": "The knee",
+     "as": "The fighter nobody could stop kneeing them."
+    },
+    {
+     "from": "muay-khao",
+     "type": "style",
+     "name": "Muay khao",
+     "as": "Who it is named after, in effect."
+    },
+    {
+     "from": "samart-payakaroon",
+     "type": "person",
+     "name": "Samart Payakaroon",
+     "as": "Who beat him."
+    }
+   ]
+  },
+  {
+   "id": "kham-kaiwai",
+   "type": "person",
+   "names": {
+    "name": "Kham Kaiwai",
+    "th": "คำ กาไวย์",
+    "rtgs": "kham kaiwai",
+    "said": "National Artist 1992, for the sabatchai drum.",
+    "said_th": "ศิลปินแห่งชาติ พ.ศ. 2535 ด้านกลองสะบัดชัย",
+    "aliases": [
+     "Pho Khru Kham",
+     "พ่อครูคำ"
+    ]
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "25 May 1934 – 24 February 2014, born at Nam Phrae in Hang Dong district, Chiang Mai. National Artist in the performing arts (folk performance), 2535 BE.",
+    "story": "Primary school, then the drum. He entered a folk arts competition in 1961 and the sabatchai went from a thing hanging in temple towers to a thing performed.\n\n*Inference —* the modern sabatchai — the leaping, the elbow and knee against the drum head, the version everybody photographs at Songkran — is a twentieth-century stage form built out of a war drum by named people who are datable. That does not make it less Lanna. It makes it traceable, which is more than most of this sport can say about its own performances."
+   },
+   "text_th": {
+    "what": "25 พฤษภาคม พ.ศ. 2477 – 24 กุมภาพันธ์ พ.ศ. 2557 เกิดที่ตำบลน้ำแพร่ อำเภอหางดง จังหวัดเชียงใหม่ ศิลปินแห่งชาติ สาขาศิลปะการแสดง การแสดงพื้นบ้าน ประจำ พ.ศ. 2535",
+    "story": "จบชั้นประถม แล้วก็กลอง เขาเข้าประกวดศิลปะพื้นบ้านเมื่อ พ.ศ. 2504 และกลองสะบัดชัยก็เปลี่ยนจากของที่แขวนอยู่บนหอกลองวัด มาเป็นของที่ถูกแสดง\n\n*อนุมาน —* กลองสะบัดชัยสมัยใหม่ ทั้งการกระโดด ศอกและเข่าที่กระทบหน้ากลอง รุ่นที่คนถ่ายรูปกันในสงกรานต์ คือรูปแบบบนเวทีของศตวรรษที่ยี่สิบ ที่สร้างขึ้นจากกลองศึกโดยคนที่ระบุชื่อและระบุวันได้ นั่นไม่ได้ทำให้มันเป็นล้านนาน้อยลง มันทำให้มันสืบย้อนได้ ซึ่งมากกว่าที่กีฬานี้พูดถึงการแสดงของตัวเองได้เป็นส่วนใหญ่"
+   },
+   "kin": [
+    {
+     "to": "klong-sabatchai",
+     "as": "His drum.",
+     "rel": "music"
+    },
+    {
+     "to": "manop-yarana",
+     "as": "The other one.",
+     "rel": "person"
+    },
+    {
+     "to": "lanna",
+     "as": "Where.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:thwp-คำ กาไวย์"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-คำ กาไวย์"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "lanna"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "klong-sabatchai",
+     "type": "music",
+     "name": "The victory drum",
+     "as": "The National Artist of it."
+    },
+    {
+     "from": "manop-yarana",
+     "type": "person",
+     "name": "Manop Yarana",
+     "as": "The other one."
+    }
+   ]
+  },
+  {
+   "id": "khet-sriyaphai",
+   "type": "person",
+   "names": {
+    "name": "Khet Sriyaphai",
+    "th": "เขตร ศรียาภัย",
+    "rtgs": "khet sriyaphai",
+    "said": "The governor's son who put the southern school into print.",
+    "said_th": "บุตรเจ้าเมืองผู้พาสายมวยใต้เข้าสู่ตัวพิมพ์"
+   },
+   "region": [
+    "south",
+    "chaiya"
+   ],
+   "facets": {
+    "era": "ring"
+   },
+   "text": {
+    "what": "Son of Phraya Wachi Sattayarak, governor of Chaiya, and author of *Parithat Muay Thai* — the book through which most of what is known about Muay Chaiya travels.",
+    "story": "His account traces the *yang sam khum* footwork taught at Suan Kulap College in 1921 back through two named masters to Pho Than Ma at Chaiya — which is the kind of chain that makes a transmission traceable rather than assumed.\n\n*Inference —* a martial art survives through the person who writes it down, and in this case that person was a provincial governor's son with access to a printing press. The lines that had no such son are the ones now described as twelve upper and twelve lower techniques with no names attached."
+   },
+   "text_th": {
+    "what": "บุตรของพระยาวจีสัตยารักษ์ เจ้าเมืองไชยา และผู้เขียน *ปริทัศน์มวยไทย* หนังสือที่ความรู้เรื่องมวยไชยาส่วนใหญ่เดินทางผ่าน",
+    "story": "บันทึกของเขาสืบท่าย่างสามขุมที่สอนกันที่โรงเรียนสวนกุหลาบใน พ.ศ. 2464 ย้อนกลับผ่านครูสองท่านที่ระบุชื่อไว้ ไปถึงพ่อท่านมาที่ไชยา ซึ่งเป็นลูกโซ่แบบที่ทำให้การสืบทอดตรวจสอบได้ แทนที่จะเป็นเพียงการสันนิษฐาน\n\n*อนุมาน —* ศิลปะการต่อสู้อยู่รอดผ่านคนที่จดมันไว้ และในกรณีนี้คนคนนั้นคือบุตรเจ้าเมืองที่เข้าถึงแท่นพิมพ์ได้ สายที่ไม่มีบุตรแบบนั้นคือสายที่วันนี้ถูกอธิบายว่ามีแม่ไม้บนสิบสองและแม่ไม้ล่างสิบสอง โดยไม่มีชื่อติดมา"
+   },
+   "kin": [
+    {
+     "to": "chaiya",
+     "as": "The school he carried.",
+     "rel": "style"
+    },
+    {
+     "to": "thasao",
+     "as": "The one that had no such book.",
+     "rel": "style"
+    },
+    {
+     "to": "yang-sam-khum",
+     "as": "The step he traced.",
+     "rel": "move"
+    }
+   ],
+   "sources": [
+    "s:thwp-มวยไชยา"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไชยา"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "khet-sriyaphai/khet-sriyaphai-.jpg",
+     "source": "commons",
+     "title": "File:เขตร์ ศรียาภัย.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown photographer",
+     "credit": "อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959 - retrieved from http://assumptionmuseum.com/th-th/book-viewer/?file=/Media/FileUploads/FaFileUpload/3005d33a-d54c-4d1d-8581-f45018e12255.pdf",
+     "alt": "เขตร ศรียาภัย (หนังสือตีพิมพ์เป็น เขตร์ ศรียาภัย) ภาพถ่ายบุคคลที่ตีพิมพ์ใน อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959",
+     "date": "1959-03-14",
+     "primary": true,
+     "sha256": "b79c2f9cb70d2124932b4b58b927f289c777d456296fce456848bbd3f25e90ec"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chaiya",
+     "type": "style",
+     "name": "Muay Chaiya",
+     "as": "Who wrote it down."
+    },
+    {
+     "from": "manop-yarana",
+     "type": "person",
+     "name": "Manop Yarana",
+     "as": "The southern equivalent."
+    },
+    {
+     "from": "phraya-phichai",
+     "type": "person",
+     "name": "Phraya Phichai of the Broken Sword",
+     "as": "The other side of the comparison."
+    },
+    {
+     "from": "chaiya-place",
+     "type": "place",
+     "name": "Chaiya",
+     "as": "The governor's son who wrote."
+    }
+   ]
+  },
+  {
+   "id": "manop-yarana",
+   "type": "person",
+   "names": {
+    "name": "Manop Yarana",
+    "th": "มานพ ยาระณะ",
+    "rtgs": "manop yarana",
+    "said": "National Artist 2005. Taught fon jerng and muay thai for fifty years without charging.",
+    "said_th": "ศิลปินแห่งชาติ พ.ศ. 2548 สอนฟ้อนเจิงและมวยไทยห้าสิบปีโดยไม่เคยเก็บเงิน",
+    "aliases": [
+     "Pho Khru Phan",
+     "พ่อครูพัน"
+    ]
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "5 September 1930 – 22 November 2015, Chiang Mai. National Artist in the performing arts, 2548 BE, for Lanna dance, martial arts and drumming.",
+    "story": "Finished primary school at Wat Si Don Chai, helped his parents trade, and learned the fighting arts, the music and the Lanna drums from whoever had them. Then taught them on for about fifty years: muay thai, fon jerng, the spear dance, the lamp dance, the pu cha drum, the old sabatchai, the mong soeng drum, the pu che drum.\n\nThe Thai article's last clause is the one worth keeping: he did it **without ever taking a fee**.\n\n*Inference —* a transmission like that is the reason there is anything left to write about. Chaiya survived because a governor's son had a printing press. Lanna survived because two men in Chiang Mai taught for free until they died."
+   },
+   "text_th": {
+    "what": "5 กันยายน พ.ศ. 2473 – 22 พฤศจิกายน พ.ศ. 2558 เชียงใหม่ ศิลปินแห่งชาติ สาขาศิลปะการแสดง ประจำ พ.ศ. 2548 ด้านการฟ้อน ศิลปะการต่อสู้ และการตีกลองล้านนา",
+    "story": "จบชั้นประถมที่โรงเรียนวัดศรีดอนไชย ช่วยพ่อแม่ค้าขาย และเรียนศิลปะการต่อสู้ ดนตรี และการตีกลองล้านนาจากผู้รู้ จากนั้นก็ถ่ายทอดต่อราวห้าสิบปี ทั้งมวยไทย ฟ้อนเจิง ฟ้อนหอก ฟ้อนผางประทีป กลองปู่จา กลองสะบัดชัยแบบโบราณ กลองมองเซิง กลองปู่เจ่\n\nอนุประโยคสุดท้ายของบทความไทยคือส่วนที่ควรเก็บไว้ เขาทำทั้งหมดนั้น **โดยไม่เคยเก็บค่าสอน**\n\n*อนุมาน —* การสืบทอดแบบนั้นคือเหตุผลที่ยังมีอะไรเหลือให้เขียนถึง ไชยารอดมาเพราะบุตรเจ้าเมืองมีแท่นพิมพ์ ล้านนารอดมาเพราะชายสองคนในเชียงใหม่สอนฟรีจนวันตาย"
+   },
+   "kin": [
+    {
+     "to": "fon-jerng",
+     "as": "What he taught.",
+     "rel": "style"
+    },
+    {
+     "to": "kham-kaiwai",
+     "as": "The other one.",
+     "rel": "person"
+    },
+    {
+     "to": "lanna",
+     "as": "Where.",
+     "rel": "place"
+    },
+    {
+     "to": "khet-sriyaphai",
+     "as": "The southern equivalent.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:thwp-มานพ ยาระณะ"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มานพ ยาระณะ"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "lanna"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "fon-jerng",
+     "type": "style",
+     "name": "Fon jerng",
+     "as": "Who taught it, for fifty years."
+    },
+    {
+     "from": "kham-kaiwai",
+     "type": "person",
+     "name": "Kham Kaiwai",
+     "as": "The other one."
+    }
+   ]
+  },
+  {
+   "id": "nai-khanom-tom",
+   "type": "person",
+   "names": {
+    "name": "Nai Khanom Tom",
+    "th": "นายขนมต้ม",
+    "rtgs": "nai khanom tom",
+    "said": "The Burmese chronicles record the festival in detail and do not mention the fight.",
+    "said_th": "พงศาวดารพม่าบันทึกงานฉลองไว้ละเอียด และไม่ได้กล่าวถึงการชก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "A rope-handed boxer of Ayutthaya, taken prisoner when the city fell, who is said to have beaten nine or ten Burmese and Mon fighters in front of the King of Ava. Every account of the sport in English starts with him.",
+    "story": "Here is the whole documentary situation, because it is more interesting than the legend.\n\n**The Thai side.** The story appears in the Royal Chronicle, the Somdet Phra Phonnarat manuscript held at Wat Phra Chetuphon. The King of Ava is at Yangon, the crowning umbrella of the Shwedagon has just been raised, and there is a festival. A Burmese official says Thai boxers are very good. Nai Khanom Tom is produced, and beats a Burmese man before the round is out. They send in another. He beats nine or ten in a row. The king strikes his own chest and says the line that every Thai schoolchild gets: *the Thai have poison in every part of them; with his bare hands and no weapon at all, one man beats nine or ten. It was bad lords that lost them their country.*\n\n**The Burmese side.** The Hmannan Yazawin, the Glass Palace Chronicle, records the same event with more precision than the Thai one: the restoration and gilding of the Shwedagon, gold to the weight of the king's own body, a seven-tiered umbrella set with **15,038 gems**, raised by the king himself on the full moon of Tabaung, CS 1136 — **17 March 1774**. It does not mention any boxing match. Neither do the Mon-Burmese chronicles, and neither does the Testimony of the People of Ava.\n\n*Inference —* that is not a contradiction and it is not proof of invention. It is one chronicle carrying something the others do not, which is the ordinary condition of a chronicle. What can be said is that the date everybody celebrates is the date of the umbrella, taken from the Burmese record, and the fight is dated by hanging it on that.\n\n17 March is Muay Thai Day. His statue stands at the provincial stadium in Ayutthaya. Somrak Khamsing played him on television in 1996."
+   },
+   "text_th": {
+    "what": "นักมวยคาดเชือกชาวกรุงศรีอยุธยา ถูกจับเป็นเชลยเมื่อกรุงแตก ว่ากันว่าชกชนะนักมวยพม่าและมอญเก้าถึงสิบคนต่อหน้าพระเจ้าอังวะ เรื่องเล่าของกีฬานี้ในภาษาอังกฤษทุกสำนวนเริ่มที่เขา",
+    "story": "นี่คือสถานะของหลักฐานทั้งหมด เพราะมันน่าสนใจกว่าตำนาน\n\n**ฝั่งไทย** เรื่องนี้ปรากฏในพระราชพงศาวดาร ฉบับสมเด็จพระพนรัตน์ วัดพระเชตุพน ฉบับตัวเขียน พระเจ้าอังวะประทับอยู่ที่เมืองย่างกุ้ง เพิ่งยกฉัตรยอดพระมหาเจดีย์เสร็จ และมีงานฉลอง ขุนนางพม่ากราบทูลว่าคนมวยเมืองไทยมีฝีมือดียิ่งนัก จึงจัดหานายขนมต้มมา เขาชกชนะพม่าไม่ทันถึงยก ส่งคนใหม่เข้ามาอีก เขาชนะเก้าคนสิบคนติดกัน พระเจ้าอังวะยกพระหัตถ์ตบพระอุระแล้วตรัสประโยคที่เด็กไทยทุกคนได้ยิน *ไทมีพิษอยู่ทั่วตัว มือเปล่าไม่มีอาวุธยังสู้ได้ คนเดียวชนะถึงเก้าคนสิบคน เพราะเจ้านายไม่ดีจึงเสียบ้านเมือง*\n\n**ฝั่งพม่า** มหาราชวงศ์ ฉบับหอแก้ว บันทึกเหตุการณ์เดียวกันไว้ละเอียดกว่าฝั่งไทย การบูรณะและปิดทองพระเจดีย์ชเวดากอง ทองหนักเท่าพระวรกาย ฉัตรเจ็ดชั้นฝังอัญมณี **15,038 เม็ด** พระเจ้ามังระเสด็จไปยกด้วยพระองค์เองในวันเพ็ญเดือนตะเบาง์ จ.ศ. 1136 — **17 มีนาคม พ.ศ. 2317** ไม่มีการกล่าวถึงการชกมวย พงศาวดารมอญพม่าก็ไม่มี คำให้การชาวอังวะก็ไม่มี\n\n*อนุมาน —* นั่นไม่ใช่ความขัดแย้ง และไม่ใช่หลักฐานว่าเป็นเรื่องแต่ง มันคือพงศาวดารเล่มหนึ่งถือสิ่งที่เล่มอื่นไม่ได้ถือ ซึ่งเป็นสภาพปกติของพงศาวดาร สิ่งที่พูดได้คือวันที่ทุกคนฉลองกันคือวันยกฉัตร ซึ่งเอามาจากบันทึกพม่า และวันของการชกได้มาจากการแขวนไว้กับวันนั้น\n\n17 มีนาคม คือวันมวยไทย อนุสาวรีย์ของเขาตั้งอยู่ที่สนามกีฬากลางจังหวัดพระนครศรีอยุธยา สมรักษ์ คำสิงห์ รับบทเป็นเขาทางโทรทัศน์เมื่อ พ.ศ. 2539"
+   },
+   "kin": [
+    {
+     "to": "nai-khanom-tom-day",
+     "as": "The date, and where it comes from.",
+     "rel": "story"
+    },
+    {
+     "to": "kaad-chuek",
+     "as": "What he fought with.",
+     "rel": "kit"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "The wider argument this sits inside.",
+     "rel": "issue"
+    },
+    {
+     "to": "somrak",
+     "as": "Who played him.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:thwp-นายขนมต-ม",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-นายขนมต-ม"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "tags": [
+    "contested",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "nai-khanom-tom/nai-khanom-tom-2560.jpg",
+     "source": "commons",
+     "title": "File:งานรำลึกนายขนมต้ม 2560.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Judge761",
+     "credit": "Own work",
+     "alt": "A replica statue of Nai Khanom Tom, a traditional Thai Muay Thai boxer from Ayutthaya, displayed at the Nai Khanom Tom Commemoration Ceremony on the 17th of March of each year.",
+     "date": "2020-07-01",
+     "primary": true,
+     "sha256": "d215b42226ddbda90262edf2c6b0f879046061d63847711878d11db14dde07d8"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "somrak",
+     "type": "person",
+     "name": "Somrak Khamsing",
+     "as": "Whom he played."
+    },
+    {
+     "from": "tiger-king",
+     "type": "person",
+     "name": "The Tiger King",
+     "as": "The other founder."
+    },
+    {
+     "from": "nai-khanom-tom-day",
+     "type": "story",
+     "name": "17 March, and where the date comes from",
+     "as": "Whose day."
+    },
+    {
+     "from": "invented-tradition",
+     "type": "issue",
+     "name": "How old is any of this",
+     "as": "The founder."
+    }
+   ]
+  },
+  {
+   "id": "nongtoom",
+   "type": "person",
+   "names": {
+    "name": "Nong Toom",
+    "th": "น้องตุ้ม",
+    "rtgs": "nong tum",
+    "said": "Won at Lumpinee at sixteen, in makeup, and kissed the man she beat.",
+    "said_th": "ชนะที่ลุมพินีตอนอายุสิบหก แต่งหน้า แล้วจูบคนที่เธอชนะ",
+    "aliases": [
+     "Parinya Charoenphol",
+     "Parinya Kiatbusaba"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Parinya Charoenphol, born 9 June 1981. A kathoey fighter whose win at Lumpini Stadium in February 1998 made her the most photographed person in the sport.",
+    "story": "The English article records two things side by side and does not join them, so this does.\n\nOne: the Thai government had previously kept kathoey off the national volleyball team \"for fear of negative reaction\" from abroad. Two: the muay thai establishment took her up immediately, and tourism officials promoted her as \"indicative of the wonders to be found\" in Thailand.\n\nThe difference between those two receptions is business. The article says the sport was in a slump, and that she \"revitalised both media and public interest\", with ticket sales and stadium revenue to show for it.\n\nShe retired in 1999, announced a singing career, was turned down by several Bangkok surgeons, and had gender-affirming surgery at Yanhee that year. The film *Beautiful Boxer* followed in 2003.\n\n*Inference —* a sport that would not let women into the ring at all made room for her inside eighteen months, and the measurable reason was the gate."
+   },
+   "text_th": {
+    "what": "ปริญญา เจริญผล เกิด 9 มิถุนายน พ.ศ. 2524 นักมวยกะเทยที่ชนะบนเวทีลุมพินีเมื่อกุมภาพันธ์ พ.ศ. 2541 จนกลายเป็นคนที่ถูกถ่ายรูปมากที่สุดในวงการ",
+    "story": "บทความภาษาอังกฤษบันทึกสองเรื่องไว้ข้าง ๆ กันโดยไม่ได้เชื่อมให้ ตรงนี้จึงเชื่อมให้\n\nหนึ่ง ก่อนหน้านั้นรัฐบาลไทยกันกะเทยออกจากทีมวอลเลย์บอลทีมชาติ \"เพราะกลัวปฏิกิริยาทางลบ\" จากต่างประเทศ สอง วงการมวยไทยรับเธอทันที และเจ้าหน้าที่การท่องเที่ยวโปรโมตเธอว่าเป็น \"เครื่องบ่งชี้ถึงสิ่งมหัศจรรย์ที่พบได้\" ในประเทศไทย\n\nความต่างระหว่างการต้อนรับสองแบบนั้นคือเรื่องธุรกิจ บทความระบุว่าวงการกำลังซบเซา และเธอ \"ปลุกความสนใจของสื่อและสาธารณชนขึ้นมาใหม่\" โดยมียอดขายบัตรและรายได้สนามเป็นหลักฐาน\n\nเธอแขวนนวมในปี 2542 ประกาศจะเป็นนักร้อง ถูกศัลยแพทย์ในกรุงเทพฯ หลายรายปฏิเสธ และเข้ารับการผ่าตัดยืนยันเพศที่ยันฮีในปีนั้น ภาพยนตร์ *บิวตี้ฟูล บ๊อกเซอร์* ตามมาในปี 2546\n\n*อนุมาน —* กีฬาที่ไม่ยอมให้ผู้หญิงขึ้นเวทีเลย เปิดที่ให้เธอภายในสิบแปดเดือน และเหตุผลที่วัดได้คือรายได้หน้าประตู"
+   },
+   "kin": [
+    {
+     "to": "women-in-the-ring",
+     "as": "The rule she went around.",
+     "rel": "issue"
+    },
+    {
+     "to": "lumpinee",
+     "as": "Where she won.",
+     "rel": "venue"
+    },
+    {
+     "to": "the-roster",
+     "as": "Where she appears in the census, and as what.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-parinya-charoenphol"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-parinya-charoenphol"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "women",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "the-roster",
+     "type": "person",
+     "name": "Who the record remembers",
+     "as": "The one the census files as kathoey."
+    },
+    {
+     "from": "women-in-the-ring",
+     "type": "issue",
+     "name": "Women in the ring",
+     "as": "Who went through it."
+    }
+   ]
+  },
+  {
+   "id": "phraya-phichai",
+   "type": "person",
+   "names": {
+    "name": "Phraya Phichai of the Broken Sword",
+    "th": "พระยาพิชัยดาบหัก",
+    "rtgs": "phraya phichai dap hak",
+    "said": "Fought on with half a sword. The north's line is named for his home town.",
+    "said_th": "สู้ต่อด้วยดาบที่หักครึ่ง สายมวยเหนือตั้งชื่อตามบ้านเกิดของเขา"
+   },
+   "region": [
+    "north",
+    "uttaradit"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "A general of King Taksin, from Tha Sao in Uttaradit, said to have trained as a boxer before he was a soldier. Muay Thasao carries his name alongside the district's.",
+    "story": "The epithet is the story: a sword broken in a fight he went on to win. His statue stands in Uttaradit with the broken blade in his hand.\n\n*Inference —* the northern line has a hero and no technique list, and the southern line has a technique list and a governor's son with a printing press. Which of the two survived better is a question about publishing."
+   },
+   "text_th": {
+    "what": "แม่ทัพของพระเจ้าตากสิน มาจากท่าเสา จังหวัดอุตรดิตถ์ ว่ากันว่าฝึกมวยมาก่อนเป็นทหาร มวยท่าเสาใช้ชื่อของเขาควบกับชื่ออำเภอ",
+    "story": "ฉายาคือเรื่องเล่า ดาบที่หักในการรบที่เขาชนะต่อไปจนจบ อนุสาวรีย์ของเขาตั้งอยู่ที่อุตรดิตถ์ ถือดาบที่หักอยู่ในมือ\n\n*อนุมาน —* สายเหนือมีวีรบุรุษแต่ไม่มีรายการท่า ส่วนสายใต้มีรายการท่าและมีบุตรเจ้าเมืองที่เข้าถึงแท่นพิมพ์ ว่าสายไหนรอดมาได้ดีกว่า เป็นคำถามเรื่องการพิมพ์"
+   },
+   "kin": [
+    {
+     "to": "thasao",
+     "as": "The line named with him.",
+     "rel": "style"
+    },
+    {
+     "to": "khet-sriyaphai",
+     "as": "The other side of the comparison.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-phraya-phichai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-phraya-phichai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "phraya-phichai/phraya-phichai-muay-thai-infront-of-king-taksin-phraya-pichai-dabha-eaf60b7.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai infront of King Taksin & Phraya Pichai Dabhak Monument 01.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Muay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_01.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Tmd",
+     "credit": "Own work",
+     "alt": "Muay Thai infront of King Taksin &amp; Phraya Pichai Dabhak Monument. Statue found in Hat-Sung Palace (Wat Kungtapao), Uttaradit Province, Thailand.",
+     "date": "2022-01-07",
+     "primary": true,
+     "sha256": "faca65236d5c348f337c2083a2a471d3c86a5983413e37bd97edd17461afbe3b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "uttaradit",
+     "type": "place",
+     "name": "Uttaradit",
+     "as": "The general."
+    }
+   ]
+  },
+  {
+   "id": "rodtang",
+   "type": "person",
+   "names": {
+    "name": "Rodtang Jitmuangnon",
+    "th": "รถถัง จิตรเมืองนนท์",
+    "rtgs": "rotthang chit mueang non",
+    "said": "Rotthang means tank. Professional at sixteen.",
+    "said_th": "รถถัง แปลว่ารถถัง ชกอาชีพตั้งแต่สิบหก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Born Tinnakorn Srisawat, 23 July 1997. Professional since 2013, Omnoi champion at 130lb, and the longest-reigning ONE flyweight muay thai world champion.",
+    "story": "The English article calls him one of the highest-paid muay thai fighters in the world, which is a sentence that would not have been written about a Thai fighter twenty years ago.\n\n*Inference —* that is the ONE Championship effect, and it is the sport's current argument in one man: a promotion with foreign money pays a Thai fighter more than the stadium system ever could, under rules the stadium system does not use, in front of an audience that is not betting on it."
+   },
+   "text_th": {
+    "what": "ชื่อจริง ทินกร ศรีสวัสดิ์ เกิด 23 กรกฎาคม พ.ศ. 2540 ชกอาชีพตั้งแต่ปี 2556 แชมป์อ้อมน้อยรุ่น 130 ปอนด์ และเป็นแชมป์โลกมวยไทยรุ่นฟลายเวท ONE ที่ครองตำแหน่งยาวนานที่สุด",
+    "story": "บทความภาษาอังกฤษเรียกเขาว่าหนึ่งในนักมวยไทยที่ได้ค่าตัวสูงที่สุดในโลก ซึ่งเป็นประโยคที่จะไม่มีใครเขียนถึงนักมวยไทยเมื่อยี่สิบปีก่อน\n\n*อนุมาน —* นั่นคือผลของ ONE Championship และเป็นข้อถกเถียงปัจจุบันของกีฬานี้ในตัวคนคนเดียว รายการที่มีเงินต่างชาติจ่ายนักมวยไทยมากกว่าที่ระบบสนามเคยทำได้ ภายใต้กติกาที่ระบบสนามไม่ได้ใช้ ต่อหน้าคนดูที่ไม่ได้เดิมพันกับมัน"
+   },
+   "kin": [
+    {
+     "to": "one-championship",
+     "as": "Who pays him.",
+     "rel": "org"
+    },
+    {
+     "to": "scoring",
+     "as": "The rules he does not fight under.",
+     "rel": "rule"
+    }
+   ],
+   "sources": [
+    "s:wp-rodtang-jitmuangnon"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-rodtang-jitmuangnon"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "abroad",
+    "money"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "rodtang/rodtang-.png",
+     "source": "commons",
+     "title": "File:ロッタン・ジットムアンノン.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%E3%83%AD%E3%83%83%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%83%E3%83%88%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%B3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E3%83%AD%E3%83%83%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%83%E3%83%88%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%B3.png",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "TJ Channel Thailand",
+     "credit": "YouTube – View/save archived versions on archive.org",
+     "alt": "ロッタン選手 インタビュー",
+     "date": "2021-01-23",
+     "primary": true,
+     "sha256": "61b38b051ecbf2d159ea7395e09e01099db57b6405dca0c78bbd07eac8f5ef1a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "one-championship",
+     "type": "org",
+     "name": "ONE Championship",
+     "as": "Whom it pays."
+    }
+   ]
+  },
+  {
+   "id": "saenchai",
+   "type": "person",
+   "names": {
+    "name": "Saenchai",
+    "th": "แสนชัย",
+    "rtgs": "saenchai",
+    "said": "Six Lumpinee titles in four divisions, usually giving away weight.",
+    "said_th": "แชมป์ลุมพินีหกสมัยในสี่รุ่น และมักเสียเปรียบน้ำหนัก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Born Suphachai Saepong, 30 July 1980. Six-time Lumpinee champion across four divisions, fighter of the year in 1999 and 2008.",
+    "story": "The English article records the thing that makes him unusual: he gave up weight to find opponents, and between 2003 and 2014 **lost twice in Thailand at equal weight** — every other defeat came in fights he had agreed to take at a disadvantage.\n\n*Inference —* that is what happens to a technician at the top of a small market. There is no one left to fight, so the promoter sells the handicap instead, and the record shows losses that are really a shortage of opponents."
+   },
+   "text_th": {
+    "what": "ชื่อจริง ศุภชัย แสนพงษ์ เกิด 30 กรกฎาคม พ.ศ. 2523 แชมป์ลุมพินีหกสมัยในสี่รุ่น นักมวยแห่งปี พ.ศ. 2542 และ 2551",
+    "story": "บทความภาษาอังกฤษบันทึกสิ่งที่ทำให้เขาไม่เหมือนใคร เขายอมเสียเปรียบน้ำหนักเพื่อหาคู่ชก และระหว่างปี 2546 ถึง 2557 **แพ้ในเมืองไทยเพียงสองครั้งเมื่อชกในน้ำหนักเท่ากัน** ความพ่ายแพ้ครั้งอื่นทั้งหมดเกิดในไฟต์ที่เขาตกลงขึ้นชกทั้งที่เสียเปรียบ\n\n*อนุมาน —* นั่นคือสิ่งที่เกิดกับนักเทคนิคที่อยู่บนยอดของตลาดเล็ก ๆ ไม่เหลือใครให้ชก โปรโมเตอร์จึงขายการต่อรองแทน และสถิติก็แสดงความพ่ายแพ้ที่แท้จริงแล้วคือการขาดคู่ชก"
+   },
+   "kin": [
+    {
+     "to": "muay-femur",
+     "as": "The style he defines.",
+     "rel": "style"
+    },
+    {
+     "to": "lumpinee",
+     "as": "Six of its belts.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:wp-saenchai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-saenchai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "id": "samart-payakaroon",
+   "type": "person",
+   "names": {
+    "name": "Samart Payakaroon",
+    "th": "สามารถ พยัคฆ์อรุณ",
+    "rtgs": "samat phayak arun",
+    "said": "Four Lumpinee titles in four divisions, then a WBC world title at boxing.",
+    "said_th": "แชมป์ลุมพินีสี่รุ่น แล้วไปได้แชมป์โลก WBC มวยสากล"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "Born Samart Thip-thamai, 5 December 1962, Bang Pakong district, Chachoengsao. The fighter most often named when Thais argue about the best there has been.",
+    "story": "Started at eleven, fighting as *Samart Luk Khlong Khet*. Took four Lumpinee titles across four weight divisions, then crossed to western boxing and became **Thailand's tenth world champion**, WBC super bantamweight. Fighter of the year in 1981 and again in 1988.\n\n*Inference —* the crossing is the argument. Muay thai scores punches lowest, so the sport's best technician going to a code that scores nothing else, and winning a world title there, is the strongest single piece of evidence that Thai technique transfers and that the scoring is a preference rather than a limit.\n\nHe runs a gym in Bangkok, and he sings."
+   },
+   "text_th": {
+    "what": "ชื่อจริง สามารถ ทิพย์ท่าไม้ เกิด 5 ธันวาคม พ.ศ. 2505 อำเภอบางปะกง จังหวัดฉะเชิงเทรา เป็นชื่อที่ถูกเอ่ยบ่อยที่สุดเมื่อคนไทยเถียงกันว่าใครเก่งที่สุด",
+    "story": "เริ่มชกตอนสิบเอ็ด ใช้ชื่อ *สามารถ ลูกคลองเขต* ได้แชมป์ลุมพินีสี่เส้นในสี่รุ่น แล้วข้ามไปมวยสากลและเป็น **แชมป์โลกคนที่ 10 ของไทย** รุ่นซูเปอร์แบนตัมเวท WBC เป็นนักมวยแห่งปี พ.ศ. 2524 และอีกครั้งใน พ.ศ. 2531\n\n*อนุมาน —* การข้ามนั้นคือข้อโต้แย้ง มวยไทยให้คะแนนหมัดต่ำที่สุด การที่นักเทคนิคที่ดีที่สุดของกีฬานี้ข้ามไปสู่กีฬาที่ไม่ให้คะแนนอะไรนอกจากหมัด แล้วได้แชมป์โลกที่นั่น คือหลักฐานชิ้นเดียวที่หนักที่สุดว่าเทคนิคไทยถ่ายโอนได้ และการให้คะแนนเป็นรสนิยมมากกว่าเป็นขีดจำกัด\n\nเขามีค่ายมวยในกรุงเทพฯ และเขาร้องเพลง"
+   },
+   "kin": [
+    {
+     "to": "muay-femur",
+     "as": "The style he defines.",
+     "rel": "style"
+    },
+    {
+     "to": "fist",
+     "as": "What he proved about it.",
+     "rel": "weapon"
+    },
+    {
+     "to": "dieselnoi",
+     "as": "Who beat him.",
+     "rel": "person"
+    },
+    {
+     "to": "lumpinee",
+     "as": "Four of its belts.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:thwp-สามารถ-พย-คฆ-อร-ณ",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-สามารถ-พย-คฆ-อร-ณ"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "samart-payakaroon/samart-payakaroon-samart-payakaroon.jpg",
+     "source": "commons",
+     "title": "File:Samart Payakaroon.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Samart_Payakaroon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASamart_Payakaroon.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Sry85",
+     "credit": "Own work",
+     "alt": "Samart Payakaroon at MTV",
+     "date": "",
+     "primary": true,
+     "sha256": "b6d66924e1dac4d307352ef36e01f7c766e538f014f804766d10d8b6964a899d"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "fist",
+     "type": "weapon",
+     "name": "The fist",
+     "as": "The fighter who proved the hands could be enough."
+    },
+    {
+     "from": "muay-femur",
+     "type": "style",
+     "name": "Muay femur",
+     "as": "The one everybody names."
+    },
+    {
+     "from": "dieselnoi",
+     "type": "person",
+     "name": "Dieselnoi Chor Thanasukarn",
+     "as": "Whom he beat."
+    }
+   ]
+  },
+  {
+   "id": "somrak",
+   "type": "person",
+   "names": {
+    "name": "Somrak Khamsing",
+    "th": "สมรักษ์ คำสิงห์",
+    "rtgs": "somrak khamsing",
+    "said": "Thailand's first Olympic gold, and it was at boxing, not at this.",
+    "said_th": "เหรียญทองโอลิมปิกเหรียญแรกของไทย และเป็นมวยสากล ไม่ใช่มวยไทย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Born 16 January 1973 in Ban Phai district, Khon Kaen, into a poor family. Won featherweight gold at Atlanta in 1996 — the first Olympic gold medal Thailand had ever won.",
+    "story": "He came out of Isan, out of muay thai, and won the country's first gold in the other code. Then he played Nai Khanom Tom on television the same year.\n\n*Inference —* that sequence is the whole relationship between the two sports in Thailand. Muay thai is where the fighters are made, western boxing is where the medals are, and the national story is told in muay thai regardless. Muaythai itself did not get full IOC recognition until **20 July 2021**, twenty-five years after Somrak's gold."
+   },
+   "text_th": {
+    "what": "เกิด 16 มกราคม พ.ศ. 2516 ที่อำเภอบ้านไผ่ จังหวัดขอนแก่น ในครอบครัวยากจน ได้เหรียญทองรุ่นเฟเธอร์เวทที่แอตแลนตา พ.ศ. 2539 — เหรียญทองโอลิมปิกเหรียญแรกของประเทศไทย",
+    "story": "เขามาจากอีสาน มาจากมวยไทย และได้เหรียญทองเหรียญแรกของประเทศในกีฬาอีกประเภท แล้วปีเดียวกันนั้นก็รับบทนายขนมต้มทางโทรทัศน์\n\n*อนุมาน —* ลำดับนั้นคือความสัมพันธ์ทั้งหมดระหว่างสองกีฬาในเมืองไทย มวยไทยคือที่ที่นักมวยถูกสร้าง มวยสากลคือที่ที่เหรียญอยู่ และเรื่องเล่าของชาติเล่าเป็นมวยไทยอยู่ดี ส่วนมวยไทยเองเพิ่งได้รับการรับรองเต็มรูปแบบจาก IOC เมื่อ **20 กรกฎาคม พ.ศ. 2564** ยี่สิบห้าปีหลังเหรียญทองของสมรักษ์"
+   },
+   "kin": [
+    {
+     "to": "nai-khanom-tom",
+     "as": "Whom he played.",
+     "rel": "person"
+    },
+    {
+     "to": "ifma",
+     "as": "The body that got the recognition.",
+     "rel": "org"
+    },
+    {
+     "to": "isan",
+     "as": "Where he is from.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:thwp-สมร-กษ-คำส-งห-",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-สมร-กษ-คำส-งห-"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "nai-khanom-tom",
+     "type": "person",
+     "name": "Nai Khanom Tom",
+     "as": "Who played him."
+    },
+    {
+     "from": "isan",
+     "type": "place",
+     "name": "Isan",
+     "as": "Khon Kaen."
+    },
+    {
+     "from": "ifma",
+     "type": "org",
+     "name": "IFMA",
+     "as": "The medal that came twenty-five years earlier."
+    }
+   ]
+  },
+  {
+   "id": "the-roster",
+   "type": "person",
+   "names": {
+    "name": "Who the record remembers",
+    "th": "ใครที่บันทึกจำไว้",
+    "rtgs": "khrai thi banthuek cham wai",
+    "said": "1,186 people. 248 Thai. Five of those are women.",
+    "said_th": "1,186 คน เป็นคนไทย 248 คน ในจำนวนนั้นเป็นผู้หญิงห้าคน"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "A census of everyone Wikidata records as a Thai boxer by occupation. It is a fact about the encyclopedia, not about the sport, and the gap between the two is the reason to print it.",
+    "story": "Two cohorts came back, and the difference between them is the health warning. 1,186 people carry the occupation *Thai boxer*. Another 321 carry only the sport property — and sorted by how many Wikipedias hold an entry, the top of that second list is **Batman**.\n\nEven inside the occupation cohort the ranking is useless: Shaquille O'Neal, Donnie Yen and Joe Rogan all sit above every Thai fighter, because a sitelink count measures fame, and their fame is from elsewhere. So this project does not rank anybody off this data. It counts.\n\n**By country:** Thailand 248, the United States 111, the Netherlands 65, France 59, the United Kingdom 43, Brazil 37, Russia 35. Two hundred and fifty carry no nationality at all.\n\n**By decade of birth:** the 1980s peak at 419, then the 1990s at 250 and the 1970s at 222.\n\n**By gender:** 966 men, 179 women, one kathoey, one trans woman, 39 unstated. Of the 248 Thai, **five are women**.\n\n*Inference —* five is not a fact about Thai women who fight. Thailand's women's cards are full and its gyms are full. Five is a fact about who gets written up, and the same gap swallowed Apidej Sit Hirun, who has no English article at all."
+   },
+   "text_th": {
+    "what": "สำมะโนของทุกคนที่วิกิสนเทศบันทึกว่ามีอาชีพนักมวยไทย มันคือข้อเท็จจริงเกี่ยวกับสารานุกรม ไม่ใช่เกี่ยวกับกีฬา และช่องว่างระหว่างสองอย่างนั้นคือเหตุผลที่พิมพ์มันออกมา",
+    "story": "ข้อมูลที่ได้กลับมามีสองกลุ่ม และความต่างระหว่างสองกลุ่มคือคำเตือน 1,186 คนมีอาชีพระบุว่า *นักมวยไทย* อีก 321 คนมีเพียงคุณสมบัติด้านกีฬา และเมื่อเรียงตามจำนวนวิกิพีเดียที่มีบทความ ยอดของรายการที่สองคือ **แบทแมน**\n\nแม้ในกลุ่มที่ระบุอาชีพ การจัดอันดับก็ใช้ไม่ได้ ชาคีลล์ โอนีล เจิน จื่อตัน และโจ โรแกน อยู่เหนือนักมวยไทยทุกคน เพราะจำนวนลิงก์ข้ามภาษาวัดความดัง และความดังของพวกเขามาจากที่อื่น โครงการนี้จึงไม่จัดอันดับใครจากข้อมูลชุดนี้ มันนับ\n\n**ตามประเทศ** ไทย 248 สหรัฐอเมริกา 111 เนเธอร์แลนด์ 65 ฝรั่งเศส 59 สหราชอาณาจักร 43 บราซิล 37 รัสเซีย 35 อีกสองร้อยห้าสิบคนไม่มีสัญชาติระบุไว้เลย\n\n**ตามทศวรรษเกิด** ทศวรรษ 1980 สูงสุดที่ 419 ตามด้วยทศวรรษ 1990 ที่ 250 และทศวรรษ 1970 ที่ 222\n\n**ตามเพศ** ชาย 966 หญิง 179 กะเทยหนึ่ง หญิงข้ามเพศหนึ่ง ไม่ระบุ 39 ในจำนวนคนไทย 248 คน **เป็นผู้หญิงห้าคน**\n\n*อนุมาน —* ห้าไม่ใช่ข้อเท็จจริงเกี่ยวกับผู้หญิงไทยที่ชกมวย รายการมวยหญิงของไทยเต็ม และยิมของไทยก็เต็ม ห้าคือข้อเท็จจริงว่าใครได้ถูกเขียนถึง และช่องว่างเดียวกันนี้กลืนอภิเดช ศิษย์หิรัญ ที่ไม่มีบทความภาษาอังกฤษเลย"
+   },
+   "kin": [
+    {
+     "to": "women-in-the-ring",
+     "as": "What the five sit next to.",
+     "rel": "issue"
+    },
+    {
+     "to": "apidej",
+     "as": "Who is missing.",
+     "rel": "person"
+    },
+    {
+     "to": "the-gym-map",
+     "as": "The same exercise, on the map.",
+     "rel": "gym"
+    },
+    {
+     "to": "nongtoom",
+     "as": "The one the census files as kathoey.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wikidata"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:wikidata"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted",
+    "women",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "the-roster/the-roster-women-muay-thai.jpg",
+     "source": "commons",
+     "title": "File:Women muay thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Women_muay_thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWomen_muay_thai.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "ColbyOtero.com",
+     "credit": "https://www.flickr.com/photos/colbyotero/4258693673/",
+     "alt": "Women's muay thai match",
+     "date": "2010-01-09",
+     "primary": true,
+     "sha256": "c31d5ba65d1030f27affb0ded49815c237676e762a02db7068a1627302c2cbc8"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "apidej",
+     "type": "person",
+     "name": "Apidej Sit Hirun",
+     "as": "Where the gap is counted."
+    },
+    {
+     "from": "nongtoom",
+     "type": "person",
+     "name": "Nong Toom",
+     "as": "Where she appears in the census, and as what."
+    },
+    {
+     "from": "the-gym-map",
+     "type": "gym",
+     "name": "Every gym on the map",
+     "as": "The same exercise on people."
+    },
+    {
+     "from": "women-in-the-ring",
+     "type": "issue",
+     "name": "Women in the ring",
+     "as": "The five."
+    }
+   ]
+  },
+  {
+   "id": "tiger-king",
+   "type": "person",
+   "names": {
+    "name": "The Tiger King",
+    "th": "พระเจ้าเสือ",
+    "rtgs": "phra chao suea",
+    "said": "The king who is credited with inventing the curriculum, and who fought at a temple fair in disguise.",
+    "said_th": "กษัตริย์ที่ถูกยกให้เป็นผู้คิดค้นแม่ไม้ และปลอมตัวไปชกที่งานวัด",
+    "aliases": [
+     "Sanphet VIII",
+     "Suriyenthrathibodi"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "King Sanphet VIII of Ayutthaya, reigned 1703–1709. Thai Wikipedia's article on the mae mai opens by attributing the fifteen to him, on the authority of a cabinet resolution.",
+    "story": "The story everyone tells: in 1702 the king hears there is a temple fair at Wiset Chai Chan, says he has not punched anyone since his accession, goes in disguise, and beats the local champions.\n\nAnd the sourcing, which is the more interesting part. The claim that he devised the mae mai is carried not by a chronicle but by **a resolution of the Thai cabinet**, cited through a newspaper article about the founding of Muay Thai Day. A government meeting is a perfectly real source for what a government has decided. It is not a source for what happened in 1702.\n\n*Inference —* this is the same machinery as Nai Khanom Tom and the four regional lines: a modern state fixing a date, a founder and a canon, and the fixing being the documented event."
+   },
+   "text_th": {
+    "what": "สมเด็จพระสรรเพชญ์ที่ 8 แห่งกรุงศรีอยุธยา ครองราชย์ พ.ศ. 2246–2252 บทความแม่ไม้มวยไทยของวิกิพีเดียไทยเปิดด้วยการยกท่าทั้งสิบห้าให้เป็นของพระองค์ โดยอ้างมติคณะรัฐมนตรี",
+    "story": "เรื่องที่ทุกคนเล่า พ.ศ. 2245 พระเจ้าเสือทรงทราบว่ามีงานวัดที่แขวงวิเศษไชยชาญ ตรัสว่าไม่ได้ชกมวยมานานตั้งแต่เสวยราชย์ จึงปลอมพระองค์ไป แล้วชนะนักมวยเอกของท้องถิ่น\n\nและที่มาของข้อมูล ซึ่งเป็นส่วนที่น่าสนใจกว่า ข้อความที่ว่าพระองค์ทรงคิดค้นแม่ไม้นั้น ไม่ได้มาจากพงศาวดาร แต่มาจาก **มติคณะรัฐมนตรี** อ้างผ่านข่าวหนังสือพิมพ์เรื่องการสถาปนาวันมวยไทย การประชุมของรัฐบาลเป็นแหล่งอ้างอิงที่ใช้ได้จริงสำหรับสิ่งที่รัฐบาลตัดสินใจ แต่ไม่ใช่แหล่งอ้างอิงสำหรับสิ่งที่เกิดขึ้นใน พ.ศ. 2245\n\n*อนุมาน —* นี่คือกลไกเดียวกับนายขนมต้มและสายมวยทั้งสี่ รัฐสมัยใหม่กำหนดวัน กำหนดผู้ก่อตั้ง และกำหนดสารบบ แล้วการกำหนดนั้นคือเหตุการณ์ที่มีหลักฐาน"
+   },
+   "kin": [
+    {
+     "to": "mae-mai",
+     "as": "What he is credited with.",
+     "rel": "move"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "The pattern.",
+     "rel": "issue"
+    },
+    {
+     "to": "nai-khanom-tom",
+     "as": "The other founder.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-suriyenthrathibodi",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "la-loubere-1687",
+     "type": "story",
+     "name": "A French diplomat, 1687",
+     "as": "Three years later, and a temple fair."
+    },
+    {
+     "from": "invented-tradition",
+     "type": "issue",
+     "name": "How old is any of this",
+     "as": "The inventor."
+    }
+   ]
+  }
+ ]
+}

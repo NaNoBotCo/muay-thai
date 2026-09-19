@@ -1,0 +1,77 @@
+{
+ "id": "batha-lup-phak",
+ "type": "move",
+ "names": {
+  "name": "The foot strokes the face",
+  "th": "บาทาลูบพักตร์",
+  "rtgs": "batha lup phak",
+  "said": "The foot strokes the face"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "luk-mai"
+ },
+ "text": {
+  "what": "The one name in the thirty that says what the movement is.",
+  "story": "And even here the sport refuses the ordinary word. Everyday Thai for foot is *thao* (เท้า) and for face is *na* (หน้า). This name uses *batha*, from Sanskrit *pāda*, and *phak*, from *vaktra* — the register of court poetry and the Ramakien.\n\n*Inference —* the naming is not decoration. Wherever the vocabulary comes from, so did the people who wrote it down: the technique lists were court documents before they were gym documents."
+ },
+ "text_th": {
+  "what": "ชื่อเดียวในสามสิบท่าที่บอกว่าการเคลื่อนไหวคืออะไร",
+  "story": "และแม้ตรงนี้ กีฬานี้ก็ยังปฏิเสธคำธรรมดา ภาษาพูดเรียกเท้าว่าเท้า เรียกหน้าว่าหน้า ชื่อนี้ใช้ *บาทา* จากสันสกฤต *ปาท* และ *พักตร์* จาก *วักตระ* ซึ่งเป็นระดับภาษาของกวีนิพนธ์ราชสำนักและรามเกียรติ์\n\n*อนุมาน —* การตั้งชื่อไม่ใช่เครื่องประดับ คำศัพท์มาจากไหน คนที่จดมันไว้ก็มาจากที่นั่น รายการท่ามวยเป็นเอกสารราชสำนักก่อนจะเป็นเอกสารของค่ายมวย"
+ },
+ "kin": [
+  {
+   "to": "luk-mai",
+   "as": "Second on the second fifteen.",
+   "rel": "move"
+  },
+  {
+   "to": "mae-mai",
+   "as": "And the exception to the whole set.",
+   "rel": "move"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:saranukrom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "move.gloss": {
+    "tier": "inference",
+    "note": "this project's translation"
+   },
+   "move.refers": {
+    "tier": "inference",
+    "note": "this project's classification of what the name points at"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "move": {
+  "th": "บาทาลูบพักตร์",
+  "rtgs": "batha lup phak",
+  "gloss": "The foot strokes the face",
+  "refers": "plain",
+  "figure": "",
+  "set": "luk-mai",
+  "n": 2,
+  "does": "A foot to the face, off a caught or blocked attack.",
+  "does_th": "เท้าขึ้นหน้า จากการรับหรือบล็อกอาวุธที่เข้ามา"
+ }
+}

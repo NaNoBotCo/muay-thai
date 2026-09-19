@@ -1,0 +1,140 @@
+{
+ "id": "women-in-the-ring",
+ "type": "issue",
+ "names": {
+  "name": "Women in the ring",
+  "th": "ผู้หญิงบนเวที",
+  "rtgs": "phu ying bon wethi",
+  "said": "The rule was about the ring itself, not about fighting.",
+  "said_th": "กฎนั้นเป็นเรื่องของตัวเวที ไม่ใช่เรื่องของการชก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "status": "changing"
+ },
+ "text": {
+  "what": "Women fight professionally in Thailand, at every provincial ring and on stadium cards. The restriction that made the sport famous for excluding them was about the raised ring at particular stadiums.",
+  "story": "*Tradition holds —* the prohibition is not a rule about women fighting. It is a rule about a woman passing under the top rope of a consecrated ring, on the grounds that it would remove the ring's protection. At the stadiums that kept it, women entered over the top rope instead of under it, or did not enter.\n\nThis project does not have a current, dated statement of the rule at either Bangkok stadium, and does not print one it cannot name. What it can report is the record: Wikidata's census holds 248 Thai fighters and **five of them are women** — which is a measurement of who gets written about, not of who fights.\n\nNong Toom went through the middle of all of it in 1998 and the establishment took her up in months, because the gate went up."
+ },
+ "text_th": {
+  "what": "ผู้หญิงชกอาชีพในเมืองไทย ทั้งที่เวทีต่างจังหวัดทุกแห่งและในรายการของสนามใหญ่ ข้อห้ามที่ทำให้กีฬานี้ขึ้นชื่อเรื่องการกีดกันนั้นเป็นเรื่องของเวทียกพื้นที่สนามบางแห่ง",
+  "story": "*ตามธรรมเนียม —* ข้อห้ามนี้ไม่ใช่กฎเรื่องผู้หญิงชกมวย แต่เป็นกฎเรื่องผู้หญิงลอดเชือกเส้นบนของเวทีที่ผ่านพิธี ด้วยเหตุผลว่าจะทำให้การคุ้มครองของเวทีหลุดไป ที่สนามซึ่งยังถือกฎนี้ ผู้หญิงขึ้นข้ามเชือกเส้นบนแทนการลอดใต้ หรือไม่ขึ้นเลย\n\nโครงการนี้ไม่มีคำแถลงปัจจุบันที่ระบุวันที่ของกฎนี้จากสนามใดในกรุงเทพฯ และจะไม่พิมพ์สิ่งที่ระบุชื่อไม่ได้ สิ่งที่รายงานได้คือตัวบันทึก สำมะโนของวิกิสนเทศมีนักมวยไทย 248 คน และ **ห้าคนเป็นผู้หญิง** ซึ่งเป็นการวัดว่าใครถูกเขียนถึง ไม่ใช่วัดว่าใครชก\n\nน้องตุ้มเดินผ่ากลางเรื่องทั้งหมดนี้ในปี 2541 และวงการรับเธอภายในไม่กี่เดือน เพราะรายได้หน้าประตูขึ้น"
+ },
+ "kin": [
+  {
+   "to": "nongtoom",
+   "as": "Who went through it.",
+   "rel": "person"
+  },
+  {
+   "to": "the-roster",
+   "as": "The five.",
+   "rel": "person"
+  },
+  {
+   "to": "mongkhon",
+   "as": "The other consecrated object.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:wikidata",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wikidata"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "women",
+  "contested",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "women-in-the-ring/women-in-the-ring-ilonka-elmont.jpg",
+   "source": "commons",
+   "title": "File:Ilonka Elmont.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ilonka_Elmont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AIlonka_Elmont.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Fightpro",
+   "credit": "Own work",
+   "alt": "7 x world champion",
+   "date": "2004-08-27",
+   "primary": true,
+   "sha256": "11b04dcb5a72784c2b424168e0530ce6733669871dfb9717f550d6a6f144bb38"
+  },
+  {
+   "file": "women-in-the-ring/women-in-the-ring-ladyboxing-lamai-dsc01149.jpg",
+   "source": "commons",
+   "title": "File:LadyBoxing Lamai DSC01149.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/LadyBoxing_Lamai_DSC01149.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALadyBoxing_Lamai_DSC01149.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Per Meistrup",
+   "credit": "Own work",
+   "alt": "Muay Thai Lady Boxing at Lamai, Koh Samui, Thailand",
+   "date": "2008-11-22",
+   "primary": false,
+   "sha256": "73db48b6c63d2c8952b6e75b42ccb31742646748cd6584f08858a1982ec26a08"
+  },
+  {
+   "file": "women-in-the-ring/women-in-the-ring-womens-muay-thai.jpg",
+   "source": "commons",
+   "title": "File:Womens Muay Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Womens_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWomens_Muay_Thai.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Eric Langley",
+   "credit": "Flickr: Eric Langley - The Diary of a Fight Fan Image # 13",
+   "alt": "Of all the Mixed Martial Arts, I prefer to shoot Muay Thai the most. When executing proper form, it becomes a dance and it is really a beautiful thing to see. These two amateur fighters are known loca",
+   "date": "2011-06-18 20:37:15",
+   "primary": false,
+   "sha256": "42e3e55030837495b7df9aae538b37d464de3d0a143385a48ddf080348b2b8ec"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nongtoom",
+   "type": "person",
+   "name": "Nong Toom",
+   "as": "The rule she went around."
+  },
+  {
+   "from": "the-roster",
+   "type": "person",
+   "name": "Who the record remembers",
+   "as": "What the five sit next to."
+  },
+  {
+   "from": "what-we-did-not-do",
+   "type": "story",
+   "name": "What this site does not have",
+   "as": "The rule not named."
+  },
+  {
+   "from": "wethi",
+   "type": "term",
+   "name": "wethi",
+   "as": "The tradition it sits under."
+  }
+ ]
+}

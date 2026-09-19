@@ -1,0 +1,164 @@
+{
+ "id": "eight-limbs",
+ "type": "weapon",
+ "names": {
+  "name": "The eight limbs",
+  "th": "อาวุธทั้งแปด",
+  "rtgs": "awut thang paet",
+  "said": "Two fists, two elbows, two knees, two shins. Count them.",
+  "said_th": "หมัดสอง ศอกสอง เข่าสอง แข้งสอง นับดู"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "range": "any"
+ },
+ "text": {
+  "what": "The phrase that names the sport in English — the art of eight limbs — is a count: fists, elbows, knees and shins, two of each.",
+  "story": "Boxing has two. Kickboxing has four. Muay thai counts eight, and the count is the whole argument: it is not that a Thai fighter has more weapons, it is that the elbow and the knee are **legal**, and being legal changes every distance in the fight.\n\nWork it forward. If the elbow is legal, the inside is dangerous, so nobody hides there. If the knee is legal, holding the head is worth doing, so the clinch is not broken up. If the clinch is not broken up, a fight has a wrestling phase, and a wrestling phase means conditioning decides the fifth round. Each rule pulls the next one along.\n\n*Inference —* the head is the ninth thing people ask about. Headbutts are not legal; the count stops at eight."
+ },
+ "text_th": {
+  "what": "วลีที่ใช้เรียกกีฬานี้ในภาษาอังกฤษ — ศิลปะแห่งอาวุธแปดชิ้น — คือการนับ หมัด ศอก เข่า แข้ง อย่างละสอง",
+  "story": "มวยสากลมีสอง คิกบ็อกซิ่งมีสี่ มวยไทยนับแปด และการนับนี้คือข้อโต้แย้งทั้งหมด ไม่ใช่ว่านักมวยไทยมีอาวุธมากกว่า แต่คือศอกกับเข่า **ใช้ได้ตามกติกา** และความถูกกติกานั้นเปลี่ยนทุกระยะในการชก\n\nลองไล่ดู ถ้าศอกใช้ได้ ระยะประชิดก็อันตราย ไม่มีใครหลบเข้าไปอยู่ตรงนั้น ถ้าเข่าใช้ได้ การจับคอก็คุ้มที่จะทำ กอดรัดจึงไม่ถูกแยก เมื่อไม่ถูกแยก ไฟต์หนึ่งย่อมมีช่วงปล้ำ และช่วงปล้ำหมายความว่าความฟิตเป็นตัวตัดสินยกที่ห้า กติกาแต่ละข้อลากข้อถัดไปตามมา\n\n*อนุมาน —* หัวคือสิ่งที่เก้าที่คนถามถึง โขกหัวผิดกติกา การนับหยุดที่แปด"
+ },
+ "kin": [
+  {
+   "to": "fist",
+   "as": "One pair of the eight.",
+   "rel": "weapon"
+  },
+  {
+   "to": "elbow",
+   "as": "One pair of the eight.",
+   "rel": "weapon"
+  },
+  {
+   "to": "knee",
+   "as": "One pair of the eight.",
+   "rel": "weapon"
+  },
+  {
+   "to": "shin",
+   "as": "One pair of the eight.",
+   "rel": "weapon"
+  },
+  {
+   "to": "clinch",
+   "as": "What legal knees produce.",
+   "rel": "move"
+  },
+  {
+   "to": "scoring",
+   "as": "Which of the eight a judge rewards.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "eight-limbs/eight-limbs-muay-thai-high-kick.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai high kick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Muay_Thai_high_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_high_kick.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Eric Langley",
+   "credit": "Flickr: [1]",
+   "alt": "Muay Thai competitor attempts a high kick but it is blocked by his opponent.",
+   "date": "2011-06-17 22:38:50",
+   "primary": true,
+   "sha256": "6f3be71837c9f8454beb45c30c202121f17f502c5c5fb6d44c7f1844179c1491"
+  },
+  {
+   "file": "eight-limbs/eight-limbs-round-jump-kick.jpg",
+   "source": "commons",
+   "title": "File:Round Jump Kick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Round_Jump_Kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARound_Jump_Kick.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "muaythai kick",
+   "date": "2017-09-02 13:16:21",
+   "primary": false,
+   "sha256": "21b5672e4b89d1738fa1acfbd73e3cec2a1e446a4044e26276f75d99eef76d52"
+  },
+  {
+   "file": "eight-limbs/eight-limbs-thai-boxing-26250363236.jpg",
+   "source": "commons",
+   "title": "File:Thai boxing (26250363236).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Thai_boxing_%2826250363236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_boxing_%2826250363236%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Mussi Katz from Israel",
+   "credit": "Thai boxing",
+   "alt": "Thai boxing",
+   "date": "2016-02-14 21:35",
+   "primary": false,
+   "sha256": "dfe78e2ac84d7310d96efdbb8eb69d250db51a83c348228bc3f46139db5edf92"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "elbow",
+   "type": "weapon",
+   "name": "The elbow",
+   "as": "The count it belongs to."
+  },
+  {
+   "from": "fist",
+   "type": "weapon",
+   "name": "The fist",
+   "as": "The count it belongs to."
+  },
+  {
+   "from": "knee",
+   "type": "weapon",
+   "name": "The knee",
+   "as": "The count it belongs to."
+  },
+  {
+   "from": "shin",
+   "type": "weapon",
+   "name": "The shin",
+   "as": "The count it belongs to."
+  },
+  {
+   "from": "fouls",
+   "type": "rule",
+   "name": "What is not allowed",
+   "as": "Why the count stops at eight."
+  },
+  {
+   "from": "neighbours",
+   "type": "story",
+   "name": "The same sport, four borders",
+   "as": "Nine, across one border."
+  }
+ ]
+}

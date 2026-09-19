@@ -1,0 +1,75 @@
+{
+ "id": "klong-khaek",
+ "type": "music",
+ "names": {
+  "name": "The drums",
+  "th": "กลองแขก",
+  "rtgs": "klong khaek",
+  "said": "A pair, and the pair is male and female.",
+  "said_th": "หนึ่งคู่ และคู่นั้นคือตัวผู้กับตัวเมีย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "instrument": "drum"
+ },
+ "text": {
+  "what": "Two long double-headed drums played with the hands, one pitched higher than the other. Thai names them *tua phu* and *tua mia* — the male and the female.",
+  "story": "The two drums do not play the same thing. One keeps the frame and the other answers inside it, which is where the drive comes from as the fight speeds up.\n\n*Khaek* is a Thai word for people from the west and south — Malay, Javanese, Indian, Middle Eastern — and the drum is named after where it came from rather than what it is. The sport's soundtrack is an import, and so is its oboe."
+ },
+ "text_th": {
+  "what": "กลองสองหน้าทรงยาวสองใบ ตีด้วยมือ ใบหนึ่งเสียงสูงกว่าอีกใบ ไทยเรียก ตัวผู้ กับ ตัวเมีย",
+  "story": "กลองสองใบไม่ได้ตีเหมือนกัน ใบหนึ่งคุมกรอบ อีกใบตอบอยู่ข้างใน และนั่นคือที่มาของแรงขับเมื่อไฟต์เร่งขึ้น\n\n*แขก* เป็นคำไทยเรียกผู้คนจากทางตะวันตกและทางใต้ — มลายู ชวา อินเดีย ตะวันออกกลาง — กลองนี้ตั้งชื่อตามที่มา ไม่ใช่ตามสิ่งที่มันเป็น เสียงประกอบของกีฬานี้เป็นของนำเข้า และปี่ของมันก็เช่นกัน"
+ },
+ "kin": [
+  {
+   "to": "sarama",
+   "as": "The band.",
+   "rel": "music"
+  },
+  {
+   "to": "pi-chawa",
+   "as": "What it came in with.",
+   "rel": "music"
+  }
+ ],
+ "sources": [
+  "s:thwp-กลองแขก"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-กลองแขก"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "klong-khaek/klong-khaek-piphat-mon.jpg",
+   "source": "commons",
+   "title": "File:Piphat Mon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Piphat_Mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APiphat_Mon.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Mahatee",
+   "credit": "Own work",
+   "alt": "Thailand: Mon Pi Paat Band Rayong Witthayakhom School",
+   "date": "",
+   "primary": true,
+   "sha256": "8af946af14de73c401ff8c513e81fc816d6fc39ea490777f5cfeff1ff7998bb4"
+  }
+ ]
+}

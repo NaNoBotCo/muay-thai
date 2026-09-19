@@ -1,0 +1,68 @@
+{
+ "id": "sat",
+ "type": "org",
+ "names": {
+  "name": "The Sports Authority of Thailand",
+  "th": "การกีฬาแห่งประเทศไทย",
+  "rtgs": "kan kila haeng prathet thai",
+  "said": "The state body under which the professional league sits.",
+  "said_th": "หน่วยงานรัฐที่ลีกอาชีพอยู่ภายใต้"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "scope": "thai"
+ },
+ "text": {
+  "what": "The government agency that sanctions the Professional Boxing Association of Thailand, which governs the professional league.",
+  "story": "The chain is worth stating plainly, because it explains why the Boxing Act's age limits are a government matter rather than a promoter's: the league is sanctioned by the state, the ranking stadiums are held by the army and by a company on a royal avenue, and the betting inside them is licensed.\n\n*Inference —* this is not a sport with a governing body on top of a market. It is an arm of the state with a market inside it."
+ },
+ "text_th": {
+  "what": "หน่วยงานรัฐที่รับรองสมาคมกีฬามวยอาชีพแห่งประเทศไทย ซึ่งกำกับลีกอาชีพ",
+  "story": "ลูกโซ่นี้ควรพูดให้ตรง เพราะมันอธิบายว่าทำไมอายุขั้นต่ำตามพระราชบัญญัติกีฬามวยจึงเป็นเรื่องของรัฐ ไม่ใช่ของโปรโมเตอร์ ลีกได้รับการรับรองจากรัฐ สนามหลักถือโดยกองทัพบกและโดยบริษัทบนถนนพระราชพิธี และการพนันภายในนั้นมีใบอนุญาต\n\n*อนุมาน —* นี่ไม่ใช่กีฬาที่มีองค์กรกำกับวางอยู่บนตลาด แต่เป็นแขนงหนึ่งของรัฐที่มีตลาดอยู่ข้างใน"
+ },
+ "kin": [
+  {
+   "to": "betting",
+   "as": "The licensed part.",
+   "rel": "rule"
+  },
+  {
+   "to": "child-boxing",
+   "as": "The act being flouted.",
+   "rel": "issue"
+  },
+  {
+   "to": "lumpinee",
+   "as": "Whose ring.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "kings-guard",
+   "type": "story",
+   "name": "The King's Guard, 1455",
+   "as": "Who the employer is now."
+  }
+ ]
+}

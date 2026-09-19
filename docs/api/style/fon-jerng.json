@@ -1,0 +1,129 @@
+{
+ "id": "fon-jerng",
+ "type": "style",
+ "names": {
+  "name": "Fon jerng",
+  "th": "ฟ้อนเจิง",
+  "rtgs": "fon choeng",
+  "said": "Thai Wikipedia's history of the sport starts it here, in Lanna, as a dance.",
+  "said_th": "บทความประวัติศาสตร์มวยไทยของวิกิพีเดียไทยเริ่มเรื่องที่นี่ ในล้านนา ในฐานะการฟ้อน",
+  "aliases": [
+   "jerng",
+   "เจิง"
+  ]
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "The Lanna martial dance. *Jerng* means tactics or finesse; *fon* is to dance. It is performed with weapons and with empty hands, and the Thai-language history of muay thai names it as the origin of the craft.",
+  "story": "The sentence is unambiguous in Thai: *วิชามวยไทยจึงมีจุดเริ่มต้นมาจากวิชาเจิง* — the craft of muay thai therefore begins from the craft of jerng.\n\nIt comes in forms named for what is in the hand. **ฟ้อนเจิงหอก** with a spear, **ฟ้อนเจิงดาบ** with a sword, **ฟ้อนเจิงลา** with nothing at all. The empty-hand form is the one that matters here: a set of movements held as a dance, performed at festivals, which is also a fighting syllabus.\n\n*Inference —* that is a different relationship between dance and fighting from the one the ram muay has. A ram muay is a ceremony attached to a fight. Fon jerng is the fighting, kept as a dance — which is how a syllabus survives in a place with no standing school and no printed manual.\n\nThe English article carries the same claim in a weaker form, dating the training of muay thai from the movements of *fon jerng* and noting that it survives as a recreational dance in the north today."
+ },
+ "text_th": {
+  "what": "การฟ้อนเชิงต่อสู้ของล้านนา *เจิง* หมายถึงชั้นเชิงหรือกลวิธี *ฟ้อน* คือการรำ ฟ้อนได้ทั้งมีอาวุธและมือเปล่า และประวัติศาสตร์มวยไทยฉบับภาษาไทยระบุว่าเป็นต้นทางของวิชานี้",
+  "story": "ประโยคในภาษาไทยไม่กำกวม *วิชามวยไทยจึงมีจุดเริ่มต้นมาจากวิชาเจิง*\n\nมันมีหลายแบบ ตั้งชื่อตามสิ่งที่อยู่ในมือ **ฟ้อนเจิงหอก** ใช้หอก **ฟ้อนเจิงดาบ** ใช้ดาบ **ฟ้อนเจิงลา** ไม่ใช้อะไรเลย แบบมือเปล่าคือแบบที่สำคัญตรงนี้ ชุดการเคลื่อนไหวที่เก็บไว้ในรูปการฟ้อน แสดงในงานเทศกาล และเป็นหลักสูตรการต่อสู้ไปพร้อมกัน\n\n*อนุมาน —* นั่นคือความสัมพันธ์ระหว่างการรำกับการต่อสู้ที่ต่างจากของรำมวย รำมวยคือพิธีที่ติดอยู่กับการชก ส่วนฟ้อนเจิงคือการต่อสู้ที่เก็บไว้ในรูปการฟ้อน ซึ่งเป็นวิธีที่หลักสูตรหนึ่งอยู่รอดในที่ที่ไม่มีสำนักถาวรและไม่มีตำราตีพิมพ์\n\nบทความภาษาอังกฤษถือข้อความเดียวกันไว้ในรูปที่อ่อนกว่า โดยนับการฝึกมวยไทยจากท่าของ *ฟ้อนเจิง* และระบุว่ามันยังอยู่ในฐานะการฟ้อนเพื่อความบันเทิงในภาคเหนือจนทุกวันนี้"
+ },
+ "kin": [
+  {
+   "to": "lanna",
+   "as": "Where it is from.",
+   "rel": "place"
+  },
+  {
+   "to": "klong-sabatchai",
+   "as": "What is played over it.",
+   "rel": "music"
+  },
+  {
+   "to": "top-maphap",
+   "as": "The part with no weapon and no opponent.",
+   "rel": "move"
+  },
+  {
+   "to": "manop-yarana",
+   "as": "Who taught it, for fifty years.",
+   "rel": "person"
+  },
+  {
+   "to": "mai-sastra",
+   "as": "The older claim underneath it.",
+   "rel": "story"
+  },
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "The other dance, and a different relationship.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:thwp-ประวัติศาสตร์มวยไทย",
+  "s:wp-muay-thai",
+  "s:thwp-นาฏศิลป์ล้านนา"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-ประวัติศาสตร์มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "fon-jerng/fon-jerng-krabi-krabong-thai.jpg",
+   "source": "commons",
+   "title": "File:Krabi Krabong Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Krabi_Krabong_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKrabi_Krabong_Thai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Arjarn Sira",
+   "credit": "Buddhai Swan, Thailand",
+   "alt": "Krabi Krabong Thai Sword fighting, Buddhai Swan, Thailand.",
+   "date": "2017-02-18 13:52:22",
+   "primary": true,
+   "sha256": "55762a105b750a8115798e99e2c5ce21b787cbe33b74ed8f5197dce3b7363e43"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "top-maphap",
+   "type": "move",
+   "name": "Top maphap",
+   "as": "The dance it belongs to."
+  },
+  {
+   "from": "klong-sabatchai",
+   "type": "music",
+   "name": "The victory drum",
+   "as": "What it is played over."
+  },
+  {
+   "from": "manop-yarana",
+   "type": "person",
+   "name": "Manop Yarana",
+   "as": "What he taught."
+  },
+  {
+   "from": "lanna",
+   "type": "place",
+   "name": "Lanna",
+   "as": "The dance."
+  }
+ ]
+}

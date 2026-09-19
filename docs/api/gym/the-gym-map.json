@@ -1,0 +1,148 @@
+{
+ "id": "the-gym-map",
+ "type": "gym",
+ "names": {
+  "name": "Every gym on the map",
+  "th": "ทุกยิมบนแผนที่",
+  "rtgs": "thuk yim bon phaenthi",
+  "said": "527 places in 58 countries. The sport's own OpenStreetMap tag found fewer than half of them.",
+  "said_th": "527 แห่งใน 58 ประเทศ แท็ก OpenStreetMap ของกีฬานี้เองหาเจอไม่ถึงครึ่ง"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "country": "world"
+ },
+ "text": {
+  "what": "A census of everywhere OpenStreetMap knows muay thai is trained, worldwide, taken two ways at once and then compared.",
+  "story": "**527 rows, 58 countries.** Thailand 113, the United States 67, Brazil 64, the United Kingdom 31, Germany 30, Canada 28, Spain 16.\n\n**The tag found 275 and the names found 252 more.** Only 53 rows carry both. The sport's own key, `sport=muay_thai`, is used 49 times in the whole database according to taginfo — so more than half of what is on the map is there because a gym put the word in its own name, not because a mapper reached for the right key.\n\n**And the floor is far below the number.** The English article records **more than 3,800 muay thai gyms overseas in 2020**. The map has 414 outside Thailand. This is a census of OpenStreetMap, not of the sport, and it is short by an order of magnitude.\n\n*Inference —* the shape is still worth having. Brazil with 64 and the Netherlands and France between them with dozens is the K-1 and Chute Boxe inheritance showing up in a volunteer map twenty years later.",
+  "how": "Two Overpass queries. One asks for the tag — `sport=muay_thai` and its spellings. One asks for the name — anything carrying *muay*, มวย, ムエタイ, 무에타이, муай, 泰拳, *thaibox* or *boxe thaï*. Country comes from point-in-polygon against Natural Earth at 1:50m, not from a geocoder.",
+  "notes": "Three traps, all found and all kept out of the count. Thai is written without spaces, so มวย matches inside หมวย — Muay, a nickname — and inside มวยผม, a bun of hair: twenty of the first Thai matches were noodle shops, a butcher, a beauty salon and two statues of the earth goddess wringing out her hair. In Latin script *muay* matches inside Turkish *muayene*, a medical or vehicle inspection, forty times over, and inside Filipino *Pamuayan* and Indonesian *Mamuaya*. Matching at word level and requiring a facility tag clears all three; 209 rows were dropped and every reason is in the harvest file."
+ },
+ "text_th": {
+  "what": "สำมะโนของทุกที่ที่ OpenStreetMap รู้ว่ามีการฝึกมวยไทย ทั่วโลก เก็บสองวิธีพร้อมกันแล้วนำมาเทียบ",
+  "story": "**527 แถว 58 ประเทศ** ไทย 113 สหรัฐอเมริกา 67 บราซิล 64 สหราชอาณาจักร 31 เยอรมนี 30 แคนาดา 28 สเปน 16\n\n**แท็กหาเจอ 275 ส่วนชื่อหาเจอเพิ่มอีก 252** มีเพียง 53 แถวที่มีทั้งสองอย่าง คีย์ของกีฬานี้เอง `sport=muay_thai` ถูกใช้ 49 ครั้งในฐานข้อมูลทั้งหมดตามที่ taginfo ระบุ มากกว่าครึ่งของสิ่งที่อยู่บนแผนที่จึงอยู่ตรงนั้นเพราะยิมใส่คำนั้นไว้ในชื่อของตัวเอง ไม่ใช่เพราะคนทำแผนที่หยิบคีย์ที่ถูกมาใช้\n\n**และพื้นอยู่ต่ำกว่าตัวเลขนี้มาก** บทความภาษาอังกฤษบันทึกว่ามี **ยิมมวยไทยในต่างประเทศมากกว่า 3,800 แห่งในปี 2563** แผนที่มี 414 แห่งนอกประเทศไทย นี่คือสำมะโนของ OpenStreetMap ไม่ใช่ของกีฬานี้ และขาดไปหนึ่งหลัก\n\n*อนุมาน —* รูปร่างของมันยังมีค่าอยู่ดี บราซิล 64 แห่ง กับเนเธอร์แลนด์และฝรั่งเศสรวมกันอีกหลายสิบ คือมรดกของ K-1 และ Chute Boxe ที่โผล่ขึ้นมาในแผนที่อาสาสมัครหลังจากนั้นยี่สิบปี",
+  "how": "คำสั่งค้นสองชุดบน Overpass ชุดหนึ่งถามหาแท็ก `sport=muay_thai` และการสะกดแบบอื่น อีกชุดถามหาชื่อ อะไรก็ตามที่มีคำว่า muay, มวย, ムエタイ, 무에타이, муай, 泰拳, thaibox หรือ boxe thaï ประเทศได้จากการทดสอบจุดในรูปหลายเหลี่ยมกับ Natural Earth มาตราส่วน 1:50m ไม่ได้ถามเครื่องระบุพิกัด"
+ },
+ "kin": [
+  {
+   "to": "chiangmai",
+   "as": "Fourteen of them.",
+   "rel": "place"
+  },
+  {
+   "to": "the-roster",
+   "as": "The same exercise on people.",
+   "rel": "person"
+  },
+  {
+   "to": "buakaw",
+   "as": "One reason for the shape.",
+   "rel": "person"
+  },
+  {
+   "to": "mae-sariang-ring",
+   "as": "One of the eighteen stadiums.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:osm-gyms",
+  "s:taginfo",
+  "s:wp-muay-thai",
+  "s:naturalearth"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:osm-gyms"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted",
+  "abroad"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "the-gym-map/the-gym-map-pumphanmaunggyms.jpg",
+   "source": "commons",
+   "title": "File:Pumphanmaunggyms.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pumphanmaunggyms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APumphanmaunggyms.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Wonmerome",
+   "credit": "Own work",
+   "alt": "In side S. Pumphanmaung gym.",
+   "date": "2016-11-15",
+   "primary": true,
+   "sha256": "de5e04a92cdc5c9d039145d19c8b48f9cb32f1e066e492efa5643093f462ca4f"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "changpuek-vs-roufus",
+   "type": "bout",
+   "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+   "as": "What followed abroad."
+  },
+  {
+   "from": "buakaw",
+   "type": "person",
+   "name": "Buakaw Banchamek",
+   "as": "The export, counted."
+  },
+  {
+   "from": "the-roster",
+   "type": "person",
+   "name": "Who the record remembers",
+   "as": "The same exercise, on the map."
+  },
+  {
+   "from": "mae-sariang-ring",
+   "type": "venue",
+   "name": "The ring at Mae Sariang",
+   "as": "Where the count comes from."
+  },
+  {
+   "from": "choosing-a-gym",
+   "type": "gym",
+   "name": "What to ask before paying a month",
+   "as": "Where the places are."
+  },
+  {
+   "from": "what-we-did-not-do",
+   "type": "story",
+   "name": "What this site does not have",
+   "as": "The count that is short."
+  },
+  {
+   "from": "ww1-france",
+   "type": "story",
+   "name": "Thai troops in France, 1914–18",
+   "as": "Where it ended up."
+  },
+  {
+   "from": "chiangmai",
+   "type": "place",
+   "name": "Chiang Mai",
+   "as": "Where the count comes from."
+  },
+  {
+   "from": "ong-bak",
+   "type": "art",
+   "name": "Ong-Bak",
+   "as": "What it did to the count abroad."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": "the-roster",
+ "type": "person",
+ "names": {
+  "name": "Who the record remembers",
+  "th": "ใครที่บันทึกจำไว้",
+  "rtgs": "khrai thi banthuek cham wai",
+  "said": "1,186 people. 248 Thai. Five of those are women.",
+  "said_th": "1,186 คน เป็นคนไทย 248 คน ในจำนวนนั้นเป็นผู้หญิงห้าคน"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "A census of everyone Wikidata records as a Thai boxer by occupation. It is a fact about the encyclopedia, not about the sport, and the gap between the two is the reason to print it.",
+  "story": "Two cohorts came back, and the difference between them is the health warning. 1,186 people carry the occupation *Thai boxer*. Another 321 carry only the sport property — and sorted by how many Wikipedias hold an entry, the top of that second list is **Batman**.\n\nEven inside the occupation cohort the ranking is useless: Shaquille O'Neal, Donnie Yen and Joe Rogan all sit above every Thai fighter, because a sitelink count measures fame, and their fame is from elsewhere. So this project does not rank anybody off this data. It counts.\n\n**By country:** Thailand 248, the United States 111, the Netherlands 65, France 59, the United Kingdom 43, Brazil 37, Russia 35. Two hundred and fifty carry no nationality at all.\n\n**By decade of birth:** the 1980s peak at 419, then the 1990s at 250 and the 1970s at 222.\n\n**By gender:** 966 men, 179 women, one kathoey, one trans woman, 39 unstated. Of the 248 Thai, **five are women**.\n\n*Inference —* five is not a fact about Thai women who fight. Thailand's women's cards are full and its gyms are full. Five is a fact about who gets written up, and the same gap swallowed Apidej Sit Hirun, who has no English article at all."
+ },
+ "text_th": {
+  "what": "สำมะโนของทุกคนที่วิกิสนเทศบันทึกว่ามีอาชีพนักมวยไทย มันคือข้อเท็จจริงเกี่ยวกับสารานุกรม ไม่ใช่เกี่ยวกับกีฬา และช่องว่างระหว่างสองอย่างนั้นคือเหตุผลที่พิมพ์มันออกมา",
+  "story": "ข้อมูลที่ได้กลับมามีสองกลุ่ม และความต่างระหว่างสองกลุ่มคือคำเตือน 1,186 คนมีอาชีพระบุว่า *นักมวยไทย* อีก 321 คนมีเพียงคุณสมบัติด้านกีฬา และเมื่อเรียงตามจำนวนวิกิพีเดียที่มีบทความ ยอดของรายการที่สองคือ **แบทแมน**\n\nแม้ในกลุ่มที่ระบุอาชีพ การจัดอันดับก็ใช้ไม่ได้ ชาคีลล์ โอนีล เจิน จื่อตัน และโจ โรแกน อยู่เหนือนักมวยไทยทุกคน เพราะจำนวนลิงก์ข้ามภาษาวัดความดัง และความดังของพวกเขามาจากที่อื่น โครงการนี้จึงไม่จัดอันดับใครจากข้อมูลชุดนี้ มันนับ\n\n**ตามประเทศ** ไทย 248 สหรัฐอเมริกา 111 เนเธอร์แลนด์ 65 ฝรั่งเศส 59 สหราชอาณาจักร 43 บราซิล 37 รัสเซีย 35 อีกสองร้อยห้าสิบคนไม่มีสัญชาติระบุไว้เลย\n\n**ตามทศวรรษเกิด** ทศวรรษ 1980 สูงสุดที่ 419 ตามด้วยทศวรรษ 1990 ที่ 250 และทศวรรษ 1970 ที่ 222\n\n**ตามเพศ** ชาย 966 หญิง 179 กะเทยหนึ่ง หญิงข้ามเพศหนึ่ง ไม่ระบุ 39 ในจำนวนคนไทย 248 คน **เป็นผู้หญิงห้าคน**\n\n*อนุมาน —* ห้าไม่ใช่ข้อเท็จจริงเกี่ยวกับผู้หญิงไทยที่ชกมวย รายการมวยหญิงของไทยเต็ม และยิมของไทยก็เต็ม ห้าคือข้อเท็จจริงว่าใครได้ถูกเขียนถึง และช่องว่างเดียวกันนี้กลืนอภิเดช ศิษย์หิรัญ ที่ไม่มีบทความภาษาอังกฤษเลย"
+ },
+ "kin": [
+  {
+   "to": "women-in-the-ring",
+   "as": "What the five sit next to.",
+   "rel": "issue"
+  },
+  {
+   "to": "apidej",
+   "as": "Who is missing.",
+   "rel": "person"
+  },
+  {
+   "to": "the-gym-map",
+   "as": "The same exercise, on the map.",
+   "rel": "gym"
+  },
+  {
+   "to": "nongtoom",
+   "as": "The one the census files as kathoey.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:wikidata"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "harvested",
+   "source": "s:wikidata"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted",
+  "women",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "the-roster/the-roster-women-muay-thai.jpg",
+   "source": "commons",
+   "title": "File:Women muay thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Women_muay_thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWomen_muay_thai.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "ColbyOtero.com",
+   "credit": "https://www.flickr.com/photos/colbyotero/4258693673/",
+   "alt": "Women's muay thai match",
+   "date": "2010-01-09",
+   "primary": true,
+   "sha256": "c31d5ba65d1030f27affb0ded49815c237676e762a02db7068a1627302c2cbc8"
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "id": "sak-yant",
+ "type": "ritual",
+ "names": {
+  "name": "Sak yant",
+  "th": "สักยันต์",
+  "rtgs": "sak yan",
+  "said": "Prick the skin, hold the power. The ink is a device, not a picture.",
+  "said_th": "แทงผิวหนัง ตรึงอำนาจไว้ หมึกคืออุปกรณ์ ไม่ใช่ภาพ",
+  "aliases": [
+   "yantra tattooing",
+   "สักยันต์"
+  ]
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "always"
+ },
+ "text": {
+  "what": "A tattoo that is a working object: geometry and syllables in an old script, applied by a master, carrying protection, fortune, charisma or fear — and conditional on rules the bearer keeps afterwards.",
+  "story": "**Where it comes from.** The practice is dated to the Khmer Empire around the ninth century, resting on Mainland Southeast Asian animist tattooing that goes back far further, with the geometry taken from Indian yantras. It is Cambodian, Lao, Thai and Burmese, and it does not belong to one of them.\n\n**What the script tells you.** There is no single alphabet for this. In Cambodia, Khmer script. In central Thailand, **Khom** — the Khmer-derived script used there for Pali and for anything sacred. **In the north the yant is written in northern Thai, Shan or Tai Lu script**, and in Laos in Lao Tham. A yant done in Chiang Mai and a yant done in Nakhon Pathom are not written in the same letters. The alphabet on a person's back is a map of where their master's lineage is from, and it is the first thing to read.\n\n**Three kinds of effect**, in the article's own division: what benefits the bearer — eloquence, charm; what protects — warding off harm, which is why it is carried by soldiers, police, taxi drivers and anyone whose work is dangerous; and what acts on other people, including invoking fear.\n\n**And it is conditional.** The power holds only while the bearer keeps the rules and the taboos that came with it, which can include abstaining from a particular food. It also **fades with time**, which is why masters re-empower their disciples' tattoos once a year at Wai Khru.\n\n**In this sport.** A fighter's whole ritual kit is the same practice in different materials: the mongkhon blessed by a monk, the prajiat tied round the arm, the takrut rolled in metal, and the yant under the shirt. They carry the same syllables, from the same masters, for the same reasons. The difference is only whether the surface can be taken off.",
+  "how": "**The word.** *Sak* (สัก) is to prick, a native Khmer word from a Mon-Khmer root *cɔkʔ, to prick — not a Sanskrit loan. *Yant* is *yantra* (यन्त्र), from Sanskrit *yam*, to hold or sustain, plus *tra*, an instrument. A yantra is an instrument for holding something in place. The name says exactly what the thing is meant to do.\n\n**The needle.** A *khem sak* about eighteen inches long and four millimetres wide, the tip split so each strike puts down two dots. A typical design takes about **three thousand strikes**. The needle is dipped every thirty seconds into a mix of oil, Chinese charcoal ink, and — the account says possibly — snake venom.\n\n**The finish.** When the drawing is done the master blesses it and **blows a kata onto it**, and that is the step that makes it work. The ink without the breath is a drawing.",
+  "notes": "The photographs on this page and on the pages for gao yod and the rules were taken at **Sak Yant Chiang Mai**, where the ajarns welcome photography, and are used with their permission. They are published CC BY 4.0 like everything else here."
+ },
+ "text_th": {
+  "what": "รอยสักที่เป็นวัตถุใช้งาน ลายเรขาคณิตและอักขระในอักษรโบราณ ครูสักให้ ถือความคุ้มครอง โชค เสน่ห์ หรือความน่าเกรงขาม และมีเงื่อนไขคือข้อห้ามที่ผู้สักต้องถือต่อไป",
+  "story": "**มาจากไหน** แนวปฏิบัตินี้กำหนดอายุไว้ที่จักรวรรดิเขมรราวศตวรรษที่เก้า วางอยู่บนการสักแบบผีของแผ่นดินใหญ่เอเชียตะวันออกเฉียงใต้ที่เก่ากว่านั้นมาก โดยรับลายเรขาคณิตมาจากยันตระของอินเดีย มันเป็นของเขมร ลาว ไทย และพม่า และไม่ได้เป็นของชาติใดชาติเดียว\n\n**อักษรบอกอะไร** เรื่องนี้ไม่มีอักษรชุดเดียว ในกัมพูชาใช้อักษรเขมร ในภาคกลางของไทยใช้ **อักษรขอม** อักษรที่แตกจากเขมรซึ่งใช้ที่นั่นสำหรับบาลีและสิ่งศักดิ์สิทธิ์ **ทางเหนือ ยันต์เขียนด้วยอักษรธรรมล้านนา อักษรไทใหญ่ หรืออักษรไทลื้อ** ส่วนในลาวใช้อักษรธรรมลาว ยันต์ที่สักในเชียงใหม่กับยันต์ที่สักในนครปฐมไม่ได้เขียนด้วยตัวอักษรชุดเดียวกัน ตัวอักษรบนหลังคนหนึ่งคือแผนที่ว่าสายครูของเขามาจากไหน และเป็นสิ่งแรกที่ควรอ่าน\n\n**ผลสามแบบ** ตามที่บทความแบ่งไว้ แบบที่เป็นคุณแก่ผู้สักเอง เช่น วาจาดี เสน่ห์ แบบที่คุ้มครอง กันภัย ซึ่งเป็นเหตุที่ทหาร ตำรวจ คนขับแท็กซี่ และคนที่ทำงานอันตรายพกไว้ และแบบที่ออกฤทธิ์กับคนรอบข้าง รวมถึงทำให้เกิดความเกรงกลัว\n\n**และมันมีเงื่อนไข** อำนาจคงอยู่ตราบที่ผู้สักถือข้อห้ามที่ติดมากับมัน ซึ่งอาจรวมถึงการงดอาหารบางอย่าง และมัน **จางลงตามเวลา** จึงเป็นเหตุที่ครูเสกซ้ำให้ศิษย์ปีละครั้งในวันไหว้ครู\n\n**ในกีฬานี้** ของประจำตัวเชิงพิธีของนักมวยทั้งชุดคือแนวปฏิบัติเดียวกันในวัสดุต่างกัน มงคลที่พระปลุกเสก ประเจียดที่ผูกรอบแขน ตะกรุดที่ม้วนในแผ่นโลหะ และยันต์ใต้เสื้อ ทั้งหมดถืออักขระชุดเดียวกัน จากครูสายเดียวกัน ด้วยเหตุผลเดียวกัน ต่างกันแค่ว่าพื้นผิวนั้นถอดออกได้หรือไม่",
+  "how": "**คำ** *สัก* เป็นคำเขมรแท้ จากรากมอญ-เขมร *cɔkʔ ที่แปลว่าแทง ไม่ใช่คำยืมสันสกฤต *ยันต์* คือ *ยนฺตฺร* จากสันสกฤต *ยมฺ* ที่แปลว่าตรึงหรือค้ำไว้ บวก *ตฺร* ที่แปลว่าเครื่องมือ ยันต์จึงคือเครื่องมือสำหรับตรึงบางอย่างไว้กับที่ ชื่อของมันบอกตรง ๆ ว่ามันมีไว้ทำอะไร\n\n**เข็ม** เข็มสักยาวราวสิบแปดนิ้ว กว้างราวสี่มิลลิเมตร ปลายผ่าสองแฉก แต่ละครั้งที่แทงจึงลงหมึกสองจุด ลายหนึ่งใช้การแทงราว **สามพันครั้ง** จุ่มหมึกทุกสามสิบวินาที หมึกเป็นส่วนผสมของน้ำมัน หมึกถ่านจีน และ — ตามคำบอกเล่า อาจมี — พิษงู\n\n**ขั้นจบ** เมื่อวาดเสร็จ ครูจะเสกและ **เป่าคาถาลงไป** และนั่นคือขั้นที่ทำให้มันทำงาน หมึกที่ไม่มีลมหายใจคือภาพวาด",
+  "notes": "ภาพถ่ายในหน้านี้ รวมถึงหน้าเก้ายอดและหน้าข้อห้าม ถ่ายที่ **สักยันต์เชียงใหม่** ซึ่งอาจารย์ยินดีให้ถ่ายภาพ และใช้โดยได้รับอนุญาตจากท่าน เผยแพร่ภายใต้ CC BY 4.0 เช่นเดียวกับทุกอย่างบนเว็บนี้"
+ },
+ "kin": [
+  {
+   "to": "wat-bang-phra",
+   "as": "The one outsiders have heard of.",
+   "rel": "venue"
+  },
+  {
+   "to": "gao-yod",
+   "as": "The first one, almost always.",
+   "rel": "ritual"
+  },
+  {
+   "to": "suea-phen",
+   "as": "The one fighters are known for.",
+   "rel": "ritual"
+  },
+  {
+   "to": "khom-script",
+   "as": "The central Thai script for it. The north uses its own.",
+   "rel": "term"
+  },
+  {
+   "to": "kho-ham",
+   "as": "What keeps it working.",
+   "rel": "ritual"
+  },
+  {
+   "to": "takrut",
+   "as": "The same thing, in metal.",
+   "rel": "kit"
+  },
+  {
+   "to": "mongkhon",
+   "as": "The same thing, on cord.",
+   "rel": "ritual"
+  },
+  {
+   "to": "prajiat",
+   "as": "The same thing, on cloth.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra-tattooing",
+  "s:wp-wat-bang-phra",
+  "s:wp-khom-thai-script",
+  "s:wp-tai-tham-script"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ritual",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "sak-yant/sak-yant-own-01.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "A yant finished on the nape of the neck, at Sak Yant Chiang Mai.",
+   "primary": true,
+   "sha256": "4e5d29f6fff34dce14dbd458ea73ce12202967d9f0e5e34e0682d10d82d39d0b"
+  },
+  {
+   "file": "sak-yant/sak-yant-own-02.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "The ajarn at work with the long needle, at Sak Yant Chiang Mai.",
+   "primary": false,
+   "sha256": "9e56c4a5096ee92f27fa7fb077bb06b12eb9ab6e712df05501dd37e57903bbcf"
+  },
+  {
+   "file": "sak-yant/sak-yant-own-03.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "The template inked and pressed onto the back before the work starts, at Sak Yant Chiang Mai.",
+   "primary": false,
+   "sha256": "6adfeeef9a061252d6fe4e3826843a7884562aebe89ea67b56cdd7ea79de0e1d"
+  },
+  {
+   "file": "sak-yant/sak-yant-own-04.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "Two finished backs in front of the shrine, at Sak Yant Chiang Mai.",
+   "primary": false,
+   "sha256": "89fc45a067ed0d4aeac4b126fb6879d846d8722d5bd64c4c01a7e43ef8d0bd3b"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "gao-yod",
+   "type": "ritual",
+   "name": "Gao yod, the nine spires",
+   "as": "The practice."
+  },
+  {
+   "from": "kho-ham",
+   "type": "ritual",
+   "name": "The rules that come with it",
+   "as": "The practice."
+  },
+  {
+   "from": "mongkhon",
+   "type": "ritual",
+   "name": "The mongkhon",
+   "as": "The one that cannot be taken off."
+  },
+  {
+   "from": "prajiat",
+   "type": "ritual",
+   "name": "The armbands",
+   "as": "The same yantra, on skin."
+  },
+  {
+   "from": "suea-phen",
+   "type": "ritual",
+   "name": "Suea phen, the leaping tiger",
+   "as": "The practice."
+  },
+  {
+   "from": "wat-bang-phra",
+   "type": "venue",
+   "name": "Wat Bang Phra",
+   "as": "The practice."
+  },
+  {
+   "from": "takrut",
+   "type": "kit",
+   "name": "Takrut",
+   "as": "The same thing on skin."
+  },
+  {
+   "from": "khom-script",
+   "type": "term",
+   "name": "Khom, and the scripts it is not",
+   "as": "What it writes."
+  }
+ ]
+}

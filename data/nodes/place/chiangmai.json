@@ -1,0 +1,78 @@
+{
+ "id": "chiangmai",
+ "type": "place",
+ "names": {
+  "name": "Chiang Mai",
+  "th": "เชียงใหม่",
+  "rtgs": "chiang mai",
+  "said": "Fourteen places to train on the map, in a city of two hundred thousand.",
+  "said_th": "สิบสี่แห่งบนแผนที่ที่ฝึกได้ ในเมืองที่มีคนสองแสน"
+ },
+ "region": [
+  "north"
+ ],
+ "facets": {
+  "region": "the north"
+ },
+ "text": {
+  "what": "The northern city, and the densest cluster of foreigner-facing gyms outside Phuket.",
+  "story": "The harvest found fourteen rows inside the Chiang Mai basin: gyms, camps, one shop selling Twins and Fairtex kit, and a stadium in town. Those are places OpenStreetMap knows about, not a ranking and not a complete list — a gym nobody has mapped is missing from this and present in the city.\n\n*Inference —* the city is a training destination rather than a fighting one. The cards here are small, the gyms are full, and most of the people in them arrived on a thirty-day stamp."
+ },
+ "text_th": {
+  "what": "เมืองทางเหนือ และเป็นกลุ่มยิมที่รับคนต่างชาติหนาแน่นที่สุดรองจากภูเก็ต",
+  "story": "การเก็บข้อมูลพบสิบสี่แถวในแอ่งเชียงใหม่ ทั้งยิม ค่าย ร้านขายอุปกรณ์ Twins กับ Fairtex หนึ่งร้าน และเวทีในเมืองหนึ่งแห่ง นั่นคือที่ที่ OpenStreetMap รู้จัก ไม่ใช่การจัดอันดับและไม่ใช่รายการที่ครบ ยิมที่ไม่มีใครลงแผนที่จะหายไปจากตรงนี้ และยังอยู่ในเมือง\n\n*อนุมาน —* เมืองนี้เป็นจุดหมายของการฝึก มากกว่าจุดหมายของการชก รายการที่นี่เล็ก ยิมเต็ม และคนส่วนใหญ่ในนั้นมาถึงด้วยตราประทับสามสิบวัน"
+ },
+ "kin": [
+  {
+   "to": "the-gym-map",
+   "as": "Where the count comes from.",
+   "rel": "gym"
+  },
+  {
+   "to": "choosing-a-gym",
+   "as": "What to ask before paying a month.",
+   "rel": "gym"
+  }
+ ],
+ "geo": {
+  "lat": 18.7883,
+  "lon": 98.9853,
+  "precision": "town"
+ },
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "chiangmai/chiangmai-muay-thai-in-lamai.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai in Lamai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Muay_Thai_in_Lamai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_in_Lamai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Muay Thai in Lamai, Ko Samui.",
+   "date": "2018-06-09 22:45:21",
+   "primary": true,
+   "sha256": "b464b8d95c3f3782ac2719c23584cc4e984db84cd1743a31c67a3ddf0b619e05"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "chok",
+ "type": "term",
+ "names": {
+  "name": "chok",
+  "th": "ชก",
+  "rtgs": "chok",
+  "said": "Punch."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "corner"
+ },
+ "text": {
+  "what": "What the corner shouts when it wants hands.",
+  "story": "*Chok* is the verb for punching and also the general verb for having a fight — *chok muay*, to box. The corner shouting it is asking for the lowest-scoring weapon, which usually means they want you to close distance rather than to win the round with it."
+ },
+ "text_th": {
+  "what": "คำที่มุมตะโกนเมื่ออยากให้ออกหมัด",
+  "story": "*ชก* เป็นคำกริยาของการออกหมัด และเป็นคำกริยาทั่วไปของการชกมวยด้วย คือ *ชกมวย* มุมที่ตะโกนคำนี้กำลังขออาวุธที่ได้คะแนนน้อยที่สุด ซึ่งมักแปลว่าเขาอยากให้คุณเข้าระยะ ไม่ใช่ให้ชนะยกด้วยมัน"
+ },
+ "kin": [
+  {
+   "to": "fist",
+   "as": "The weapon.",
+   "rel": "weapon"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Thai ชก — to punch",
+  "tier": "cited",
+  "source": "s:thwp-มวยไทย"
+ },
+ "kin_in": []
+}

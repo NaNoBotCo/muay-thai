@@ -1,0 +1,56 @@
+{
+ "id": "ww1-france",
+ "type": "story",
+ "names": {
+  "name": "Thai troops in France, 1914–18",
+  "th": "ทหารไทยในฝรั่งเศส",
+  "rtgs": "thahan thai nai farangset",
+  "said": "A German magazine reviewed it in 1918 and called Siam remarkable.",
+  "said_th": "นิตยสารเยอรมันเขียนถึงมันในปี 2461 และเรียกสยามว่าน่าทึ่ง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ring"
+ },
+ "text": {
+  "what": "Thailand sent troops to France with the allies, and they taught what they knew. The English article records this as the route by which the word reached Europe.",
+  "story": "*Le Sport Orient*, published in Mainz, is quoted: the boxers are agile, strong and tough; the sport is hard to get to see; and \"once again, it makes the French feel that Siam is one of the truly remarkable nations of Asia.\"\n\n*Inference —* so the first foreign audience for muay thai was a European one, in a war, twenty years before the two Bangkok stadiums existed. The export is older than the domestic institution."
+ },
+ "text_th": {
+  "what": "ไทยส่งทหารไปฝรั่งเศสร่วมกับฝ่ายสัมพันธมิตร และพวกเขาสอนสิ่งที่ตัวเองรู้ บทความภาษาอังกฤษบันทึกว่านี่คือเส้นทางที่คำนี้เดินทางถึงยุโรป",
+  "story": "นิตยสาร *Le Sport Orient* ตีพิมพ์ที่ไมนซ์ ถูกยกมาว่า นักมวยคล่องแคล่ว แข็งแรง และทนทาน กีฬานี้หาดูได้ยาก และ \"อีกครั้งหนึ่ง มันทำให้ชาวฝรั่งเศสรู้สึกว่าสยามเป็นหนึ่งในชาติที่น่าทึ่งของเอเชีย\"\n\n*อนุมาน —* ผู้ชมต่างชาติกลุ่มแรกของมวยไทยจึงเป็นชาวยุโรป ในสงคราม ยี่สิบปีก่อนที่สนามมวยสองแห่งในกรุงเทพฯ จะมีอยู่ การส่งออกเก่ากว่าสถาบันในประเทศ"
+ },
+ "kin": [
+  {
+   "to": "first-ring",
+   "as": "What was happening at home.",
+   "rel": "story"
+  },
+  {
+   "to": "the-gym-map",
+   "as": "Where it ended up.",
+   "rel": "gym"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": []
+}

@@ -1,0 +1,81 @@
+{
+ "id": "takrut",
+ "type": "kit",
+ "names": {
+  "name": "Takrut",
+  "th": "ตะกรุด",
+  "rtgs": "takrut",
+  "said": "The same yant, rolled in metal, worn at the waist.",
+  "said_th": "ยันต์เดียวกัน ม้วนในแผ่นโลหะ คาดไว้ที่เอว"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "always"
+ },
+ "text": {
+  "what": "A sheet of metal — often copper, sometimes lead, silver or gold — inscribed with a yantra and rolled into a tube, then bound with cord and worn on the body.",
+  "story": "The same syllables in the same script as a tattoo, on a surface that can be taken off, given away or buried. Thai accounts of amulets list the takrut among the things a warrior carried into battle before the moulded Buddha image took over that job — alongside the prajiat.\n\n*Inference —* the family is what matters. Yant on skin, yant on cloth at the arm, yant in metal at the waist, yant braided into the cord on the head. A fighter walking to the ring is usually wearing three of the four, and they are one practice, not four superstitions."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะ มักเป็นทองแดง บางครั้งเป็นตะกั่ว เงิน หรือทอง จารยันต์ลงไปแล้วม้วนเป็นหลอด ถักเชือกแล้วคาดไว้กับตัว",
+  "story": "อักขระชุดเดียวกันในอักษรเดียวกับรอยสัก บนพื้นผิวที่ถอดออก ให้คนอื่น หรือฝังได้ ตำราไทยเรื่องพระเครื่องระบุตะกรุดไว้ในบรรดาสิ่งที่นักรบพกเข้าสนามรบ ก่อนที่พระพิมพ์จะมารับหน้าที่นั้นไป โดยระบุคู่กับประเจียด\n\n*อนุมาน —* สิ่งที่สำคัญคือความเป็นตระกูลเดียวกัน ยันต์บนผิว ยันต์บนผ้าที่แขน ยันต์ในโลหะที่เอว ยันต์ที่ถักอยู่ในวงด้ายบนหัว นักมวยที่เดินไปเวทีมักสวมอยู่สามในสี่อย่าง และทั้งหมดเป็นแนวปฏิบัติเดียว ไม่ใช่ความเชื่อสี่อย่าง"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "The same thing on skin.",
+   "rel": "ritual"
+  },
+  {
+   "to": "prajiat",
+   "as": "The same thing on cloth.",
+   "rel": "ritual"
+  },
+  {
+   "to": "mongkhon",
+   "as": "The same thing on cord.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:wp-takrut",
+  "s:wp-thai-buddha-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ritual"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "takrut/takrut-yan-takrut-thai-19th-century-yantra-and-amulet-manuscript.png",
+   "source": "commons",
+   "title": "File:Yan Takrut (ยันต์ตะกรุด) - Thai 19th century yantra and amulet manuscript.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Yan_Takrut_%28%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%29_-_Thai_19th_century_yantra_and_amulet_manuscript.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AYan_Takrut_%28%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%29_-_Thai_19th_century_yantra_and_amulet_manuscript.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "19th century artist",
+   "credit": "Part of the digitalized manuscript in the Manuscripts of Western Thailand Database - Princess Maha Chakri Sirindhorn Anthropology Centre [2]",
+   "alt": "Part of a Thai folding book (identifier NPT-004-011) at Wat Lam Phaya Folk Floating Market Museum, Nakhon Pathom. According to Jana Igunma (3 November 2016), Thai local knowledge: The long hidden wisd",
+   "date": "19th century",
+   "primary": true,
+   "sha256": "b672b558fc5e300c0fc1ccecd175cbf46684d70e9cfb738f1c69bdc7c41717a6"
+  }
+ ]
+}

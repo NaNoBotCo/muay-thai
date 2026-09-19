@@ -1,0 +1,209 @@
+{
+ "note": "Open list. A facet is a fact the site groups, filters and colours by. Values not listed here are warned about, not refused.",
+ "facets": {
+  "range": {
+   "label": "Range",
+   "th": "ระยะ",
+   "values": {
+    "long": "Long — the kick and the teep own this distance",
+    "mid": "Mid — punches and the round kick",
+    "close": "Close — elbows, and the clinch that makes them possible",
+    "any": "Any range"
+   },
+   "types": [
+    "weapon",
+    "move",
+    "drill"
+   ]
+  },
+  "set": {
+   "label": "Which list",
+   "th": "อยู่ในชุดใด",
+   "values": {
+    "mae-mai": "แม่ไม้ — one of the fifteen mother techniques",
+    "luk-mai": "ลูกไม้ — one of the fifteen that come after",
+    "everyday": "Not on any list, and thrown in every fight",
+    "regional": "Named by one school only"
+   },
+   "types": [
+    "move"
+   ]
+  },
+  "era": {
+   "label": "When",
+   "th": "ยุค",
+   "values": {
+    "ayutthaya": "Before 1767 — the Ayutthaya period",
+    "rope": "1780s–1929 — bare fists and hemp rope",
+    "ring": "1921–1945 — the ring, the rounds, the gloves",
+    "golden": "1980s–1990s — the golden era",
+    "now": "Since 2000 — television, tourism and the global circuit"
+   },
+   "types": [
+    "story",
+    "person",
+    "style",
+    "kit",
+    "bout"
+   ]
+  },
+  "worn": {
+   "label": "Worn",
+   "th": "สวมเมื่อใด",
+   "values": {
+    "ring": "Into the ring, and taken off before the first bell",
+    "fight": "Worn through the fight",
+    "always": "Carried or worn outside the ring too",
+    "never": "Not worn — done"
+   },
+   "types": [
+    "ritual",
+    "kit"
+   ]
+  },
+  "instrument": {
+   "label": "Instrument",
+   "th": "เครื่องดนตรี",
+   "values": {
+    "wind": "Wind",
+    "drum": "Drum",
+    "time": "Time-keeper",
+    "ensemble": "The whole band"
+   },
+   "types": [
+    "music"
+   ]
+  },
+  "city": {
+   "label": "City",
+   "th": "เมือง",
+   "values": {
+    "bangkok": "Bangkok",
+    "chiangmai": "Chiang Mai",
+    "phuket": "Phuket",
+    "province": "Up-country",
+    "abroad": "Outside Thailand"
+   },
+   "types": [
+    "venue",
+    "gym"
+   ]
+  },
+  "part": {
+   "label": "Part of the session",
+   "th": "ช่วงการฝึก",
+   "values": {
+    "road": "Roadwork",
+    "shadow": "Shadow",
+    "bag": "Bag",
+    "pads": "Pads",
+    "clinch": "Clinch",
+    "spar": "Sparring",
+    "after": "After"
+   },
+   "types": [
+    "drill"
+   ]
+  },
+  "body": {
+   "label": "What it governs",
+   "th": "ควบคุมอะไร",
+   "values": {
+    "scoring": "Scoring",
+    "safety": "Safety",
+    "weight": "Weight and age",
+    "conduct": "Conduct",
+    "betting": "Betting"
+   },
+   "types": [
+    "rule"
+   ]
+  },
+  "status": {
+   "label": "Where it stands",
+   "th": "สถานะ",
+   "values": {
+    "law": "Settled in law, argued in practice",
+    "contested": "Genuinely contested",
+    "changing": "Changing now",
+    "unmeasured": "Not measured well enough to settle"
+   },
+   "types": [
+    "issue"
+   ]
+  },
+  "domain": {
+   "label": "Heard where",
+   "th": "ได้ยินที่ไหน",
+   "values": {
+    "corner": "From the corner",
+    "ring": "In the ring",
+    "crowd": "From the crowd",
+    "gym": "In the gym",
+    "card": "On the card"
+   },
+   "types": [
+    "term"
+   ]
+  },
+  "medium": {
+   "label": "Medium",
+   "th": "สื่อ",
+   "values": {
+    "film": "Film",
+    "music": "Music",
+    "sculpture": "Sculpture",
+    "painting": "Painting",
+    "text": "Text"
+   },
+   "types": [
+    "art"
+   ]
+  },
+  "scope": {
+   "label": "Reach",
+   "th": "ขอบเขต",
+   "values": {
+    "thai": "Thailand",
+    "world": "International",
+    "promotion": "A promotion, not a federation"
+   },
+   "types": [
+    "org"
+   ]
+  },
+  "country": {
+   "label": "Country",
+   "th": "ประเทศ",
+   "values": {},
+   "types": [
+    "gym"
+   ]
+  },
+  "region": {
+   "label": "Region",
+   "th": "ภูมิภาค",
+   "values": {},
+   "types": [
+    "place"
+   ]
+  },
+  "price": {
+   "label": "Price",
+   "th": "ราคา",
+   "values": {
+    "free": "Free",
+    "cheap": "Under 500 baht",
+    "mid": "500–2,000 baht",
+    "high": "Over 2,000 baht",
+    "varies": "Varies"
+   },
+   "types": [
+    "venue",
+    "gym",
+    "kit",
+    "drill"
+   ]
+  }
+ }
+}

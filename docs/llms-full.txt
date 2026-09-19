@@ -1,0 +1,3624 @@
+# Muay Thai
+
+> The eight limbs, the thirty named techniques, and 527 places to train on the map
+
+Made by hongdam.net, a bilingual web studio in Chiang Rai.
+
+129 records, bilingual English and Thai, every claim tiered and sourced. Built 2026-09-19 19:42.
+
+## Findings
+- The thirty named techniques of the muay thai curriculum: 29 of 30 are named after a picture rather than a movement, and 14 name a figure from the Ramakien or its Hindu antecedents. Counted off Thai Wikipedia at revision 13177866; the classification is this project's and the full table is printed at /names/.
+- OpenStreetMap holds 527 places to train muay thai in 58 countries. 252 of them were found only by name: the sport's own tag, sport=muay_thai, is used fewer than fifty times worldwide. A published figure puts overseas gyms above 3,800, so the map is a floor.
+- Wikidata records 1186 people as Thai boxers. 248 are Thai and 5 of those are women. That is a measurement of who gets written about, not of who fights.
+
+## Pages
+- [Muay Thai](https://nanobotco.github.io/muay-thai/)
+- [Eight limbs](https://nanobotco.github.io/muay-thai/limbs/)
+- [The names](https://nanobotco.github.io/muay-thai/names/)
+- [Schools](https://nanobotco.github.io/muay-thai/schools/)
+- [Ceremony](https://nanobotco.github.io/muay-thai/ceremony/)
+- [Watching](https://nanobotco.github.io/muay-thai/watch/)
+- [Training](https://nanobotco.github.io/muay-thai/training/)
+- [History](https://nanobotco.github.io/muay-thai/history/)
+- [Gyms](https://nanobotco.github.io/muay-thai/gyms/)
+- [People](https://nanobotco.github.io/muay-thai/people/)
+- [Numbers](https://nanobotco.github.io/muay-thai/numbers/)
+- [Words](https://nanobotco.github.io/muay-thai/words/)
+- [Everything](https://nanobotco.github.io/muay-thai/all/)
+- [How this was made](https://nanobotco.github.io/muay-thai/about/)
+- [API](https://nanobotco.github.io/muay-thai/api/)
+
+## Data
+- [nodes.json](https://nanobotco.github.io/muay-thai/api/nodes.json) — every record
+- [curriculum.json](https://nanobotco.github.io/muay-thai/api/curriculum.json) — the thirty names
+- [gyms.json](https://nanobotco.github.io/muay-thai/api/gyms.json) — the harvest, with its queries
+- [roster.json](https://nanobotco.github.io/muay-thai/api/roster.json) — the Wikidata census
+- [nodes.jsonl](https://nanobotco.github.io/muay-thai/nodes.jsonl) · [nodes.csv](https://nanobotco.github.io/muay-thai/nodes.csv)
+
+## Licence
+Records CC BY 4.0. Harvested rows keep their own licences: OpenStreetMap ODbL 1.0, Wikidata CC0, Wikipedia CC BY-SA 4.0, Commons per file.
+
+#
+#
+ 
+E
+l
+s
+e
+w
+h
+e
+r
+e
+ 
+f
+r
+o
+m
+ 
+t
+h
+e
+ 
+s
+a
+m
+e
+ 
+p
+u
+b
+l
+i
+s
+h
+e
+r
+
+
+
+
+-
+ 
+[
+M
+o
+t
+ 
+D
+a
+n
+g
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+m
+o
+t
+d
+a
+n
+g
+.
+n
+e
+t
+/
+)
+:
+ 
+c
+i
+t
+y
+ 
+d
+i
+r
+e
+c
+t
+o
+r
+y
+ 
+f
+o
+r
+ 
+C
+h
+i
+a
+n
+g
+ 
+M
+a
+i
+ 
+a
+n
+d
+ 
+C
+h
+i
+a
+n
+g
+ 
+R
+a
+i
+
+
+-
+ 
+[
+T
+h
+e
+ 
+M
+a
+e
+ 
+H
+o
+n
+g
+ 
+S
+o
+n
+ 
+L
+o
+o
+p
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+m
+a
+e
+-
+h
+o
+n
+g
+-
+s
+o
+n
+-
+l
+o
+o
+p
+/
+)
+:
+ 
+m
+o
+t
+o
+r
+c
+y
+c
+l
+i
+n
+g
+ 
+t
+h
+e
+ 
+6
+0
+0
+ 
+k
+m
+ 
+l
+o
+o
+p
+ 
+o
+u
+t
+ 
+o
+f
+ 
+C
+h
+i
+a
+n
+g
+ 
+M
+a
+i
+ 
+—
+ 
+c
+u
+r
+v
+e
+s
+ 
+c
+o
+u
+n
+t
+e
+d
+,
+ 
+a
+i
+r
+ 
+m
+e
+a
+s
+u
+r
+e
+d
+
+
+-
+ 
+[
+w
+i
+c
+h
+a
+a
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+w
+i
+c
+h
+a
+a
+.
+n
+e
+t
+/
+)
+:
+ 
+L
+a
+n
+n
+a
+ 
+m
+a
+n
+u
+s
+c
+r
+i
+p
+t
+s
+,
+ 
+t
+h
+e
+ 
+a
+m
+u
+l
+e
+t
+ 
+m
+a
+r
+k
+e
+t
+,
+ 
+a
+n
+d
+ 
+t
+h
+e
+ 
+t
+r
+a
+d
+i
+t
+i
+o
+n
+s
+ 
+a
+r
+o
+u
+n
+d
+ 
+t
+h
+e
+m
+
+
+-
+ 
+[
+A
+m
+u
+l
+e
+t
+ 
+A
+t
+l
+a
+s
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+a
+m
+u
+l
+e
+t
+-
+a
+t
+l
+a
+s
+/
+)
+:
+ 
+a
+m
+u
+l
+e
+t
+s
+,
+ 
+c
+h
+a
+r
+m
+s
+ 
+a
+n
+d
+ 
+t
+a
+l
+i
+s
+m
+a
+n
+s
+ 
+w
+o
+r
+l
+d
+w
+i
+d
+e
+
+
+-
+ 
+[
+C
+a
+r
+o
+l
+i
+n
+a
+ 
+B
+a
+r
+b
+e
+c
+u
+e
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+c
+a
+r
+o
+l
+i
+n
+a
+-
+b
+a
+r
+b
+e
+c
+u
+e
+/
+)
+:
+ 
+b
+a
+r
+b
+e
+c
+u
+e
+ 
+i
+n
+ 
+N
+o
+r
+t
+h
+ 
+a
+n
+d
+ 
+S
+o
+u
+t
+h
+ 
+C
+a
+r
+o
+l
+i
+n
+a
+
+
+-
+ 
+[
+W
+i
+n
+g
+ 
+C
+o
+u
+n
+t
+r
+y
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+b
+u
+f
+f
+a
+l
+o
+-
+w
+i
+n
+g
+s
+/
+)
+:
+ 
+t
+h
+e
+ 
+A
+m
+e
+r
+i
+c
+a
+n
+ 
+c
+h
+i
+c
+k
+e
+n
+ 
+w
+i
+n
+g
+
+
+-
+ 
+[
+P
+i
+n
+k
+ 
+B
+o
+x
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+p
+i
+n
+k
+-
+b
+o
+x
+/
+)
+:
+ 
+t
+h
+e
+ 
+A
+m
+e
+r
+i
+c
+a
+n
+ 
+m
+o
+m
+-
+a
+n
+d
+-
+p
+o
+p
+ 
+d
+o
+n
+u
+t
+ 
+s
+h
+o
+p
+
+
+-
+ 
+[
+B
+a
+s
+q
+u
+e
+ 
+T
+a
+b
+l
+e
+s
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+b
+a
+s
+q
+u
+e
+-
+t
+a
+b
+l
+e
+s
+/
+)
+:
+ 
+B
+a
+s
+q
+u
+e
+ 
+d
+i
+n
+i
+n
+g
+ 
+r
+o
+o
+m
+s
+ 
+o
+f
+ 
+C
+a
+l
+i
+f
+o
+r
+n
+i
+a
+,
+ 
+N
+e
+v
+a
+d
+a
+ 
+a
+n
+d
+ 
+I
+d
+a
+h
+o
+
+
+-
+ 
+[
+P
+i
+n
+o
+t
+ 
+C
+o
+u
+n
+t
+r
+y
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+p
+i
+n
+o
+t
+-
+n
+o
+i
+r
+/
+)
+:
+ 
+p
+i
+n
+o
+t
+ 
+n
+o
+i
+r
+:
+ 
+t
+h
+e
+ 
+v
+i
+n
+e
+,
+ 
+t
+h
+e
+ 
+r
+e
+g
+i
+o
+n
+s
+,
+ 
+t
+h
+e
+ 
+c
+e
+l
+l
+a
+r
+s
+
+
+-
+ 
+[
+C
+a
+r
+e
+ 
+A
+b
+r
+o
+a
+d
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+c
+a
+r
+e
+-
+a
+b
+r
+o
+a
+d
+/
+)
+:
+ 
+t
+r
+e
+a
+t
+m
+e
+n
+t
+ 
+a
+c
+r
+o
+s
+s
+ 
+b
+o
+r
+d
+e
+r
+s
+,
+ 
+w
+i
+t
+h
+ 
+p
+u
+b
+l
+i
+s
+h
+e
+d
+ 
+p
+r
+i
+c
+e
+s
+ 
+a
+n
+d
+ 
+t
+h
+e
+i
+r
+ 
+d
+a
+t
+e
+s
+
+
+-
+ 
+[
+T
+h
+a
+i
+ 
+R
+o
+o
+t
+s
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+t
+h
+a
+i
+r
+o
+o
+t
+s
+/
+)
+:
+ 
+a
+ 
+r
+o
+o
+t
+ 
+d
+i
+c
+t
+i
+o
+n
+a
+r
+y
+ 
+o
+f
+ 
+T
+h
+a
+i
+,
+ 
+w
+i
+t
+h
+ 
+a
+ 
+w
+o
+r
+d
+ 
+d
+e
+c
+o
+m
+p
+o
+s
+e
+r
+
+
+-
+ 
+[
+T
+h
+e
+ 
+i
+n
+d
+e
+x
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+i
+n
+d
+e
+x
+/
+)
+:
+ 
+e
+v
+e
+r
+y
+ 
+c
+o
+r
+p
+u
+s
+,
+ 
+s
+i
+t
+e
+ 
+a
+n
+d
+ 
+r
+e
+p
+o
+s
+i
+t
+o
+r
+y
+,
+ 
+c
+o
+u
+n
+t
+e
+d
+
+
+-
+ 
+[
+U
+p
+t
+a
+k
+e
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+u
+p
+t
+a
+k
+e
+/
+)
+:
+ 
+a
+ 
+f
+i
+e
+l
+d
+ 
+m
+a
+n
+u
+a
+l
+ 
+o
+n
+ 
+p
+u
+b
+l
+i
+s
+h
+i
+n
+g
+ 
+f
+o
+r
+ 
+m
+a
+c
+h
+i
+n
+e
+s
+ 
+t
+h
+a
+t
+ 
+c
+o
+p
+y
+
+
+-
+ 
+[
+N
+a
+N
+o
+B
+o
+t
+C
+o
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+)
+:
+ 
+t
+h
+e
+ 
+p
+o
+r
+t
+a
+l
+
+
+-
+ 
+[
+A
+s
+k
+ 
+M
+o
+t
+ 
+D
+a
+n
+g
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+a
+s
+k
+.
+m
+o
+t
+d
+a
+n
+g
+.
+n
+e
+t
+/
+)
+:
+ 
+r
+e
+a
+d
+e
+r
+ 
+a
+s
+s
+i
+s
+t
+a
+n
+t
+ 
+o
+v
+e
+r
+ 
+t
+h
+e
+ 
+d
+i
+r
+e
+c
+t
+o
+r
+y
+
+
+-
+ 
+[
+a
+i
+.
+m
+o
+t
+d
+a
+n
+g
+.
+n
+e
+t
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+a
+i
+.
+m
+o
+t
+d
+a
+n
+g
+.
+n
+e
+t
+/
+)
+:
+ 
+w
+h
+i
+t
+e
+-
+l
+a
+b
+e
+l
+ 
+a
+s
+s
+i
+s
+t
+a
+n
+t
+s
+,
+ 
+b
+y
+ 
+s
+e
+a
+t
+
+
+-
+ 
+[
+D
+e
+f
+i
+a
+n
+t
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+d
+e
+f
+i
+a
+n
+t
+.
+t
+o
+/
+)
+:
+ 
+m
+e
+d
+i
+c
+a
+l
+ 
+a
+n
+d
+ 
+d
+e
+n
+t
+a
+l
+ 
+c
+a
+r
+e
+ 
+i
+n
+ 
+C
+h
+i
+a
+n
+g
+ 
+M
+a
+i
+,
+ 
+w
+i
+t
+h
+ 
+a
+ 
+t
+r
+a
+n
+s
+l
+a
+t
+o
+r
+ 
+a
+t
+ 
+t
+h
+e
+ 
+a
+p
+p
+o
+i
+n
+t
+m
+e
+n
+t
+
+
+-
+ 
+[
+H
+o
+n
+g
+d
+a
+m
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+h
+o
+n
+g
+d
+a
+m
+.
+n
+e
+t
+/
+)
+:
+ 
+b
+i
+l
+i
+n
+g
+u
+a
+l
+ 
+w
+e
+b
+ 
+d
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+,
+ 
+C
+h
+i
+a
+n
+g
+ 
+R
+a
+i
+
+
+-
+ 
+[
+ฮ
+ั
+ก
+ฝ
+ร
+ั
+่
+ง
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+h
+a
+k
+f
+a
+r
+a
+n
+g
+.
+n
+e
+t
+/
+)
+:
+ 
+เ
+ร
+ื
+่
+อ
+ง
+เ
+ง
+ิ
+น
+ 
+ว
+ี
+ซ
+่
+า
+ 
+แ
+ล
+ะ
+ช
+ี
+ว
+ิ
+ต
+ก
+ั
+บ
+แ
+ฟ
+น
+ฝ
+ร
+ั
+่
+ง
+
+
+-
+ 
+[
+O
+f
+f
+r
+a
+m
+p
+t
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+o
+f
+f
+r
+a
+m
+p
+t
+.
+n
+e
+t
+/
+)
+:
+ 
+t
+u
+r
+n
+i
+n
+g
+ 
+c
+r
+y
+p
+t
+o
+ 
+i
+n
+t
+o
+ 
+s
+p
+e
+n
+d
+a
+b
+l
+e
+ 
+l
+o
+c
+a
+l
+ 
+m
+o
+n
+e
+y
+,
+ 
+T
+h
+a
+i
+l
+a
+n
+d
+ 
+f
+i
+r
+s
+t
+
+
+
+
+-
+ 
+[
+T
+h
+e
+ 
+r
+o
+s
+t
+e
+r
+ 
+a
+s
+ 
+J
+S
+O
+N
+]
+(
+h
+t
+t
+p
+s
+:
+/
+/
+n
+a
+n
+o
+b
+o
+t
+c
+o
+.
+g
+i
+t
+h
+u
+b
+.
+i
+o
+/
+i
+n
+d
+e
+x
+/
+f
+l
+e
+e
+t
+.
+j
+s
+o
+n
+)
+
+
+# Records
+
+## The eight limbs (weapon/eight-limbs)
+Thai: อาวุธทั้งแปด
+### what
+The phrase that names the sport in English — the art of eight limbs — is a count: fists, elbows, knees and shins, two of each.
+### story
+Boxing has two. Kickboxing has four. Muay thai counts eight, and the count is the whole argument: it is not that a Thai fighter has more weapons, it is that the elbow and the knee are **legal**, and being legal changes every distance in the fight.
+
+Work it forward. If the elbow is legal, the inside is dangerous, so nobody hides there. If the knee is legal, holding the head is worth doing, so the clinch is not broken up. If the clinch is not broken up, a fight has a wrestling phase, and a wrestling phase means conditioning decides the fifth round. Each rule pulls the next one along.
+
+*Inference —* the head is the ninth thing people ask about. Headbutts are not legal; the count stops at eight.
+Sources: s:wp-muay-thai
+
+## The elbow (weapon/elbow)
+Thai: ศอก
+### what
+A short bone with no padding on it, swung horizontally, diagonally, upward, downward, off a spin, or in the air.
+### story
+The English article calls the elbow "the most dangerous form of attack in the sport". The reason is not power — a knee carries more of it — it is the edge. An elbow opens the skin over the eyebrow, the eyebrow bleeds into the eye, the doctor looks at it, and the fight is over with both men still standing.
+
+So the elbow is the weapon that beats the referee's arithmetic. You do not have to out-score anyone. You have to land once.
+
+Two consequences for a spectator. A corner that is behind on points starts throwing elbows in the fourth, which is why the fourth is the round to watch. And elbows are why the clinch is not the rest it looks like: the two men with their heads together are each waiting for the other to loosen a hand.
+Sources: s:wp-muay-thai
+
+## The fist (weapon/fist)
+Thai: หมัด
+### what
+Punches. Historically the thinnest part of the Thai arsenal, and still the part a stadium judge values least.
+### story
+The English article is blunt about the starting point: the punches were "originally quite limited" — crosses, and a long lazy circular strike thrown with a straight arm landing on the heel of the palm. Everything else came in later from western boxing, and now the full set is used: jab, cross, hook, uppercut, overhand, back fist.
+
+Two things follow, and both are visible from the seats. **Body punching is rare**, because dropping your head to dig at the ribs puts it exactly where a knee or an elbow lives. And a punch that does not visibly move the other man is worth nothing on the cards — which is why a foreigner who wins the punching exchanges for five rounds can still lose the fight and leave furious.
+
+The fighter built around the hands has his own name — *muay mat* — and the best of them, Samart Payakaroon, went and won a world title at western boxing to settle the point.
+Sources: s:wp-muay-thai
+
+## The knee (weapon/knee)
+Thai: เข่า
+### what
+The point of the thigh bone driven into ribs, liver, sternum or face, usually with the other man's head pulled down onto it.
+### story
+Thai names the varieties rather than the angles: *khao dot*, the jumping knee off one leg; *khao loi*, the flying knee after a step; *khao thon*, the straight knee driven forward.
+
+*Tradition holds —* the straight knee is the newest of the three, and the reason given is the rope. With hemp wound over the knuckles, a fighter who saw a knee coming could cut down onto the thigh with the edge of the wrap. Gloves took that answer away and the straight knee came into its own.
+
+For scoring, the knee is the best deal in the sport: it is visible from the back row, it moves the man it lands on, and a fighter throwing knees in the clinch is doing the thing the judges are watching for.
+Sources: s:wp-muay-thai
+
+## The shin (weapon/shin)
+Thai: แข้ง
+### what
+The front edge of the lower leg, swung on the end of a turning body. The round kick is the sport's signature, and the shin is the part that lands.
+### story
+The kick draws almost all of its power from the hips rotating, with the shoulders and arms counter-rotating to add torque. The leg is not a whip; the whole body is.
+
+Fighters are trained to connect with the shin and not the instep, because the foot is a bag of small bones and the shin is one thick one. It is toughened by hitting dense objects — pads and heavy bags — and the bone answers by thickening, which the medical name for calls cortical remodelling.
+
+*Inference —* the banana-tree and glass-bottle stories are about the same mechanism told as folklore. The bone does adapt. It adapts to bags.
+
+A kick that is checked — blocked with the outside of the other man's raised shin — is the one exchange in this sport where the defender wins the trade outright.
+Sources: s:wp-muay-thai
+
+## The foot strokes the face (move/batha-lup-phak)
+Thai: บาทาลูบพักตร์
+### what
+The one name in the thirty that says what the movement is.
+### story
+And even here the sport refuses the ordinary word. Everyday Thai for foot is *thao* (เท้า) and for face is *na* (หน้า). This name uses *batha*, from Sanskrit *pāda*, and *phak*, from *vaktra* — the register of court poetry and the Ramakien.
+
+*Inference —* the naming is not decoration. Wherever the vocabulary comes from, so did the people who wrote it down: the technique lists were court documents before they were gym documents.
+Sources: s:maemai-th, s:saranukrom
+
+## Checking the kick (move/check)
+Thai: เช็กแข้ง
+### what
+Lifting the shin to meet an incoming round kick, so that the two bones collide and the thrower takes the worse end.
+### story
+Everything else in the sport costs something to defend. A blocked punch still moves you; a caught kick still turns you. A checked kick turns the attack into an injury for the attacker, which is why a fighter who checks well can change somebody's whole game plan inside two rounds without throwing anything.
+Sources: s:wp-muay-thai
+
+## The crocodile lashes its tail (move/chorakhe-fat-hang)
+Thai: จระเข้ฟาดหาง
+### what
+Number nine of the fifteen, and the only one of the thirty whose Thai name is still said out loud in gyms from Sao Paulo to Sheffield.
+### story
+The Thai encyclopedia's description is four words long: the heel strikes the head. What it leaves out is why the name is a crocodile. A crocodile does not turn to face you before it hits you with its tail — the tail arrives while the head is still pointing away. That is the technique.
+
+*Inference —* the name survived translation where the other twenty-nine did not, and the reason is that it is the one whose picture and whose movement are the same thing.
+Sources: s:maemai-th, s:saranukrom
+
+## The clinch (move/clinch)
+Thai: จับคอตี
+### what
+Hands locked behind the other man's head, forearms on his collarbones, both men fighting for the inside position — and knees going in the whole time.
+### story
+This single rule is why muay thai is not kickboxing. Because nobody pulls the two men apart, a fight has a wrestling phase, and the wrestling phase is where fitness cashes out. Watch a fifth round: the man who wins the clinch is usually the man who wins.
+
+It is also the part that looks like nothing happening, and it is the part a Thai crowd is loudest for.
+### how
+Palm on the back of the other hand — not fingers laced. Three reasons, and the article gives all three: you are wearing gloves and cannot lace them; the grip has to press down on the crown of the head, which wants the hands high on the skull rather than round the neck; and laced fingers break, and cannot be let go of quickly enough to throw an elbow.
+Sources: s:wp-muay-thai
+
+## Breaking Erawan's neck (move/hak-kho-erawan)
+Thai: หักคอเอราวัณ
+### what
+The last of the fifteen, and the plainest thing in the sport: the clinch knee, named after killing the mount of a god.
+### story
+Erawan is Airavata, the three-headed white elephant Indra rides, and the animal on the flag of Laos and on a hundred temple gables. The technique named after breaking its neck is the first thing a beginner is shown in the clinch.
+
+Number ten on the same list, *hak nguang aiyara*, breaks the same elephant's trunk under its Pali name — the arm trapped and the elbow driven into the thigh.
+Sources: s:maemai-th, s:saranukrom
+
+## Hanuman presents the ring (move/hanuman-thawai-waen)
+Thai: หนุมานถวายแหวน
+### what
+The only technique named by three of the four regional schools as well as by the standard list. If anything in the curriculum is bedrock, it is this one.
+### story
+In the Ramakien, Hanuman crosses the ocean to Lanka and finds Sida in the garden, and hands her Rama's ring so she will believe he was sent. He kneels and holds it up with both hands. That gesture — both hands rising together, palms up, to the height of another person's face — is the technique.
+
+Korat's older list names four more Hanuman techniques: he parts the waves, he carries the lord, he pulls up the stump.
+Sources: s:maemai-th, s:saranukrom
+
+## The fifteen that come after (move/luk-mai)
+Thai: ลูกไม้มวยไทย
+### what
+The second set of fifteen, taught after the first. The Thai encyclopedia's line is that a student works the mae mai before the luk mai will take.
+### story
+Erawan tosses its tusks. Thotsakan carries off the lady. Rama draws the bow. Hanuman presents the ring. Hiranyaksha rolls up the earth and carries it to the bottom of the sea. A naga dives to the underworld.
+
+Then, in the middle of that, number two: **batha lup phak**, the foot strokes the face. The one name in all thirty that describes the movement instead of drawing a picture — and it still reaches for Sanskrit to do it, *bāda* for foot and *vaktra* for face, where everyday Thai has *thao* and *na*.
+
+The rest of the set is household: threading a garland, slicing a gourd, an elder sweeping the temple courtyard, a swan with a broken wing, a deer looking back over its shoulder.
+Sources: s:maemai-th, s:saranukrom
+
+## The fifteen mother techniques (move/mae-mai)
+Thai: แม่ไม้มวยไทย
+### what
+The first fifteen named techniques, taught as a set. *Mae* is mother, *mai* is a move; the fifteen that come after are called *luk mai*, child moves.
+### story
+Thai Wikipedia lists them with a sentence of description each, sourcing the Thai Encyclopedia for Youth. This project took the list off the page at revision 13177866 rather than retyping it, glossed each name, and then counted what the names point at.
+
+**Fourteen of the fifteen name a picture and one names a movement.** Salap fan pla is the zigzag of a fish's jaw. Chorakhe fat hang is a crocodile's tail. Hak kho erawan breaks the neck of the three-headed elephant that Indra rides. Wirunhok klap turns Virūḷhaka, guardian of the south, upside down.
+
+*Inference —* this is why translating the names does not help a beginner and never has. The name is a mnemonic for a **shape**, held by people who had the shapes in front of them already: at Wat Bang Kung in Samut Songkhram the techniques stand in the courtyard as statues. The word was never carrying the instruction. The word was carrying the picture.
+
+Some sources put the count at 385 techniques rather than thirty, with the hardest named as *Narai ban sian* — Narayana beheads. This project prints the fifteen and the fifteen because those are the two lists with a source attached.
+Sources: s:maemai-th, s:saranukrom
+
+## The dump (move/sweep)
+Thai: ทุ่ม
+### what
+Catching a kick, stepping past a leg, or turning a man out of the clinch so that he lands. Legal here; not legal in most kickboxing rulesets.
+### story
+A dump is not a knockdown and is not counted as one. What it is, is a statement to three judges that one man is handling the other, and in a close fight that is the round.
+
+*Inference —* this is why the judging looks strange to someone raised on boxing. Nothing was landed. The round still went somewhere.
+Sources: s:wp-muay-thai
+
+## The round kick (move/te-chiang)
+Thai: เตะเฉียง
+### what
+The kick the rest of the world copied. Thrown upward at an angle, cutting under the arm and into the ribs, and named for the triangle it travels.
+### story
+What separates it from a karate or taekwondo kick is that nothing is chambered. The hip goes first and the shin follows through the target rather than snapping back off it. The stance behind it is narrower than a boxer's, because the base is there to be turned on, not to be punched from.
+
+Land it on the thigh enough times and the other man cannot push off that leg; land it on the ribs and he stops breathing properly in the fourth. Neither is spectacular and both win fights, which is most of what a foreign viewer is missing.
+Sources: s:wp-muay-thai
+
+## The teep (move/teep)
+Thai: ถีบ
+### what
+The straight push with the ball or sole of the foot, into the stomach, hip or chest. The article calls it a foot jab and that is what it does: it manages distance and interrupts.
+### story
+Thrown quickly and with enough weight to take the other man's balance, not to hurt him. It is the answer to someone walking forward, and it is the reason a muay thai round can look static from the outside: two men at the exact distance at which the lead foot rules.
+
+*Tradition holds —* the foot is the low end of the body and the head is the high end, so a foot in the face is an insult on top of a strike. Fighters use it knowing that, and a crowd reacts to it as an insult rather than as points.
+Sources: s:wp-muay-thai
+
+## Top maphap (move/top-maphap)
+Thai: ตบมะผาบ
+### what
+The Lanna display in which a man slaps his own arms, chest and thighs in a driving rhythm. Thai Wikipedia's article on Lanna performing arts names it beside the sabatchai drum as the strong end of the repertoire.
+### story
+*Inference —* three things are happening at once, and a spectator only sees the third. It conditions the surface it strikes. It sets a tempo the body then moves in. And it is a declaration to whoever is watching that the man is not afraid of being hit, which is the whole content of a pre-fight display in any tradition that has one.
+
+It belongs to fon jerng rather than to the ring, and it is the part of the northern repertoire that looks least like anything in the modern sport and most like where the sport says it came from.
+Sources: s:thwp-นาฏศิลป์ล้านนา, s:thwp-ประวัติศาสตร์มวยไทย
+
+## The three-pit step (move/yang-sam-khum)
+Thai: ย่างสามขุม
+### what
+Chaiya's first lesson, and the one thing on its list of seven that is not a strike at all.
+### story
+Three points on the ground, and the fighter moves between them rather than forward and back. *Khum* is a pit or a hollow; the name is the ground, not the feet.
+
+*Inference —* a school that opens with footwork is a school that expects to be outnumbered or outreached. Chaiya's reputation is defence, and it starts here.
+Sources: s:maemai-th, s:saranukrom
+
+## Muay Chaiya (style/chaiya)
+Thai: มวยไชยา
+### what
+The southern line, from Chaiya district in what is now Surat Thani. Known for defence: elbows in, shoulders up, and a triangle of footwork underneath.
+### story
+The Thai account starts with a man nobody has a full name for. *Pho Than Ma* — Father Ma — was a boxing teacher from Bangkok who left the capital for reasons the sources do not give, ended up abbot of a forest temple outside Chaiya, and taught the town to fight.
+
+It was then adopted upward. Phraya Wachi Sattayarak, governor of Chaiya, became a patron and a teacher himself; his son Khet Sriyaphai wrote the book that carried the style into print.
+
+The fights happened at **Sala Kao Hong**, the nine-room pavilion at Phumriang, at the Chak Phra festival in the eleventh lunar month: a dirt floor, four posts, hemp rope for the ropes, no weigh-in — two men who looked about the same size were a match. Raw cotton thread on the hands instead of gloves, a prajiat tied around the head for the whole fight.
+
+The format was *yok wian*, the rotating round. Every pair fought round one, then every pair fought round two, and so on to five. Any pair that could not finish five dropped out.
+
+*Inference —* that format explains the style. A man fighting five rounds interleaved with everybody else's five rounds cannot afford to be hit, and defence stops being a preference.
+Sources: s:thwp-มวยไชยา, s:thwp-มวยไทย
+
+## Fon jerng (style/fon-jerng)
+Thai: ฟ้อนเจิง
+### what
+The Lanna martial dance. *Jerng* means tactics or finesse; *fon* is to dance. It is performed with weapons and with empty hands, and the Thai-language history of muay thai names it as the origin of the craft.
+### story
+The sentence is unambiguous in Thai: *วิชามวยไทยจึงมีจุดเริ่มต้นมาจากวิชาเจิง* — the craft of muay thai therefore begins from the craft of jerng.
+
+It comes in forms named for what is in the hand. **ฟ้อนเจิงหอก** with a spear, **ฟ้อนเจิงดาบ** with a sword, **ฟ้อนเจิงลา** with nothing at all. The empty-hand form is the one that matters here: a set of movements held as a dance, performed at festivals, which is also a fighting syllabus.
+
+*Inference —* that is a different relationship between dance and fighting from the one the ram muay has. A ram muay is a ceremony attached to a fight. Fon jerng is the fighting, kept as a dance — which is how a syllabus survives in a place with no standing school and no printed manual.
+
+The English article carries the same claim in a weaker form, dating the training of muay thai from the movements of *fon jerng* and noting that it survives as a recreational dance in the north today.
+Sources: s:thwp-ประวัติศาสตร์มวยไทย, s:wp-muay-thai, s:thwp-นาฏศิลป์ล้านนา
+
+## The four lines, and the rhyme that ranks them (style/four-lines)
+Thai: สี่สายมวย
+### what
+Four regional schools, each with its own reputation, fixed in a four-part saying that Thai sources still quote first and explain second.
+### story
+*หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา* — heavy fists from Korat, cleverness from Lopburi, good form from Chaiya, faster than Thasao. Eleven syllables that do the work of a curriculum.
+
+The lines were not tidy regional traditions that someone later noticed. They were **named at a funeral**. In 1910 Rama V called fighters in from the provinces to fight at the cremation of his son Prince Urubongse, and granted the rank of *muen* to the three best — from Lopburi, Khorat and Chaiya. The English article says it plainly: those three "would later become codified as regional styles of Muay Boran".
+
+So the four schools are a prize list before they are a taxonomy, and the adjectives in the rhyme are what three individual men did on one afternoon in Bangkok.
+
+Thai Wikipedia now counts seven lines rather than four: the four, plus Muay Phra Nakhon of Ayutthaya, plus the Department of Physical Education's syllabus, plus the army's *Muay Thai Loet Rit*. Two of the seven are government programmes, which is a fair picture of where the transmission actually sits.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai, s:maemai-th
+
+## Four ways to win a fight (style/four-styles-of-fighter)
+Thai: สี่แบบของนักมวย
+### what
+Thai commentary sorts fighters into four kinds, and it is the most useful thing anyone can hand a first-time spectator.
+### story
+Watch for which one each man is inside the first round and the next four rounds stop being confusing. A knee fighter against a technician is a chase. A puncher against a kicker is a race between a knockout and a scorecard. Two technicians is the fight Thai crowds pay for and foreigners walk out of.
+Sources: s:wp-muay-thai
+
+## Muay Korat (style/korat)
+Thai: มวยโคราช
+### what
+The northeastern line, from Nakhon Ratchasima. The rope was wound to the elbow here, and the punch it is known for travels furthest.
+### story
+Under Rama V, bouts were held before the throne at Suan Misakawan and fighters were selected from every province. Korat's man was **Nai Daeng Thai-prasert**, a student of the governor, who was given the title *Muen Changat Choeng Chok*.
+
+The style's own list is the longest of the four and the strangest. Five teaching techniques, all of them plain instructions — *going in, punch outside; coming out, punch inside* — and then twenty-one older ones which are nothing of the kind. This project counted them: **eleven of the twenty-one name an animal**, six name a figure out of the epic, and two name an object.
+
+The animals are not the temple menagerie either. A carp hiding by a stump. A quail going into its nest. A rat running along a rail. A crow slipping a snare.
+
+*Inference —* the central curriculum is a court's bestiary and Korat's is a farmer's.
+Sources: s:thwp-มวยโคราช, s:maemai-th
+
+## Muay Lopburi (style/lopburi)
+Thai: มวยลพบุรี
+### what
+The central line, from the old Khmer-Thai city north of Ayutthaya. Its reputation is for angles and feints rather than force.
+### story
+The Thai article gives the moment the adjective was attached. At Prince Urubongse's cremation, **Nai Kluen To-sa-at** of Lopburi fought in front of Rama V, who was pleased enough with the way he fought that the phrase *chalat Lopburi* — clever Lopburi — stuck to the province, and Kluen was made *Muen Mue Maen Mat*, the sure-fisted.
+
+Its list of six is the most concentrated of any school: Erawan tosses its tusks, the giant carries off the lady, Rama draws the bow, the deer looks back, Hiran rolls up the earth, Hanuman presents the ring. **Five of the six are out of the epic.** For a city whose ruins are Khmer and whose monkeys are its main export to the postcard trade, that is either fitting or circular, and the sources do not settle which.
+Sources: s:thwp-มวยลพบ-ร-, s:maemai-th
+
+## Muay boran (style/muay-boran)
+Thai: มวยโบราณ
+### what
+"Ancient boxing": the collective name for what was fought before rounds, gloves and a ring — now performed mostly as demonstration.
+### story
+The English article is exact about the order of events: the term *muay boran* was **coined** to describe the pre-modern form, after *muay thai* had been introduced in physical education documents to distinguish the Siamese art from international boxing. The old thing was named by the new one.
+
+This matters for what a visitor is watching. A muay boran demonstration is a reconstruction, performed by people who compete under modern rules, of a practice that stopped being competitive before any of them were born. That is not a criticism of it. It is what it is, and the shows do not usually say so.
+Sources: s:wp-muay-thai, s:thwp-มวยไทย
+
+## Muay femur (style/muay-femur)
+Thai: มวยฝีมือ
+### what
+The all-rounder who fights on timing and distance and is usually ahead on the cards without appearing to try.
+### story
+The word is *fimue*, skill of hand. A femur fighter teeps you out of range, catches the kick you were going to throw anyway, dumps you, and looks bored.
+
+*Inference —* this is the style Thai judging was built to reward and the style foreign audiences find hardest to enjoy, and those two facts are the same fact.
+Sources: s:wp-muay-thai
+
+## Muay khao (style/muay-khao)
+Thai: มวยเข่า
+### what
+Built entirely around getting hold of you and kneeing until the round ends.
+### story
+A knee fighter takes shots to get inside, and the arithmetic works because a knee scores more than the two punches it cost to walk through. The cost is that it demands a level of fitness the other styles do not.
+
+Dieselnoi Chor Thanasukarn was so much the best at it that Thai promoters could not find him opponents and he retired undefeated as champion at twenty-four.
+Sources: s:wp-muay-thai
+
+## Muay mat (style/muay-mat)
+Thai: มวยหมัด
+### what
+The heavy-handed fighter, looking for the knockout because the points will not come.
+### story
+A puncher in muay thai is working against the arithmetic: punches score least, so he has to end it. Which makes muay mat the most exciting style to watch and the least reliable way to build a record.
+
+Foreign fighters arrive as muay mat almost without exception, because that is what they were before.
+Sources: s:wp-muay-thai
+
+## Muay tae (style/muay-tae)
+Thai: มวยเตะ
+### what
+Built on the round kick, thrown at the arm, the ribs and the thigh until one of them stops working.
+### story
+The most Thai of the four and the one that wins most rounds: a kick is the highest-scoring thing you can throw from outside the clinch, and a kicker who is not being checked can bank a round in ninety seconds.
+
+Apidej Sit Hirun is the name attached to it — a left kick that is still talked about in the way other sports talk about a fastball.
+Sources: s:wp-muay-thai
+
+## Muay Thasao (style/thasao)
+Thai: มวยท่าเสา
+### what
+The northern line, from Tha Sao in Uttaradit, tied to Phraya Phichai of the Broken Sword — a general of King Taksin who is said to have been a boxer first.
+### story
+The rhyme says *faster than Thasao*, which is a strange way to praise a school — it makes the school the yardstick and gives the prize to whoever beat it.
+
+The list is where this line differs from the other three. Thai Wikipedia gives it as twelve upper techniques and twelve lower techniques and **names none of them**. Chaiya's seven are named. Korat's twenty-six are named. Lopburi's six are named. Thasao gets a count.
+
+That is not evidence the techniques are lost; it is evidence they are not on this page. What a gym in Uttaradit teaches today is not on this disk either way.
+Sources: s:maemai-th, s:thwp-มวยไทย
+
+## Gao yod, the nine spires (ritual/gao-yod)
+Thai: เก้ายอด
+### what
+A column of nine spires, placed in the centre of the upper back and running a little onto the neck. At Wat Bang Phra it is the standard first tattoo; other lineages start elsewhere.
+### story
+Its extension is **Yeesip Gao Yord**, twenty-nine spires, spread across the whole upper back. After those two, Wat Bang Phra's practice treats the body as opened and able to receive what comes next.
+
+*Inference —* the ordering matters more than the design. A first yant that everybody gets, in a place everybody can see, is an initiation before it is a protection: it marks that a person has stood in the line, made the offering and accepted the rules.
+Sources: s:wp-wat-bang-phra
+
+## The rules that come with it (ritual/kho-ham)
+Thai: ข้อห้าม
+### what
+A yant is conditional. The bearer accepts precepts and taboos with it, and the power holds only while those are kept.
+### story
+The English article puts it in one clause: the tattoo confers its powers **only so long as the bearer observes certain rules and taboos**, which can include abstaining from a particular food. Different masters set different lists, and the list is part of what you are receiving.
+
+And separately from conduct, **the power decreases with time**. That is why Wai Khru exists: once a year the disciples come back to the master's parlour to have the yant honoured, blessed and re-empowered.
+
+*Inference —* these two facts together are what make sak yant a relationship rather than a purchase. A tattoo you can buy in an afternoon and never think about again is a different object, whatever is drawn on it.
+Sources: s:wp-yantra-tattooing, s:wp-wat-bang-phra
+
+## The mongkhon (ritual/mongkhon)
+Thai: มงคล
+### what
+The cord headband worn into the ring and removed before the first bell. It belongs to the gym, not the man wearing it.
+### story
+The origin the English article gives is domestic: when Siam was at war, young men tore a strip from a mother's or a lover's clothing and wore it into the fight for luck and against harmful spirits.
+
+What it means now is institutional. A trainer presents the mongkhon when he judges a fighter fit to represent the gym, and takes it off in the corner after the dance. Fighters commonly bring it to a monk to be blessed first, whether or not they are Buddhist.
+
+Two things follow that visitors get wrong. It is not a rank, and it is not yours: the shop-bought mongkhon hanging in a hotel room is a souvenir of an object that only means anything when someone else puts it on your head. And it does not stay on during the fight — a mongkhon in the ring at the bell is a film, not a card.
+Sources: s:wp-muay-thai
+
+## The armbands (ritual/prajiat)
+Thai: ประเจียด
+### what
+Cloth or cord tied round the upper arms, worn through the fight.
+### story
+Same origin story as the mongkhon and the same function: a piece of somebody else's cloth, worn into danger. And the cloth is usually not blank — a prajiat carries a **yantra**, written in the same script and by the same kind of master as a tattoo. Thai accounts of what a warrior took into battle list the prajiat beside the takrut, before the moulded Buddha image took over that job. At Sala Kao Hong in Chaiya the prajiat went round the head and stayed there for all five rounds, which is a different object from the modern armband.
+
+In some gyms outside Thailand, and the article names Brazil in particular through the Chute Boxe lineage, prajiat are coloured by rank in the way a karate belt is. That is a western graft onto a Thai object, and Thai gyms do not read them.
+Sources: s:wp-muay-thai, s:wp-thai-buddha-amulet
+
+## Sak yant (ritual/sak-yant)
+Thai: สักยันต์
+### what
+A tattoo that is a working object: geometry and syllables in an old script, applied by a master, carrying protection, fortune, charisma or fear — and conditional on rules the bearer keeps afterwards.
+### story
+**Where it comes from.** The practice is dated to the Khmer Empire around the ninth century, resting on Mainland Southeast Asian animist tattooing that goes back far further, with the geometry taken from Indian yantras. It is Cambodian, Lao, Thai and Burmese, and it does not belong to one of them.
+
+**What the script tells you.** There is no single alphabet for this. In Cambodia, Khmer script. In central Thailand, **Khom** — the Khmer-derived script used there for Pali and for anything sacred. **In the north the yant is written in northern Thai, Shan or Tai Lu script**, and in Laos in Lao Tham. A yant done in Chiang Mai and a yant done in Nakhon Pathom are not written in the same letters. The alphabet on a person's back is a map of where their master's lineage is from, and it is the first thing to read.
+
+**Three kinds of effect**, in the article's own division: what benefits the bearer — eloquence, charm; what protects — warding off harm, which is why it is carried by soldiers, police, taxi drivers and anyone whose work is dangerous; and what acts on other people, including invoking fear.
+
+**And it is conditional.** The power holds only while the bearer keeps the rules and the taboos that came with it, which can include abstaining from a particular food. It also **fades with time**, which is why masters re-empower their disciples' tattoos once a year at Wai Khru.
+
+**In this sport.** A fighter's whole ritual kit is the same practice in different materials: the mongkhon blessed by a monk, the prajiat tied round the arm, the takrut rolled in metal, and the yant under the shirt. They carry the same syllables, from the same masters, for the same reasons. The difference is only whether the surface can be taken off.
+### how
+**The word.** *Sak* (สัก) is to prick, a native Khmer word from a Mon-Khmer root *cɔkʔ, to prick — not a Sanskrit loan. *Yant* is *yantra* (यन्त्र), from Sanskrit *yam*, to hold or sustain, plus *tra*, an instrument. A yantra is an instrument for holding something in place. The name says exactly what the thing is meant to do.
+
+**The needle.** A *khem sak* about eighteen inches long and four millimetres wide, the tip split so each strike puts down two dots. A typical design takes about **three thousand strikes**. The needle is dipped every thirty seconds into a mix of oil, Chinese charcoal ink, and — the account says possibly — snake venom.
+
+**The finish.** When the drawing is done the master blesses it and **blows a kata onto it**, and that is the step that makes it work. The ink without the breath is a drawing.
+### notes
+The photographs on this page and on the pages for gao yod and the rules were taken at **Sak Yant Chiang Mai**, where the ajarns welcome photography, and are used with their permission. They are published CC BY 4.0 like everything else here.
+Sources: s:wp-yantra-tattooing, s:wp-wat-bang-phra, s:wp-khom-thai-script, s:wp-tai-tham-script
+
+## Suea phen, the leaping tiger (ritual/suea-phen)
+Thai: เสือเผ่น
+### what
+A tiger in mid-leap, usually one on each shoulder blade, for strength, command and the turning away of an attack.
+### story
+The design is old and the reason it is everywhere is recent and traceable. In 1953 Luang Phor Pern walked into the forest on the Kanchanaburi border, where tigers had been killing villagers, and gave out kata and sak yant — telling them that **the tiger yantra in particular would fend off an attack**. His reputation was built on that, and the tiger came with it.
+
+*Inference —* a fighter and a villager on that border want the same thing from it. Not luck. A specific mechanism against something coming at you fast.
+Sources: s:wp-wat-bang-phra, s:wp-yantra-tattooing
+
+## The dance before the fight (ritual/wai-kru-ram-muay)
+Thai: ไหว้ครูรำมวย
+### what
+Two halves. *Wai khru* is paying respect to the teacher — kneeling, bowing three times toward the corner. *Ram muay* is the dance that follows, which is the fighter's own and belongs to his gym.
+### story
+*Wai khru* is not a boxing ritual. The Thai article on it lists the same ceremony for school teachers, for shadow puppetry, for krabi-krabong, and for writing poetry: the form belongs to apprenticeship in general, and boxing is one of its borrowers.
+
+What the fighter is doing in the second half is more specific. A ram muay is taught, it is a gym's signature, and a Thai watching can often name the camp from it. It also tells the other corner something: a man who takes his time in the dance is making a statement about his own composure while the other man stands there in the cold.
+
+*Inference —* the reason the ceremony survived professionalisation intact, when the rope, the bare feet and the open-weight matchmaking all went, is that it costs the promoter nothing and fills four minutes of a television slot.
+Sources: s:thwp-พ-ธ-ไหว-คร-, s:wp-muay-thai
+
+## The time (music/ching)
+Thai: ฉิ่ง
+### what
+A pair of thick bronze cups on a cord, struck together. Closed, they say *ching*; let ring, they say *chap*, and the two syllables are the name and the notation.
+### story
+The smallest instrument in the band and the one that is in charge. Thai classical time is counted off the ching, not the drum: the closed stroke and the open stroke mark the weak and the strong, and every other player is hanging off them.
+
+*Inference —* this is why a stadium band can accelerate without falling apart. The tempo is being carried by two pieces of metal that cannot get tired.
+Sources: s:thwp-ฉ-ง
+
+## The drums (music/klong-khaek)
+Thai: กลองแขก
+### what
+Two long double-headed drums played with the hands, one pitched higher than the other. Thai names them *tua phu* and *tua mia* — the male and the female.
+### story
+The two drums do not play the same thing. One keeps the frame and the other answers inside it, which is where the drive comes from as the fight speeds up.
+
+*Khaek* is a Thai word for people from the west and south — Malay, Javanese, Indian, Middle Eastern — and the drum is named after where it came from rather than what it is. The sport's soundtrack is an import, and so is its oboe.
+Sources: s:thwp-กลองแขก
+
+## The victory drum (music/klong-sabatchai)
+Thai: กลองสะบัดชัย
+### what
+The Lanna war drum, beaten going out to battle for good fortune and to hold the soldiers' nerve. Three old melodies are named: *Chaiphaeri*, *Chaithiti*, *Chanamarn*.
+### story
+The Thai article describes how it is played now, and the sentence is the finding: the style is **bold and rousing, and the player uses parts of the body — the elbow, the knee, the head — to strike the drum**.
+
+*Inference —* a drum played with the elbow and the knee, in a region whose martial dance is the sport's claimed origin, is not a coincidence anyone needs to argue for. The same body is being trained. In one direction it hits a drum; in the other it hits a man.
+
+**Where the oldest one was found.** A miniature sabatchai drum set in bronze was excavated at Wat Chedi Sung, Ban Luang subdistrict, **Hot district, Chiang Mai** — two double-headed drums of different sizes, a gong as wide as the larger drum, three beaters and a carrying pole for the lot. Hot sits on Route 108, on the Mae Hong Son loop.
+
+The common form hangs in temple drum-towers across Lanna: one big double-headed drum, 30 to 35 inches across and about 45 inches long, hide fixed with pegs — Lanna calls them *saeo* — left long rather than trimmed flush, with two or three small drums called *luk tup* beside it.
+Sources: s:thwp-กลองสะบัดชัย, s:thwp-นาฏศิลป์ล้านนา
+
+## The oboe (music/pi-chawa)
+Thai: ปี่ชวา
+### what
+A double-reed pipe in two pieces — a bored body with seven finger holes and a thumb hole, and a flared bell — with a reed made of four folded pieces of mature palm leaf.
+### story
+*Chawa* means Java. The Thai article's reading is that the pipe arrived in Thailand at the same time as the klong khaek, the drums it still plays with — two imports that came in as a pair and stayed a pair.
+
+And the pipe is not only a boxing instrument. The article lists it in the *bua loi* ensemble, in the *pi phat nang hong* ensemble, in the string ensemble that takes its name, and then, at the end of the list, for krabi-krabong dance and for boxing. The same reed plays a funeral and a fight.
+Sources: s:thwp-ป-ชวา
+
+## The band (music/sarama)
+Thai: วงปี่กลอง
+### what
+Every stadium fight in Thailand is played live by a small band: an oboe, a pair of drums and a pair of hand cymbals, sitting at the ring apron.
+### story
+The music is not atmosphere. It is a clock and a commentary.
+
+It starts slow under the wai kru, holds a walking pace through the early rounds, and accelerates — the drums first, then the oboe climbing — as the fight goes on. By the fifth round a good band is playing at a speed that makes two tired men look faster than they are, and the crowd noise is timed to it.
+
+*Inference —* if you cannot follow the scoring, follow the band. It is a reliable guide to where a stadium thinks the fight is, and it is free.
+Sources: s:thwp-ป-ชวา, s:thwp-มวยไทย
+
+## Buakaw at K-1 Max, 2004 (bout/buakaw-k1-2004)
+Thai: บัวขาว ใน K-1 Max 2547
+### what
+Buakaw Banchamek won the K-1 World Max tournament in Japan in 2004, beating John Wayne Parr and Masato, and won it again in 2006.
+### story
+K-1 rules are kickboxing rules: no elbows, and the clinch is broken. A muay thai fighter entering that tournament gives up the elbow and the knee-in-the-clinch — half of what makes the sport what it is — and Buakaw won it twice on the remainder.
+
+*Inference —* which is why the world's picture of muay thai is a man throwing hard round kicks and not a man holding another man's head. The version that travelled was the version television could sell, and television could not sell the clinch.
+Sources: s:wp-buakaw-banchamek, s:wp-muay-thai
+
+## Changpuek and Rick Roufus, Las Vegas 1988 (bout/changpuek-vs-roufus)
+Thai: ช้างเผือก พบ ริค รูฟัส
+### what
+A non-title fight in Las Vegas between Changpuek Kiatsongrit, a 70kg Thai who could not get matched at home, and Rick Roufus, the K.I.C.K. world champion.
+### story
+Changpuek was born in a village thirty kilometres from Prakhonchai in Buriram, one of seven children, first fight at fourteen, and made his Rajadamnern debut weighing **49 kilos**. By his late twenties he weighed 70, which in Thailand meant there was nobody to fight, so he went abroad.
+
+American kickboxing at the time had a rule against kicking below the waist, and Roufus had never had to deal with a leg kick in competition. Changpuek was put down in the first round and his jaw was broken. He kept kicking the same leg. The fight was stopped in the fourth.
+
+*Inference —* one evening did more to explain muay thai to the United States than a decade of demonstrations, because it was not a demonstration. It was a Thai man losing every exchange he was supposed to lose and winning anyway with the one weapon the other code had legislated away.
+Sources: s:wp-changpuek-kiatsongrit
+
+## Apidej Sit Hirun (person/apidej)
+Thai: อภิเดช ศิษย์หิรัญ
+### what
+A fighter of the 1960s, named as the standard by which a muay thai kick is measured, and later a trainer at Fairtex.
+### story
+*Tradition holds —* he held seven Thai titles simultaneously across muay thai and boxing, and his left kick broke bones through a guard.
+
+English Wikipedia has no article on him, which is the useful fact here: a man named in every gym in the world as the yardstick for the sport's signature technique has no entry in the encyclopedia most of the world reads. Thai sources carry him; the census at /people/ shows what that gap looks like at scale.
+Sources: s:wp-muay-thai, s:wikidata
+
+## Buakaw Banchamek (person/buakaw)
+Thai: บัวขาว บัญชาเมฆ
+### what
+Born Sombat Banchamek, 8 May 1982. Omnoi champion at two weights, and the fighter who won K-1 Max in Japan in 2004 and again in 2006.
+### story
+Joined Por Pramuk gym in 1997, won the Toyota Marathon at Lumpinee in late 2002, then entered K-1 Max in 2004 and beat John Wayne Parr and Masato in the same tournament.
+
+*Inference —* K-1 is why. Muay thai had been exported for decades, but K-1 was a television product with a Japanese broadcast budget, and one Thai fighter winning it twice did more for the sport's name abroad than any federation has. The kickboxing rules he won under do not allow elbows and break the clinch — so the world learned the sport from a version of it with two of the eight limbs turned off.
+Sources: s:wp-buakaw-banchamek
+
+## Dieselnoi Chor Thanasukarn (person/dieselnoi)
+Thai: ดีเซลน้อย ช.ธนะสุกาญจน์
+### what
+Born Charin Sondee, 27 December 1961, Nakhon Luang district, Ayutthaya. Lumpinee lightweight champion, and the tallest knee fighter anyone had seen.
+### story
+Started at twelve. Followed his brother to Si Racha, joined the So Worakunchai camp there, and took the ring name he kept. Toured the eastern provinces, arrived at Rajadamnern in 1976, and between 1977 and 1985 beat most of the best fighters in Thailand — Samart Payakaroon among them.
+
+The press called him *khun khao sao thoralek*, the telegraph-pole knee, and *khun khao thalai fa*, the sky-breaking knee. He was long in the arm and longer in the leg, and the whole fight was about getting a hand behind a head that was a foot below his.
+
+*Tradition holds —* he retired as champion because promoters could not find anyone willing to take the fight. That is the story the sport tells about him and it is told about very few others.
+Sources: s:thwp-ด-เซลน-อย-ช-ธนะส-กาญจน-
+
+## Kham Kaiwai (person/kham-kaiwai)
+Thai: คำ กาไวย์
+### what
+25 May 1934 – 24 February 2014, born at Nam Phrae in Hang Dong district, Chiang Mai. National Artist in the performing arts (folk performance), 2535 BE.
+### story
+Primary school, then the drum. He entered a folk arts competition in 1961 and the sabatchai went from a thing hanging in temple towers to a thing performed.
+
+*Inference —* the modern sabatchai — the leaping, the elbow and knee against the drum head, the version everybody photographs at Songkran — is a twentieth-century stage form built out of a war drum by named people who are datable. That does not make it less Lanna. It makes it traceable, which is more than most of this sport can say about its own performances.
+Sources: s:thwp-คำ กาไวย์
+
+## Khet Sriyaphai (person/khet-sriyaphai)
+Thai: เขตร ศรียาภัย
+### what
+Son of Phraya Wachi Sattayarak, governor of Chaiya, and author of *Parithat Muay Thai* — the book through which most of what is known about Muay Chaiya travels.
+### story
+His account traces the *yang sam khum* footwork taught at Suan Kulap College in 1921 back through two named masters to Pho Than Ma at Chaiya — which is the kind of chain that makes a transmission traceable rather than assumed.
+
+*Inference —* a martial art survives through the person who writes it down, and in this case that person was a provincial governor's son with access to a printing press. The lines that had no such son are the ones now described as twelve upper and twelve lower techniques with no names attached.
+Sources: s:thwp-มวยไชยา
+
+## Manop Yarana (person/manop-yarana)
+Thai: มานพ ยาระณะ
+### what
+5 September 1930 – 22 November 2015, Chiang Mai. National Artist in the performing arts, 2548 BE, for Lanna dance, martial arts and drumming.
+### story
+Finished primary school at Wat Si Don Chai, helped his parents trade, and learned the fighting arts, the music and the Lanna drums from whoever had them. Then taught them on for about fifty years: muay thai, fon jerng, the spear dance, the lamp dance, the pu cha drum, the old sabatchai, the mong soeng drum, the pu che drum.
+
+The Thai article's last clause is the one worth keeping: he did it **without ever taking a fee**.
+
+*Inference —* a transmission like that is the reason there is anything left to write about. Chaiya survived because a governor's son had a printing press. Lanna survived because two men in Chiang Mai taught for free until they died.
+Sources: s:thwp-มานพ ยาระณะ
+
+## Nai Khanom Tom (person/nai-khanom-tom)
+Thai: นายขนมต้ม
+### what
+A rope-handed boxer of Ayutthaya, taken prisoner when the city fell, who is said to have beaten nine or ten Burmese and Mon fighters in front of the King of Ava. Every account of the sport in English starts with him.
+### story
+Here is the whole documentary situation, because it is more interesting than the legend.
+
+**The Thai side.** The story appears in the Royal Chronicle, the Somdet Phra Phonnarat manuscript held at Wat Phra Chetuphon. The King of Ava is at Yangon, the crowning umbrella of the Shwedagon has just been raised, and there is a festival. A Burmese official says Thai boxers are very good. Nai Khanom Tom is produced, and beats a Burmese man before the round is out. They send in another. He beats nine or ten in a row. The king strikes his own chest and says the line that every Thai schoolchild gets: *the Thai have poison in every part of them; with his bare hands and no weapon at all, one man beats nine or ten. It was bad lords that lost them their country.*
+
+**The Burmese side.** The Hmannan Yazawin, the Glass Palace Chronicle, records the same event with more precision than the Thai one: the restoration and gilding of the Shwedagon, gold to the weight of the king's own body, a seven-tiered umbrella set with **15,038 gems**, raised by the king himself on the full moon of Tabaung, CS 1136 — **17 March 1774**. It does not mention any boxing match. Neither do the Mon-Burmese chronicles, and neither does the Testimony of the People of Ava.
+
+*Inference —* that is not a contradiction and it is not proof of invention. It is one chronicle carrying something the others do not, which is the ordinary condition of a chronicle. What can be said is that the date everybody celebrates is the date of the umbrella, taken from the Burmese record, and the fight is dated by hanging it on that.
+
+17 March is Muay Thai Day. His statue stands at the provincial stadium in Ayutthaya. Somrak Khamsing played him on television in 1996.
+Sources: s:thwp-นายขนมต-ม, s:wp-muay-thai
+
+## Nong Toom (person/nongtoom)
+Thai: น้องตุ้ม
+### what
+Parinya Charoenphol, born 9 June 1981. A kathoey fighter whose win at Lumpini Stadium in February 1998 made her the most photographed person in the sport.
+### story
+The English article records two things side by side and does not join them, so this does.
+
+One: the Thai government had previously kept kathoey off the national volleyball team "for fear of negative reaction" from abroad. Two: the muay thai establishment took her up immediately, and tourism officials promoted her as "indicative of the wonders to be found" in Thailand.
+
+The difference between those two receptions is business. The article says the sport was in a slump, and that she "revitalised both media and public interest", with ticket sales and stadium revenue to show for it.
+
+She retired in 1999, announced a singing career, was turned down by several Bangkok surgeons, and had gender-affirming surgery at Yanhee that year. The film *Beautiful Boxer* followed in 2003.
+
+*Inference —* a sport that would not let women into the ring at all made room for her inside eighteen months, and the measurable reason was the gate.
+Sources: s:wp-parinya-charoenphol
+
+## Phraya Phichai of the Broken Sword (person/phraya-phichai)
+Thai: พระยาพิชัยดาบหัก
+### what
+A general of King Taksin, from Tha Sao in Uttaradit, said to have trained as a boxer before he was a soldier. Muay Thasao carries his name alongside the district's.
+### story
+The epithet is the story: a sword broken in a fight he went on to win. His statue stands in Uttaradit with the broken blade in his hand.
+
+*Inference —* the northern line has a hero and no technique list, and the southern line has a technique list and a governor's son with a printing press. Which of the two survived better is a question about publishing.
+Sources: s:wp-phraya-phichai
+
+## Rodtang Jitmuangnon (person/rodtang)
+Thai: รถถัง จิตรเมืองนนท์
+### what
+Born Tinnakorn Srisawat, 23 July 1997. Professional since 2013, Omnoi champion at 130lb, and the longest-reigning ONE flyweight muay thai world champion.
+### story
+The English article calls him one of the highest-paid muay thai fighters in the world, which is a sentence that would not have been written about a Thai fighter twenty years ago.
+
+*Inference —* that is the ONE Championship effect, and it is the sport's current argument in one man: a promotion with foreign money pays a Thai fighter more than the stadium system ever could, under rules the stadium system does not use, in front of an audience that is not betting on it.
+Sources: s:wp-rodtang-jitmuangnon
+
+## Saenchai (person/saenchai)
+Thai: แสนชัย
+### what
+Born Suphachai Saepong, 30 July 1980. Six-time Lumpinee champion across four divisions, fighter of the year in 1999 and 2008.
+### story
+The English article records the thing that makes him unusual: he gave up weight to find opponents, and between 2003 and 2014 **lost twice in Thailand at equal weight** — every other defeat came in fights he had agreed to take at a disadvantage.
+
+*Inference —* that is what happens to a technician at the top of a small market. There is no one left to fight, so the promoter sells the handicap instead, and the record shows losses that are really a shortage of opponents.
+Sources: s:wp-saenchai
+
+## Samart Payakaroon (person/samart-payakaroon)
+Thai: สามารถ พยัคฆ์อรุณ
+### what
+Born Samart Thip-thamai, 5 December 1962, Bang Pakong district, Chachoengsao. The fighter most often named when Thais argue about the best there has been.
+### story
+Started at eleven, fighting as *Samart Luk Khlong Khet*. Took four Lumpinee titles across four weight divisions, then crossed to western boxing and became **Thailand's tenth world champion**, WBC super bantamweight. Fighter of the year in 1981 and again in 1988.
+
+*Inference —* the crossing is the argument. Muay thai scores punches lowest, so the sport's best technician going to a code that scores nothing else, and winning a world title there, is the strongest single piece of evidence that Thai technique transfers and that the scoring is a preference rather than a limit.
+
+He runs a gym in Bangkok, and he sings.
+Sources: s:thwp-สามารถ-พย-คฆ-อร-ณ, s:wp-muay-thai
+
+## Somrak Khamsing (person/somrak)
+Thai: สมรักษ์ คำสิงห์
+### what
+Born 16 January 1973 in Ban Phai district, Khon Kaen, into a poor family. Won featherweight gold at Atlanta in 1996 — the first Olympic gold medal Thailand had ever won.
+### story
+He came out of Isan, out of muay thai, and won the country's first gold in the other code. Then he played Nai Khanom Tom on television the same year.
+
+*Inference —* that sequence is the whole relationship between the two sports in Thailand. Muay thai is where the fighters are made, western boxing is where the medals are, and the national story is told in muay thai regardless. Muaythai itself did not get full IOC recognition until **20 July 2021**, twenty-five years after Somrak's gold.
+Sources: s:thwp-สมร-กษ-คำส-งห-, s:wp-muay-thai
+
+## Who the record remembers (person/the-roster)
+Thai: ใครที่บันทึกจำไว้
+### what
+A census of everyone Wikidata records as a Thai boxer by occupation. It is a fact about the encyclopedia, not about the sport, and the gap between the two is the reason to print it.
+### story
+Two cohorts came back, and the difference between them is the health warning. 1,186 people carry the occupation *Thai boxer*. Another 321 carry only the sport property — and sorted by how many Wikipedias hold an entry, the top of that second list is **Batman**.
+
+Even inside the occupation cohort the ranking is useless: Shaquille O'Neal, Donnie Yen and Joe Rogan all sit above every Thai fighter, because a sitelink count measures fame, and their fame is from elsewhere. So this project does not rank anybody off this data. It counts.
+
+**By country:** Thailand 248, the United States 111, the Netherlands 65, France 59, the United Kingdom 43, Brazil 37, Russia 35. Two hundred and fifty carry no nationality at all.
+
+**By decade of birth:** the 1980s peak at 419, then the 1990s at 250 and the 1970s at 222.
+
+**By gender:** 966 men, 179 women, one kathoey, one trans woman, 39 unstated. Of the 248 Thai, **five are women**.
+
+*Inference —* five is not a fact about Thai women who fight. Thailand's women's cards are full and its gyms are full. Five is a fact about who gets written up, and the same gap swallowed Apidej Sit Hirun, who has no English article at all.
+Sources: s:wikidata
+
+## The Tiger King (person/tiger-king)
+Thai: พระเจ้าเสือ
+### what
+King Sanphet VIII of Ayutthaya, reigned 1703–1709. Thai Wikipedia's article on the mae mai opens by attributing the fifteen to him, on the authority of a cabinet resolution.
+### story
+The story everyone tells: in 1702 the king hears there is a temple fair at Wiset Chai Chan, says he has not punched anyone since his accession, goes in disguise, and beats the local champions.
+
+And the sourcing, which is the more interesting part. The claim that he devised the mae mai is carried not by a chronicle but by **a resolution of the Thai cabinet**, cited through a newspaper article about the founding of Muay Thai Day. A government meeting is a perfectly real source for what a government has decided. It is not a source for what happened in 1702.
+
+*Inference —* this is the same machinery as Nai Khanom Tom and the four regional lines: a modern state fixing a date, a founder and a canon, and the fixing being the documented event.
+Sources: s:wp-suriyenthrathibodi, s:maemai-th
+
+## The Channel 7 ring (venue/channel-7)
+Thai: สนามมวยเวทีช่อง 7
+### what
+The ring behind the Channel 7 studios at Mo Chit, where cards are staged for broadcast and the crowd gets in for nothing.
+### story
+Television is the third institution in the sport, after the army and the betting floor, and this is where you can see it working. The card exists to fill a slot; the audience is the set dressing; entry is free because the product is not the ticket.
+
+*Inference —* it is also the one ring in Bangkok where a visitor sees a Thai crowd rather than a crowd of visitors, and that changes what the fight sounds like more than anything happening in the ring.
+Sources: s:osm-gyms, s:wp-muay-thai
+
+## Lumpinee Boxing Stadium (venue/lumpinee)
+Thai: สนามมวยเวทีลุมพินี
+### what
+The second of the two ranking stadiums, run by the Royal Thai Army.
+### story
+The name is the trap. Lumpinee was built beside Lumpini Park on Rama IV Road and kept the name when it moved out to **Ram Intra Road** in 2014, seven kilometres north-east. OpenStreetMap has it at 13.867, 100.609, which is the new site; a taxi told "Lumpinee" may take you to the park.
+
+The army connection is not decorative. A ranking stadium in Thailand is an institution with a licence, a gambling floor and an owner, and the two that matter are held by the army and by a company on a royal avenue.
+Sources: s:thwp-สนามมวยเวท-ล-มพ-น-, s:osm-gyms
+
+## The ring at Mae Sariang (venue/mae-sariang-ring)
+Thai: เวทีมวยไทย แม่สะเรียง
+### what
+A provincial boxing ring in Mae Sariang, western Mae Hong Son province — one of eighteen stadiums this project found on the map worldwide.
+### story
+It is here because the map put it here, and because of where here is: Mae Sariang sits on Route 108 on the Mae Hong Son loop, between Hot and Khun Yuam.
+
+*Inference —* a provincial ring is where the sport actually runs. Two ranking stadiums in Bangkok are the top of a structure whose base is a few hundred rings like this one, at temple fairs and festivals, where a fifteen-year-old has his eighth fight for eight hundred baht. This project has no schedule for it and does not know whether it runs weekly, monthly or at festivals.
+Sources: s:osm-gyms
+
+## Rajadamnern Stadium (venue/rajadamnern)
+Thai: สนามมวยราชดำเนิน
+### what
+The first of Bangkok's two ranking stadiums, off Ratchadamnoen Nok Avenue, north of the old royal district.
+### story
+A title at Rajadamnern is one of the two belts that settle an argument in Thailand — the other is at Lumpinee — and a fighter who holds both at once is having a career other people will describe for the rest of his life.
+
+*Inference —* the stadium's address is the point of it. Ratchadamnoen is the processional avenue built under Rama V on the model of a European boulevard, and putting the national sport's ring on it in the 1940s is a statement about what the sport was being made into.
+Sources: s:thwp-สนามมวยราชดำเน-น, s:wp-muay-thai
+
+## Wat Bang Phra (venue/wat-bang-phra)
+Thai: วัดบางพระ
+### what
+A monastery in Nakhon Chaisi district, Nakhon Pathom, about 50 km west of Bangkok. It is the sak yant place outsiders have heard of, and the one the film crews go to. It is not where most sak yant is done.
+### story
+*Inference —* the sak yant most people receive is done by an ajarn or a monk near where they live, at a small samnak with a teacher whose name travels no further than the province. Wat Bang Phra is famous, photographed and easy to reach from Bangkok, and those are three facts about its visibility rather than about the practice.
+
+The temple dates to the late eighteenth century, just before the second fall of Ayutthaya. Its name means the monastery of the riverbank Buddha image: two images were being carried downriver away from the Burmese, the boat sank, and when they were pulled out they stayed here.
+
+**Luang Phor Pern.** The abbot who made the place. He ordained here at 25, learned sak yant from the abbot before him, Luang Pu Him, and carried it on when Luang Pu Him died four years later. **He was never tattooed himself and never would be.**
+
+In 1953 he went to walk in the forest on the Kanchanaburi border, where tigers had been mauling and killing villagers. He gave them kata and sak yant, and told them the **tiger yantra** in particular would turn an attack. The reputation that followed is the reason the leaping tiger is on so many backs, and the reason devotional pictures of him show him meditating on a tiger.
+
+He built a bridge over the river so farmers could get crops to market, and the local public hospital, which carries his name. He died in 2002 at 79.
+
+**Wai Khru, every March.** The power of a tattoo or an amulet drops off with time, so once a year disciples come back to their master to have it blessed and re-empowered. At Wat Bang Phra that gathering is the festival everybody has seen film of.
+
+**One thing the article is blunt about:** the sanitation of the needle and the ink is unknown, and a traditional tattoo carries a blood-borne infection risk. It also notes that UNAIDS records no case of HIV transmitted by a tattoo needle, on the grounds that the needle holds no reservoir of blood. Both of those sentences are in the source; neither cancels the other.
+### how
+**The day.** Arrive about 8:00. Buy the offering before going in — flowers, incense and cigarettes of Luang Phor Pern's brand, 150 baht as of November 2022 — take off your shoes, sit down in the line and take a number. People are tattooed in groups of roughly twenty, and the monk blesses each batch of offerings as the group comes up.
+
+**You do not choose.** The first is almost always the **Gao Yord**, nine spires, in the centre of the upper back and slightly onto the neck. The second extends it to **Yeesip Gao Yord**, twenty-nine spires, across the shoulders. After those two the body is considered open, and what comes next is what the monk judges will do you good.
+
+**The hands.** Two people who have just been tattooed stay behind to hold the next person still and keep the skin flat. That custom has survived the arrival of the electric machine, which is now what most of the work is done with.
+
+**For women** the monk uses a transparent ink and wears a glove, so as not to touch a woman's body.
+Sources: s:wp-wat-bang-phra, s:wp-yantra-tattooing
+
+## A camp is not a school (gym/camp-vs-school)
+Thai: ค่ายมวยไม่ใช่สำนักเรียน
+### what
+Thai distinguishes *khai muay*, a boxing camp, from *samnak rian*, a school of instruction, and the difference is not size.
+### story
+The Thai article puts it directly: a *samnak rian* has a head — a master whose skill and name are known and respected — who means to pass the knowledge on so it is not lost, and who teaches only students he judges suitable. A *khai muay* is the professional arrangement: it houses fighters, matches them and takes a cut.
+
+*Inference —* almost every place a visitor trains at is a camp, and there is nothing wrong with that. It is worth knowing which word applies before assuming a lineage is on offer.
+Sources: s:thwp-มวยไทย
+
+## What to ask before paying a month (gym/choosing-a-gym)
+Thai: ถามอะไรก่อนจ่ายรายเดือน
+### what
+Five questions, and what each answer tells you.
+### story
+**How many of your fighters fought this month, and where?** A camp that matches fighters is a camp inside the sport. A gym where nobody fights is a fitness class with Thai vocabulary, which is a fine thing to buy and a different thing.
+
+**Who holds pads for me, and are they the same person each time?** Pads are the session. A trainer who learns your habits is the whole difference between a month of training and a month of exercise.
+
+**How many people are in the afternoon session?** Two rounds of pads each is the constraint, and it is set by trainer-to-student ratio, not by the timetable on the wall.
+
+**Do beginners clinch here?** Clinching is where muay thai stops being kickboxing, and also where a first-timer gets hurt by accident. Both answers are legitimate; a gym with no answer is not paying attention.
+
+**What happens if I want to fight?** Ask even if you do not. The answer tells you whether the place has a route into the sport or only a route into its classes.
+Sources: s:wp-muay-thai
+
+## Training on a study visa (gym/ed-visa)
+Thai: วีซ่านักเรียนเพื่อฝึกมวย
+### what
+Thailand's non-immigrant visa categories include study, and a registered muay thai school can be the reason for one. This is a long-standing, ordinary arrangement, not a loophole.
+### story
+*Inference —* the reason this matters is arithmetic. A visa exemption stamp gives you weeks. Muay thai does not work in weeks: the shin needs months, the clinch needs months, and every fighter on this site started as a child and trained daily for years. Anyone serious about training in Thailand runs into the visa before they run into a plateau.
+
+What this project can say is what the categories are, because they are published. **What it does not have on this disk:** current fees, current processing times, the current list of schools approved to sponsor, the current in-country extension rules, or what changed last month. Those move, they move without notice, and a page that printed them would be wrong before the next reader arrived.
+
+**Who to ask.** The people who publish this site also run **[Chiang Mai Visa Desk](https://chiangmaivisadesk.com/)**, which answers visa questions for Thailand, and is happy to take one about training. That is a sibling business, said so plainly: it is the publisher's own, not an independent recommendation and not a paid placement by anybody else.
+### how
+Two categories are relevant and they are not the same thing.
+
+**Type ED** is the study visa — *to study; to come on a work study tour or observation tour; to participate in projects or seminars; to attend a conference or training course; to study as a foreign Buddhist monk*.
+
+**Type B** is the business category, and its own published description includes **"attend scuba diving, muay Thai, and massage courses"** — the sport is named, in the list, by the state.
+
+Which one a given school sponsors depends on how that school is registered, and that is the question to ask before paying anyone.
+Sources: s:wp-visa-policy-of-thailand, s:cmvd
+
+## Every gym on the map (gym/the-gym-map)
+Thai: ทุกยิมบนแผนที่
+### what
+A census of everywhere OpenStreetMap knows muay thai is trained, worldwide, taken two ways at once and then compared.
+### story
+**527 rows, 58 countries.** Thailand 113, the United States 67, Brazil 64, the United Kingdom 31, Germany 30, Canada 28, Spain 16.
+
+**The tag found 275 and the names found 252 more.** Only 53 rows carry both. The sport's own key, `sport=muay_thai`, is used 49 times in the whole database according to taginfo — so more than half of what is on the map is there because a gym put the word in its own name, not because a mapper reached for the right key.
+
+**And the floor is far below the number.** The English article records **more than 3,800 muay thai gyms overseas in 2020**. The map has 414 outside Thailand. This is a census of OpenStreetMap, not of the sport, and it is short by an order of magnitude.
+
+*Inference —* the shape is still worth having. Brazil with 64 and the Netherlands and France between them with dozens is the K-1 and Chute Boxe inheritance showing up in a volunteer map twenty years later.
+### how
+Two Overpass queries. One asks for the tag — `sport=muay_thai` and its spellings. One asks for the name — anything carrying *muay*, มวย, ムエタイ, 무에타이, муай, 泰拳, *thaibox* or *boxe thaï*. Country comes from point-in-polygon against Natural Earth at 1:50m, not from a geocoder.
+### notes
+Three traps, all found and all kept out of the count. Thai is written without spaces, so มวย matches inside หมวย — Muay, a nickname — and inside มวยผม, a bun of hair: twenty of the first Thai matches were noodle shops, a butcher, a beauty salon and two statues of the earth goddess wringing out her hair. In Latin script *muay* matches inside Turkish *muayene*, a medical or vehicle inspection, forty times over, and inside Filipino *Pamuayan* and Indonesian *Mamuaya*. Matching at word level and requiring a facility tag clears all three; 209 rows were dropped and every reason is in the harvest file.
+Sources: s:osm-gyms, s:taginfo, s:wp-muay-thai, s:naturalearth
+
+## The bag (drill/bag-work)
+Thai: กระสอบทราย
+### what
+Rounds on a heavy bag: power, and the bone.
+### story
+The bag is where the shin is made. Repeated striking of a dense object thickens the bone — cortical remodelling — and there is no shortcut and no bottle of anything that does it faster.
+
+*Inference —* bag rounds come after pads because the point is throwing hard while tired, which is the fourth round of a fight.
+Sources: s:wp-muay-thai
+
+## Clinch (drill/clinch-work)
+Thai: ซ้อมวงใน
+### what
+Two people fighting for the inside position, over and over, until the session ends.
+### story
+It is the least fun thing in the gym and the part that separates this sport from kickboxing. A round of clinch with someone better than you is twenty minutes of being moved around by the head.
+
+*Inference —* it is also the thing that does not transfer from any other striking art, and so the thing a visiting kickboxer is worst at on day one.
+Sources: s:wp-muay-thai
+
+## Your first session (drill/first-session)
+Thai: รอบซ้อมแรกของคุณ
+### what
+What actually happens, in order, at a gym in Thailand that takes walk-ins.
+### story
+Two things nobody tells a first-timer.
+
+**The shin hurts before the lungs do.** A shin that has never hit anything will bruise on a pad on day one and the bruise is on the bone.
+
+**Two rounds of pads is not a small amount.** A pad round is three minutes of throwing everything you have at a man who is also hitting you back with the pads. Two of those is the ceiling for a beginner and a trainer who gives you five is not being generous.
+
+*Inference —* the second morning is the test. Everybody gets through the first session on adrenaline; the gyms are full of people who did one and full of people who did sixty, and almost nobody in between.
+### how
+Run. Skip. Shadow. Wrap hands. Oil on the legs. Two rounds of pads, or three. Bag. Clinch if they clinch beginners. Sit-ups nobody counts. Stretch. Two hours.
+Sources: s:wp-muay-thai
+
+## Pads (drill/pads)
+Thai: เตะเป้า
+### what
+Rounds with a trainer holding Thai pads — thick forearm shields — calling combinations and hitting back.
+### story
+This is the session. A pad round is a conversation: the trainer calls, you throw, he corrects by hitting the gap you left. He wears a belly pad so the body kick and the knee have somewhere to go at any moment.
+
+*Inference —* the quality of a gym is the quality of its pad holders and the number of students per one of them. Everything else in the timetable you could do in a park.
+Sources: s:wp-muay-thai
+
+## Roadwork (drill/roadwork)
+Thai: วิ่ง
+### what
+Running, twice a day, before the heat and after it.
+### story
+Both sessions open with it. The morning run is before six because after six it is thirty degrees and climbing.
+
+*Inference —* it is not conditioning in the gym-programme sense. It is the thing that makes five rounds possible, and it is the first thing a fighter who is about to lose has already stopped doing.
+Sources: s:wp-muay-thai
+
+## Skipping and shadow (drill/shadow)
+Thai: กระโดดเชือกและชกลม
+### what
+Rope, then shadow boxing — the movements thrown at nobody.
+### story
+Shadow is where the shape is fixed, because nothing is pushing back. A trainer watching shadow is watching the hips on the kick and the hand that drops.
+
+*Inference —* it is also the only part of the session a beginner can do wrong for a month without finding out.
+Sources: s:wp-muay-thai
+
+## Sparring (drill/sparring)
+Thai: สปาร์
+### what
+Light to medium contact, because a fighter with a card booked cannot afford to be hurt in the gym.
+### story
+The English article is clear that sparring is "often a light to medium contact exercise" for exactly that reason, and that specific things get trained in it — close range, clinch and knees only, cutting off the ring, keeping an aggressor at distance.
+
+*Inference —* a gym where the sparring is hard every day is a gym that is not preparing anyone for anything.
+Sources: s:wp-muay-thai
+
+## The gambling floor (rule/betting)
+Thai: การพนัน
+### what
+Legal betting inside the licensed stadiums, conducted by hand signal, in play, at odds that move between rounds.
+### story
+A Bangkok Post columnist quoted in the English article puts the annual figure at **about 40 billion baht** and is blunt about what it means: "Thai professional boxing is all about gambling and big money." A camp manager quoted in the same place gives the other half — "Without the gamblers, the sport would pretty much be dead. They're killing it off, but they're also keeping it alive."
+
+The floor is the loud section behind the cheap seats, and what looks like supporters shouting is buying and selling. Learn the hand signals and you can read the fight without knowing the fighters.
+
+Fixing exists. The article records a fighter arrested for throwing a fight at Rajadamnern in December 2019, and puts the going rate at 60,000 to 150,000 baht to lose on purpose — which is more than most fighters earn for winning.
+Sources: s:wp-muay-thai
+
+## The doctor, and the cut (rule/doctor-stoppage)
+Thai: หมอสนาม
+### what
+The ringside doctor inspects cuts between rounds and can end a fight over one.
+### story
+This is the elbow's delivery mechanism. An elbow to the eyebrow opens a cut that bleeds into the eye; the doctor looks at it at the bell; the fight is over.
+
+*Inference —* for a fighter behind on the cards with two rounds left, the cut is the shortest route left, and that is why the fourth round of a one-sided fight suddenly becomes an elbow fight.
+Sources: s:wp-muay-thai
+
+## What is not allowed (rule/fouls)
+Thai: สิ่งที่ผิดกติกา
+### what
+Headbutts, biting, eye attacks and strikes to a downed opponent are out everywhere. The interesting exception is the groin.
+### story
+The English article records that strikes to the groin were **permitted until the late 1980s**, and are "still permitted in Thailand itself, and in club or competition events that abide to the traditional rules". Fighters wear a hard cup; that is what the cup is for.
+
+The other silent rule is the head. Thai sources note that some manuals count **nine** weapons rather than eight by adding the head, and **ten** by adding the backside. Neither is legal in the ring, which is exactly why the count that survived into the sport's English name is eight.
+Sources: s:wp-muay-thai, s:thwp-มวยไทย
+
+## What a fighter is paid (rule/purse)
+Thai: ค่าตัว
+### what
+Purse figures, and the cuts taken out of them before the fighter sees anything.
+### story
+The English article gives three figures and they are worth holding together. In the 1980s and 1990s top fighters commanded **up to 200,000 baht**. In 2016 a payout to a superstar was **about 100,000 baht**, ranging as high as 540,000. And the purse is "sought as a means of support for the fighters and their families" **after other parties have their cut** — the camp, the trainer, the manager.
+
+Set that against the 40 billion baht a year estimated to move through the betting, and against the note in the same article that the going rate to lose a fight on purpose is 60,000 to 150,000 baht.
+
+*Inference —* a sport where throwing a fight pays the same as winning one is not being held together by its purses.
+Sources: s:wp-muay-thai
+
+## Five rounds of three minutes (rule/rounds)
+Thai: ห้ายก ยกละสามนาที
+### what
+Five rounds of three minutes, two minutes of rest between each. A professional card runs eight to ten of these in an evening.
+### story
+Two minutes is a long rest — boxing gives one — and it is the reason the fifth round of a muay thai fight is not the shambles the fifth round of a boxing match can be.
+
+*Inference —* the long rest also gives the gambling floor time to re-price. Odds move between rounds, out loud, and the noise between the bells is people buying the second half of a fight at a new number.
+
+The ring itself arrived late: Thailand's first permanent one was built at Suan Kulap College in **1921**, and rounds until then were timed by a pierced coconut shell sinking in a barrel of water.
+Sources: s:wp-muay-thai
+
+## How a fight is actually scored (rule/scoring)
+Thai: การให้คะแนน
+### what
+Three judges, five rounds, one decision. Everything else about it is different from boxing, and the differences are what make a visitor think the scoring is broken.
+### story
+*Tradition —* stadium scoring in Thailand is not that, and is not written down anywhere a visitor can read it. What follows is how it is described by people inside the sport, and this project marks it as tradition rather than citing a rulebook it has not got.
+
+**The fight is scored as one thing.** Rounds one and two are treated as assessment and are frequently scored even by all three judges. The decision is made in rounds three, four and five, and a fighter who was behind after two has lost nothing.
+
+**Effect beats volume.** A kick that folds a man scores; six punches that do not move him score nothing. Being knocked off balance, dumped or visibly hurt is what a judge is watching for.
+
+**Kicks and knees outrank punches and elbows.** Not because they are harder — an elbow ends more fights — but because the scoring tradition treats them as the art's own weapons.
+
+**Walking forward is not scoring.** Aggression that lands nothing is read as clumsiness, and the man going backwards while landing is ahead.
+
+*Inference —* every one of those rules makes sense if you assume the audience is betting, in play, on a five-round arc. You cannot bet on a fight that is decided in round one.
+### how
+The written amateur rule, from IFMA, is narrow: a strike scores if it connects without being blocked, and a strike that lands on a glove, forearm, shin or foot does not score. If the scores are level at the end, the fighter who landed more full-contact blows wins.
+Sources: s:wp-muay-thai
+
+## The cup (kit/cup)
+Thai: กระจับ
+### what
+A hard steel groin guard, worn under the shorts and tied with a cord.
+### story
+Heavier and harder than anything worn in western boxing, for the reason given under the fouls: in Thailand under traditional rules, the groin is a legal target. The cup is not a precaution against an accident. It is equipment for an attack that is allowed.
+Sources: s:wp-muay-thai
+
+## Gloves (kit/gloves)
+Thai: นวม
+### what
+Padded gloves, plus a hard groin cup, adopted in the late 1920s. Modern fights use 8oz or 10oz depending on weight; a gym will hand a beginner 14oz or 16oz.
+### story
+The order of adoption in the English article is worth reading twice: gloves and hard groin protectors came in "during training and in boxing matches against foreigners" — and rope-binding "was still used in fights between Thais" until a death in the ring settled it.
+
+So the glove arrives as a condition of the international fixture, not as a safety reform, and the safety reform follows it.
+
+A heavier glove is a bigger surface and a slower hand, so gym sparring in 16oz is not the same sport as a fight in 8oz. That is a standard thing for a beginner to misread about their own progress.
+Sources: s:wp-muay-thai
+
+## The rope (kit/kaad-chuek)
+Thai: คาดเชือก
+### what
+Hand-wrapping in hemp rope or raw cotton thread, used instead of gloves until the late 1920s. *Khat chueak* is literally to gird with rope.
+### story
+The English article is specific about what the rope did: knots placed over the knuckles made a strike "more abrasive and damaging", while the wrap protected the hand underneath. Chaiya's account uses raw cotton thread rather than hemp, and puts a prajiat round the head as well.
+
+It ended after a death in the ring. Fighters went to gloves and to cotton coverlets over the feet and ankles, and the older form acquired a new name — *muay boran* — once the new one had taken the old one's.
+
+*Tradition holds —* the ropes were dipped in water, and in some tellings in resin and ground glass. The water is in the article, attached to the account of why the straight knee was risky; the glass is folklore, and this project has no source for it.
+Sources: s:wp-muay-thai, s:thwp-มวยไทย
+
+## The oil (kit/nam-man-muay)
+Thai: น้ำมันมวย
+### what
+The camphor and menthol liniment rubbed into a fighter's legs before a fight, and sold in every pharmacy in Thailand in a small yellow bottle.
+### story
+It smells like the sport. What it does is raise the skin temperature and distract from soreness, which is not the same as warming a muscle — a fighter still skips and shadow-boxes.
+
+*Inference —* the reason a gym insists on it before pads is partly the rub itself: two minutes of someone working your calves is a check for damage as much as a preparation.
+Sources: s:wp-muay-thai
+
+## The shorts (kit/shorts)
+Thai: กางเกงมวย
+### what
+Short, wide-legged satin shorts with a broad elastic waistband, carrying the gym's name in Thai across the front.
+### story
+The cut is functional. A round kick to the head takes the knee past the ear, and anything that grips the thigh stops it.
+
+The lettering is not decoration either: it is the camp's name, and in Thailand the camp name is part of the fighter's name. Buakaw Banchamek, Dieselnoi Chor Thanasukarn, Apidej Sit Hirun — the second word is where he trains.
+
+*Inference —* a foreigner in shorts bought at a market is wearing a gym's name like a football shirt, which Thai people read exactly as what it is and mind less than the internet suggests.
+Sources: s:wp-muay-thai
+
+## Takrut (kit/takrut)
+Thai: ตะกรุด
+### what
+A sheet of metal — often copper, sometimes lead, silver or gold — inscribed with a yantra and rolled into a tube, then bound with cord and worn on the body.
+### story
+The same syllables in the same script as a tattoo, on a surface that can be taken off, given away or buried. Thai accounts of amulets list the takrut among the things a warrior carried into battle before the moulded Buddha image took over that job — alongside the prajiat.
+
+*Inference —* the family is what matters. Yant on skin, yant on cloth at the arm, yant in metal at the waist, yant braided into the cord on the head. A fighter walking to the ring is usually wearing three of the four, and they are one practice, not four superstitions.
+Sources: s:wp-takrut, s:wp-thai-buddha-amulet
+
+## Boxers at Angkor, 1431 (story/angkor-1431)
+Thai: นักมวยที่นครธม พ.ศ. 1974
+### what
+King Borommarachathirat II of Ayutthaya sent four forces against Angkor Thom, and the victory inscription lists groups of Siamese boxers among them.
+### story
+The inscription of Khun Sri Chaiya Raj Mongkol Thep, N.M. 78, face 2, dated 1431, names the officer, the three targets — Angkor Thom, Phimai, Phanom Rung — and the composition of the column that came home: **groups of Siamese boxers**, with elephant and horse battalions.
+
+*Inference —* a boxer inside an order of battle is not a sportsman and not a demonstrator. He is infantry with a specialism, which is what the sport was for about five hundred years before it was anything else.
+Sources: s:wp-muay-thai, s:wp-ayutthaya-kingdom
+
+## The law that would not punish it (story/ekathotsarot-law)
+Thai: พระอัยการเบ็ดเสร็จ
+### what
+A clause in the Miscellaneous Laws of the reign of King Ekathotsarot, 1590 to 1605, quoted in the English article.
+### story
+"CLAUSE 117: ARTICLE I. Second-class people who fight by boxing (Muay) or wrestling, which then results in injuries or death, cannot be penalized…"
+
+*Inference —* a legal exemption is a more reliable witness than a chronicle, because it is written to solve a problem somebody actually had. For a court to write this down, men must have been boxing often enough, and dying often enough, that magistrates needed telling what to do.
+
+Note who it covers. *Second-class people* — commoners. The exemption is for the fights in the field behind the temple, not for the ones in front of the throne.
+Sources: s:wp-muay-thai, s:wp-ekathotsarot
+
+## What an evening is shaped like (story/fight-night)
+Thai: รูปร่างของหนึ่งค่ำคืน
+### what
+The running order of a card, and where in it to arrive.
+### story
+A card runs eight to ten fights. The early ones are the youngest fighters, often children, and the crowd is thin. The middle of the card is where the best matched fights are and where the betting floor is loudest. The main event is the biggest names, and is not always the best fight.
+
+*Inference —* arriving for the main event is arriving for the last and least interesting hour, at the price of the whole evening. Arrive in the middle.
+
+Each fight: the fighters come in, the mongkhon is on, the band starts, the wai kru takes about four minutes, the trainer takes the mongkhon off, five rounds of three with two minutes between, decision. Then the next pair.
+Sources: s:wp-muay-thai
+
+## The ring arrives, 1921 (story/first-ring)
+Thai: เวทีมาถึง พ.ศ. 2464
+### what
+The first permanent ring in Siam, at Suan Kulap College, and everything that came in with it.
+### story
+The sequence in the English article is tight enough to list:
+
+- **1913** — British boxing enters the curriculum at Suan Kulap College. The first descriptive use of the term *muay thai*.
+- **1919** — British boxing and muay taught as one subject there. Judo too.
+- **1921** — the first permanent ring in Siam, at that school, used for both.
+- **1923** — Suan Sanuk Stadium, near Lumpini Park: the first international-style three-rope ring with red and blue padded corners.
+- **Under Rama VII (1925–1935)** — codified rules, referees, and rounds timed by a clock rather than by kick.
+
+*Inference —* the modern sport was assembled in a school, next to a foreign sport, by people teaching both. The name *muay thai* exists because two kinds of boxing were being taught in the same room and somebody needed to say which one they meant.
+Sources: s:wp-muay-thai
+
+## The King's Guard, 1455 (story/kings-guard)
+Thai: กรมทนายเลือก พ.ศ. 1998
+### what
+Under the Law of the Military and Provincial Hierarchy of 1455, boxing was folded into the Ayutthaya court as the King's Guard Department — with a sub-division, the *Krom Nak Muay*, the department of boxers.
+### story
+Two director-generals, with the noble titles **Khun Phakdee Asa** and **Khun Yothaphakdee**. The boxers were picked by the king out of competition, and their duties were to guard him and patrol the palace — in peacetime by fighting each other, in war by going with him.
+
+The historical term for one of them is **ทนายเลือก** *thanai lueak*, the chosen. It stayed on the books until the reign of King Mongkut, 1851 to 1868.
+
+*Inference —* four hundred years of a state selecting fighters by tournament, for a job. The stadium system that replaced it kept the selection and changed the employer.
+Sources: s:wp-muay-thai, s:wp-borommatrailokkanat
+
+## A French diplomat, 1687 (story/la-loubere-1687)
+Thai: ทูตฝรั่งเศส พ.ศ. 2230
+### what
+Simon de la Loubère, envoy of Louis XIV to the court of King Narai, wrote down what Siamese men did with their time.
+### story
+From *Du Royaume de Siam*: the heat wearies them; wrestling and fighting with fists or elbows are the trades of showmen; the boat races are their only exercise.
+
+*Inference —* the sentence is dismissive and that is what makes it useful. A visitor who thought little of it still recorded, in 1687, that fist-and-elbow fighting was **a trade somebody was paid for** — not a military art, not a ceremony. Professional prize-fighting in Siam is documented by a man who was not impressed by it.
+
+Eleven years later the same court was training it in a hurry. After the revolution of 1688, with French warships reported off Puducherry and Mergui, King Phetracha ordered recruitment and training in wrestling, muay and krabi-krabong — and a letter of 9 June 1699 says the training was a heavy burden on the veterans.
+Sources: s:wp-muay-thai, s:wp-simon-de-la-loub-re
+
+## The hermit's school (story/mai-sastra)
+Thai: สำนักพระฤๅษีสุกกะทันตะ
+### what
+A school at Khao Samo Khon in Lavo — now Lopburi — kept by a hermit called Sukkathanta, teaching a subject called *Mai Sastra*.
+### story
+Thai Wikipedia's history of the sport dates it to **AD 657, the Hariphunchai period**, and names the subject: **มัยศาสตร์**, *Mai Sastra* — glossed there against Kannada ಮೈಶಾಸ್ತ್ರ, where *mai* is courage or the facing of danger and *sastra* is a manual or body of knowledge. It covered boxing, the sword, the bow, and the handling of elephants and horses.
+
+The students it names are the point. **Mangrai**, who founded Chiang Mai. **Ngam Mueang**, who ruled Phayao. **Ban Mueang** and **Ram Khamhaeng** of Sukhothai. Four northern and central rulers, in one classroom, in the city that one of the four named boxing styles is named after.
+
+The hermitage is still visitable, at Wat Khao Samo Khon in Lopburi.
+
+*Inference —* hold this the way you would hold any origin story that arrives already tidy. A seventh-century date, a single named teacher, and a class list of exactly the kings a national history would want in it, is a story doing work. What it is good evidence of is that the tradition places the sport's teaching **north and central rather than in Ayutthaya**, and that it wants Lanna in the room. The Mangrai law of 1296 is the harder evidence for that, and it is on its own page.
+Sources: s:thwp-ประวัติศาสตร์มวยไทย, s:thwp-อาณาจักรหริภุญชัย, s:thwp-พญามังราย, s:thwp-พญางำเมือง
+
+## The Mangrai law, 1296 (story/mangrai-law)
+Thai: มังรายศาสตร์
+### what
+The oldest law code of Lanna, compiled from the Indian Dharmaśāstra, in 27 sections. The English article on muay thai names it as the oldest recorded use of the word *muay*, in section seven, among eighteen kinds of quarrel.
+### story
+Dated **1296**, in the reign of Mangrai, who founded Chiang Mai four years earlier. Written in Northern Thai on palm leaf.
+
+Its other sections say what kind of document it is: deserting a battle, dying in the middle of a battlefield, fighting a war and coming back with an enemy's head or without one, the death of a minister. It is a war-state's code.
+
+*Inference —* and *muay* appears in it not as an art or a display but under **quarrels** — one of eighteen ways people get into a fight that the law then has to sort out. That is the earliest thing anyone can point to in writing, and it describes the sport as a public order problem in a northern kingdom.
+
+Every founding story on this site is later, southern, and better dressed.
+Sources: s:thwp-มังรายศาสตร์, s:wp-muay-thai, s:thwp-อาณาจักรล้านนา
+
+## 17 March, and where the date comes from (story/nai-khanom-tom-day)
+Thai: 17 มีนาคม วันมวยไทย
+### what
+Muay Thai Day, kept on 17 March for Nai Khanom Tom.
+### story
+The Glass Palace Chronicle dates the raising of the Shwedagon's new umbrella to the full moon of Tabaung, CS 1136 — 17 March 1774. The Thai chronicle places Nai Khanom Tom's fights at the festival for that event. The Burmese record does not mention the fights; the Thai record does not give a date.
+
+So the national day is the Burmese date for the umbrella, with the Thai story hung on it.
+
+*Inference —* that is not a scandal. It is how a commemoration gets a date when the source that carries the event does not carry one. Worth knowing, before repeating it as the anniversary of a fight.
+Sources: s:thwp-นายขนมต-ม
+
+## The same sport, four borders (story/neighbours)
+Thai: กีฬาเดียวกัน สี่ชายแดน
+### what
+Myanmar, Cambodia, Laos and the Malay peninsula each have a striking art with the same eight weapons and a different name.
+### story
+**Lethwei**, in Myanmar, keeps the headbutt — nine weapons, not eight — and was fought bare-knuckle. **Kun khmer** in Cambodia, **muay lao** in Laos, **tomoi** on the Malay peninsula.
+
+The dispute is public and recurring, most visibly over what the sport is called at the SEA Games when Cambodia hosts. Both sides argue from temple carvings and from chronicles, and neither set of evidence is decisive, because the thing they are arguing about — a regional practice older than any of the modern states — does not belong to a state by the nature of what it is.
+
+English Wikipedia's own note is that the invented-tradition process in Thailand attached the sport to an official cultural institution and **separated it from these neighbours**. The separating is the recent part.
+Sources: s:wp-muay-thai, s:wp-lethwei
+
+## Rama V, and the making of a national sport (story/rama-v-golden-age)
+Thai: รัชกาลที่ 5 กับการทำให้เป็นกีฬาของชาติ
+### what
+Under King Chulalongkorn, 1868 to 1910, boxing was organised from the top: nationwide tournaments, a Royal Boxing Centre — *Muay Luang* — and the noble rank of *Muen* granted to the winner of each match.
+### story
+The Royal Boxing Centre administered both muay thai and krabi-krabong, on the model of the Ayutthaya boxers' regiment. In **1887** the Department of Education was established and muay thai went into the national curriculum, for teacher-training colleges and for the Chulachomklao Royal Military Academy.
+
+In **1910** the king called fighters in from the provinces to fight at the cremation of his son Prince Urubongse, and gave the rank of *muen* to the three best — from Lopburi, Khorat and Chaiya.
+
+*Inference —* that is the whole machinery in one reign. Select by tournament, reward with rank, put it in the schools, and then name the regional styles after the three men who won at a funeral. The four lines are downstream of a prize list.
+Sources: s:wp-muay-thai, s:wp-chulalongkorn
+
+## What this site does not have (story/what-we-did-not-do)
+Thai: สิ่งที่เว็บนี้ไม่มี
+### what
+The gaps, listed.
+### story
+- **No fight records.** Thai fight records live in stadium ledgers and promoter spreadsheets, not in any open dataset this project could reach. The win-loss numbers circulating online for Thai fighters are mostly unsourced.
+- **No schedules or ticket prices.** Both Bangkok stadiums change cards and prices with the promotion. A page that printed them would be wrong within a month, so the venue records carry a `check` flag instead.
+- **No gym rankings and no gym reviews.** The map is a census of what OpenStreetMap holds. Nothing here says one gym is better than another.
+- **No current rule on women and the ring** from either Bangkok stadium. The tradition is described; the present rule is not named, because this project has no dated statement of it.
+- **Thasao's twenty-four techniques are a count with no names** in the source used here. They may be named elsewhere; they are not on this disk.
+- **The gym count is short by an order of magnitude** against the 3,800-gyms figure in the literature, and says so on its own page.
+Sources: s:osm-gyms, s:wp-muay-thai
+
+## Why you thought he won (story/why-foreigners-lose-decisions)
+Thai: ทำไมคุณคิดว่าเขาชนะ
+### what
+The most common experience a first-time spectator has, and the five reasons for it.
+### story
+**You scored round one.** Nobody else did. The first two rounds are assessment and are commonly scored even.
+
+**You counted punches.** Punches are the lowest-value thing in the arsenal. Six that do not move a man are worth less than one kick that folds him.
+
+**You rewarded forward pressure.** Walking at someone is not scoring. The man going backwards and landing is ahead.
+
+**You scored the clinch as nothing happening.** It is where a Thai crowd gets loudest, because control in there is the clearest statement of who is handling whom.
+
+**You watched the fighters.** The room was watching the odds. The noise you could not place was money changing hands, and it tracks the fight better than any commentary you can hear.
+
+*Inference —* none of this means the decision was right. It means it was consistent, and that a scorecard is a language rather than an arithmetic.
+Sources: s:wp-muay-thai
+
+## Thai troops in France, 1914–18 (story/ww1-france)
+Thai: ทหารไทยในฝรั่งเศส
+### what
+Thailand sent troops to France with the allies, and they taught what they knew. The English article records this as the route by which the word reached Europe.
+### story
+*Le Sport Orient*, published in Mainz, is quoted: the boxers are agile, strong and tough; the sport is hard to get to see; and "once again, it makes the French feel that Siam is one of the truly remarkable nations of Asia."
+
+*Inference —* so the first foreign audience for muay thai was a European one, in a war, twenty years before the two Bangkok stadiums existed. The export is older than the domestic institution.
+Sources: s:wp-muay-thai
+
+## Bangkok (place/bangkok)
+Thai: กรุงเทพมหานคร
+### what
+Where a fighter's career is decided, regardless of where he is from.
+### story
+Rajadamnern opened in 1945 on a royal processional avenue; Lumpinee in 1956 under the army; Channel 7's ring is behind a television studio at Mo Chit and free to enter. The first permanent ring in the country was built here in 1921, at a school.
+
+*Inference —* the sport's whole geography is a funnel. The provinces make the fighters, Bangkok holds the belts, and a career is the journey between the two.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai
+
+## Chaiya (place/chaiya-place)
+Thai: ไชยา
+### what
+An old town on the Gulf coast, once a seat of Srivijaya, now best known outside Thailand for a boxing style and a forest monastery.
+### story
+The fights were at Sala Kao Hong, the nine-room pavilion at Phumriang, at the Chak Phra festival: a dirt floor, four posts, hemp rope, no weigh-in, five rounds rotated between every pair on the bill.
+
+The pavilion was later pulled down by the governor's third son. The well is still there.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai
+
+## Chiang Mai (place/chiangmai)
+Thai: เชียงใหม่
+### what
+The northern city, and the densest cluster of foreigner-facing gyms outside Phuket.
+### story
+The harvest found fourteen rows inside the Chiang Mai basin: gyms, camps, one shop selling Twins and Fairtex kit, and a stadium in town. Those are places OpenStreetMap knows about, not a ranking and not a complete list — a gym nobody has mapped is missing from this and present in the city.
+
+*Inference —* the city is a training destination rather than a fighting one. The cards here are small, the gyms are full, and most of the people in them arrived on a thirty-day stamp.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai
+
+## Isan (place/isan)
+Thai: อีสาน
+### what
+Twenty provinces on the Khorat plateau, Lao-speaking, the driest farmland in the country and the lowest household incomes.
+### story
+*Inference —* the link between the region and the sport is not culture, it is the purse. A boy who fights is a boy earning, and a camp that takes him in is feeding and schooling him. Read the fighter pages on this site and the pattern is flat: started at eleven, started at twelve, family was poor.
+
+Korat, on the plateau's western edge, is also one of the four named schools — heavy fists, and a list of twenty-one techniques full of carp and quail and rats rather than gods.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai
+
+## Nakhon Ratchasima (place/korat-place)
+Thai: นครราชสีมา
+### what
+The largest province in Thailand by area and the entry point to Isan from the central plain.
+### story
+Its man at the Rama V bouts was Nai Daeng Thai-prasert, made *Muen Changat Choeng Chok*. The rope here was wound to the elbow, and the punch the province is named for in the rhyme travels further than anyone else's.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai
+
+## Lanna (place/lanna)
+Thai: ล้านนา
+### what
+The northern kingdom — Chiang Mai, Chiang Rai, Lamphun, Lampang, Phrae, Nan, Phayao — founded by Mangrai and independent of Ayutthaya and Siam for most of its history. Its people call themselves Tai Yuan.
+### story
+It matters here for three reasons, and they are separable.
+
+**One: the earliest writing.** The Mangrai law of 1296 carries the oldest recorded *muay* anybody can point to, in Northern Thai, on palm leaf.
+
+**Two: the claimed origin.** The Thai-language history of the sport begins the craft with *jerng*, the Lanna martial dance — not in Ayutthaya, not in the south.
+
+**Three: the drum.** The sabatchai drum is beaten with the elbow, the knee and the head, and the oldest one found is bronze, from Hot district in Chiang Mai.
+
+*Inference —* and then the national story goes elsewhere. The four canonical schools are Korat, Lopburi, Chaiya and Thasao: northeast, centre, south, and the northern edge at Uttaradit, which is below Lanna proper. Lanna is in the origin and out of the canon. A kingdom annexed late and awkwardly does not get a line in the rhyme.
+Sources: s:thwp-อาณาจักรล้านนา, s:wp-lan-na, s:thwp-ไทยวน, s:thwp-พญามังราย
+
+## Uttaradit (place/uttaradit)
+Thai: อุตรดิตถ์
+### what
+A northern province on the Nan river, home of Muay Thasao and of Phraya Phichai.
+### story
+The line from here is the one the rhyme uses as its yardstick — *faster than Thasao* — and the one whose twenty-four techniques are recorded as a count with no names.
+Sources: s:thwp-มวยไทย, s:wp-muay-thai
+
+## IFMA (org/ifma)
+Thai: สหพันธ์มวยไทยนานาชาติ
+### what
+The International Federation of Muaythai Associations, founded 1993, the amateur governing body, with 128 member countries.
+### story
+In 2006 the sport was admitted to SportAccord, whose rules say no sport may carry a country's name. So IFMA amended its constitution and the sport became **Muaythai**, one word, for Olympic purposes.
+
+The rest followed: the World Games in 2017, full IOC recognition on **20 July 2021**, and a demonstration slot at Paris in 2024.
+
+*Inference —* the price of admission was the adjective. A sport whose entire claim is that it is Thai had to stop saying so in its own name to be let in.
+Sources: s:wp-muay-thai
+
+## ONE Championship (org/one-championship)
+Thai: วัน แชมเปียนชิพ
+### what
+A Singapore-based promotion running muay thai under its own rules, and paying the best Thai fighters more than the stadium system does.
+### story
+It is a promotion, not a federation, and that distinction matters: it sanctions nothing outside its own cards. What it does is buy the fighters.
+
+*Inference —* its rule changes all point the same way — shorter, smaller gloves, more finishes — because its product is a broadcast and a five-round points win does not travel. That is the same pressure that produced K-1, and the same pressure that produced the three-rope ring in 1923. Every time this sport has met an international audience it has been asked to be shorter and more conclusive.
+Sources: s:wp-muay-thai
+
+## The Sports Authority of Thailand (org/sat)
+Thai: การกีฬาแห่งประเทศไทย
+### what
+The government agency that sanctions the Professional Boxing Association of Thailand, which governs the professional league.
+### story
+The chain is worth stating plainly, because it explains why the Boxing Act's age limits are a government matter rather than a promoter's: the league is sanctioned by the state, the ranking stadiums are held by the army and by a company on a royal avenue, and the betting inside them is licensed.
+
+*Inference —* this is not a sport with a governing body on top of a market. It is an arm of the state with a market inside it.
+Sources: s:wp-muay-thai
+
+## The World Muaythai Council (org/wmc)
+Thai: สภามวยไทยโลก
+### what
+The professional sanctioning body, established by the Thai government and sanctioned by the Sports Authority of Thailand.
+### story
+Two bodies, two logics. IFMA exists to get the sport into the Olympics and is international by design. The WMC exists because the Thai state wanted the professional belts sanctioned from Bangkok.
+
+*Inference —* in practice neither settles an argument in Thailand. A Lumpinee or Rajadamnern title does.
+Sources: s:wp-muay-thai
+
+## Children in the ring (issue/child-boxing)
+Thai: เด็กบนเวที
+### what
+Thai children fight professionally from single-digit ages. The Boxing Act sets a minimum age for professional competition; the English article says it "was largely being flouted".
+### story
+**What is measured.** Research cited in the English article reports lower IQ in child fighters, correlating with the length of their training, and deaths in the ring do occur. At the 13th World Conference on Injury Prevention in 2018 it was put that up to three percent of the coming generation would grow up with learning disabilities unless children under twelve were banned from bouts.
+
+**What the paediatricians ask for.** Adisak Plitapolkarnpim of CSIP is quoted asking for no head contact under fifteen, no competition at all under nine, and light head contact only between thirteen and fifteen — not a ban on the sport for children, a ban on the head. He also names the 2014 US Department of Labor findings on the worst forms of child labour, and says exploitation "still remains a serious concern".
+
+**What the other side says.** A child fighting is earning, and in a rural household the purse is real money against a real shortfall. Gyms feed, house and school children who would otherwise be working. The sport is also a route out — every name on the people pages here started at eleven, twelve, thirteen.
+
+**What both sides agree on.** Neither argument disputes the scans. The dispute is about what a family is supposed to do instead, and that is a question about rural income, not about boxing.
+
+This project does not resolve it and does not pretend the two positions are the same size: one is a measurement and one is an economy.
+Sources: s:wp-muay-thai
+
+## What ten years of kicks does (issue/head-injury)
+Thai: ผลของการรับแรงสิบปี
+### what
+Injury rates, what they are made of, and the part of the question that is not settled.
+### story
+**Soft tissue is 80 to 90 percent of all injuries** — repeated trauma to the parts that have no padding, in a sport with almost none. Sprains and strains come next, and the article notes that many of those follow an inadequate warm-up, which is an avoidable category. Fractures are third, and they rise with level: nose, carpals, metacarpals, fingers, ribs.
+
+Beginners get hurt more often than professionals and less seriously. As a fighter moves up, the padding comes off and the forces go up.
+
+**And the under-reporting is structural.** The article lists why a fighter does not report an injury: not noticing, refusing to admit it, a raised pain threshold, fear of what the instructor will think, and confusion about what counts as an injury at all.
+
+*Inference —* the numbers for cumulative head trauma in adult muay thai are not in the literature the way they are for American football. What exists is the child-boxing research. Absence of a study is not absence of an effect, and this project does not have the study either way.
+Sources: s:wp-muay-thai
+
+## How old is any of this (issue/invented-tradition)
+Thai: เรื่องนี้เก่าแค่ไหน
+### what
+The line between what is documented and what was assembled later, which runs through almost every origin claim on this site.
+### story
+English Wikipedia carries the counter-reading in its own voice: scholars have described the royalist-nationalist history as **an invented tradition**, constructed for the needs of Thai nationalism, and that construction attached the sport to an official cultural institution and cut it off from its neighbours — muay Lao, lethwei in Myanmar, kun khmer.
+
+Set the dates out and the pattern is visible without argument:
+
+- **1910** — three provincial fighters win at a royal cremation and their home towns become the regional styles.
+- **1913–1919** — the term *muay thai* first appears in the curriculum of a Bangkok school, to distinguish it from British boxing taught in the same room.
+- **1921** — the first permanent ring, at that same school.
+- **Late 20th century** — the official history is codified, and *muay boran* is coined for whatever came before.
+- **A cabinet resolution** — the fifteen mae mai are attributed to a king who died in 1709.
+
+*Inference —* none of that makes the fighting recent. Bare-hand fighting is in the Mungrai law of 1296 and in a French diplomat's account of Siam in 1687. What is recent is the **package**: a national art, with a founder, a date, a canon of thirty techniques and four schools. The sport is old. The story is a hundred years old, and the story is what gets sold.
+Sources: s:wp-muay-thai, s:thwp-มวยไทย
+
+## Women in the ring (issue/women-in-the-ring)
+Thai: ผู้หญิงบนเวที
+### what
+Women fight professionally in Thailand, at every provincial ring and on stadium cards. The restriction that made the sport famous for excluding them was about the raised ring at particular stadiums.
+### story
+*Tradition holds —* the prohibition is not a rule about women fighting. It is a rule about a woman passing under the top rope of a consecrated ring, on the grounds that it would remove the ring's protection. At the stadiums that kept it, women entered over the top rope instead of under it, or did not enter.
+
+This project does not have a current, dated statement of the rule at either Bangkok stadium, and does not print one it cannot name. What it can report is the record: Wikidata's census holds 248 Thai fighters and **five of them are women** — which is a measurement of who gets written about, not of who fights.
+
+Nong Toom went through the middle of all of it in 1998 and the establishment took her up in months, because the gate went up.
+Sources: s:wikidata, s:wp-muay-thai
+
+## chok (term/chok)
+Thai: ชก
+### what
+What the corner shouts when it wants hands.
+### story
+*Chok* is the verb for punching and also the general verb for having a fight — *chok muay*, to box. The corner shouting it is asking for the lowest-scoring weapon, which usually means they want you to close distance rather than to win the round with it.
+Sources: s:thwp-มวยไทย
+
+## fimue (term/fimue)
+Thai: ฝีมือ
+### what
+The word behind *muay femur*, the technician's style.
+### story
+Used far outside boxing — a cook has *fimue*, so does a carpenter. Applied to a fighter it means the thing a Thai crowd is actually paying to see, and it is why a technical fight that looks slow to a visitor is the one the room came for.
+Sources: s:thwp-มวยไทย
+
+## Khom, and the scripts it is not (term/khom-script)
+Thai: อักษรขอม
+### what
+The Khmer-derived script used in central Thailand for Pali, Sanskrit and anything sacred — including yant done there. It is not the only script a yant is written in, and in the north it is not the usual one.
+### story
+Thai took the old Khmer script as its official script around the tenth century, because Thai had no writing system yet. Around the fifteenth century letters were added so it could write Thai, and the result was called **khom** — which is simply the Thai word for Khmer.
+
+From then the two scripts divided the work: Thai script for everything secular, Khom for religious text. Its letterforms have barely changed since Sukhothai.
+
+**And in the north it is a different alphabet.** A yant written in Lanna uses northern Thai — *tua mueang*, the Tham script — or Shan or Tai Lu, and in Laos the Lao Tham script. Lanna kept a writing system of its own for exactly the same job, and the yant done there are in it. A yant tells you where its lineage is from before it tells you what it does.
+Sources: s:wp-khom-thai-script, s:wp-tai-tham-script, s:wp-yantra-tattooing
+
+## khru (term/khru)
+Thai: ครู
+### what
+What a trainer is, and what the ceremony before the fight is aimed at.
+### story
+*Wai khru* is *wai* — the palms-together greeting — plus *khru*. It is the same ceremony Thai schools hold for schoolteachers on a Thursday in June, and the same one a shadow-puppet troupe or a poet performs.
+
+*Inference —* the thing a fighter kneels to at the start of a fight is not a god and not the ring. It is a person who taught him, present or not.
+Sources: s:wp-muay-thai
+
+## muay (term/muay-word)
+Thai: มวย
+### what
+The first half of the sport's name, and a word that on its own means boxing.
+### story
+The English article traces *muay* to Sanskrit *mavya*, from the root *mav* — to bind, to fasten, to pull together into one unit — and notes that Thai defines it both as "to tie" and as "sport boxing".
+
+*Inference —* the fit is almost too good, because the hands were literally bound in rope for most of the sport's life. Whether the word names the wrapping or the gathering of a crowd, the article does not say, and neither does this.
+
+The oldest recorded use of *muay* the article names is in the **Mangrai law, a palm-leaf manuscript of 1296**, in the section on eighteen kinds of quarrel. *Thai* is from *Tai*, free.
+Sources: s:wp-muay-thai
+
+## nak muay (term/nak-muay)
+Thai: นักมวย
+### what
+What a fighter is called. *Nak* is the prefix Thai uses for anyone who does a thing as their work.
+### story
+Same prefix as *nak rian* (a student), *nak khian* (a writer), *nak thurakit* (a person in business). A foreigner who trains gets *nak muay farang* — which the English article glosses simply as "foreign boxer", and which is descriptive rather than pointed.
+Sources: s:wp-muay-thai
+
+## Reading a ram muay (term/ram-muay-reading)
+Thai: อ่านรำมวย
+### what
+What the four minutes before the bell will tell you, if you watch them.
+### story
+A ram muay is taught and belongs to a gym, so a Thai watching can often place the camp from it. Beyond that, three things are worth watching for: whether the fighter takes his time or rushes it; whether his balance holds on one leg through the slow parts; and whether he is looking at the other corner while he does it.
+
+*Inference —* the first tells you about his nerves, the second about his base, and the third about whether he has decided the fight is his already.
+Sources: s:thwp-มวยไทย
+
+## te (term/te)
+Thai: เตะ
+### what
+The other thing the corner shouts, and the one that scores.
+### story
+*Te chiang* is the angled kick, the round kick. *Te* on its own from the corner in round four means they think the round is close and they want it settled with the highest-value thing you own.
+Sources: s:thwp-มวยไทย
+
+## wethi (term/wethi)
+Thai: เวที
+### what
+The word for a boxing ring, and for a stage.
+### story
+*Wethi* is the raised platform — a stage, a ring, a dais. It comes from *vedī*, the raised ground of a Vedic altar.
+
+*Inference —* that etymology sits directly under the tradition that a consecrated ring loses its protection if someone passes under the ropes. The word for the thing was already the word for an altar.
+Sources: s:thwp-มวยไทย
+
+## yok (term/yok)
+Thai: ยก
+### what
+The unit a fight is divided into. Five of them.
+### story
+*Yok wian*, the rotating round, is the format Chaiya used at Sala Kao Hong: every pair on the bill fought round one, then every pair fought round two, and any pair that could not finish five dropped out.
+
+*Inference —* the word being *lift* rather than *round* is a small tell that the unit predates the ring. Something was being raised to mark it.
+Sources: s:thwp-มวยไทย
+
+## Ong-Bak (art/ong-bak)
+Thai: องค์บาก
+### what
+Prachya Pinkaew's film, starring Tony Jaa, which sold muay boran to an international audience that had never heard of it.
+### story
+Its marketing was a negative claim — no wires, no computer graphics, no stunt double — and the claim was the product. What the audience was buying was the absence of the thing Hong Kong action had taught them to expect.
+
+The closing song is called *Mae Mai Muay Thai*, sung by Add Carabao.
+
+*Inference —* the film that taught the world the word taught it the wrong half. Ong-Bak is muay boran: flying elbows, knees off a man's shoulders, techniques that are not legal or not survivable in a ring. The sport in the stadium is five rounds of a man kicking another man in the arm, and the gap between those two products is most of what a first-time spectator has to get over.
+Sources: s:wp-ong-bak, s:maemai-th
+
+## The epic in the technique list (art/ramakien-in-the-ring)
+Thai: รามเกียรติ์ในสังเวียน
+### what
+The Ramakien — the Thai telling of the Ramayana — supplies the cast of the curriculum: Rama, Hanuman, Thotsakan, Sida, Erawan, the nagas, the kumbhanda, Hiranyaksha.
+### story
+Counted off the two lists of fifteen: **fourteen of the thirty** name a figure from the epic or its Hindu antecedents, six name a person by their trade or their people, five name an object or a household job, four name an ordinary animal, and one names the movement.
+
+Lopburi's school list is more concentrated still: five of six.
+
+*Inference —* the Ramakien was the state's own narrative property — painted round the cloister at Wat Phra Kaew, performed as khon at court, versified by Rama I and Rama II. A technique list built out of it is not folk memory. It is a curriculum written by people who had that wall in front of them.
+
+And it is why the names cannot be translated into instructions. *Hanuman presents the ring* is not a description of two fists going up. It is a pointer at a scene everybody in the room had seen painted.
+Sources: s:thwp-รามเก-ยรต-, s:maemai-th
+
+## The fifteen, standing in a courtyard (art/wat-bang-kung-statues)
+Thai: รูปปั้นแม่ไม้ วัดบางกุ้ง
+### what
+Wat Bang Kung in Samut Songkhram — an Ayutthaya-period temple wrapped in the roots of a banyan — has the mae mai and luk mai set up in its grounds as figures.
+### story
+The temple's own history is a war. In 1765 Burmese troops overran the camp built around it; in 1767 Taksin restored the kingdom and put a Chinese guard here; in 1768 the Burmese besieged it again and Taksin and Maha Sura Singhanat drove them off.
+
+*Inference —* a courtyard of boxing statues at a battle site reads as continuous with all of that, and the reading is the point of building them there.
+
+For anyone trying to learn the names: this is the fastest way. Fourteen of the fifteen mae mai are pictures, and here the pictures are three-dimensional and labelled.
+Sources: s:wp-wat-bang-kung, s:maemai-th

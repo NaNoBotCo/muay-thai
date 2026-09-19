@@ -1,0 +1,68 @@
+{
+ "id": "rounds",
+ "type": "rule",
+ "names": {
+  "name": "Five rounds of three minutes",
+  "th": "ห้ายก ยกละสามนาที",
+  "rtgs": "ha yok yok la sam nathi",
+  "said": "Fifteen minutes of work and eight minutes of sitting down.",
+  "said_th": "ทำงานสิบห้านาที นั่งพักแปดนาที"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "body": "conduct"
+ },
+ "text": {
+  "what": "Five rounds of three minutes, two minutes of rest between each. A professional card runs eight to ten of these in an evening.",
+  "story": "Two minutes is a long rest — boxing gives one — and it is the reason the fifth round of a muay thai fight is not the shambles the fifth round of a boxing match can be.\n\n*Inference —* the long rest also gives the gambling floor time to re-price. Odds move between rounds, out loud, and the noise between the bells is people buying the second half of a fight at a new number.\n\nThe ring itself arrived late: Thailand's first permanent one was built at Suan Kulap College in **1921**, and rounds until then were timed by a pierced coconut shell sinking in a barrel of water."
+ },
+ "text_th": {
+  "what": "ห้ายก ยกละสามนาที พักระหว่างยกสองนาที รายการอาชีพหนึ่งคืนมีแบบนี้แปดถึงสิบคู่",
+  "story": "สองนาทีคือการพักที่ยาว — มวยสากลให้หนึ่งนาที — และเป็นเหตุที่ยกห้าของมวยไทยไม่ใช่ความยับเยินแบบที่ยกสุดท้ายของมวยสากลเป็นได้\n\n*อนุมาน —* การพักยาวยังให้เวลากับวงพนันในการตั้งราคาใหม่ ราคาขยับระหว่างยก ดัง ๆ และเสียงระหว่างระฆังคือคนกำลังซื้อครึ่งหลังของไฟต์ที่ราคาใหม่\n\nตัวเวทีเองมาทีหลัง เวทีถาวรแห่งแรกของไทยสร้างที่โรงเรียนสวนกุหลาบใน **พ.ศ. 2464** ก่อนหน้านั้นจับเวลายกด้วยกะลามะพร้าวเจาะรูจมลงในถังน้ำ"
+ },
+ "kin": [
+  {
+   "to": "scoring",
+   "as": "What the five are for.",
+   "rel": "rule"
+  },
+  {
+   "to": "betting",
+   "as": "What happens in the gaps.",
+   "rel": "rule"
+  },
+  {
+   "to": "first-ring",
+   "as": "Where the ring came from.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "tradition",
+    "note": "the coconut clock is widely told and this project has no primary source for it"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

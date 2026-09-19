@@ -1,0 +1,716 @@
+{
+ "type": "venue",
+ "count": 5,
+ "nodes": [
+  {
+   "id": "channel-7",
+   "type": "venue",
+   "names": {
+    "name": "The Channel 7 ring",
+    "th": "สนามมวยเวทีช่อง 7",
+    "rtgs": "sanam muay wethi chong chet",
+    "said": "Free, on a Sunday afternoon, behind a television studio.",
+    "said_th": "เข้าฟรี บ่ายวันอาทิตย์ หลังสถานีโทรทัศน์"
+   },
+   "region": [
+    "bangkok"
+   ],
+   "facets": {
+    "city": "bangkok",
+    "price": "free"
+   },
+   "text": {
+    "what": "The ring behind the Channel 7 studios at Mo Chit, where cards are staged for broadcast and the crowd gets in for nothing.",
+    "story": "Television is the third institution in the sport, after the army and the betting floor, and this is where you can see it working. The card exists to fill a slot; the audience is the set dressing; entry is free because the product is not the ticket.\n\n*Inference —* it is also the one ring in Bangkok where a visitor sees a Thai crowd rather than a crowd of visitors, and that changes what the fight sounds like more than anything happening in the ring."
+   },
+   "text_th": {
+    "what": "เวทีหลังสถานีโทรทัศน์ช่อง 7 ที่หมอชิต จัดรายการเพื่อออกอากาศ และคนดูเข้าฟรี",
+    "story": "โทรทัศน์คือสถาบันที่สามของกีฬานี้ ถัดจากกองทัพและวงพนัน และที่นี่คือที่ที่เห็นมันทำงาน รายการมีอยู่เพื่อเติมช่วงเวลาออกอากาศ คนดูคือฉาก เข้าฟรีเพราะสินค้าไม่ใช่บัตร\n\n*อนุมาน —* มันยังเป็นเวทีเดียวในกรุงเทพฯ ที่ผู้มาเยือนได้เห็นคนดูไทยแทนที่จะเป็นคนดูต่างชาติ และนั่นเปลี่ยนเสียงของไฟต์มากกว่าอะไรก็ตามที่เกิดขึ้นบนเวที"
+   },
+   "kin": [
+    {
+     "to": "lumpinee",
+     "as": "The paid version.",
+     "rel": "venue"
+    },
+    {
+     "to": "betting",
+     "as": "Absent here, and audible for it.",
+     "rel": "rule"
+    }
+   ],
+   "geo": {
+    "lat": 13.8034,
+    "lon": 100.557,
+    "precision": "street"
+   },
+   "sources": [
+    "s:osm-gyms",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:osm-gyms"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "needs_verification": true,
+   "tags": [
+    "watching",
+    "money"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "venue": {
+    "city": "Bangkok",
+    "nights": [
+     "Sunday afternoon"
+    ],
+    "nights_note": "Broadcast schedules move. Check before travelling across Bangkok for it.",
+    "ticket_thb": "free",
+    "check": true
+   },
+   "images": [
+    {
+     "file": "channel-7/channel-7-muay-thai-match-in-bangkok-thailand.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai match in Bangkok, Thailand.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Muay_Thai_match_in_Bangkok%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_in_Bangkok%2C_Thailand.jpg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Dmitri Markine",
+     "credit": "Own workTransferred from en.wikipedia",
+     "alt": "Boxing match in Bangkok,Thailand.",
+     "date": "Taken on 2 March 2008, 04:18",
+     "primary": true,
+     "sha256": "fde74e2a78236ec2b56add09cd843e1a74471cf059cff36cefa89a4d5241bef3"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "bangkok",
+     "type": "place",
+     "name": "Bangkok",
+     "as": "Three."
+    }
+   ]
+  },
+  {
+   "id": "lumpinee",
+   "type": "venue",
+   "names": {
+    "name": "Lumpinee Boxing Stadium",
+    "th": "สนามมวยเวทีลุมพินี",
+    "rtgs": "sanam muay wethi lumphini",
+    "said": "Opened 1956 by the army. Moved in 2014, and is no longer near Lumpini Park.",
+    "said_th": "เปิด พ.ศ. 2499 โดยกองทัพบก ย้ายเมื่อ พ.ศ. 2557 และไม่ได้อยู่ใกล้สวนลุมพินีอีกแล้ว"
+   },
+   "region": [
+    "bangkok"
+   ],
+   "facets": {
+    "city": "bangkok",
+    "price": "high"
+   },
+   "text": {
+    "what": "The second of the two ranking stadiums, run by the Royal Thai Army.",
+    "story": "The name is the trap. Lumpinee was built beside Lumpini Park on Rama IV Road and kept the name when it moved out to **Ram Intra Road** in 2014, seven kilometres north-east. OpenStreetMap has it at 13.867, 100.609, which is the new site; a taxi told \"Lumpinee\" may take you to the park.\n\nThe army connection is not decorative. A ranking stadium in Thailand is an institution with a licence, a gambling floor and an owner, and the two that matter are held by the army and by a company on a royal avenue."
+   },
+   "text_th": {
+    "what": "สนามที่สองในสองสนามหลัก ดำเนินการโดยกองทัพบก",
+    "story": "ชื่อคือกับดัก ลุมพินีสร้างข้างสวนลุมพินีบนถนนพระรามที่ 4 แล้วเก็บชื่อไว้ตอนย้ายออกไปที่ **ถนนรามอินทรา** เมื่อ พ.ศ. 2557 ห่างออกไปทางตะวันออกเฉียงเหนือเจ็ดกิโลเมตร OpenStreetMap ระบุไว้ที่ 13.867, 100.609 ซึ่งคือที่ตั้งใหม่ แท็กซี่ที่ได้ยินคำว่า \"ลุมพินี\" อาจพาคุณไปที่สวน\n\nความเกี่ยวข้องกับกองทัพไม่ใช่เครื่องประดับ สนามหลักในเมืองไทยคือสถาบันที่มีใบอนุญาต มีวงพนัน และมีเจ้าของ และสองแห่งที่สำคัญนั้นถือโดยกองทัพบกและโดยบริษัทบนถนนพระราชพิธี"
+   },
+   "kin": [
+    {
+     "to": "rajadamnern",
+     "as": "The other one.",
+     "rel": "venue"
+    },
+    {
+     "to": "betting",
+     "as": "What fills the seats.",
+     "rel": "rule"
+    },
+    {
+     "to": "gloves",
+     "as": "Where the article puts the change.",
+     "rel": "kit"
+    }
+   ],
+   "geo": {
+    "lat": 13.867,
+    "lon": 100.6087,
+    "precision": "street"
+   },
+   "sources": [
+    "s:thwp-สนามมวยเวท-ล-มพ-น-",
+    "s:osm-gyms"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-สนามมวยเวท-ล-มพ-น-"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "tags": [
+    "watching",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "venue": {
+    "opened": "1956",
+    "city": "Bangkok",
+    "moved": "2014, to Ram Intra Road",
+    "nights_note": "Fight nights and ticket prices change with the promotion holding the card.",
+    "check": true
+   },
+   "images": [
+    {
+     "file": "lumpinee/lumpinee-bangkok-lumpinee-boxing-stadium-3.jpg",
+     "source": "commons",
+     "title": "File:Bangkok Lumpinee Boxing Stadium 3.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bangkok_Lumpinee_Boxing_Stadium_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABangkok_Lumpinee_Boxing_Stadium_3.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Mr.Peerapong Prasutr",
+     "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+     "alt": "Lumpinee Boxing Stadium was originally located on Rama IV road, Pathumwan district, adjacent to the former Armed Forces Academies Preparatory School. The stadium was as high standard boxing arena as R",
+     "date": "2015-01-16 22:40:29",
+     "primary": true,
+     "sha256": "9ed3bc0e9d7ade425f8d688d0abfdf4079b871975d39551ffb2219e3b504bf39"
+    },
+    {
+     "file": "lumpinee/lumpinee-lumpinee-s-ring-bell.jpg",
+     "source": "commons",
+     "title": "File:Lumpinee's ring bell.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Lumpinee%27s_ring_bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALumpinee%27s_ring_bell.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "B20180",
+     "credit": "Own work",
+     "alt": "Lumpinee's ring bell",
+     "date": "2013-01-12 20:04:41",
+     "primary": false,
+     "sha256": "1498e0e7ccebcf6430667d4c6ab070088bb8f8fedcbd4ee0de3603a528ef4396"
+    },
+    {
+     "file": "lumpinee/lumpinee-muay-thai-champion-belt-of-lumpinee-1.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai champion belt of Lumpinee 1.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Muay_Thai_champion_belt_of_Lumpinee_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_champion_belt_of_Lumpinee_1.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "B20180",
+     "credit": "Own work",
+     "alt": "Muay Thai champion belt of Lumpinee",
+     "date": "2013-01-12 23:08:17",
+     "primary": false,
+     "sha256": "c9dc4b3ec544f4ec8c54011bcb2eac6556437ce2c38cdf1a9b551bdd0a14a874"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "dieselnoi",
+     "type": "person",
+     "name": "Dieselnoi Chor Thanasukarn",
+     "as": "His belt."
+    },
+    {
+     "from": "nongtoom",
+     "type": "person",
+     "name": "Nong Toom",
+     "as": "Where she won."
+    },
+    {
+     "from": "saenchai",
+     "type": "person",
+     "name": "Saenchai",
+     "as": "Six of its belts."
+    },
+    {
+     "from": "samart-payakaroon",
+     "type": "person",
+     "name": "Samart Payakaroon",
+     "as": "Four of its belts."
+    },
+    {
+     "from": "channel-7",
+     "type": "venue",
+     "name": "The Channel 7 ring",
+     "as": "The paid version."
+    },
+    {
+     "from": "rajadamnern",
+     "type": "venue",
+     "name": "Rajadamnern Stadium",
+     "as": "The other one."
+    },
+    {
+     "from": "betting",
+     "type": "rule",
+     "name": "The gambling floor",
+     "as": "One of the two licensed floors."
+    },
+    {
+     "from": "gloves",
+     "type": "kit",
+     "name": "Gloves",
+     "as": "Where the article puts the change."
+    },
+    {
+     "from": "bangkok",
+     "type": "place",
+     "name": "Bangkok",
+     "as": "One."
+    },
+    {
+     "from": "sat",
+     "type": "org",
+     "name": "The Sports Authority of Thailand",
+     "as": "Whose ring."
+    },
+    {
+     "from": "wmc",
+     "type": "org",
+     "name": "The World Muaythai Council",
+     "as": "What actually settles it."
+    },
+    {
+     "from": "wethi",
+     "type": "term",
+     "name": "wethi",
+     "as": "One of them."
+    }
+   ]
+  },
+  {
+   "id": "mae-sariang-ring",
+   "type": "venue",
+   "names": {
+    "name": "The ring at Mae Sariang",
+    "th": "เวทีมวยไทย แม่สะเรียง",
+    "rtgs": "wethi muay thai mae sariang",
+    "said": "On the Mae Hong Son loop, at 18.177, 97.928.",
+    "said_th": "อยู่บนวงรอบแม่ฮ่องสอน ที่พิกัด 18.177, 97.928"
+   },
+   "region": [
+    "north"
+   ],
+   "facets": {
+    "city": "province"
+   },
+   "text": {
+    "what": "A provincial boxing ring in Mae Sariang, western Mae Hong Son province — one of eighteen stadiums this project found on the map worldwide.",
+    "story": "It is here because the map put it here, and because of where here is: Mae Sariang sits on Route 108 on the Mae Hong Son loop, between Hot and Khun Yuam.\n\n*Inference —* a provincial ring is where the sport actually runs. Two ranking stadiums in Bangkok are the top of a structure whose base is a few hundred rings like this one, at temple fairs and festivals, where a fifteen-year-old has his eighth fight for eight hundred baht. This project has no schedule for it and does not know whether it runs weekly, monthly or at festivals."
+   },
+   "text_th": {
+    "what": "เวทีมวยต่างจังหวัดที่แม่สะเรียง ทางตะวันตกของจังหวัดแม่ฮ่องสอน หนึ่งในสิบแปดสนามที่โครงการนี้พบบนแผนที่ทั้งโลก",
+    "story": "มันอยู่ตรงนี้เพราะแผนที่วางไว้ตรงนี้ และเพราะตรงนี้คือที่ไหน แม่สะเรียงอยู่บนทางหลวง 108 บนวงรอบแม่ฮ่องสอน ระหว่างฮอดกับขุนยวม\n\n*อนุมาน —* เวทีต่างจังหวัดคือที่ที่กีฬานี้ทำงานจริง สองสนามหลักในกรุงเทพฯ คือยอดของโครงสร้างที่มีฐานเป็นเวทีอีกไม่กี่ร้อยแห่งแบบนี้ ตามงานวัดและงานเทศกาล ที่ซึ่งเด็กสิบห้าชกไฟต์ที่แปดของเขาเพื่อเงินแปดร้อยบาท โครงการนี้ไม่มีตารางของมัน และไม่รู้ว่ามันจัดทุกสัปดาห์ ทุกเดือน หรือเฉพาะงานเทศกาล"
+   },
+   "kin": [
+    {
+     "to": "the-gym-map",
+     "as": "Where the count comes from.",
+     "rel": "gym"
+    },
+    {
+     "to": "child-boxing",
+     "as": "Who fights at a ring like this.",
+     "rel": "issue"
+    }
+   ],
+   "links": [
+    {
+     "label": "The Mae Hong Son Loop",
+     "url": "https://motdang.net/loop/"
+    }
+   ],
+   "geo": {
+    "lat": 18.1772,
+    "lon": 97.9283,
+    "precision": "exact"
+   },
+   "sources": [
+    "s:osm-gyms"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm-gyms"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "needs_verification": true,
+   "tags": [
+    "abroad"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "venue": {
+    "city": "Mae Sariang, Mae Hong Son",
+    "check": true
+   },
+   "images": [
+    {
+     "file": "mae-sariang-ring/mae-sariang-ring-.jpg",
+     "source": "commons",
+     "title": "File:สนามมวยรังสิต.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "มวยไทยรังสิต",
+     "credit": "Own work",
+     "alt": "สนามมวยมาตรฐานจังหวัดปทุมธานี",
+     "date": "2017-04-14",
+     "primary": true,
+     "sha256": "e0c0788a42581366a8345b9dab9513a0b0040e014122bfa629af88c7af355b05"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "the-gym-map",
+     "type": "gym",
+     "name": "Every gym on the map",
+     "as": "One of the eighteen stadiums."
+    },
+    {
+     "from": "child-boxing",
+     "type": "issue",
+     "name": "Children in the ring",
+     "as": "Where it happens, away from the cameras."
+    }
+   ]
+  },
+  {
+   "id": "rajadamnern",
+   "type": "venue",
+   "names": {
+    "name": "Rajadamnern Stadium",
+    "th": "สนามมวยราชดำเนิน",
+    "rtgs": "sanam muay ratchadamnoen",
+    "said": "Opened 1945. The older of the two.",
+    "said_th": "เปิด พ.ศ. 2488 เก่ากว่าอีกแห่ง"
+   },
+   "region": [
+    "bangkok"
+   ],
+   "facets": {
+    "city": "bangkok",
+    "price": "high"
+   },
+   "text": {
+    "what": "The first of Bangkok's two ranking stadiums, off Ratchadamnoen Nok Avenue, north of the old royal district.",
+    "story": "A title at Rajadamnern is one of the two belts that settle an argument in Thailand — the other is at Lumpinee — and a fighter who holds both at once is having a career other people will describe for the rest of his life.\n\n*Inference —* the stadium's address is the point of it. Ratchadamnoen is the processional avenue built under Rama V on the model of a European boulevard, and putting the national sport's ring on it in the 1940s is a statement about what the sport was being made into."
+   },
+   "text_th": {
+    "what": "สนามแรกในสองสนามหลักของกรุงเทพฯ อยู่ริมถนนราชดำเนินนอก เหนือเขตพระราชฐานเก่า",
+    "story": "แชมป์ราชดำเนินคือหนึ่งในสองเข็มขัดที่ยุติข้อโต้แย้งในเมืองไทย — อีกเส้นอยู่ที่ลุมพินี — และนักมวยที่ถือทั้งสองเส้นพร้อมกันกำลังมีอาชีพที่คนอื่นจะเล่าถึงไปตลอดชีวิตเขา\n\n*อนุมาน —* ที่ตั้งของสนามคือประเด็นของมัน ราชดำเนินคือถนนพระราชพิธีที่สร้างในรัชกาลที่ 5 ตามแบบถนนใหญ่ของยุโรป การวางเวทีของกีฬาประจำชาติลงบนถนนสายนั้นในทศวรรษ 2480 คือการแถลงว่ากีฬานี้กำลังถูกทำให้เป็นอะไร"
+   },
+   "kin": [
+    {
+     "to": "lumpinee",
+     "as": "The other one.",
+     "rel": "venue"
+    },
+    {
+     "to": "betting",
+     "as": "What fills the seats.",
+     "rel": "rule"
+    },
+    {
+     "to": "nai-khanom-tom-day",
+     "as": "Whose statue stands outside.",
+     "rel": "story"
+    }
+   ],
+   "geo": {
+    "lat": 13.7605,
+    "lon": 100.5089,
+    "precision": "street"
+   },
+   "sources": [
+    "s:thwp-สนามมวยราชดำเน-น",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-สนามมวยราชดำเน-น"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "venue": {
+    "opened": "1945",
+    "city": "Bangkok",
+    "nights_note": "Fight nights and ticket prices at both Bangkok stadiums change with the promotion holding the card. This project does not print a schedule it cannot keep current.",
+    "check": true
+   },
+   "images": [
+    {
+     "file": "rajadamnern/rajadamnern-audience-at-muay-thai-match-at-rajadamnern-stadium-2-025832b.jpg",
+     "source": "commons",
+     "title": "File:Audience at Muay Thai match at Rajadamnern Stadium 2007-05-20.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Audience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAudience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "BrokenSphere",
+     "credit": "Own work",
+     "alt": "The Muay Thai audience at Rajadamnern Stadium in Bangkok, Thailand.",
+     "date": "2007-07-01",
+     "primary": true,
+     "sha256": "a803608432d2a0a6749fe681567ca953b0b8ac4c881f4c9f94e86c93094d10d0"
+    },
+    {
+     "file": "rajadamnern/rajadamnern-rajinfront.jpg",
+     "source": "commons",
+     "title": "File:RajInfront.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/RajInfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARajInfront.jpg",
+     "license": "CC BY 4.0",
+     "license_url": "https://creativecommons.org/licenses/by/4.0/",
+     "author": "Mynameisfootlong",
+     "credit": "Own work",
+     "alt": "Rajadamnern Stadium",
+     "date": "2023-07-01 18:49:13",
+     "primary": false,
+     "sha256": "b4c13c6a22e9eb2938bdd5c2598f3d403d0a34f955633dd3bcf411fc66f5a06c"
+    },
+    {
+     "file": "rajadamnern/rajadamnern-rajadamnern-s-ring.jpg",
+     "source": "commons",
+     "title": "File:Rajadamnern's ring.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Rajadamnern%27s_ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARajadamnern%27s_ring.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "B20180",
+     "credit": "Own work",
+     "alt": "Rajadamnern's ring",
+     "date": "2012-12-24 17:07:31",
+     "primary": false,
+     "sha256": "32f7329d3d04399a4330dd036b873d43030c00d422a8c09eb38adf464a1cf1da"
+    },
+    {
+     "file": "rajadamnern/rajadamnern-rajadamnern-stadium.jpg",
+     "source": "commons",
+     "title": "File:Rajadamnern Stadium.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rajadamnern_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARajadamnern_Stadium.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "DiverDave",
+     "credit": "Own work",
+     "alt": "Rajadamnern Stadium, Ratchadamnoen Avenue, Pom Prap Sattru Phai district, Bangkok, Thailand",
+     "date": "2022-11-05 12:41:00",
+     "primary": false,
+     "sha256": "731cff1f1bca9b3d56112d9ad5bbe7f43b5c4578c0518505dbe3e085b710cb95"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "lumpinee",
+     "type": "venue",
+     "name": "Lumpinee Boxing Stadium",
+     "as": "The other one."
+    },
+    {
+     "from": "bangkok",
+     "type": "place",
+     "name": "Bangkok",
+     "as": "Two."
+    }
+   ]
+  },
+  {
+   "id": "wat-bang-phra",
+   "type": "venue",
+   "names": {
+    "name": "Wat Bang Phra",
+    "th": "วัดบางพระ",
+    "rtgs": "wat bang phra",
+    "said": "Tattoos daily from eight in the morning, and once a year the yant come alive.",
+    "said_th": "สักทุกวันตั้งแต่แปดโมงเช้า และปีละครั้งยันต์จะขึ้น"
+   },
+   "region": [
+    "central"
+   ],
+   "facets": {
+    "city": "province",
+    "price": "cheap"
+   },
+   "text": {
+    "what": "A monastery in Nakhon Chaisi district, Nakhon Pathom, about 50 km west of Bangkok. It is the sak yant place outsiders have heard of, and the one the film crews go to. It is not where most sak yant is done.",
+    "story": "*Inference —* the sak yant most people receive is done by an ajarn or a monk near where they live, at a small samnak with a teacher whose name travels no further than the province. Wat Bang Phra is famous, photographed and easy to reach from Bangkok, and those are three facts about its visibility rather than about the practice.\n\nThe temple dates to the late eighteenth century, just before the second fall of Ayutthaya. Its name means the monastery of the riverbank Buddha image: two images were being carried downriver away from the Burmese, the boat sank, and when they were pulled out they stayed here.\n\n**Luang Phor Pern.** The abbot who made the place. He ordained here at 25, learned sak yant from the abbot before him, Luang Pu Him, and carried it on when Luang Pu Him died four years later. **He was never tattooed himself and never would be.**\n\nIn 1953 he went to walk in the forest on the Kanchanaburi border, where tigers had been mauling and killing villagers. He gave them kata and sak yant, and told them the **tiger yantra** in particular would turn an attack. The reputation that followed is the reason the leaping tiger is on so many backs, and the reason devotional pictures of him show him meditating on a tiger.\n\nHe built a bridge over the river so farmers could get crops to market, and the local public hospital, which carries his name. He died in 2002 at 79.\n\n**Wai Khru, every March.** The power of a tattoo or an amulet drops off with time, so once a year disciples come back to their master to have it blessed and re-empowered. At Wat Bang Phra that gathering is the festival everybody has seen film of.\n\n**One thing the article is blunt about:** the sanitation of the needle and the ink is unknown, and a traditional tattoo carries a blood-borne infection risk. It also notes that UNAIDS records no case of HIV transmitted by a tattoo needle, on the grounds that the needle holds no reservoir of blood. Both of those sentences are in the source; neither cancels the other.",
+    "how": "**The day.** Arrive about 8:00. Buy the offering before going in — flowers, incense and cigarettes of Luang Phor Pern's brand, 150 baht as of November 2022 — take off your shoes, sit down in the line and take a number. People are tattooed in groups of roughly twenty, and the monk blesses each batch of offerings as the group comes up.\n\n**You do not choose.** The first is almost always the **Gao Yord**, nine spires, in the centre of the upper back and slightly onto the neck. The second extends it to **Yeesip Gao Yord**, twenty-nine spires, across the shoulders. After those two the body is considered open, and what comes next is what the monk judges will do you good.\n\n**The hands.** Two people who have just been tattooed stay behind to hold the next person still and keep the skin flat. That custom has survived the arrival of the electric machine, which is now what most of the work is done with.\n\n**For women** the monk uses a transparent ink and wears a glove, so as not to touch a woman's body."
+   },
+   "text_th": {
+    "what": "วัดในอำเภอนครชัยศรี จังหวัดนครปฐม ห่างจากกรุงเทพฯ ไปทางตะวันตกราว 50 กิโลเมตร เป็นที่ที่คนนอกรู้จักในเรื่องสักยันต์ และเป็นที่ที่กองถ่ายไป แต่ไม่ใช่ที่ที่สักยันต์ส่วนใหญ่เกิดขึ้น",
+    "story": "*อนุมาน —* สักยันต์ที่คนส่วนใหญ่ได้รับนั้นสักโดยอาจารย์หรือพระใกล้บ้าน ที่สำนักเล็ก ๆ ซึ่งชื่อครูไม่ได้เดินทางไกลเกินจังหวัด วัดบางพระดัง ถูกถ่ายภาพมาก และเดินทางจากกรุงเทพฯ ได้ง่าย ทั้งสามข้อนั้นเป็นข้อเท็จจริงเรื่องการมองเห็น ไม่ใช่เรื่องตัวแนวปฏิบัติ\n\nวัดนี้มีมาตั้งแต่ปลายศตวรรษที่สิบแปด ก่อนเสียกรุงครั้งที่สองไม่นาน ชื่อหมายถึงวัดของพระพุทธรูปริมน้ำ มีการอัญเชิญพระสองพระองค์ล่องน้ำหนีพม่า เรือล่ม และเมื่อกู้ขึ้นมาได้ พระก็ประดิษฐานอยู่ที่นี่\n\n**หลวงพ่อเปิ่น** เจ้าอาวาสผู้ทำให้ที่นี่เป็นที่นี่ ท่านบวชที่วัดนี้เมื่ออายุ 25 เรียนสักยันต์จากเจ้าอาวาสองค์ก่อนคือหลวงปู่ฮิ้ม และสืบต่อเมื่อหลวงปู่ฮิ้มมรณภาพในอีกสี่ปีต่อมา **ท่านเองไม่เคยสัก และจะไม่สัก**\n\nพ.ศ. 2496 ท่านออกธุดงค์ในป่าชายแดนกาญจนบุรี ที่ซึ่งเสือกัดและฆ่าชาวบ้านไปหลายราย ท่านให้คาถาและสักยันต์ให้ และบอกว่า **ยันต์เสือ** จะพลิกการเข้าจู่โจมได้ ชื่อเสียงที่ตามมาคือเหตุที่เสือเผ่นอยู่บนหลังคนมากมาย และเป็นเหตุที่รูปเคารพของท่านเขียนเป็นภาพท่านนั่งสมาธิบนหลังเสือ\n\nท่านสร้างสะพานข้ามแม่น้ำให้ชาวนาส่งพืชผลไปตลาดได้ และสร้างโรงพยาบาลประจำอำเภอซึ่งใช้ชื่อท่าน ท่านมรณภาพ พ.ศ. 2545 อายุ 79 ปี\n\n**ไหว้ครู ทุกเดือนมีนาคม** อำนาจของรอยสักหรือของขลังลดลงตามเวลา ปีละครั้งศิษย์จึงกลับมาหาครูเพื่อให้เสกและเพิ่มพลังใหม่ ที่วัดบางพระ การรวมตัวนั้นคืองานที่ทุกคนเคยเห็นภาพ\n\n**เรื่องหนึ่งที่บทความพูดตรง ๆ** ความสะอาดของเข็มและหมึกไม่เป็นที่ทราบ และการสักแบบดั้งเดิมมีความเสี่ยงต่อโรคติดต่อทางเลือด บทความยังระบุด้วยว่า UNAIDS ไม่มีบันทึกกรณีติดเชื้อเอชไอวีจากเข็มสัก ด้วยเหตุผลว่าเข็มไม่มีช่องเก็บเลือด ทั้งสองประโยคอยู่ในแหล่งอ้างอิง และไม่มีประโยคไหนลบอีกประโยค",
+    "how": "**วันนั้น** ไปถึงราวแปดโมง ซื้อเครื่องบูชาก่อนเข้า ดอกไม้ ธูป และบุหรี่ยี่ห้อที่หลวงพ่อเปิ่นสูบ ราคา 150 บาทเมื่อพฤศจิกายน 2565 ถอดรองเท้า นั่งเข้าแถว รับบัตรคิว สักกันเป็นกลุ่มราวยี่สิบคน และพระจะเสกเครื่องบูชาของแต่ละกลุ่มเมื่อกลุ่มนั้นขึ้นมา\n\n**คุณไม่ได้เลือก** ลายแรกมักเป็น **เก้ายอด** กลางหลังส่วนบน เลยขึ้นมาที่ต้นคอเล็กน้อย ลายที่สองต่อออกไปเป็น **ยี่สิบเก้ายอด** พาดทั่วบ่า หลังสองลายนี้ถือว่าร่างกายเปิดแล้ว ที่ตามมาคือสิ่งที่พระเห็นว่าจะเป็นคุณกับคุณ\n\n**มือ** คนสองคนที่เพิ่งสักเสร็จจะอยู่ต่อเพื่อจับคนถัดไปให้นิ่งและรั้งผิวให้ตึง ธรรมเนียมนี้รอดผ่านการมาถึงของเครื่องสักไฟฟ้า ซึ่งตอนนี้ใช้ทำงานส่วนใหญ่\n\n**สำหรับผู้หญิง** พระใช้หมึกใสและสวมถุงมือ เพื่อไม่ให้ถูกเนื้อตัวผู้หญิง"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The practice.",
+     "rel": "ritual"
+    },
+    {
+     "to": "gao-yod",
+     "as": "What you get first.",
+     "rel": "ritual"
+    },
+    {
+     "to": "suea-phen",
+     "as": "What the tiger story produced.",
+     "rel": "ritual"
+    },
+    {
+     "to": "kho-ham",
+     "as": "What you take on with it.",
+     "rel": "ritual"
+    }
+   ],
+   "geo": {
+    "lat": 13.8014,
+    "lon": 100.2225,
+    "precision": "town"
+   },
+   "sources": [
+    "s:wp-wat-bang-phra",
+    "s:wp-yantra-tattooing"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-wat-bang-phra"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "tags": [
+    "ritual"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "venue": {
+    "city": "Nakhon Chaisi, Nakhon Pathom",
+    "nights": [
+     "daily from about 08:00"
+    ],
+    "nights_note": "The March Wai Khru date moves with the lunar calendar, and the offering price quoted here is from 2022.",
+    "ticket_thb": "150 (the offering, 2022)",
+    "check": true
+   },
+   "images": [
+    {
+     "file": "wat-bang-phra/wat-bang-phra-hlwongpipant-josh.jpg",
+     "source": "commons",
+     "title": "File:Hlwongpipant-josh.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hlwongpipant-josh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHlwongpipant-josh.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Sakyant at English Wikipedia",
+     "credit": "Transferred from en.wikipedia to Commons.",
+     "alt": "Hlwong Pi Pant tattooing a Yant in Ang Tong Province.\n\nFotographer - Spencer Littlewood",
+     "date": "3 May 2007 (original upload date)",
+     "primary": true,
+     "sha256": "8cfcef9b034bf95b11c0c337b1d079c9bf271478a06c8f5d5a1b57f7f488898b"
+    },
+    {
+     "file": "wat-bang-phra/wat-bang-phra-wat-bang-phra.jpg",
+     "source": "commons",
+     "title": "File:Wat-bang-phra.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Wat-bang-phra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWat-bang-phra.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Sakyant at English Wikipedia",
+     "credit": "Transferred from en.wikipedia to Commons.",
+     "alt": "Hlwong Pi Nan tattooing Yant at Wat Bang Phra Temple",
+     "date": "3 May 2007 (original upload date)",
+     "primary": false,
+     "sha256": "af933b9e6bd8fe0f267bef3b33ffebc0fa7745876d7db7430854374b6fe883d6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "gao-yod",
+     "type": "ritual",
+     "name": "Gao yod, the nine spires",
+     "as": "Where."
+    },
+    {
+     "from": "kho-ham",
+     "type": "ritual",
+     "name": "The rules that come with it",
+     "as": "Where Wai Khru happens."
+    },
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "The one outsiders have heard of."
+    },
+    {
+     "from": "suea-phen",
+     "type": "ritual",
+     "name": "Suea phen, the leaping tiger",
+     "as": "Whose forest."
+    },
+    {
+     "from": "what-we-did-not-do",
+     "type": "story",
+     "name": "What this site does not have",
+     "as": "Its festival date and its prices move; the record says so."
+    }
+   ]
+  }
+ ]
+}

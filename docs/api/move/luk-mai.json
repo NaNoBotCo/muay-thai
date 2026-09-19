@@ -1,0 +1,108 @@
+{
+ "id": "luk-mai",
+ "type": "move",
+ "names": {
+  "name": "The fifteen that come after",
+  "th": "ลูกไม้มวยไทย",
+  "rtgs": "luk mai muay thai",
+  "said": "Nine of these fifteen are gods, demons and epic heroes.",
+  "said_th": "เก้าในสิบห้าท่านี้คือเทพ ยักษ์ และตัวละครในวรรณคดี"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "luk-mai"
+ },
+ "text": {
+  "what": "The second set of fifteen, taught after the first. The Thai encyclopedia's line is that a student works the mae mai before the luk mai will take.",
+  "story": "Erawan tosses its tusks. Thotsakan carries off the lady. Rama draws the bow. Hanuman presents the ring. Hiranyaksha rolls up the earth and carries it to the bottom of the sea. A naga dives to the underworld.\n\nThen, in the middle of that, number two: **batha lup phak**, the foot strokes the face. The one name in all thirty that describes the movement instead of drawing a picture — and it still reaches for Sanskrit to do it, *bāda* for foot and *vaktra* for face, where everyday Thai has *thao* and *na*.\n\nThe rest of the set is household: threading a garland, slicing a gourd, an elder sweeping the temple courtyard, a swan with a broken wing, a deer looking back over its shoulder."
+ },
+ "text_th": {
+  "what": "ชุดที่สองอีกสิบห้าท่า สอนต่อจากชุดแรก สารานุกรมไทยว่าไว้ว่าผู้ฝึกต้องผ่านแม่ไม้ก่อน ลูกไม้จึงจะติด",
+  "story": "เอราวัณเสยงา ขุนยักษ์พานาง พระรามน้าวศร หนุมานถวายแหวน หิรัญม้วนแผ่นดินแล้วแบกลงไปก้นทะเล นาคมุดบาดาล\n\nแล้วตรงกลางชุดนั้น ท่าที่สอง **บาทาลูบพักตร์** ชื่อเดียวในสามสิบท่าที่บอกการเคลื่อนไหวแทนการวาดภาพ และยังหยิบคำสันสกฤตมาใช้ *บาทา* แทนเท้า *พักตร์* แทนหน้า ทั้งที่ภาษาพูดมีคำว่าเท้าและหน้าอยู่แล้ว\n\nที่เหลือในชุดเป็นเรื่องในบ้าน ร้อยพวงมาลัย ฝานลูกบวบ พระเถระกวาดลานวัด หงส์ปีกหัก และกวางที่เหลียวมองข้ามบ่า"
+ },
+ "kin": [
+  {
+   "to": "mae-mai",
+   "as": "The first fifteen.",
+   "rel": "move"
+  },
+  {
+   "to": "hanuman-thawai-waen",
+   "as": "The one three schools out of four also name.",
+   "rel": "move"
+  },
+  {
+   "to": "ramakien-in-the-ring",
+   "as": "The cast list.",
+   "rel": "art"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:saranukrom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted",
+  "ramakien"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "luk-mai/luk-mai-bang-kung-barracks-thai-boxing-sculptures-for-learne-a9d69ef.jpg",
+   "source": "commons",
+   "title": "File:Bang Kung Barracks - Thai Boxing Sculptures For Learners - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bang_Kung_Barracks_-_Thai_Boxing_Sculptures_For_Learners_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ABang_Kung_Barracks_-_Thai_Boxing_Sculptures_For_Learners_-_panoramio.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Kasom SKULTAB",
+   "credit": "https://web.archive.org/web/20161025201316/http://www.panoramio.com/photo/80227504",
+   "alt": "Bang Kung Barracks  - Thai Boxing Sculptures For Learners",
+   "date": "Taken on 28 September 2012",
+   "primary": true,
+   "sha256": "4495727d53243e7c9620ef37d10b519a2e457c4642d6164ff12dd6becd473bff"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "batha-lup-phak",
+   "type": "move",
+   "name": "The foot strokes the face",
+   "as": "Second on the second fifteen."
+  },
+  {
+   "from": "hanuman-thawai-waen",
+   "type": "move",
+   "name": "Hanuman presents the ring",
+   "as": "Ninth on the second fifteen."
+  },
+  {
+   "from": "mae-mai",
+   "type": "move",
+   "name": "The fifteen mother techniques",
+   "as": "The second fifteen."
+  },
+  {
+   "from": "ramakien-in-the-ring",
+   "type": "art",
+   "name": "The epic in the technique list",
+   "as": "The second."
+  }
+ ]
+}

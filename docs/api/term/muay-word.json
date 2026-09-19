@@ -1,0 +1,71 @@
+{
+ "id": "muay-word",
+ "type": "term",
+ "names": {
+  "name": "muay",
+  "th": "มวย",
+  "rtgs": "muai",
+  "said": "To tie. The word for boxing is the word for binding."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "ring"
+ },
+ "text": {
+  "what": "The first half of the sport's name, and a word that on its own means boxing.",
+  "story": "The English article traces *muay* to Sanskrit *mavya*, from the root *mav* — to bind, to fasten, to pull together into one unit — and notes that Thai defines it both as \"to tie\" and as \"sport boxing\".\n\n*Inference —* the fit is almost too good, because the hands were literally bound in rope for most of the sport's life. Whether the word names the wrapping or the gathering of a crowd, the article does not say, and neither does this.\n\nThe oldest recorded use of *muay* the article names is in the **Mangrai law, a palm-leaf manuscript of 1296**, in the section on eighteen kinds of quarrel. *Thai* is from *Tai*, free."
+ },
+ "text_th": {
+  "what": "ครึ่งแรกของชื่อกีฬานี้ และเป็นคำที่ลำพังตัวเองก็แปลว่าการชกมวย",
+  "story": "บทความภาษาอังกฤษสืบคำว่า *มวย* ไปถึงสันสกฤต *มว्य* จากราก *มว* — ผูก มัด รวบเข้าเป็นหน่วยเดียว และระบุว่าภาษาไทยให้ความหมายทั้ง \"ผูก\" และ \"กีฬาชกมวย\"\n\n*อนุมาน —* ความลงตัวนี้ดีเกินไปเล็กน้อย เพราะมือถูกผูกด้วยเชือกจริง ๆ ตลอดเกือบทั้งอายุของกีฬานี้ ว่าคำนี้เรียกการพันมือหรือเรียกการรวมตัวของฝูงชน บทความไม่ได้บอก และตรงนี้ก็ไม่ได้บอก\n\nการใช้คำว่า *มวย* ที่เก่าที่สุดเท่าที่บทความระบุอยู่ใน **มังรายศาสตร์ ใบลาน พ.ศ. 1839** ในหมวดว่าด้วยการวิวาทสิบแปดประการ ส่วน *ไทย* มาจาก *ไท* ที่แปลว่าอิสระ"
+ },
+ "kin": [
+  {
+   "to": "kaad-chuek",
+   "as": "What got tied.",
+   "rel": "kit"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "When the compound was coined.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Sanskrit मव्य् mavya, from the root मव mav — to bind, to tie, to draw together",
+  "first_attested": "1296, Mangrai law",
+  "tier": "cited",
+  "source": "s:wp-muay-thai"
+ },
+ "kin_in": [
+  {
+   "from": "mangrai-law",
+   "type": "story",
+   "name": "The Mangrai law, 1296",
+   "as": "The word itself."
+  }
+ ]
+}

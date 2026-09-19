@@ -1,0 +1,521 @@
+{
+ "types": {
+  "note": "The eighteen node types and the order the front page lists them in. `one` is the singular used in prose; `th` is the Thai label on every /th/ page.",
+  "entries": [
+   {
+    "key": "weapon",
+    "name": "The eight weapons",
+    "th": "อาวุธทั้งแปด",
+    "one": "weapon",
+    "path": "weapon",
+    "blurb": "Two fists, two elbows, two knees, two shins. What each one is for, what it costs to throw, and what it scores.",
+    "th_blurb": "หมัดสอง ศอกสอง เข่าสอง แข้งสอง แต่ละอย่างใช้ทำอะไร แลกด้วยอะไร และได้แต้มแค่ไหน",
+    "group_by": "facets.range",
+    "icon": "weapon"
+   },
+   {
+    "key": "move",
+    "name": "Techniques",
+    "th": "ท่ามวย",
+    "one": "move",
+    "path": "move",
+    "blurb": "The thirty named techniques, and the handful of everyday ones that win most fights. Every name is a picture.",
+    "th_blurb": "สามสิบท่าที่มีชื่อ และท่าธรรมดาไม่กี่ท่าที่ชนะจริง ทุกชื่อคือภาพ",
+    "group_by": "facets.set",
+    "icon": "move"
+   },
+   {
+    "key": "style",
+    "name": "The schools",
+    "th": "สายมวย",
+    "one": "style",
+    "path": "style",
+    "blurb": "Chaiya, Korat, Lopburi, Thasao — four regions, four answers, one rhyme that ranks them.",
+    "th_blurb": "ไชยา โคราช ลพบุรี ท่าเสา สี่ถิ่น สี่คำตอบ และกลอนบทเดียวที่จัดอันดับไว้",
+    "group_by": "facets.era",
+    "icon": "style"
+   },
+   {
+    "key": "ritual",
+    "name": "The ceremony",
+    "th": "พิธีกรรม",
+    "one": "ritual",
+    "path": "ritual",
+    "blurb": "The headband, the armbands, the dance before the fight, and the tattoo under the shirt.",
+    "th_blurb": "มงคล ประเจียด ราํมวยก่อนชก และรอยสักใต้เสื้อ",
+    "group_by": "facets.worn",
+    "icon": "ritual"
+   },
+   {
+    "key": "music",
+    "name": "The band",
+    "th": "ดนตรี",
+    "one": "music",
+    "path": "music",
+    "blurb": "Four instruments play every fight in Thailand, live, and they speed up when it matters.",
+    "th_blurb": "สี่ชิ้นบรรเลงสดทุกไฟต์ในเมืองไทย และเร่งขึ้นเมื่อถึงเวลา",
+    "group_by": "facets.instrument",
+    "icon": "music"
+   },
+   {
+    "key": "bout",
+    "name": "The fights",
+    "th": "ไฟต์สำคัญ",
+    "one": "bout",
+    "path": "bout",
+    "blurb": "Single nights that changed what the sport was allowed to be.",
+    "th_blurb": "คืนเดียวที่เปลี่ยนกติกาของกีฬานี้",
+    "group_by": "facets.era",
+    "icon": "bout"
+   },
+   {
+    "key": "person",
+    "name": "People",
+    "th": "บุคคล",
+    "one": "person",
+    "path": "person",
+    "blurb": "Fighters, kings, trainers and the one prisoner of war everybody starts with.",
+    "th_blurb": "นักมวย กษัตริย์ ครู และเชลยศึกคนหนึ่งที่ทุกคนเริ่มเล่าจากเขา",
+    "group_by": "facets.era",
+    "icon": "person"
+   },
+   {
+    "key": "venue",
+    "name": "Stadiums",
+    "th": "สนามมวย",
+    "one": "venue",
+    "path": "venue",
+    "blurb": "Where the fights are, which night, and what a ticket actually gets you.",
+    "th_blurb": "ชกที่ไหน คืนไหน และบัตรใบหนึ่งได้อะไรบ้าง",
+    "group_by": "facets.city",
+    "icon": "venue"
+   },
+   {
+    "key": "gym",
+    "name": "Gyms and camps",
+    "th": "ค่ายมวย",
+    "one": "gym",
+    "path": "gym",
+    "blurb": "Every place in the world OpenStreetMap knows you can train, grouped by country, plus the camps that made the sport.",
+    "th_blurb": "ทุกที่ในโลกที่ OpenStreetMap รู้ว่าฝึกได้ จัดตามประเทศ พร้อมค่ายที่สร้างกีฬานี้ขึ้นมา",
+    "group_by": "facets.country",
+    "icon": "gym"
+   },
+   {
+    "key": "drill",
+    "name": "Training",
+    "th": "การฝึก",
+    "one": "drill",
+    "path": "drill",
+    "blurb": "What two sessions a day actually consist of, in the order they happen.",
+    "th_blurb": "วันละสองรอบคืออะไรบ้าง เรียงตามลำดับจริง",
+    "group_by": "facets.part",
+    "icon": "drill"
+   },
+   {
+    "key": "rule",
+    "name": "The rules",
+    "th": "กติกา",
+    "one": "rule",
+    "path": "rule",
+    "blurb": "Five rounds, ten points, one winner — and almost none of it works the way boxing does.",
+    "th_blurb": "ห้ายก สิบคะแนน หนึ่งผู้ชนะ และแทบไม่มีอะไรเหมือนมวยสากล",
+    "group_by": "facets.body",
+    "icon": "rule"
+   },
+   {
+    "key": "kit",
+    "name": "Kit",
+    "th": "อุปกรณ์",
+    "one": "kit",
+    "path": "kit",
+    "blurb": "Rope, gloves, shorts, anklets, oil. What each is, what it costs, and what it does to a fight.",
+    "th_blurb": "เชือก นวม กางเกง ผ้าพันข้อ น้ำมัน แต่ละอย่างคืออะไร ราคาเท่าไร และเปลี่ยนไฟต์อย่างไร",
+    "group_by": "facets.era",
+    "icon": "kit"
+   },
+   {
+    "key": "story",
+    "name": "History",
+    "th": "ประวัติ",
+    "one": "story",
+    "path": "story",
+    "blurb": "Ayutthaya to the ring, in the episodes that are actually documented and the ones that are not.",
+    "th_blurb": "จากอยุธยาถึงเวที เฉพาะตอนที่มีหลักฐาน และตอนที่ไม่มี",
+    "group_by": "facets.era",
+    "icon": "story"
+   },
+   {
+    "key": "place",
+    "name": "Places",
+    "th": "ถิ่น",
+    "one": "place",
+    "path": "place",
+    "blurb": "Where the schools came from and where the fighters still come from.",
+    "th_blurb": "สายมวยมาจากไหน และนักมวยยังมาจากไหน",
+    "group_by": "facets.region",
+    "icon": "place"
+   },
+   {
+    "key": "org",
+    "name": "Bodies",
+    "th": "องค์กร",
+    "one": "org",
+    "path": "org",
+    "blurb": "Who writes the rules, who sanctions the belts, and who disagrees with whom.",
+    "th_blurb": "ใครเขียนกติกา ใครรับรองเข็มขัด และใครไม่ลงรอยกับใคร",
+    "group_by": "facets.scope",
+    "icon": "org"
+   },
+   {
+    "key": "issue",
+    "name": "Open questions",
+    "th": "ข้อถกเถียง",
+    "one": "issue",
+    "path": "issue",
+    "blurb": "Children in the ring, women in the ring, heads that take ten years of kicks. Both arguments, named.",
+    "th_blurb": "เด็กบนเวที ผู้หญิงบนเวที และศีรษะที่รับแรงสิบปี ทั้งสองฝ่าย ระบุชื่อ",
+    "group_by": "facets.status",
+    "icon": "issue"
+   },
+   {
+    "key": "term",
+    "name": "Words",
+    "th": "คำศัพท์",
+    "one": "term",
+    "path": "term",
+    "blurb": "The words a corner shouts, with their roots, so you know what just happened.",
+    "th_blurb": "คำที่มุมตะโกน พร้อมรากศัพท์ จะได้รู้ว่าเกิดอะไรขึ้น",
+    "group_by": "facets.domain",
+    "icon": "term"
+   },
+   {
+    "key": "art",
+    "name": "On screen and on the wall",
+    "th": "ในงานศิลป์",
+    "one": "art",
+    "path": "art",
+    "blurb": "The statues, the films and the song that taught most of the world the word.",
+    "th_blurb": "รูปปั้น ภาพยนตร์ และเพลงที่ทำให้โลกรู้จักคำนี้",
+    "group_by": "facets.medium",
+    "icon": "art"
+   }
+  ]
+ },
+ "regions": {
+  "note": "Open list. A record may name a region not listed here; validate.py warns so it can be added.",
+  "entries": [
+   {
+    "key": "thailand",
+    "name": "Thailand",
+    "th": "ประเทศไทย",
+    "note": "the country the sport is from and where its two ranking stadiums are"
+   },
+   {
+    "key": "bangkok",
+    "name": "Bangkok",
+    "th": "กรุงเทพมหานคร",
+    "note": "Lumpinee, Rajadamnern, Channel 7, and the gambling floor that pays for them"
+   },
+   {
+    "key": "isan",
+    "name": "Isan",
+    "th": "อีสาน",
+    "note": "the northeast; the plurality of Thai stadium fighters are from here"
+   },
+   {
+    "key": "central",
+    "name": "The central plain",
+    "th": "ภาคกลาง",
+    "note": "Ayutthaya, Lopburi, Korat's western edge — where the court schools were"
+   },
+   {
+    "key": "south",
+    "name": "The south",
+    "th": "ภาคใต้",
+    "note": "Chaiya, and the style named after it"
+   },
+   {
+    "key": "north",
+    "name": "The north",
+    "th": "ภาคเหนือ",
+    "note": "Chiang Mai and the tourist-facing gyms"
+   },
+   {
+    "key": "uttaradit",
+    "name": "Uttaradit",
+    "th": "จังหวัดอุตรดิตถ์",
+    "note": "Thasao, and Phraya Phichai of the broken sword"
+   },
+   {
+    "key": "korat",
+    "name": "Nakhon Ratchasima",
+    "th": "จังหวัดนครราชสีมา",
+    "note": "Korat, the school of the long swinging punch"
+   },
+   {
+    "key": "lopburi",
+    "name": "Lopburi",
+    "th": "จังหวัดลพบุรี",
+    "note": "the school named for the old Khmer-Thai city"
+   },
+   {
+    "key": "chaiya",
+    "name": "Chaiya",
+    "th": "อำเภอไชยา",
+    "note": "a district of Surat Thani; the southern school"
+   },
+   {
+    "key": "phuket",
+    "name": "Phuket",
+    "th": "จังหวัดภูเก็ต",
+    "note": "where the foreign training industry is densest"
+   },
+   {
+    "key": "world",
+    "name": "Abroad",
+    "th": "ต่างประเทศ",
+    "note": "the fifty-seven other countries with a gym on the map"
+   },
+   {
+    "key": "myth",
+    "name": "In the epic",
+    "th": "ในวรรณคดี",
+    "note": "the Ramakien and its Hindu antecedents, where half the technique names live"
+   },
+   {
+    "key": "lanna",
+    "name": "Lanna",
+    "th": "ล้านนา",
+    "note": "the northern kingdom — Chiang Mai, Chiang Rai, Lamphun, Lampang, Phrae, Nan, Phayao"
+   }
+  ]
+ },
+ "facets": {
+  "note": "Open list. A facet is a fact the site groups, filters and colours by. Values not listed here are warned about, not refused.",
+  "facets": {
+   "range": {
+    "label": "Range",
+    "th": "ระยะ",
+    "values": {
+     "long": "Long — the kick and the teep own this distance",
+     "mid": "Mid — punches and the round kick",
+     "close": "Close — elbows, and the clinch that makes them possible",
+     "any": "Any range"
+    },
+    "types": [
+     "weapon",
+     "move",
+     "drill"
+    ]
+   },
+   "set": {
+    "label": "Which list",
+    "th": "อยู่ในชุดใด",
+    "values": {
+     "mae-mai": "แม่ไม้ — one of the fifteen mother techniques",
+     "luk-mai": "ลูกไม้ — one of the fifteen that come after",
+     "everyday": "Not on any list, and thrown in every fight",
+     "regional": "Named by one school only"
+    },
+    "types": [
+     "move"
+    ]
+   },
+   "era": {
+    "label": "When",
+    "th": "ยุค",
+    "values": {
+     "ayutthaya": "Before 1767 — the Ayutthaya period",
+     "rope": "1780s–1929 — bare fists and hemp rope",
+     "ring": "1921–1945 — the ring, the rounds, the gloves",
+     "golden": "1980s–1990s — the golden era",
+     "now": "Since 2000 — television, tourism and the global circuit"
+    },
+    "types": [
+     "story",
+     "person",
+     "style",
+     "kit",
+     "bout"
+    ]
+   },
+   "worn": {
+    "label": "Worn",
+    "th": "สวมเมื่อใด",
+    "values": {
+     "ring": "Into the ring, and taken off before the first bell",
+     "fight": "Worn through the fight",
+     "always": "Carried or worn outside the ring too",
+     "never": "Not worn — done"
+    },
+    "types": [
+     "ritual",
+     "kit"
+    ]
+   },
+   "instrument": {
+    "label": "Instrument",
+    "th": "เครื่องดนตรี",
+    "values": {
+     "wind": "Wind",
+     "drum": "Drum",
+     "time": "Time-keeper",
+     "ensemble": "The whole band"
+    },
+    "types": [
+     "music"
+    ]
+   },
+   "city": {
+    "label": "City",
+    "th": "เมือง",
+    "values": {
+     "bangkok": "Bangkok",
+     "chiangmai": "Chiang Mai",
+     "phuket": "Phuket",
+     "province": "Up-country",
+     "abroad": "Outside Thailand"
+    },
+    "types": [
+     "venue",
+     "gym"
+    ]
+   },
+   "part": {
+    "label": "Part of the session",
+    "th": "ช่วงการฝึก",
+    "values": {
+     "road": "Roadwork",
+     "shadow": "Shadow",
+     "bag": "Bag",
+     "pads": "Pads",
+     "clinch": "Clinch",
+     "spar": "Sparring",
+     "after": "After"
+    },
+    "types": [
+     "drill"
+    ]
+   },
+   "body": {
+    "label": "What it governs",
+    "th": "ควบคุมอะไร",
+    "values": {
+     "scoring": "Scoring",
+     "safety": "Safety",
+     "weight": "Weight and age",
+     "conduct": "Conduct",
+     "betting": "Betting"
+    },
+    "types": [
+     "rule"
+    ]
+   },
+   "status": {
+    "label": "Where it stands",
+    "th": "สถานะ",
+    "values": {
+     "law": "Settled in law, argued in practice",
+     "contested": "Genuinely contested",
+     "changing": "Changing now",
+     "unmeasured": "Not measured well enough to settle"
+    },
+    "types": [
+     "issue"
+    ]
+   },
+   "domain": {
+    "label": "Heard where",
+    "th": "ได้ยินที่ไหน",
+    "values": {
+     "corner": "From the corner",
+     "ring": "In the ring",
+     "crowd": "From the crowd",
+     "gym": "In the gym",
+     "card": "On the card"
+    },
+    "types": [
+     "term"
+    ]
+   },
+   "medium": {
+    "label": "Medium",
+    "th": "สื่อ",
+    "values": {
+     "film": "Film",
+     "music": "Music",
+     "sculpture": "Sculpture",
+     "painting": "Painting",
+     "text": "Text"
+    },
+    "types": [
+     "art"
+    ]
+   },
+   "scope": {
+    "label": "Reach",
+    "th": "ขอบเขต",
+    "values": {
+     "thai": "Thailand",
+     "world": "International",
+     "promotion": "A promotion, not a federation"
+    },
+    "types": [
+     "org"
+    ]
+   },
+   "country": {
+    "label": "Country",
+    "th": "ประเทศ",
+    "values": {},
+    "types": [
+     "gym"
+    ]
+   },
+   "region": {
+    "label": "Region",
+    "th": "ภูมิภาค",
+    "values": {},
+    "types": [
+     "place"
+    ]
+   },
+   "price": {
+    "label": "Price",
+    "th": "ราคา",
+    "values": {
+     "free": "Free",
+     "cheap": "Under 500 baht",
+     "mid": "500–2,000 baht",
+     "high": "Over 2,000 baht",
+     "varies": "Varies"
+    },
+    "types": [
+     "venue",
+     "gym",
+     "kit",
+     "drill"
+    ]
+   }
+  }
+ },
+ "tags": {
+  "note": "Free tags. Anything here can be used on any record; the tag pages are built from what is actually used.",
+  "tags": {
+   "beginner": "Worth reading before a first session",
+   "watching": "For someone in the seats, not the ring",
+   "counted": "Carries a number this project computed",
+   "contested": "Two readings, both named",
+   "ramakien": "Named for the epic",
+   "shan": "Shan, Mon or Burmese thread",
+   "gambling": "The betting floor decides something here",
+   "women": "Women in the sport",
+   "children": "Children in the sport",
+   "abroad": "Outside Thailand",
+   "ritual": "Ceremony rather than technique",
+   "money": "Costs, purses and who takes a cut",
+   "lanna": "Lanna, and the northern thread"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "id": "ifma",
+ "type": "org",
+ "names": {
+  "name": "IFMA",
+  "th": "สหพันธ์มวยไทยนานาชาติ",
+  "rtgs": "saphan muay thai nanachat",
+  "said": "Got the sport into the Olympic movement by taking the country out of its name.",
+  "said_th": "พากีฬานี้เข้าสู่ขบวนการโอลิมปิกด้วยการเอาชื่อประเทศออกจากชื่อกีฬา"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "scope": "world"
+ },
+ "text": {
+  "what": "The International Federation of Muaythai Associations, founded 1993, the amateur governing body, with 128 member countries.",
+  "story": "In 2006 the sport was admitted to SportAccord, whose rules say no sport may carry a country's name. So IFMA amended its constitution and the sport became **Muaythai**, one word, for Olympic purposes.\n\nThe rest followed: the World Games in 2017, full IOC recognition on **20 July 2021**, and a demonstration slot at Paris in 2024.\n\n*Inference —* the price of admission was the adjective. A sport whose entire claim is that it is Thai had to stop saying so in its own name to be let in."
+ },
+ "text_th": {
+  "what": "สหพันธ์สมาคมมวยไทยนานาชาติ ก่อตั้ง พ.ศ. 2536 เป็นองค์กรกำกับฝ่ายสมัครเล่น มีประเทศสมาชิก 128 ประเทศ",
+  "story": "ในปี 2549 กีฬานี้เข้าเป็นสมาชิก SportAccord ซึ่งมีกฎว่ากีฬาใดจะมีชื่อประเทศอยู่ในชื่อไม่ได้ IFMA จึงแก้ธรรมนูญ และกีฬานี้กลายเป็น **Muaythai** คำเดียว สำหรับวัตถุประสงค์ทางโอลิมปิก\n\nที่เหลือตามมา เวิลด์เกมส์ปี 2560 การรับรองเต็มรูปแบบจาก IOC เมื่อ **20 กรกฎาคม พ.ศ. 2564** และการเป็นกีฬาสาธิตที่ปารีสปี 2567\n\n*อนุมาน —* ค่าผ่านประตูคือคำคุณศัพท์ กีฬาที่ข้ออ้างทั้งหมดของมันคือความเป็นไทย ต้องเลิกพูดแบบนั้นในชื่อของตัวเองเพื่อจะได้เข้าไป"
+ },
+ "kin": [
+  {
+   "to": "somrak",
+   "as": "The medal that came twenty-five years earlier.",
+   "rel": "person"
+  },
+  {
+   "to": "wmc",
+   "as": "The professional body.",
+   "rel": "org"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

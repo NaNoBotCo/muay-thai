@@ -1,0 +1,94 @@
+{
+ "id": "muay-tae",
+ "type": "style",
+ "names": {
+  "name": "Muay tae",
+  "th": "มวยเตะ",
+  "rtgs": "muay te",
+  "said": "The kicker. One leg, over and over, until something gives.",
+  "said_th": "นักมวยเตะ ขาเดียว ซ้ำแล้วซ้ำเล่า จนมีอะไรพัง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "golden"
+ },
+ "text": {
+  "what": "Built on the round kick, thrown at the arm, the ribs and the thigh until one of them stops working.",
+  "story": "The most Thai of the four and the one that wins most rounds: a kick is the highest-scoring thing you can throw from outside the clinch, and a kicker who is not being checked can bank a round in ninety seconds.\n\nApidej Sit Hirun is the name attached to it — a left kick that is still talked about in the way other sports talk about a fastball."
+ },
+ "text_th": {
+  "what": "สร้างบนเตะวง ออกใส่แขน ชายโครง และต้นขา จนมีอย่างใดอย่างหนึ่งใช้การไม่ได้",
+  "story": "เป็นสายที่ไทยที่สุดในสี่สาย และเป็นสายที่ชนะยกได้มากที่สุด เตะคืออาวุธที่ได้คะแนนสูงสุดเท่าที่จะออกได้จากนอกวงใน คนเตะที่ไม่ถูกเช็กสามารถเก็บยกได้ในเก้าสิบวินาที\n\nอภิเดช ศิษย์หิรัญ คือชื่อที่ติดอยู่กับสายนี้ เตะซ้ายที่ยังถูกพูดถึงในแบบที่กีฬาอื่นพูดถึงลูกขว้างเร็ว"
+ },
+ "kin": [
+  {
+   "to": "te-chiang",
+   "as": "Its weapon.",
+   "rel": "move"
+  },
+  {
+   "to": "apidej",
+   "as": "Whose left leg.",
+   "rel": "person"
+  },
+  {
+   "to": "four-styles-of-fighter",
+   "as": "One of four ways to win.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "muay-tae/muay-tae-muay-thai-high-kick.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai high kick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Muay_Thai_high_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_high_kick.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Eric Langley",
+   "credit": "Flickr: [1]",
+   "alt": "Muay Thai competitor attempts a high kick but it is blocked by his opponent.",
+   "date": "2011-06-17 22:38:50",
+   "primary": true,
+   "sha256": "6f3be71837c9f8454beb45c30c202121f17f502c5c5fb6d44c7f1844179c1491"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "four-styles-of-fighter",
+   "type": "style",
+   "name": "Four ways to win a fight",
+   "as": "Four."
+  },
+  {
+   "from": "apidej",
+   "type": "person",
+   "name": "Apidej Sit Hirun",
+   "as": "The style he defines."
+  }
+ ]
+}

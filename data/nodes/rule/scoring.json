@@ -1,0 +1,102 @@
+{
+ "id": "scoring",
+ "type": "rule",
+ "names": {
+  "name": "How a fight is actually scored",
+  "th": "การให้คะแนน",
+  "rtgs": "kan hai khanaen",
+  "said": "The whole fight is one thing. Round one is not worth winning.",
+  "said_th": "ทั้งไฟต์คือสิ่งเดียวกัน ยกหนึ่งไม่คุ้มที่จะชนะ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "body": "scoring"
+ },
+ "text": {
+  "what": "Three judges, five rounds, one decision. Everything else about it is different from boxing, and the differences are what make a visitor think the scoring is broken.",
+  "story": "*Tradition —* stadium scoring in Thailand is not that, and is not written down anywhere a visitor can read it. What follows is how it is described by people inside the sport, and this project marks it as tradition rather than citing a rulebook it has not got.\n\n**The fight is scored as one thing.** Rounds one and two are treated as assessment and are frequently scored even by all three judges. The decision is made in rounds three, four and five, and a fighter who was behind after two has lost nothing.\n\n**Effect beats volume.** A kick that folds a man scores; six punches that do not move him score nothing. Being knocked off balance, dumped or visibly hurt is what a judge is watching for.\n\n**Kicks and knees outrank punches and elbows.** Not because they are harder — an elbow ends more fights — but because the scoring tradition treats them as the art's own weapons.\n\n**Walking forward is not scoring.** Aggression that lands nothing is read as clumsiness, and the man going backwards while landing is ahead.\n\n*Inference —* every one of those rules makes sense if you assume the audience is betting, in play, on a five-round arc. You cannot bet on a fight that is decided in round one.",
+  "how": "The written amateur rule, from IFMA, is narrow: a strike scores if it connects without being blocked, and a strike that lands on a glove, forearm, shin or foot does not score. If the scores are level at the end, the fighter who landed more full-contact blows wins."
+ },
+ "text_th": {
+  "what": "กรรมการสามคน ห้ายก หนึ่งคำตัดสิน ที่เหลือทุกอย่างต่างจากมวยสากล และความต่างนั้นคือเหตุที่ผู้มาชมคิดว่าการให้คะแนนพัง",
+  "story": "*ตามธรรมเนียม —* การให้คะแนนบนเวทีในเมืองไทยไม่ใช่แบบนั้น และไม่ได้เขียนไว้ที่ไหนที่ผู้มาเยือนจะอ่านได้ สิ่งที่ตามมาคือวิธีที่คนในวงการอธิบาย และโครงการนี้ระบุว่าเป็นธรรมเนียม ไม่ใช่การอ้างกติกาเล่มที่ไม่มีอยู่ในมือ\n\n**ไฟต์ถูกให้คะแนนเป็นก้อนเดียว** ยกหนึ่งกับยกสองถือเป็นการหยั่งเชิง และมักถูกให้เท่ากันโดยกรรมการทั้งสาม คำตัดสินเกิดในยกสาม สี่ และห้า คนที่ตามอยู่หลังสองยกแรกยังไม่ได้เสียอะไร\n\n**ผลสำคัญกว่าจำนวน** เตะที่ทำให้คนพับได้คะแนน หมัดหกครั้งที่ไม่ทำให้เขาขยับไม่ได้อะไร การเสียหลัก ถูกทุ่ม หรือเจ็บให้เห็น คือสิ่งที่กรรมการมองหา\n\n**เตะและเข่าอยู่เหนือหมัดและศอก** ไม่ใช่เพราะหนักกว่า — ศอกจบไฟต์ได้มากกว่า — แต่เพราะธรรมเนียมการให้คะแนนถือว่าสองอย่างนี้เป็นอาวุธของศิลปะนี้เอง\n\n**การเดินเข้าไม่ใช่การทำคะแนน** ความดุที่ไม่มีอะไรลงถูกอ่านว่าเก้งก้าง และคนที่ถอยหลังพลางออกอาวุธเข้าเป้าคือคนที่นำอยู่\n\n*อนุมาน —* กฎทุกข้อข้างบนเข้าท่าทันที ถ้าสมมติว่าคนดูกำลังเดิมพันสด ๆ บนเส้นเรื่องห้ายก คุณเดิมพันกับไฟต์ที่จบตั้งแต่ยกหนึ่งไม่ได้",
+  "how": "กติกาสมัครเล่นที่เขียนไว้ของ IFMA นั้นแคบ อาวุธได้คะแนนเมื่อเข้าโดยไม่ถูกบล็อก อาวุธที่ลงบนนวม ท่อนแขน แข้ง หรือเท้า ไม่ได้คะแนน ถ้าคะแนนเท่ากันเมื่อจบ ผู้ที่ออกอาวุธเต็มแรงเข้าเป้ามากกว่าเป็นผู้ชนะ"
+ },
+ "kin": [
+  {
+   "to": "betting",
+   "as": "Who the rules are shaped around.",
+   "rel": "rule"
+  },
+  {
+   "to": "rounds",
+   "as": "The shape of the five.",
+   "rel": "rule"
+  },
+  {
+   "to": "fist",
+   "as": "The weapon this system punishes.",
+   "rel": "weapon"
+  },
+  {
+   "to": "muay-femur",
+   "as": "The fighter this system rewards.",
+   "rel": "style"
+  },
+  {
+   "to": "why-foreigners-lose-decisions",
+   "as": "What it looks like from the cheap seats.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text.how": {
+    "tier": "cited",
+    "source": "s:wp-muay-thai"
+   },
+   "text.story": {
+    "tier": "tradition",
+    "note": "described from inside the sport; this project has no rulebook for stadium scoring"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner",
+  "watching",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "scoring/scoring-muay-thai-match-at-rajadamnern-stadium-2007-05-20-13.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai match at Rajadamnern Stadium 2007-05-20 13.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_13.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "alt": "A Muay Thai match at Rajadamnern Stadium in Bangkok, Thailand.",
+   "date": "2007-07-01",
+   "primary": true,
+   "sha256": "53f8481b8ff1b091db0f15960e4555b9f013ebe507d365a60b50967ca5fa24aa"
+  }
+ ]
+}

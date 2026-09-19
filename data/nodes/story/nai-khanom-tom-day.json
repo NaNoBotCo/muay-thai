@@ -1,0 +1,76 @@
+{
+ "id": "nai-khanom-tom-day",
+ "type": "story",
+ "names": {
+  "name": "17 March, and where the date comes from",
+  "th": "17 มีนาคม วันมวยไทย",
+  "rtgs": "sip chet minakhom wan muay thai",
+  "said": "The date is the Burmese chronicle's date for raising an umbrella.",
+  "said_th": "วันที่นี้คือวันที่พงศาวดารพม่าระบุไว้สำหรับการยกฉัตร"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "Muay Thai Day, kept on 17 March for Nai Khanom Tom.",
+  "story": "The Glass Palace Chronicle dates the raising of the Shwedagon's new umbrella to the full moon of Tabaung, CS 1136 — 17 March 1774. The Thai chronicle places Nai Khanom Tom's fights at the festival for that event. The Burmese record does not mention the fights; the Thai record does not give a date.\n\nSo the national day is the Burmese date for the umbrella, with the Thai story hung on it.\n\n*Inference —* that is not a scandal. It is how a commemoration gets a date when the source that carries the event does not carry one. Worth knowing, before repeating it as the anniversary of a fight."
+ },
+ "text_th": {
+  "what": "วันมวยไทย ตรงกับวันที่ 17 มีนาคม เพื่อนายขนมต้ม",
+  "story": "มหาราชวงศ์ ฉบับหอแก้ว ระบุวันยกฉัตรใหม่ของพระเจดีย์ชเวดากองไว้ที่วันเพ็ญเดือนตะเบาง์ จ.ศ. 1136 ตรงกับ 17 มีนาคม พ.ศ. 2317 พงศาวดารไทยวางการชกของนายขนมต้มไว้ในงานฉลองครั้งนั้น บันทึกพม่าไม่ได้กล่าวถึงการชก ส่วนบันทึกไทยไม่ได้ให้วันที่\n\nวันชาติของกีฬานี้จึงเป็นวันที่ของพม่าสำหรับฉัตร โดยมีเรื่องเล่าของไทยแขวนอยู่บนนั้น\n\n*อนุมาน —* นั่นไม่ใช่เรื่องอื้อฉาว มันคือวิธีที่การรำลึกได้วันที่มา เมื่อแหล่งข้อมูลที่ถือเหตุการณ์ไว้ไม่ได้ถือวันที่ไว้ด้วย ควรรู้ไว้ ก่อนจะเล่าต่อว่าเป็นวันครบรอบของการชก"
+ },
+ "kin": [
+  {
+   "to": "nai-khanom-tom",
+   "as": "Whose day.",
+   "rel": "person"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "The pattern.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:thwp-นายขนมต-ม"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-นายขนมต-ม"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "counted",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "nai-khanom-tom-day/nai-khanom-tom-day-2560.jpg",
+   "source": "commons",
+   "title": "File:งานรำลึกนายขนมต้ม 2560.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Judge761",
+   "credit": "Own work",
+   "alt": "A replica statue of Nai Khanom Tom, a traditional Thai Muay Thai boxer from Ayutthaya, displayed at the Nai Khanom Tom Commemoration Ceremony on the 17th of March of each year.",
+   "date": "2020-07-01",
+   "primary": true,
+   "sha256": "d215b42226ddbda90262edf2c6b0f879046061d63847711878d11db14dde07d8"
+  }
+ ]
+}

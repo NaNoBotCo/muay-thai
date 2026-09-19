@@ -1,0 +1,79 @@
+{
+ "id": "rama-v-golden-age",
+ "type": "story",
+ "names": {
+  "name": "Rama V, and the making of a national sport",
+  "th": "รัชกาลที่ 5 กับการทำให้เป็นกีฬาของชาติ",
+  "rtgs": "ratchakan thi ha",
+  "said": "The state takes the sport up: tournaments, a royal boxing corps, and titles for winners.",
+  "said_th": "รัฐรับกีฬานี้ขึ้นมา ทั้งการแข่งขันทั่วประเทศ กรมมวยหลวง และบรรดาศักดิ์ให้ผู้ชนะ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "Under King Chulalongkorn, 1868 to 1910, boxing was organised from the top: nationwide tournaments, a Royal Boxing Centre — *Muay Luang* — and the noble rank of *Muen* granted to the winner of each match.",
+  "story": "The Royal Boxing Centre administered both muay thai and krabi-krabong, on the model of the Ayutthaya boxers' regiment. In **1887** the Department of Education was established and muay thai went into the national curriculum, for teacher-training colleges and for the Chulachomklao Royal Military Academy.\n\nIn **1910** the king called fighters in from the provinces to fight at the cremation of his son Prince Urubongse, and gave the rank of *muen* to the three best — from Lopburi, Khorat and Chaiya.\n\n*Inference —* that is the whole machinery in one reign. Select by tournament, reward with rank, put it in the schools, and then name the regional styles after the three men who won at a funeral. The four lines are downstream of a prize list."
+ },
+ "text_th": {
+  "what": "ในรัชสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว พ.ศ. 2411 ถึง 2453 มวยถูกจัดระเบียบจากข้างบน ทั้งการแข่งขันทั่วประเทศ กรมมวยหลวง และบรรดาศักดิ์หมื่นพระราชทานแก่ผู้ชนะแต่ละคู่",
+  "story": "กรมมวยหลวงดูแลทั้งมวยไทยและกระบี่กระบอง ตามแบบกรมนักมวยของอยุธยา ใน **พ.ศ. 2430** มีการตั้งกรมศึกษาธิการ และมวยไทยเข้าสู่หลักสูตรของชาติ ทั้งในโรงเรียนฝึกหัดครูพลศึกษาและในโรงเรียนนายร้อยพระจุลจอมเกล้า\n\nใน **พ.ศ. 2453** พระองค์ทรงเรียกนักมวยจากหัวเมืองเข้ามาชกในงานพระเมรุพระองค์เจ้าอุรุพงษ์ฯ พระราชโอรส และพระราชทานบรรดาศักดิ์หมื่นแก่สามคนที่เก่งที่สุด จากลพบุรี โคราช และไชยา\n\n*อนุมาน —* นั่นคือกลไกทั้งหมดในรัชกาลเดียว คัดด้วยการแข่งขัน ตอบแทนด้วยบรรดาศักดิ์ ใส่เข้าไปในโรงเรียน แล้วตั้งชื่อสายมวยประจำถิ่นตามชายสามคนที่ชนะในงานศพ สี่สายอยู่ปลายน้ำของรายชื่อผู้ชนะ"
+ },
+ "kin": [
+  {
+   "to": "four-lines",
+   "as": "What came out of it.",
+   "rel": "style"
+  },
+  {
+   "to": "first-ring",
+   "as": "What came next.",
+   "rel": "story"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "The argument.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-chulalongkorn"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "rama-v-golden-age/rama-v-golden-age-rama-vi-rama-v-and-prince-asdang-dejavudh-1904.png",
+   "source": "commons",
+   "title": "File:Rama VI, Rama V, and Prince Asdang Dejavudh (1904).png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rama_VI%2C_Rama_V%2C_and_Prince_Asdang_Dejavudh_%281904%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARama_VI%2C_Rama_V%2C_and_Prince_Asdang_Dejavudh_%281904%29.png",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Prajadhipok",
+   "credit": "ระยะทางเที่ยวชวากว่าสองเดือน",
+   "alt": "Portrait of King Chulalongkorn (Rama V), His Majesty the King (Rama VI, the reigning monarch at the time of publication), and Prince Asdang Dejavudh (Krom Luang Nakhon Ratchasima), taken in the Year o",
+   "date": "1904",
+   "primary": true,
+   "sha256": "2537f471b4d9862e4ea76e177cb5600dc5013adffe1c87f777b3ced4f2c05b22"
+  }
+ ],
+ "kin_in": []
+}

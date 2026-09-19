@@ -1,0 +1,104 @@
+{
+ "id": "khet-sriyaphai",
+ "type": "person",
+ "names": {
+  "name": "Khet Sriyaphai",
+  "th": "เขตร ศรียาภัย",
+  "rtgs": "khet sriyaphai",
+  "said": "The governor's son who put the southern school into print.",
+  "said_th": "บุตรเจ้าเมืองผู้พาสายมวยใต้เข้าสู่ตัวพิมพ์"
+ },
+ "region": [
+  "south",
+  "chaiya"
+ ],
+ "facets": {
+  "era": "ring"
+ },
+ "text": {
+  "what": "Son of Phraya Wachi Sattayarak, governor of Chaiya, and author of *Parithat Muay Thai* — the book through which most of what is known about Muay Chaiya travels.",
+  "story": "His account traces the *yang sam khum* footwork taught at Suan Kulap College in 1921 back through two named masters to Pho Than Ma at Chaiya — which is the kind of chain that makes a transmission traceable rather than assumed.\n\n*Inference —* a martial art survives through the person who writes it down, and in this case that person was a provincial governor's son with access to a printing press. The lines that had no such son are the ones now described as twelve upper and twelve lower techniques with no names attached."
+ },
+ "text_th": {
+  "what": "บุตรของพระยาวจีสัตยารักษ์ เจ้าเมืองไชยา และผู้เขียน *ปริทัศน์มวยไทย* หนังสือที่ความรู้เรื่องมวยไชยาส่วนใหญ่เดินทางผ่าน",
+  "story": "บันทึกของเขาสืบท่าย่างสามขุมที่สอนกันที่โรงเรียนสวนกุหลาบใน พ.ศ. 2464 ย้อนกลับผ่านครูสองท่านที่ระบุชื่อไว้ ไปถึงพ่อท่านมาที่ไชยา ซึ่งเป็นลูกโซ่แบบที่ทำให้การสืบทอดตรวจสอบได้ แทนที่จะเป็นเพียงการสันนิษฐาน\n\n*อนุมาน —* ศิลปะการต่อสู้อยู่รอดผ่านคนที่จดมันไว้ และในกรณีนี้คนคนนั้นคือบุตรเจ้าเมืองที่เข้าถึงแท่นพิมพ์ได้ สายที่ไม่มีบุตรแบบนั้นคือสายที่วันนี้ถูกอธิบายว่ามีแม่ไม้บนสิบสองและแม่ไม้ล่างสิบสอง โดยไม่มีชื่อติดมา"
+ },
+ "kin": [
+  {
+   "to": "chaiya",
+   "as": "The school he carried.",
+   "rel": "style"
+  },
+  {
+   "to": "thasao",
+   "as": "The one that had no such book.",
+   "rel": "style"
+  },
+  {
+   "to": "yang-sam-khum",
+   "as": "The step he traced.",
+   "rel": "move"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไชยา"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไชยา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "khet-sriyaphai/khet-sriyaphai-.jpg",
+   "source": "commons",
+   "title": "File:เขตร์ ศรียาภัย.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown photographer",
+   "credit": "อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959 - retrieved from http://assumptionmuseum.com/th-th/book-viewer/?file=/Media/FileUploads/FaFileUpload/3005d33a-d54c-4d1d-8581-f45018e12255.pdf",
+   "alt": "เขตร ศรียาภัย (หนังสือตีพิมพ์เป็น เขตร์ ศรียาภัย) ภาพถ่ายบุคคลที่ตีพิมพ์ใน อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959",
+   "date": "1959-03-14",
+   "primary": true,
+   "sha256": "b79c2f9cb70d2124932b4b58b927f289c777d456296fce456848bbd3f25e90ec"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "chaiya",
+   "type": "style",
+   "name": "Muay Chaiya",
+   "as": "Who wrote it down."
+  },
+  {
+   "from": "manop-yarana",
+   "type": "person",
+   "name": "Manop Yarana",
+   "as": "The southern equivalent."
+  },
+  {
+   "from": "phraya-phichai",
+   "type": "person",
+   "name": "Phraya Phichai of the Broken Sword",
+   "as": "The other side of the comparison."
+  },
+  {
+   "from": "chaiya-place",
+   "type": "place",
+   "name": "Chaiya",
+   "as": "The governor's son who wrote."
+  }
+ ]
+}

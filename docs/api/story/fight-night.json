@@ -1,0 +1,115 @@
+{
+ "id": "fight-night",
+ "type": "story",
+ "names": {
+  "name": "What an evening is shaped like",
+  "th": "รูปร่างของหนึ่งค่ำคืน",
+  "rtgs": "ruprang khong nueng kham khuen",
+  "said": "Eight to ten fights, and the good ones are in the middle.",
+  "said_th": "แปดถึงสิบคู่ และคู่ดี ๆ อยู่ตรงกลาง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "The running order of a card, and where in it to arrive.",
+  "story": "A card runs eight to ten fights. The early ones are the youngest fighters, often children, and the crowd is thin. The middle of the card is where the best matched fights are and where the betting floor is loudest. The main event is the biggest names, and is not always the best fight.\n\n*Inference —* arriving for the main event is arriving for the last and least interesting hour, at the price of the whole evening. Arrive in the middle.\n\nEach fight: the fighters come in, the mongkhon is on, the band starts, the wai kru takes about four minutes, the trainer takes the mongkhon off, five rounds of three with two minutes between, decision. Then the next pair."
+ },
+ "text_th": {
+  "what": "ลำดับของรายการ และควรมาถึงตอนไหน",
+  "story": "รายการหนึ่งมีแปดถึงสิบคู่ คู่แรก ๆ คือนักมวยอายุน้อยที่สุด บ่อยครั้งเป็นเด็ก และคนดูยังบาง กลางรายการคือที่ที่คู่ซึ่งจับคู่ได้ดีที่สุดอยู่ และเป็นที่ที่วงพนันเสียงดังที่สุด คู่เอกคือชื่อที่ใหญ่ที่สุด และไม่ได้เป็นไฟต์ที่ดีที่สุดเสมอไป\n\n*อนุมาน —* การมาถึงเพื่อดูคู่เอกคือการมาถึงเพื่อชั่วโมงสุดท้ายที่น่าสนใจน้อยที่สุด ในราคาของทั้งค่ำคืน มาตอนกลางรายการ\n\nแต่ละไฟต์ นักมวยขึ้นเวที มงคลอยู่บนหัว วงดนตรีเริ่ม ไหว้ครูราวสี่นาที ครูถอดมงคลออก ห้ายก ยกละสามนาที พักสองนาที แล้วตัดสิน จากนั้นคู่ต่อไป"
+ },
+ "kin": [
+  {
+   "to": "sarama",
+   "as": "What you are listening to.",
+   "rel": "music"
+  },
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "The four minutes.",
+   "rel": "ritual"
+  },
+  {
+   "to": "why-foreigners-lose-decisions",
+   "as": "Why the decision surprised you.",
+   "rel": "story"
+  },
+  {
+   "to": "child-boxing",
+   "as": "Who is on first.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "fight-night/fight-night-audience-at-muay-thai-match-at-rajadamnern-stadium-2-025832b.jpg",
+   "source": "commons",
+   "title": "File:Audience at Muay Thai match at Rajadamnern Stadium 2007-05-20.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Audience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAudience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "alt": "The Muay Thai audience at Rajadamnern Stadium in Bangkok, Thailand.",
+   "date": "2007-07-01",
+   "primary": true,
+   "sha256": "a803608432d2a0a6749fe681567ca953b0b8ac4c881f4c9f94e86c93094d10d0"
+  },
+  {
+   "file": "fight-night/fight-night-muay-thai-match-at-rajadamnern-stadium-2007-05-20-10.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai match at Rajadamnern Stadium 2007-05-20 10.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_10.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "alt": "A Muay Thai match at Rajadamnern Stadium in Bangkok, Thailand.",
+   "date": "2007-07-01",
+   "primary": false,
+   "sha256": "2ff0cc99160bcda0a2592980324c2a3c771efdf1376e2075387018e7a86ee0ad"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "why-foreigners-lose-decisions",
+   "type": "story",
+   "name": "Why you thought he won",
+   "as": "What an evening is shaped like."
+  },
+  {
+   "from": "ram-muay-reading",
+   "type": "term",
+   "name": "Reading a ram muay",
+   "as": "Where it sits."
+  }
+ ]
+}

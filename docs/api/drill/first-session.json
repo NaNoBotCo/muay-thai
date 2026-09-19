@@ -1,0 +1,183 @@
+{
+ "id": "first-session",
+ "type": "drill",
+ "names": {
+  "name": "Your first session",
+  "th": "รอบซ้อมแรกของคุณ",
+  "rtgs": "rop som raek khong khun",
+  "said": "Two hours, twice a day, and the second day is worse than the first.",
+  "said_th": "สองชั่วโมง วันละสองรอบ และวันที่สองแย่กว่าวันแรก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "part": "road",
+  "price": "cheap"
+ },
+ "text": {
+  "what": "What actually happens, in order, at a gym in Thailand that takes walk-ins.",
+  "story": "Two things nobody tells a first-timer.\n\n**The shin hurts before the lungs do.** A shin that has never hit anything will bruise on a pad on day one and the bruise is on the bone.\n\n**Two rounds of pads is not a small amount.** A pad round is three minutes of throwing everything you have at a man who is also hitting you back with the pads. Two of those is the ceiling for a beginner and a trainer who gives you five is not being generous.\n\n*Inference —* the second morning is the test. Everybody gets through the first session on adrenaline; the gyms are full of people who did one and full of people who did sixty, and almost nobody in between.",
+  "how": "Run. Skip. Shadow. Wrap hands. Oil on the legs. Two rounds of pads, or three. Bag. Clinch if they clinch beginners. Sit-ups nobody counts. Stretch. Two hours."
+ },
+ "text_th": {
+  "what": "สิ่งที่เกิดขึ้นจริง เรียงตามลำดับ ที่ยิมในเมืองไทยที่รับคนเดินเข้าไป",
+  "story": "สองเรื่องที่ไม่มีใครบอกคนมาครั้งแรก\n\n**แข้งเจ็บก่อนปอด** แข้งที่ไม่เคยกระแทกอะไรจะช้ำจากเป้าตั้งแต่วันแรก และรอยช้ำนั้นอยู่บนกระดูก\n\n**เป้าสองยกไม่ใช่น้อย** หนึ่งยกเป้าคือสามนาทีของการออกทุกอย่างที่มีใส่ชายที่ตีกลับด้วยเป้าเหมือนกัน สองยกคือเพดานของผู้เริ่มต้น และครูที่ให้คุณห้ายกไม่ได้กำลังใจดี\n\n*อนุมาน —* เช้าวันที่สองคือบททดสอบ ทุกคนผ่านรอบแรกได้ด้วยอะดรีนาลีน ยิมเต็มไปด้วยคนที่ซ้อมไปหนึ่งรอบ และเต็มไปด้วยคนที่ซ้อมไปหกสิบรอบ และแทบไม่มีใครอยู่ตรงกลาง",
+  "how": "วิ่ง กระโดดเชือก ชกลม พันมือ ทาน้ำมันที่ขา ซ้อมเป้าสองยก หรือสามยก กระสอบ จับคอตีถ้าที่นั่นให้มือใหม่ทำ ซิตอัพที่ไม่มีใครนับ ยืดเส้น สองชั่วโมง"
+ },
+ "kin": [
+  {
+   "to": "pads",
+   "as": "The part that matters.",
+   "rel": "drill"
+  },
+  {
+   "to": "roadwork",
+   "as": "How it opens.",
+   "rel": "drill"
+  },
+  {
+   "to": "nam-man-muay",
+   "as": "What goes on your legs.",
+   "rel": "kit"
+  },
+  {
+   "to": "choosing-a-gym",
+   "as": "Before you pay for a month of them.",
+   "rel": "gym"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "session": {
+  "part": "road",
+  "minutes": "120",
+  "when": "06:30 or 16:00",
+  "hurts": "Shins, then hip flexors, then everything."
+ },
+ "images": [
+  {
+   "file": "first-session/first-session-learning-muay-thai-with-royal-thai-marines-160213-m-e13647c.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-016.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-016.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421246/learning-muay-thai-with-royal-thai-marines",
+   "alt": "Service members from the Royal Thai, Republic of Korea, and U.S. Marines practice Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016.",
+   "date": "Taken on 13 February 2016",
+   "primary": true,
+   "sha256": "5ae4e1222cad54bc742fbce78e57beea07bd04a9153f6cd81b3429b0ceedecdb"
+  },
+  {
+   "file": "first-session/first-session-learning-muay-thai-with-royal-thai-marines-160213-m-3b8ef30.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-030.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-030.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421346/learning-muay-thai-with-royal-thai-marines",
+   "alt": "U.S. Marine Corps Sgt. Absalom Burton, with Maritime Raid Force, 31st Marine Expeditionary Unit, practices Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip,",
+   "date": "2016-02-11",
+   "primary": false,
+   "sha256": "49e353fdc3485ef2caca1e6697856b83a78f5bbfe67533d0ae6903e9878f6cd2"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "choosing-a-gym",
+   "type": "gym",
+   "name": "What to ask before paying a month",
+   "as": "What the first one is like."
+  },
+  {
+   "from": "ed-visa",
+   "type": "gym",
+   "name": "Training on a study visa",
+   "as": "What you are staying for."
+  },
+  {
+   "from": "bag-work",
+   "type": "drill",
+   "name": "The bag",
+   "as": "The order it all comes in."
+  },
+  {
+   "from": "clinch-work",
+   "type": "drill",
+   "name": "Clinch",
+   "as": "The order it all comes in."
+  },
+  {
+   "from": "pads",
+   "type": "drill",
+   "name": "Pads",
+   "as": "The order it all comes in."
+  },
+  {
+   "from": "roadwork",
+   "type": "drill",
+   "name": "Roadwork",
+   "as": "Where it sits."
+  },
+  {
+   "from": "roadwork",
+   "type": "drill",
+   "name": "Roadwork",
+   "as": "The order it all comes in."
+  },
+  {
+   "from": "shadow",
+   "type": "drill",
+   "name": "Skipping and shadow",
+   "as": "Where it sits."
+  },
+  {
+   "from": "shadow",
+   "type": "drill",
+   "name": "Skipping and shadow",
+   "as": "The order it all comes in."
+  },
+  {
+   "from": "sparring",
+   "type": "drill",
+   "name": "Sparring",
+   "as": "The order it all comes in."
+  },
+  {
+   "from": "nam-man-muay",
+   "type": "kit",
+   "name": "The oil",
+   "as": "What happens to you in it."
+  },
+  {
+   "from": "head-injury",
+   "type": "issue",
+   "name": "What ten years of kicks does",
+   "as": "What a beginner is walking into."
+  }
+ ]
+}

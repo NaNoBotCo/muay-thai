@@ -1,0 +1,117 @@
+{
+ "id": "fist",
+ "type": "weapon",
+ "names": {
+  "name": "The fist",
+  "th": "หมัด",
+  "rtgs": "mat",
+  "said": "The weapon that scores least.",
+  "said_th": "อาวุธที่ได้คะแนนน้อยที่สุด"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "range": "mid"
+ },
+ "text": {
+  "what": "Punches. Historically the thinnest part of the Thai arsenal, and still the part a stadium judge values least.",
+  "story": "The English article is blunt about the starting point: the punches were \"originally quite limited\" — crosses, and a long lazy circular strike thrown with a straight arm landing on the heel of the palm. Everything else came in later from western boxing, and now the full set is used: jab, cross, hook, uppercut, overhand, back fist.\n\nTwo things follow, and both are visible from the seats. **Body punching is rare**, because dropping your head to dig at the ribs puts it exactly where a knee or an elbow lives. And a punch that does not visibly move the other man is worth nothing on the cards — which is why a foreigner who wins the punching exchanges for five rounds can still lose the fight and leave furious.\n\nThe fighter built around the hands has his own name — *muay mat* — and the best of them, Samart Payakaroon, went and won a world title at western boxing to settle the point."
+ },
+ "text_th": {
+  "what": "หมัด ส่วนที่บางที่สุดของคลังอาวุธไทยมาแต่เดิม และยังเป็นส่วนที่กรรมการเวทีให้ค่าน้อยที่สุด",
+  "story": "บทความภาษาอังกฤษพูดตรงไปตรงมาถึงจุดเริ่มต้น หมัดนั้น \"เดิมมีไม่กี่ท่า\" — หมัดตรงข้าม และหมัดเหวี่ยงยาวแขนตึงที่ลงด้วยส้นมือ ที่เหลือเข้ามาทีหลังจากมวยสากล ตอนนี้ใช้ครบ ทั้งหมัดแย็บ หมัดตรง หมัดฮุก หมัดเสย หมัดเหวี่ยงข้าม และหมัดกลับหลัง\n\nผลที่ตามมามีสองอย่าง และเห็นได้จากที่นั่งคนดู **การชกลำตัวมีน้อย** เพราะการก้มหัวลงไปขุดชายโครงคือการเอาหัวไปวางตรงที่เข่าและศอกอยู่ และหมัดที่ไม่ทำให้อีกฝ่ายขยับให้เห็น ไม่มีค่าบนใบให้คะแนน — นี่คือเหตุที่ฝรั่งซึ่งชนะการแลกหมัดห้ายกยังแพ้ไฟต์และเดินออกไปด้วยความโมโห\n\nนักมวยที่สร้างมาจากหมัดมีชื่อเรียกของตัวเอง — *มวยหมัด* — และคนที่เก่งที่สุดในสายนี้ สามารถ พยัคฆ์อรุณ ไปคว้าแชมป์โลกมวยสากลมาปิดเรื่องเสียเลย"
+ },
+ "kin": [
+  {
+   "to": "eight-limbs",
+   "as": "The count it belongs to.",
+   "rel": "weapon"
+  },
+  {
+   "to": "scoring",
+   "as": "Why it is worth so little.",
+   "rel": "rule"
+  },
+  {
+   "to": "samart-payakaroon",
+   "as": "The fighter who proved the hands could be enough.",
+   "rel": "person"
+  },
+  {
+   "to": "muay-mat",
+   "as": "The style built on it.",
+   "rel": "term"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "fist/fist-muay-thai-fight-us-vs-burma-80668041.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai Fight Us Vs Burma (80668041).jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Muay_Thai_Fight_Us_Vs_Burma_%2880668041%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Fight_Us_Vs_Burma_%2880668041%29.jpeg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Gerrit Phil Baumann",
+   "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "alt": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "date": "before 23 August 2014, 02:36:42 (UTC)",
+   "primary": true,
+   "sha256": "8b7cfda3a497360fc2b4b5072dcbfb03d8b7132a8fedc0d6f959ead9519d339f"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "eight-limbs",
+   "type": "weapon",
+   "name": "The eight limbs",
+   "as": "One pair of the eight."
+  },
+  {
+   "from": "muay-mat",
+   "type": "style",
+   "name": "Muay mat",
+   "as": "Its weapon."
+  },
+  {
+   "from": "samart-payakaroon",
+   "type": "person",
+   "name": "Samart Payakaroon",
+   "as": "What he proved about it."
+  },
+  {
+   "from": "scoring",
+   "type": "rule",
+   "name": "How a fight is actually scored",
+   "as": "The weapon this system punishes."
+  },
+  {
+   "from": "chok",
+   "type": "term",
+   "name": "chok",
+   "as": "The weapon."
+  }
+ ]
+}

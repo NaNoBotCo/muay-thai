@@ -1,0 +1,84 @@
+{
+ "id": "rodtang",
+ "type": "person",
+ "names": {
+  "name": "Rodtang Jitmuangnon",
+  "th": "รถถัง จิตรเมืองนนท์",
+  "rtgs": "rotthang chit mueang non",
+  "said": "Rotthang means tank. Professional at sixteen.",
+  "said_th": "รถถัง แปลว่ารถถัง ชกอาชีพตั้งแต่สิบหก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Born Tinnakorn Srisawat, 23 July 1997. Professional since 2013, Omnoi champion at 130lb, and the longest-reigning ONE flyweight muay thai world champion.",
+  "story": "The English article calls him one of the highest-paid muay thai fighters in the world, which is a sentence that would not have been written about a Thai fighter twenty years ago.\n\n*Inference —* that is the ONE Championship effect, and it is the sport's current argument in one man: a promotion with foreign money pays a Thai fighter more than the stadium system ever could, under rules the stadium system does not use, in front of an audience that is not betting on it."
+ },
+ "text_th": {
+  "what": "ชื่อจริง ทินกร ศรีสวัสดิ์ เกิด 23 กรกฎาคม พ.ศ. 2540 ชกอาชีพตั้งแต่ปี 2556 แชมป์อ้อมน้อยรุ่น 130 ปอนด์ และเป็นแชมป์โลกมวยไทยรุ่นฟลายเวท ONE ที่ครองตำแหน่งยาวนานที่สุด",
+  "story": "บทความภาษาอังกฤษเรียกเขาว่าหนึ่งในนักมวยไทยที่ได้ค่าตัวสูงที่สุดในโลก ซึ่งเป็นประโยคที่จะไม่มีใครเขียนถึงนักมวยไทยเมื่อยี่สิบปีก่อน\n\n*อนุมาน —* นั่นคือผลของ ONE Championship และเป็นข้อถกเถียงปัจจุบันของกีฬานี้ในตัวคนคนเดียว รายการที่มีเงินต่างชาติจ่ายนักมวยไทยมากกว่าที่ระบบสนามเคยทำได้ ภายใต้กติกาที่ระบบสนามไม่ได้ใช้ ต่อหน้าคนดูที่ไม่ได้เดิมพันกับมัน"
+ },
+ "kin": [
+  {
+   "to": "one-championship",
+   "as": "Who pays him.",
+   "rel": "org"
+  },
+  {
+   "to": "scoring",
+   "as": "The rules he does not fight under.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:wp-rodtang-jitmuangnon"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-rodtang-jitmuangnon"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "abroad",
+  "money"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "rodtang/rodtang-.png",
+   "source": "commons",
+   "title": "File:ロッタン・ジットムアンノン.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%E3%83%AD%E3%83%83%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%83%E3%83%88%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%B3.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E3%83%AD%E3%83%83%E3%82%BF%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%83%E3%83%88%E3%83%A0%E3%82%A2%E3%83%B3%E3%83%8E%E3%83%B3.png",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "TJ Channel Thailand",
+   "credit": "YouTube – View/save archived versions on archive.org",
+   "alt": "ロッタン選手 インタビュー",
+   "date": "2021-01-23",
+   "primary": true,
+   "sha256": "61b38b051ecbf2d159ea7395e09e01099db57b6405dca0c78bbd07eac8f5ef1a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "one-championship",
+   "type": "org",
+   "name": "ONE Championship",
+   "as": "Whom it pays."
+  }
+ ]
+}

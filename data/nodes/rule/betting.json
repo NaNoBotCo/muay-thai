@@ -1,0 +1,88 @@
+{
+ "id": "betting",
+ "type": "rule",
+ "names": {
+  "name": "The gambling floor",
+  "th": "การพนัน",
+  "rtgs": "kan phanan",
+  "said": "An estimated 40 billion baht a year, and it sets the rhythm of every fight.",
+  "said_th": "ประมาณสี่หมื่นล้านบาทต่อปี และมันกำหนดจังหวะของทุกไฟต์"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "body": "betting"
+ },
+ "text": {
+  "what": "Legal betting inside the licensed stadiums, conducted by hand signal, in play, at odds that move between rounds.",
+  "story": "A Bangkok Post columnist quoted in the English article puts the annual figure at **about 40 billion baht** and is blunt about what it means: \"Thai professional boxing is all about gambling and big money.\" A camp manager quoted in the same place gives the other half — \"Without the gamblers, the sport would pretty much be dead. They're killing it off, but they're also keeping it alive.\"\n\nThe floor is the loud section behind the cheap seats, and what looks like supporters shouting is buying and selling. Learn the hand signals and you can read the fight without knowing the fighters.\n\nFixing exists. The article records a fighter arrested for throwing a fight at Rajadamnern in December 2019, and puts the going rate at 60,000 to 150,000 baht to lose on purpose — which is more than most fighters earn for winning."
+ },
+ "text_th": {
+  "what": "การพนันถูกกฎหมายภายในสนามที่ได้รับอนุญาต ใช้สัญญาณมือ เล่นสด และราคาขยับระหว่างยก",
+  "story": "คอลัมนิสต์บางกอกโพสต์ที่บทความอ้างถึงให้ตัวเลขต่อปีไว้ที่ **ราวสี่หมื่นล้านบาท** และพูดตรง ๆ ว่ามันหมายถึงอะไร \"มวยอาชีพไทยคือเรื่องการพนันและเงินก้อนใหญ่ทั้งนั้น\" ผู้จัดการค่ายที่ถูกอ้างในที่เดียวกันให้อีกครึ่งหนึ่ง — \"ถ้าไม่มีนักพนัน กีฬานี้ก็ตายไปแล้ว พวกเขากำลังฆ่ามัน และก็กำลังเลี้ยงมันไว้ด้วย\"\n\nวงพนันคือโซนเสียงดังหลังที่นั่งราคาถูก และสิ่งที่ดูเหมือนกองเชียร์ตะโกนคือการซื้อขาย เรียนรู้สัญญาณมือแล้วคุณอ่านไฟต์ได้โดยไม่ต้องรู้จักนักมวย\n\nการล้มมวยมีจริง บทความบันทึกว่ามีนักมวยถูกจับจากการล้มมวยที่ราชดำเนินเมื่อธันวาคม 2562 และให้ราคาไว้ที่หกหมื่นถึงหนึ่งแสนห้าหมื่นบาทสำหรับการแพ้โดยตั้งใจ ซึ่งมากกว่าที่นักมวยส่วนใหญ่ได้จากการชนะ"
+ },
+ "kin": [
+  {
+   "to": "scoring",
+   "as": "What it shapes.",
+   "rel": "rule"
+  },
+  {
+   "to": "rounds",
+   "as": "Where it re-prices.",
+   "rel": "rule"
+  },
+  {
+   "to": "purse",
+   "as": "What a fighter is paid against it.",
+   "rel": "rule"
+  },
+  {
+   "to": "lumpinee",
+   "as": "One of the two licensed floors.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "gambling",
+  "money",
+  "watching",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "betting/betting-audience-at-muay-thai-match-at-rajadamnern-stadium-2-025832b.jpg",
+   "source": "commons",
+   "title": "File:Audience at Muay Thai match at Rajadamnern Stadium 2007-05-20.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Audience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAudience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "alt": "The Muay Thai audience at Rajadamnern Stadium in Bangkok, Thailand.",
+   "date": "2007-07-01",
+   "primary": true,
+   "sha256": "a803608432d2a0a6749fe681567ca953b0b8ac4c881f4c9f94e86c93094d10d0"
+  }
+ ]
+}

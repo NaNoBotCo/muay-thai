@@ -1,0 +1,79 @@
+{
+ "id": "ram-muay-reading",
+ "type": "term",
+ "names": {
+  "name": "Reading a ram muay",
+  "th": "อ่านรำมวย",
+  "rtgs": "an ram muay",
+  "said": "Watching the dance for information."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "ring"
+ },
+ "text": {
+  "what": "What the four minutes before the bell will tell you, if you watch them.",
+  "story": "A ram muay is taught and belongs to a gym, so a Thai watching can often place the camp from it. Beyond that, three things are worth watching for: whether the fighter takes his time or rushes it; whether his balance holds on one leg through the slow parts; and whether he is looking at the other corner while he does it.\n\n*Inference —* the first tells you about his nerves, the second about his base, and the third about whether he has decided the fight is his already."
+ },
+ "text_th": {
+  "what": "สี่นาทีก่อนระฆังจะบอกอะไรคุณ ถ้าคุณดูมัน",
+  "story": "รำมวยเป็นสิ่งที่ถูกสอนและเป็นของค่าย คนไทยที่ดูอยู่จึงมักบอกค่ายได้จากการรำ นอกจากนั้นมีสามอย่างที่ควรดู เขารำช้าหรือรีบ ทรงตัวบนขาเดียวได้นิ่งไหมในช่วงช้า และเขามองไปที่มุมตรงข้ามระหว่างรำหรือเปล่า\n\n*อนุมาน —* ข้อแรกบอกเรื่องประสาท ข้อสองบอกเรื่องฐาน และข้อสามบอกว่าเขาตัดสินใจไปแล้วหรือยังว่าไฟต์นี้เป็นของเขา"
+ },
+ "kin": [
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "The ceremony.",
+   "rel": "ritual"
+  },
+  {
+   "to": "fight-night",
+   "as": "Where it sits.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Thai รำ — to dance, in the classical sense + มวย",
+  "tier": "cited",
+  "source": "s:thwp-มวยไทย"
+ },
+ "images": [
+  {
+   "file": "ram-muay-reading/ram-muay-reading-ram-muay-ritual-dance.jpg",
+   "source": "commons",
+   "title": "File:Ram Muay (Ritual Dance).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ram_Muay_%28Ritual_Dance%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARam_Muay_%28Ritual_Dance%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Ram Muay Ritual Dance before all Muay Thai Bouts.",
+   "date": "2007-11-03 15:52:55",
+   "primary": true,
+   "sha256": "fb91685cf4f28be24f534b2dd75d4ea65ba6861718cca06ddd3d24d0c7eabdba"
+  }
+ ]
+}

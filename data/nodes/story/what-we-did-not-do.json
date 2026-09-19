@@ -1,0 +1,69 @@
+{
+ "id": "what-we-did-not-do",
+ "type": "story",
+ "names": {
+  "name": "What this site does not have",
+  "th": "สิ่งที่เว็บนี้ไม่มี",
+  "rtgs": "sing thi web ni mai mi",
+  "said": "Named here so it is not mistaken for coverage.",
+  "said_th": "ระบุไว้ตรงนี้ เพื่อไม่ให้เข้าใจผิดว่าครอบคลุมแล้ว"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "The gaps, listed.",
+  "story": "- **No fight records.** Thai fight records live in stadium ledgers and promoter spreadsheets, not in any open dataset this project could reach. The win-loss numbers circulating online for Thai fighters are mostly unsourced.\n- **No schedules or ticket prices.** Both Bangkok stadiums change cards and prices with the promotion. A page that printed them would be wrong within a month, so the venue records carry a `check` flag instead.\n- **No gym rankings and no gym reviews.** The map is a census of what OpenStreetMap holds. Nothing here says one gym is better than another.\n- **No current rule on women and the ring** from either Bangkok stadium. The tradition is described; the present rule is not named, because this project has no dated statement of it.\n- **Thasao's twenty-four techniques are a count with no names** in the source used here. They may be named elsewhere; they are not on this disk.\n- **The gym count is short by an order of magnitude** against the 3,800-gyms figure in the literature, and says so on its own page."
+ },
+ "text_th": {
+  "what": "ช่องว่าง เรียงไว้",
+  "story": "- **ไม่มีสถิติการชก** สถิติของนักมวยไทยอยู่ในสมุดของสนามและในตารางของโปรโมเตอร์ ไม่ได้อยู่ในชุดข้อมูลเปิดที่โครงการนี้เข้าถึงได้ ตัวเลขแพ้ชนะที่หมุนอยู่ในอินเทอร์เน็ตส่วนใหญ่ไม่มีแหล่งอ้างอิง\n- **ไม่มีตารางการแข่งหรือราคาบัตร** สนามทั้งสองในกรุงเทพฯ เปลี่ยนรายการและราคาตามโปรโมเตอร์ หน้าที่พิมพ์มันไว้จะผิดภายในหนึ่งเดือน บันทึกสนามจึงติดธง `check` ไว้แทน\n- **ไม่มีการจัดอันดับยิมและไม่มีรีวิวยิม** แผนที่คือสำมะโนของสิ่งที่ OpenStreetMap ถือไว้ ไม่มีอะไรตรงนี้บอกว่ายิมไหนดีกว่ายิมไหน\n- **ไม่มีกฎปัจจุบันเรื่องผู้หญิงกับเวที** จากสนามใดในกรุงเทพฯ ธรรมเนียมถูกอธิบายไว้ ส่วนกฎปัจจุบันไม่ได้ระบุ เพราะโครงการนี้ไม่มีคำแถลงที่ลงวันที่\n- **ท่ายี่สิบสี่ท่าของท่าเสาเป็นจำนวนที่ไม่มีชื่อ** ในแหล่งที่ใช้ตรงนี้ อาจมีชื่ออยู่ที่อื่น แต่ไม่ได้อยู่บนดิสก์นี้\n- **จำนวนยิมขาดไปหนึ่งหลัก** เมื่อเทียบกับตัวเลข 3,800 แห่งในเอกสาร และหน้าของมันบอกไว้เอง"
+ },
+ "kin": [
+  {
+   "to": "the-gym-map",
+   "as": "The count that is short.",
+   "rel": "gym"
+  },
+  {
+   "to": "women-in-the-ring",
+   "as": "The rule not named.",
+   "rel": "issue"
+  },
+  {
+   "to": "thasao",
+   "as": "The list with no names.",
+   "rel": "style"
+  },
+  {
+   "to": "wat-bang-phra",
+   "as": "Its festival date and its prices move; the record says so.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:osm-gyms",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:osm-gyms"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

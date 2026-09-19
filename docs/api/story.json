@@ -1,0 +1,1217 @@
+{
+ "type": "story",
+ "count": 14,
+ "nodes": [
+  {
+   "id": "angkor-1431",
+   "type": "story",
+   "names": {
+    "name": "Boxers at Angkor, 1431",
+    "th": "นักมวยที่นครธม พ.ศ. 1974",
+    "rtgs": "nak muay thi nakhon thom",
+    "said": "The first time a chronicle puts boxers in an army and names the officer.",
+    "said_th": "ครั้งแรกที่พงศาวดารวางนักมวยไว้ในกองทัพและระบุชื่อนายทหาร"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "King Borommarachathirat II of Ayutthaya sent four forces against Angkor Thom, and the victory inscription lists groups of Siamese boxers among them.",
+    "story": "The inscription of Khun Sri Chaiya Raj Mongkol Thep, N.M. 78, face 2, dated 1431, names the officer, the three targets — Angkor Thom, Phimai, Phanom Rung — and the composition of the column that came home: **groups of Siamese boxers**, with elephant and horse battalions.\n\n*Inference —* a boxer inside an order of battle is not a sportsman and not a demonstrator. He is infantry with a specialism, which is what the sport was for about five hundred years before it was anything else."
+   },
+   "text_th": {
+    "what": "สมเด็จพระบรมราชาธิราชที่ 2 แห่งอยุธยา ยกทัพสี่ทัพไปตีนครธม และจารึกชัยชนะระบุกลุ่มนักมวยสยามไว้ในนั้น",
+    "story": "จารึกขุนศรีไชยราชมงคลเทพ N.M. 78 ด้านที่ 2 ลงปี พ.ศ. 1974 ระบุชื่อนายทหาร ระบุเป้าหมายสามแห่ง นครธม พิมาย และพนมรุ้ง และระบุองค์ประกอบของขบวนที่กลับมา คือ **กลุ่มนักมวยสยาม** พร้อมกองช้างและกองม้า\n\n*อนุมาน —* นักมวยที่อยู่ในลำดับการรบไม่ใช่นักกีฬาและไม่ใช่นักแสดง เขาคือทหารราบที่มีความชำนาญเฉพาะ ซึ่งคือสิ่งที่กีฬานี้เป็นอยู่ราวห้าร้อยปีก่อนจะเป็นอย่างอื่น"
+   },
+   "kin": [
+    {
+     "to": "kings-guard",
+     "as": "What it became, twenty-four years later.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-ayutthaya-kingdom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "angkor-1431/angkor-1431-samutsongkram-wat-bang-kung-2.jpg",
+     "source": "commons",
+     "title": "File:Samutsongkram Wat Bang Kung 2.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Samutsongkram_Wat_Bang_Kung_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ASamutsongkram_Wat_Bang_Kung_2.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Mr.Niwat Tantayanusorn, Ph.D.",
+     "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+     "alt": "Located in Bang Kung subdistrict, Bang Khonthi district, this area was once set up as a military camp called “Kai Bang Kung” for troops from southern provinces to fight against Burmese army. After the",
+     "date": "2015-01-29 17:11:55",
+     "primary": true,
+     "sha256": "5d96165927c964f0925de7eb9f5d6dad64a51e22f9406155cdda78c0cfd51e97"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "kings-guard",
+     "type": "story",
+     "name": "The King's Guard, 1455",
+     "as": "The campaign before it."
+    }
+   ]
+  },
+  {
+   "id": "ekathotsarot-law",
+   "type": "story",
+   "names": {
+    "name": "The law that would not punish it",
+    "th": "พระอัยการเบ็ดเสร็จ",
+    "rtgs": "phra aiyakan betset",
+    "said": "Clause 117: if second-class people box or wrestle and someone is hurt or dies, no penalty.",
+    "said_th": "มาตรา 117 ถ้าไพร่ชกมวยหรือปล้ำกันแล้วบาดเจ็บหรือตาย ไม่ต้องรับโทษ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "A clause in the Miscellaneous Laws of the reign of King Ekathotsarot, 1590 to 1605, quoted in the English article.",
+    "story": "\"CLAUSE 117: ARTICLE I. Second-class people who fight by boxing (Muay) or wrestling, which then results in injuries or death, cannot be penalized…\"\n\n*Inference —* a legal exemption is a more reliable witness than a chronicle, because it is written to solve a problem somebody actually had. For a court to write this down, men must have been boxing often enough, and dying often enough, that magistrates needed telling what to do.\n\nNote who it covers. *Second-class people* — commoners. The exemption is for the fights in the field behind the temple, not for the ones in front of the throne."
+   },
+   "text_th": {
+    "what": "ข้อความหนึ่งในพระอัยการเบ็ดเสร็จ รัชสมัยสมเด็จพระเอกาทศรถ พ.ศ. 2133 ถึง 2148 ที่บทความภาษาอังกฤษยกมา",
+    "story": "\"มาตรา 117 ข้อหนึ่ง ไพร่ผู้ใดชกมวยหรือปล้ำกันแล้วเกิดบาดเจ็บหรือถึงแก่ความตาย มิให้เอาโทษ…\"\n\n*อนุมาน —* ข้อยกเว้นทางกฎหมายเป็นพยานที่เชื่อถือได้มากกว่าพงศาวดาร เพราะมันถูกเขียนขึ้นเพื่อแก้ปัญหาที่มีคนเจอจริง การที่ราชสำนักเขียนข้อนี้ไว้ แปลว่าผู้ชายชกกันบ่อยพอ และตายบ่อยพอ จนตุลาการต้องมีคนบอกว่าให้ทำอย่างไร\n\nและสังเกตว่ามันคุ้มครองใคร *ไพร่* ข้อยกเว้นนี้มีไว้สำหรับการชกในลานหลังวัด ไม่ใช่การชกหน้าพระที่นั่ง"
+   },
+   "kin": [
+    {
+     "to": "kings-guard",
+     "as": "The other half of the same society.",
+     "rel": "story"
+    },
+    {
+     "to": "child-boxing",
+     "as": "The modern version of the same question.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-ekathotsarot"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "id": "fight-night",
+   "type": "story",
+   "names": {
+    "name": "What an evening is shaped like",
+    "th": "รูปร่างของหนึ่งค่ำคืน",
+    "rtgs": "ruprang khong nueng kham khuen",
+    "said": "Eight to ten fights, and the good ones are in the middle.",
+    "said_th": "แปดถึงสิบคู่ และคู่ดี ๆ อยู่ตรงกลาง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "The running order of a card, and where in it to arrive.",
+    "story": "A card runs eight to ten fights. The early ones are the youngest fighters, often children, and the crowd is thin. The middle of the card is where the best matched fights are and where the betting floor is loudest. The main event is the biggest names, and is not always the best fight.\n\n*Inference —* arriving for the main event is arriving for the last and least interesting hour, at the price of the whole evening. Arrive in the middle.\n\nEach fight: the fighters come in, the mongkhon is on, the band starts, the wai kru takes about four minutes, the trainer takes the mongkhon off, five rounds of three with two minutes between, decision. Then the next pair."
+   },
+   "text_th": {
+    "what": "ลำดับของรายการ และควรมาถึงตอนไหน",
+    "story": "รายการหนึ่งมีแปดถึงสิบคู่ คู่แรก ๆ คือนักมวยอายุน้อยที่สุด บ่อยครั้งเป็นเด็ก และคนดูยังบาง กลางรายการคือที่ที่คู่ซึ่งจับคู่ได้ดีที่สุดอยู่ และเป็นที่ที่วงพนันเสียงดังที่สุด คู่เอกคือชื่อที่ใหญ่ที่สุด และไม่ได้เป็นไฟต์ที่ดีที่สุดเสมอไป\n\n*อนุมาน —* การมาถึงเพื่อดูคู่เอกคือการมาถึงเพื่อชั่วโมงสุดท้ายที่น่าสนใจน้อยที่สุด ในราคาของทั้งค่ำคืน มาตอนกลางรายการ\n\nแต่ละไฟต์ นักมวยขึ้นเวที มงคลอยู่บนหัว วงดนตรีเริ่ม ไหว้ครูราวสี่นาที ครูถอดมงคลออก ห้ายก ยกละสามนาที พักสองนาที แล้วตัดสิน จากนั้นคู่ต่อไป"
+   },
+   "kin": [
+    {
+     "to": "sarama",
+     "as": "What you are listening to.",
+     "rel": "music"
+    },
+    {
+     "to": "wai-kru-ram-muay",
+     "as": "The four minutes.",
+     "rel": "ritual"
+    },
+    {
+     "to": "why-foreigners-lose-decisions",
+     "as": "Why the decision surprised you.",
+     "rel": "story"
+    },
+    {
+     "to": "child-boxing",
+     "as": "Who is on first.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "fight-night/fight-night-audience-at-muay-thai-match-at-rajadamnern-stadium-2-025832b.jpg",
+     "source": "commons",
+     "title": "File:Audience at Muay Thai match at Rajadamnern Stadium 2007-05-20.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Audience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AAudience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "BrokenSphere",
+     "credit": "Own work",
+     "alt": "The Muay Thai audience at Rajadamnern Stadium in Bangkok, Thailand.",
+     "date": "2007-07-01",
+     "primary": true,
+     "sha256": "a803608432d2a0a6749fe681567ca953b0b8ac4c881f4c9f94e86c93094d10d0"
+    },
+    {
+     "file": "fight-night/fight-night-muay-thai-match-at-rajadamnern-stadium-2007-05-20-10.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai match at Rajadamnern Stadium 2007-05-20 10.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_10.JPG",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "BrokenSphere",
+     "credit": "Own work",
+     "alt": "A Muay Thai match at Rajadamnern Stadium in Bangkok, Thailand.",
+     "date": "2007-07-01",
+     "primary": false,
+     "sha256": "2ff0cc99160bcda0a2592980324c2a3c771efdf1376e2075387018e7a86ee0ad"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "why-foreigners-lose-decisions",
+     "type": "story",
+     "name": "Why you thought he won",
+     "as": "What an evening is shaped like."
+    },
+    {
+     "from": "ram-muay-reading",
+     "type": "term",
+     "name": "Reading a ram muay",
+     "as": "Where it sits."
+    }
+   ]
+  },
+  {
+   "id": "first-ring",
+   "type": "story",
+   "names": {
+    "name": "The ring arrives, 1921",
+    "th": "เวทีมาถึง พ.ศ. 2464",
+    "rtgs": "wethi ma thueng",
+    "said": "Built at a school, for muay and British boxing, in the same room.",
+    "said_th": "สร้างที่โรงเรียน สำหรับมวยไทยและมวยอังกฤษ ในที่เดียวกัน"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ring"
+   },
+   "text": {
+    "what": "The first permanent ring in Siam, at Suan Kulap College, and everything that came in with it.",
+    "story": "The sequence in the English article is tight enough to list:\n\n- **1913** — British boxing enters the curriculum at Suan Kulap College. The first descriptive use of the term *muay thai*.\n- **1919** — British boxing and muay taught as one subject there. Judo too.\n- **1921** — the first permanent ring in Siam, at that school, used for both.\n- **1923** — Suan Sanuk Stadium, near Lumpini Park: the first international-style three-rope ring with red and blue padded corners.\n- **Under Rama VII (1925–1935)** — codified rules, referees, and rounds timed by a clock rather than by kick.\n\n*Inference —* the modern sport was assembled in a school, next to a foreign sport, by people teaching both. The name *muay thai* exists because two kinds of boxing were being taught in the same room and somebody needed to say which one they meant."
+   },
+   "text_th": {
+    "what": "เวทีถาวรแห่งแรกในสยาม ที่โรงเรียนสวนกุหลาบวิทยาลัย และทุกอย่างที่เข้ามาพร้อมกับมัน",
+    "story": "ลำดับในบทความภาษาอังกฤษแน่นพอจะเรียงออกมาได้\n\n- **พ.ศ. 2456** — มวยอังกฤษเข้าสู่หลักสูตรโรงเรียนสวนกุหลาบ และเป็นการใช้คำว่า *มวยไทย* เชิงพรรณนาครั้งแรก\n- **พ.ศ. 2462** — มวยอังกฤษกับมวยไทยสอนรวมเป็นวิชาเดียวที่นั่น และมียูโดด้วย\n- **พ.ศ. 2464** — เวทีถาวรแห่งแรกในสยาม ที่โรงเรียนนั้น ใช้ทั้งสองอย่าง\n- **พ.ศ. 2466** — สนามมวยสวนสนุก ใกล้สวนลุมพินี เวทีสามเชือกแบบสากลแห่งแรก มีมุมแดงมุมน้ำเงินบุนวม\n- **รัชกาลที่ 7 (พ.ศ. 2468–2478)** — กติกาถูกจัดเป็นระบบ มีผู้ตัดสิน และจับเวลายกด้วยนาฬิกาแทนการนับเตะ\n\n*อนุมาน —* กีฬาสมัยใหม่ถูกประกอบขึ้นในโรงเรียน ข้าง ๆ กีฬาต่างชาติ โดยคนที่สอนทั้งสองอย่าง คำว่า *มวยไทย* มีอยู่เพราะมีมวยสองชนิดสอนกันอยู่ในห้องเดียวกัน และต้องมีใครสักคนบอกว่าหมายถึงอันไหน"
+   },
+   "kin": [
+    {
+     "to": "rounds",
+     "as": "What it standardised.",
+     "rel": "rule"
+    },
+    {
+     "to": "gloves",
+     "as": "What came next.",
+     "rel": "kit"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "The pattern.",
+     "rel": "issue"
+    },
+    {
+     "to": "muay-boran",
+     "as": "What got renamed.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "rounds",
+     "type": "rule",
+     "name": "Five rounds of three minutes",
+     "as": "Where the ring came from."
+    },
+    {
+     "from": "rama-v-golden-age",
+     "type": "story",
+     "name": "Rama V, and the making of a national sport",
+     "as": "What came next."
+    },
+    {
+     "from": "ww1-france",
+     "type": "story",
+     "name": "Thai troops in France, 1914–18",
+     "as": "What was happening at home."
+    },
+    {
+     "from": "bangkok",
+     "type": "place",
+     "name": "Bangkok",
+     "as": "Where it started."
+    }
+   ]
+  },
+  {
+   "id": "kings-guard",
+   "type": "story",
+   "names": {
+    "name": "The King's Guard, 1455",
+    "th": "กรมทนายเลือก พ.ศ. 1998",
+    "rtgs": "krom thanai lueak",
+    "said": "Boxing becomes a government department with two directors and a payroll.",
+    "said_th": "มวยกลายเป็นกรมของรัฐ มีเจ้ากรมสองตำแหน่งและมีบัญชีเงินเดือน"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "Under the Law of the Military and Provincial Hierarchy of 1455, boxing was folded into the Ayutthaya court as the King's Guard Department — with a sub-division, the *Krom Nak Muay*, the department of boxers.",
+    "story": "Two director-generals, with the noble titles **Khun Phakdee Asa** and **Khun Yothaphakdee**. The boxers were picked by the king out of competition, and their duties were to guard him and patrol the palace — in peacetime by fighting each other, in war by going with him.\n\nThe historical term for one of them is **ทนายเลือก** *thanai lueak*, the chosen. It stayed on the books until the reign of King Mongkut, 1851 to 1868.\n\n*Inference —* four hundred years of a state selecting fighters by tournament, for a job. The stadium system that replaced it kept the selection and changed the employer."
+   },
+   "text_th": {
+    "what": "ภายใต้พระอัยการตำแหน่งนาทหารหัวเมือง พ.ศ. 1998 มวยถูกผนวกเข้าราชสำนักอยุธยาในชื่อกรมทนายเลือก โดยมีหน่วยย่อยคือ *กรมนักมวย*",
+    "story": "เจ้ากรมสองตำแหน่ง มีบรรดาศักดิ์ **ขุนภักดีอาสา** และ **ขุนโยธาภักดี** นักมวยถูกคัดเลือกโดยพระมหากษัตริย์จากการแข่งขัน และมีหน้าที่ถวายอารักขาและตรวจตราพระราชวัง ยามสงบด้วยการชกกันเอง ยามศึกด้วยการตามเสด็จ\n\nคำเรียกคนเหล่านี้คือ **ทนายเลือก** คงอยู่ในกฎหมายจนถึงรัชกาลที่ 4 พ.ศ. 2394 ถึง 2411\n\n*อนุมาน —* สี่ร้อยปีที่รัฐคัดนักสู้ด้วยการแข่งขัน เพื่องานหนึ่ง ระบบสนามมวยที่มาแทนที่เก็บการคัดเลือกไว้ และเปลี่ยนนายจ้าง"
+   },
+   "kin": [
+    {
+     "to": "angkor-1431",
+     "as": "The campaign before it.",
+     "rel": "story"
+    },
+    {
+     "to": "sat",
+     "as": "Who the employer is now.",
+     "rel": "org"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-borommatrailokkanat"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "angkor-1431",
+     "type": "story",
+     "name": "Boxers at Angkor, 1431",
+     "as": "What it became, twenty-four years later."
+    },
+    {
+     "from": "ekathotsarot-law",
+     "type": "story",
+     "name": "The law that would not punish it",
+     "as": "The other half of the same society."
+    }
+   ]
+  },
+  {
+   "id": "la-loubere-1687",
+   "type": "story",
+   "names": {
+    "name": "A French diplomat, 1687",
+    "th": "ทูตฝรั่งเศส พ.ศ. 2230",
+    "rtgs": "thut farangset",
+    "said": "\"Wrestling and fighting with fists or elbows were just their occupations.\"",
+    "said_th": "\"การปล้ำและการต่อสู้ด้วยหมัดหรือศอกเป็นเพียงอาชีพของพวกเขา\""
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "Simon de la Loubère, envoy of Louis XIV to the court of King Narai, wrote down what Siamese men did with their time.",
+    "story": "From *Du Royaume de Siam*: the heat wearies them; wrestling and fighting with fists or elbows are the trades of showmen; the boat races are their only exercise.\n\n*Inference —* the sentence is dismissive and that is what makes it useful. A visitor who thought little of it still recorded, in 1687, that fist-and-elbow fighting was **a trade somebody was paid for** — not a military art, not a ceremony. Professional prize-fighting in Siam is documented by a man who was not impressed by it.\n\nEleven years later the same court was training it in a hurry. After the revolution of 1688, with French warships reported off Puducherry and Mergui, King Phetracha ordered recruitment and training in wrestling, muay and krabi-krabong — and a letter of 9 June 1699 says the training was a heavy burden on the veterans."
+   },
+   "text_th": {
+    "what": "ซีมง เดอ ลา ลูแบร์ ราชทูตของพระเจ้าหลุยส์ที่ 14 สู่ราชสำนักสมเด็จพระนารายณ์ จดไว้ว่าชายชาวสยามใช้เวลาทำอะไร",
+    "story": "จาก *Du Royaume de Siam* อากาศร้อนทำให้พวกเขาอ่อนล้า การปล้ำและการต่อสู้ด้วยหมัดหรือศอกเป็นอาชีพของนักแสดง และการแข่งเรือเป็นการออกกำลังอย่างเดียวของพวกเขา\n\n*อนุมาน —* ประโยคนี้ดูแคลน และนั่นคือสิ่งที่ทำให้มันมีประโยชน์ ผู้มาเยือนที่ไม่ได้คิดอะไรมากกับมัน ยังบันทึกไว้ในปี พ.ศ. 2230 ว่าการต่อสู้ด้วยหมัดและศอกคือ **อาชีพที่มีคนจ่ายเงินให้** ไม่ใช่ศิลปะการทหาร ไม่ใช่พิธีกรรม การชกชิงรางวัลเป็นอาชีพในสยามมีหลักฐานจากชายที่ไม่ได้ประทับใจกับมัน\n\nสิบเอ็ดปีต่อมา ราชสำนักเดียวกันฝึกมันอย่างเร่งรีบ หลังการปฏิวัติ พ.ศ. 2231 เมื่อมีรายงานเรือรบฝรั่งเศสนอกเมืองปูดูเชอร์รีและมะริด สมเด็จพระเพทราชาทรงประกาศเกณฑ์คนและฝึกการปล้ำ มวย และกระบี่กระบอง และจดหมายลงวันที่ 9 มิถุนายน พ.ศ. 2242 ระบุว่าการฝึกนั้นเป็นภาระหนักสำหรับทหารผ่านศึก"
+   },
+   "kin": [
+    {
+     "to": "tiger-king",
+     "as": "Three years later, and a temple fair.",
+     "rel": "person"
+    },
+    {
+     "to": "kaad-chuek",
+     "as": "What they were fighting with.",
+     "rel": "kit"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-simon-de-la-loub-re"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "la-loubere-1687/la-loubere-1687-loubere-1691-instrument-musique.jpg",
+     "source": "commons",
+     "title": "File:Loubere,1691,instrument musique.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Loubere%2C1691%2Cinstrument_musique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALoubere%2C1691%2Cinstrument_musique.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Simon de la Loubère (1642-1729)",
+     "credit": "Simon de la Loubère: Du Royaume de Siam. 1691, vol. 2, p. 105",
+     "alt": "Thai gong circle",
+     "date": "1691",
+     "primary": true,
+     "sha256": "51cb6bc16ce217eea1dbbde0daa8673d794a59aecfbfe2b0d436f37c8296441b"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "mai-sastra",
+   "type": "story",
+   "names": {
+    "name": "The hermit's school",
+    "th": "สำนักพระฤๅษีสุกกะทันตะ",
+    "rtgs": "samnak phra ruesi sukkathanta",
+    "said": "Mangrai of Chiang Mai and Ngam Mueang of Phayao are said to have learned to box in Lopburi.",
+    "said_th": "ว่ากันว่าพญามังรายแห่งเชียงใหม่และพญางำเมืองแห่งพะเยาเรียนมวยที่ลพบุรี"
+   },
+   "region": [
+    "north",
+    "lanna",
+    "central",
+    "lopburi"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "A school at Khao Samo Khon in Lavo — now Lopburi — kept by a hermit called Sukkathanta, teaching a subject called *Mai Sastra*.",
+    "story": "Thai Wikipedia's history of the sport dates it to **AD 657, the Hariphunchai period**, and names the subject: **มัยศาสตร์**, *Mai Sastra* — glossed there against Kannada ಮೈಶಾಸ್ತ್ರ, where *mai* is courage or the facing of danger and *sastra* is a manual or body of knowledge. It covered boxing, the sword, the bow, and the handling of elephants and horses.\n\nThe students it names are the point. **Mangrai**, who founded Chiang Mai. **Ngam Mueang**, who ruled Phayao. **Ban Mueang** and **Ram Khamhaeng** of Sukhothai. Four northern and central rulers, in one classroom, in the city that one of the four named boxing styles is named after.\n\nThe hermitage is still visitable, at Wat Khao Samo Khon in Lopburi.\n\n*Inference —* hold this the way you would hold any origin story that arrives already tidy. A seventh-century date, a single named teacher, and a class list of exactly the kings a national history would want in it, is a story doing work. What it is good evidence of is that the tradition places the sport's teaching **north and central rather than in Ayutthaya**, and that it wants Lanna in the room. The Mangrai law of 1296 is the harder evidence for that, and it is on its own page."
+   },
+   "text_th": {
+    "what": "สำนักเรียนที่เขาสมอคอน เมืองละโว้ ปัจจุบันคือลพบุรี ของพระฤๅษีสุกกะทันตะ สอนวิชาชื่อ มัยศาสตร์",
+    "story": "ประวัติศาสตร์มวยไทยฉบับวิกิพีเดียไทยกำหนดไว้ที่ **พ.ศ. 1200 สมัยหริภุญชัย** และระบุชื่อวิชา **มัยศาสตร์** เทียบไว้กับคำกันนาดา ಮೈಶಾಸ್ತ್ರ โดย *มัย* คือความกล้าหาญหรือการกล้าเผชิญอันตราย และ *ศาสตร์* คือคู่มือหรือองค์ความรู้ ครอบคลุมวิชามวย ดาบ ธนู และการบังคับช้างและม้า\n\nรายชื่อศิษย์คือประเด็น **พญามังราย** ผู้สร้างเชียงใหม่ **พญางำเมือง** ผู้ครองพะเยา **พ่อขุนบานเมือง** และ **พ่อขุนรามคำแหง** แห่งสุโขทัย ผู้ปกครองทางเหนือและภาคกลางสี่พระองค์ ในห้องเรียนเดียวกัน ในเมืองที่สายมวยหนึ่งในสี่สายตั้งชื่อตาม\n\nอาศรมยังไปเยือนได้ที่วัดเขาสมอคอน จังหวัดลพบุรี\n\n*อนุมาน —* ถือเรื่องนี้แบบที่ควรถือเรื่องต้นกำเนิดใด ๆ ที่มาถึงในสภาพเรียบร้อยแล้ว วันที่ในศตวรรษที่เจ็ด ครูที่ระบุชื่อคนเดียว และรายชื่อนักเรียนที่เป็นกษัตริย์ชุดที่ประวัติศาสตร์ชาติต้องการพอดี คือเรื่องเล่าที่กำลังทำงานอยู่ สิ่งที่มันเป็นหลักฐานได้ดีคือธรรมเนียมวางการสอนวิชานี้ไว้ที่**เหนือและกลาง ไม่ใช่ที่อยุธยา** และมันต้องการให้ล้านนาอยู่ในห้องด้วย ส่วนมังรายศาสตร์ พ.ศ. 1839 คือหลักฐานที่แข็งกว่า และอยู่ในหน้าของตัวเอง"
+   },
+   "kin": [
+    {
+     "to": "mangrai-law",
+     "as": "The harder evidence.",
+     "rel": "story"
+    },
+    {
+     "to": "lopburi",
+     "as": "The school named for the city.",
+     "rel": "style"
+    },
+    {
+     "to": "lanna",
+     "as": "Who is in the room.",
+     "rel": "place"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "How to hold a tidy origin.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:thwp-ประวัติศาสตร์มวยไทย",
+    "s:thwp-อาณาจักรหริภุญชัย",
+    "s:thwp-พญามังราย",
+    "s:thwp-พญางำเมือง"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:thwp-ประวัติศาสตร์มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "needs_verification": true,
+   "tags": [
+    "lanna",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "mai-sastra/mai-sastra-hermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg",
+     "source": "commons",
+     "title": "File:Hermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AHermit-sakkatanta-wat-khao-samo-khon-lopburi-thailand.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Quantplinus",
+     "credit": "Own work",
+     "alt": "Statue of hermit Sukatanta, the Muay Thai martial art's progenitor, located at Khao Samo Khon hermitage, Lopburi province, Thailand, as recorded in the Yonok Chronicle.",
+     "date": "2024-06-05",
+     "primary": true,
+     "sha256": "35684f8107b264fd44ecd6fecbd09baf4f37e10a00ec0f584de50b4f2b5c99a9"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "fon-jerng",
+     "type": "style",
+     "name": "Fon jerng",
+     "as": "The older claim underneath it."
+    },
+    {
+     "from": "mangrai-law",
+     "type": "story",
+     "name": "The Mangrai law, 1296",
+     "as": "The softer claim."
+    }
+   ]
+  },
+  {
+   "id": "mangrai-law",
+   "type": "story",
+   "names": {
+    "name": "The Mangrai law, 1296",
+    "th": "มังรายศาสตร์",
+    "rtgs": "mangrai sat",
+    "said": "The oldest written muay is in a Lanna palm-leaf law code, filed under quarrels.",
+    "said_th": "คำว่ามวยที่เก่าที่สุดในเอกสารอยู่ในกฎหมายใบลานของล้านนา อยู่ในหมวดการวิวาท"
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "The oldest law code of Lanna, compiled from the Indian Dharmaśāstra, in 27 sections. The English article on muay thai names it as the oldest recorded use of the word *muay*, in section seven, among eighteen kinds of quarrel.",
+    "story": "Dated **1296**, in the reign of Mangrai, who founded Chiang Mai four years earlier. Written in Northern Thai on palm leaf.\n\nIts other sections say what kind of document it is: deserting a battle, dying in the middle of a battlefield, fighting a war and coming back with an enemy's head or without one, the death of a minister. It is a war-state's code.\n\n*Inference —* and *muay* appears in it not as an art or a display but under **quarrels** — one of eighteen ways people get into a fight that the law then has to sort out. That is the earliest thing anyone can point to in writing, and it describes the sport as a public order problem in a northern kingdom.\n\nEvery founding story on this site is later, southern, and better dressed."
+   },
+   "text_th": {
+    "what": "กฎหมายที่เก่าที่สุดของอาณาจักรล้านนา เรียบเรียงจากคัมภีร์ธรรมศาสตร์ของอินเดีย แบ่งเป็น 27 หมวด บทความภาษาอังกฤษว่าด้วยมวยไทยระบุว่าเป็นการใช้คำว่า *มวย* ที่เก่าที่สุดเท่าที่บันทึกไว้ อยู่ในหมวดที่เจ็ด ในการวิวาทสิบแปดประการ",
+    "story": "ลงปี **พ.ศ. 1839** ในรัชกาลพญามังราย ผู้สร้างเชียงใหม่ก่อนหน้านั้นสี่ปี เขียนเป็นภาษาไทยถิ่นเหนือบนใบลาน\n\nหมวดอื่น ๆ ของมันบอกว่ามันเป็นเอกสารประเภทไหน หนีศึก คนตายกลางสนามรบ รบศึกกรณีได้หัวและกรณีไม่ได้หัวข้าศึกมา เสนาอมาตย์ตาย มันคือประมวลกฎหมายของรัฐที่ทำสงคราม\n\n*อนุมาน —* และคำว่า *มวย* ปรากฏในนั้น ไม่ใช่ในฐานะศิลปะหรือการแสดง แต่อยู่ใต้หมวด**การวิวาท** หนึ่งในสิบแปดวิธีที่คนมีเรื่องกัน แล้วกฎหมายต้องมาจัดการ นั่นคือสิ่งที่เก่าที่สุดที่ใครชี้ได้ในเอกสาร และมันอธิบายกีฬานี้ว่าเป็นปัญหาความสงบเรียบร้อยในอาณาจักรทางเหนือ\n\nเรื่องต้นกำเนิดทุกเรื่องบนเว็บนี้มาทีหลัง อยู่ทางใต้กว่า และแต่งตัวดีกว่า"
+   },
+   "kin": [
+    {
+     "to": "muay-word",
+     "as": "The word itself.",
+     "rel": "term"
+    },
+    {
+     "to": "lanna",
+     "as": "Whose law.",
+     "rel": "place"
+    },
+    {
+     "to": "mai-sastra",
+     "as": "The softer claim.",
+     "rel": "story"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "What came later.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:thwp-มังรายศาสตร์",
+    "s:wp-muay-thai",
+    "s:thwp-อาณาจักรล้านนา"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มังรายศาสตร์"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "mangrai-law/mangrai-law-1.jpg",
+     "source": "commons",
+     "title": "File:อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "กสิณธร ราชโอรส",
+     "credit": "Own work",
+     "alt": "อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+     "date": "2022-03-13 08:44:51",
+     "primary": true,
+     "sha256": "8c2818cdba827e7425e716e61ed580cb3e02bbae742dc230f0554383c06bbabf"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "mai-sastra",
+     "type": "story",
+     "name": "The hermit's school",
+     "as": "The harder evidence."
+    },
+    {
+     "from": "lanna",
+     "type": "place",
+     "name": "Lanna",
+     "as": "The law."
+    }
+   ]
+  },
+  {
+   "id": "nai-khanom-tom-day",
+   "type": "story",
+   "names": {
+    "name": "17 March, and where the date comes from",
+    "th": "17 มีนาคม วันมวยไทย",
+    "rtgs": "sip chet minakhom wan muay thai",
+    "said": "The date is the Burmese chronicle's date for raising an umbrella.",
+    "said_th": "วันที่นี้คือวันที่พงศาวดารพม่าระบุไว้สำหรับการยกฉัตร"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "Muay Thai Day, kept on 17 March for Nai Khanom Tom.",
+    "story": "The Glass Palace Chronicle dates the raising of the Shwedagon's new umbrella to the full moon of Tabaung, CS 1136 — 17 March 1774. The Thai chronicle places Nai Khanom Tom's fights at the festival for that event. The Burmese record does not mention the fights; the Thai record does not give a date.\n\nSo the national day is the Burmese date for the umbrella, with the Thai story hung on it.\n\n*Inference —* that is not a scandal. It is how a commemoration gets a date when the source that carries the event does not carry one. Worth knowing, before repeating it as the anniversary of a fight."
+   },
+   "text_th": {
+    "what": "วันมวยไทย ตรงกับวันที่ 17 มีนาคม เพื่อนายขนมต้ม",
+    "story": "มหาราชวงศ์ ฉบับหอแก้ว ระบุวันยกฉัตรใหม่ของพระเจดีย์ชเวดากองไว้ที่วันเพ็ญเดือนตะเบาง์ จ.ศ. 1136 ตรงกับ 17 มีนาคม พ.ศ. 2317 พงศาวดารไทยวางการชกของนายขนมต้มไว้ในงานฉลองครั้งนั้น บันทึกพม่าไม่ได้กล่าวถึงการชก ส่วนบันทึกไทยไม่ได้ให้วันที่\n\nวันชาติของกีฬานี้จึงเป็นวันที่ของพม่าสำหรับฉัตร โดยมีเรื่องเล่าของไทยแขวนอยู่บนนั้น\n\n*อนุมาน —* นั่นไม่ใช่เรื่องอื้อฉาว มันคือวิธีที่การรำลึกได้วันที่มา เมื่อแหล่งข้อมูลที่ถือเหตุการณ์ไว้ไม่ได้ถือวันที่ไว้ด้วย ควรรู้ไว้ ก่อนจะเล่าต่อว่าเป็นวันครบรอบของการชก"
+   },
+   "kin": [
+    {
+     "to": "nai-khanom-tom",
+     "as": "Whose day.",
+     "rel": "person"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "The pattern.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:thwp-นายขนมต-ม"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-นายขนมต-ม"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "counted",
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "nai-khanom-tom-day/nai-khanom-tom-day-2560.jpg",
+     "source": "commons",
+     "title": "File:งานรำลึกนายขนมต้ม 2560.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Judge761",
+     "credit": "Own work",
+     "alt": "A replica statue of Nai Khanom Tom, a traditional Thai Muay Thai boxer from Ayutthaya, displayed at the Nai Khanom Tom Commemoration Ceremony on the 17th of March of each year.",
+     "date": "2020-07-01",
+     "primary": true,
+     "sha256": "d215b42226ddbda90262edf2c6b0f879046061d63847711878d11db14dde07d8"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "nai-khanom-tom",
+     "type": "person",
+     "name": "Nai Khanom Tom",
+     "as": "The date, and where it comes from."
+    },
+    {
+     "from": "rajadamnern",
+     "type": "venue",
+     "name": "Rajadamnern Stadium",
+     "as": "Whose statue stands outside."
+    }
+   ]
+  },
+  {
+   "id": "neighbours",
+   "type": "story",
+   "names": {
+    "name": "The same sport, four borders",
+    "th": "กีฬาเดียวกัน สี่ชายแดน",
+    "rtgs": "kila diaokan si chaidaen",
+    "said": "Lethwei, kun khmer, muay lao, tomoi. Four names, one region, and a long argument.",
+    "said_th": "เลทเว กุนขแมร์ มวยลาว โตมอย สี่ชื่อ ภูมิภาคเดียว และข้อถกเถียงที่ยาวนาน"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Myanmar, Cambodia, Laos and the Malay peninsula each have a striking art with the same eight weapons and a different name.",
+    "story": "**Lethwei**, in Myanmar, keeps the headbutt — nine weapons, not eight — and was fought bare-knuckle. **Kun khmer** in Cambodia, **muay lao** in Laos, **tomoi** on the Malay peninsula.\n\nThe dispute is public and recurring, most visibly over what the sport is called at the SEA Games when Cambodia hosts. Both sides argue from temple carvings and from chronicles, and neither set of evidence is decisive, because the thing they are arguing about — a regional practice older than any of the modern states — does not belong to a state by the nature of what it is.\n\nEnglish Wikipedia's own note is that the invented-tradition process in Thailand attached the sport to an official cultural institution and **separated it from these neighbours**. The separating is the recent part."
+   },
+   "text_th": {
+    "what": "เมียนมา กัมพูชา ลาว และคาบสมุทรมลายู ต่างมีศิลปะการต่อสู้ที่ใช้อาวุธแปดชิ้นเดียวกัน ในชื่อที่ต่างกัน",
+    "story": "**เลทเว** ในเมียนมา ยังใช้การโขกหัว — เก้าอาวุธ ไม่ใช่แปด — และชกด้วยหมัดเปล่า **กุนขแมร์** ในกัมพูชา **มวยลาว** ในลาว **โตมอย** บนคาบสมุทรมลายู\n\nข้อพิพาทนี้เป็นเรื่องสาธารณะและเกิดซ้ำ ๆ ที่เห็นชัดที่สุดคือเรื่องชื่อของกีฬานี้ในซีเกมส์เมื่อกัมพูชาเป็นเจ้าภาพ ทั้งสองฝ่ายอ้างภาพสลักที่ปราสาทและอ้างพงศาวดาร และหลักฐานทั้งสองชุดไม่ชี้ขาด เพราะสิ่งที่เถียงกันอยู่ — แนวปฏิบัติของภูมิภาคที่เก่ากว่ารัฐสมัยใหม่ทุกรัฐ — ไม่ได้เป็นของรัฐใดโดยธรรมชาติของมันเอง\n\nหมายเหตุของวิกิพีเดียภาษาอังกฤษเองคือกระบวนการประเพณีประดิษฐ์ในไทยผูกกีฬานี้ไว้กับสถาบันวัฒนธรรมของรัฐ และ **แยกมันออกจากเพื่อนบ้านเหล่านี้** การแยกคือส่วนที่เพิ่งเกิด"
+   },
+   "kin": [
+    {
+     "to": "invented-tradition",
+     "as": "The mechanism.",
+     "rel": "issue"
+    },
+    {
+     "to": "eight-limbs",
+     "as": "Nine, across one border.",
+     "rel": "weapon"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-lethwei"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "neighbours/neighbours-long-chin-kun-khmer-fighter-at-the-final-kubota-champion.jpg",
+     "source": "commons",
+     "title": "File:Long Chin, Kun Khmer Fighter at the Final Kubota Champion.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Long_Chin%2C_Kun_Khmer_Fighter_at_the_Final_Kubota_Champion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALong_Chin%2C_Kun_Khmer_Fighter_at_the_Final_Kubota_Champion.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Mao Piseth",
+     "credit": "Own work",
+     "alt": "Long Chin, Kun Khmer Fighter at the Final Kubota Champion on Bayon TV, during which he was defeated  by Sok Thy",
+     "date": "2018-04-27",
+     "primary": true,
+     "sha256": "f34bab474e5a30030504508bb8b0518449982681363527f10b776208f33b8522"
+    },
+    {
+     "file": "neighbours/neighbours-tway-ma-shaung.jpg",
+     "source": "commons",
+     "title": "File:Tway Ma Shaung.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tway_Ma_Shaung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ATway_Ma_Shaung.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Ligerpaingz",
+     "credit": "Own work",
+     "alt": "Myanmar Lethwei Champion",
+     "date": "2012-01-03 10:31:03",
+     "primary": false,
+     "sha256": "a9e4aae646abf50432a0601554134ce90668736cdb10718177bba1c9f712aa3b"
+    },
+    {
+     "file": "neighbours/neighbours-2014.jpg",
+     "source": "commons",
+     "title": "File:Чемпионат мира по бирманскому боксу, Таиланд, 2014 год.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B8%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%B1%D0%BE%D0%BA%D1%81%D1%83%2C_%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%2C_2014_%D0%B3%D0%BE%D0%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D0%B1%D0%B8%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%D1%83_%D0%B1%D0%BE%D0%BA%D1%81%D1%83%2C_%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%2C_2014_%D0%B3%D0%BE%D0%B4.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Иосиф123",
+     "credit": "Own work",
+     "alt": "Чемпионат мира по бирманскому боксу, Таиланд, 2014 год",
+     "date": "2014-07-01 13:57:46",
+     "primary": false,
+     "sha256": "dbb7d5c95e13fabb1ee9eed0fa72de5ca2428c3b0105b59813d2fcf6830ff068"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "invented-tradition",
+     "type": "issue",
+     "name": "How old is any of this",
+     "as": "Who got cut off."
+    }
+   ]
+  },
+  {
+   "id": "rama-v-golden-age",
+   "type": "story",
+   "names": {
+    "name": "Rama V, and the making of a national sport",
+    "th": "รัชกาลที่ 5 กับการทำให้เป็นกีฬาของชาติ",
+    "rtgs": "ratchakan thi ha",
+    "said": "The state takes the sport up: tournaments, a royal boxing corps, and titles for winners.",
+    "said_th": "รัฐรับกีฬานี้ขึ้นมา ทั้งการแข่งขันทั่วประเทศ กรมมวยหลวง และบรรดาศักดิ์ให้ผู้ชนะ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "Under King Chulalongkorn, 1868 to 1910, boxing was organised from the top: nationwide tournaments, a Royal Boxing Centre — *Muay Luang* — and the noble rank of *Muen* granted to the winner of each match.",
+    "story": "The Royal Boxing Centre administered both muay thai and krabi-krabong, on the model of the Ayutthaya boxers' regiment. In **1887** the Department of Education was established and muay thai went into the national curriculum, for teacher-training colleges and for the Chulachomklao Royal Military Academy.\n\nIn **1910** the king called fighters in from the provinces to fight at the cremation of his son Prince Urubongse, and gave the rank of *muen* to the three best — from Lopburi, Khorat and Chaiya.\n\n*Inference —* that is the whole machinery in one reign. Select by tournament, reward with rank, put it in the schools, and then name the regional styles after the three men who won at a funeral. The four lines are downstream of a prize list."
+   },
+   "text_th": {
+    "what": "ในรัชสมัยพระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว พ.ศ. 2411 ถึง 2453 มวยถูกจัดระเบียบจากข้างบน ทั้งการแข่งขันทั่วประเทศ กรมมวยหลวง และบรรดาศักดิ์หมื่นพระราชทานแก่ผู้ชนะแต่ละคู่",
+    "story": "กรมมวยหลวงดูแลทั้งมวยไทยและกระบี่กระบอง ตามแบบกรมนักมวยของอยุธยา ใน **พ.ศ. 2430** มีการตั้งกรมศึกษาธิการ และมวยไทยเข้าสู่หลักสูตรของชาติ ทั้งในโรงเรียนฝึกหัดครูพลศึกษาและในโรงเรียนนายร้อยพระจุลจอมเกล้า\n\nใน **พ.ศ. 2453** พระองค์ทรงเรียกนักมวยจากหัวเมืองเข้ามาชกในงานพระเมรุพระองค์เจ้าอุรุพงษ์ฯ พระราชโอรส และพระราชทานบรรดาศักดิ์หมื่นแก่สามคนที่เก่งที่สุด จากลพบุรี โคราช และไชยา\n\n*อนุมาน —* นั่นคือกลไกทั้งหมดในรัชกาลเดียว คัดด้วยการแข่งขัน ตอบแทนด้วยบรรดาศักดิ์ ใส่เข้าไปในโรงเรียน แล้วตั้งชื่อสายมวยประจำถิ่นตามชายสามคนที่ชนะในงานศพ สี่สายอยู่ปลายน้ำของรายชื่อผู้ชนะ"
+   },
+   "kin": [
+    {
+     "to": "four-lines",
+     "as": "What came out of it.",
+     "rel": "style"
+    },
+    {
+     "to": "first-ring",
+     "as": "What came next.",
+     "rel": "story"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "The argument.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:wp-chulalongkorn"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "rama-v-golden-age/rama-v-golden-age-rama-vi-rama-v-and-prince-asdang-dejavudh-1904.png",
+     "source": "commons",
+     "title": "File:Rama VI, Rama V, and Prince Asdang Dejavudh (1904).png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rama_VI%2C_Rama_V%2C_and_Prince_Asdang_Dejavudh_%281904%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ARama_VI%2C_Rama_V%2C_and_Prince_Asdang_Dejavudh_%281904%29.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Prajadhipok",
+     "credit": "ระยะทางเที่ยวชวากว่าสองเดือน",
+     "alt": "Portrait of King Chulalongkorn (Rama V), His Majesty the King (Rama VI, the reigning monarch at the time of publication), and Prince Asdang Dejavudh (Krom Luang Nakhon Ratchasima), taken in the Year o",
+     "date": "1904",
+     "primary": true,
+     "sha256": "2537f471b4d9862e4ea76e177cb5600dc5013adffe1c87f777b3ced4f2c05b22"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "what-we-did-not-do",
+   "type": "story",
+   "names": {
+    "name": "What this site does not have",
+    "th": "สิ่งที่เว็บนี้ไม่มี",
+    "rtgs": "sing thi web ni mai mi",
+    "said": "Named here so it is not mistaken for coverage.",
+    "said_th": "ระบุไว้ตรงนี้ เพื่อไม่ให้เข้าใจผิดว่าครอบคลุมแล้ว"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "The gaps, listed.",
+    "story": "- **No fight records.** Thai fight records live in stadium ledgers and promoter spreadsheets, not in any open dataset this project could reach. The win-loss numbers circulating online for Thai fighters are mostly unsourced.\n- **No schedules or ticket prices.** Both Bangkok stadiums change cards and prices with the promotion. A page that printed them would be wrong within a month, so the venue records carry a `check` flag instead.\n- **No gym rankings and no gym reviews.** The map is a census of what OpenStreetMap holds. Nothing here says one gym is better than another.\n- **No current rule on women and the ring** from either Bangkok stadium. The tradition is described; the present rule is not named, because this project has no dated statement of it.\n- **Thasao's twenty-four techniques are a count with no names** in the source used here. They may be named elsewhere; they are not on this disk.\n- **The gym count is short by an order of magnitude** against the 3,800-gyms figure in the literature, and says so on its own page."
+   },
+   "text_th": {
+    "what": "ช่องว่าง เรียงไว้",
+    "story": "- **ไม่มีสถิติการชก** สถิติของนักมวยไทยอยู่ในสมุดของสนามและในตารางของโปรโมเตอร์ ไม่ได้อยู่ในชุดข้อมูลเปิดที่โครงการนี้เข้าถึงได้ ตัวเลขแพ้ชนะที่หมุนอยู่ในอินเทอร์เน็ตส่วนใหญ่ไม่มีแหล่งอ้างอิง\n- **ไม่มีตารางการแข่งหรือราคาบัตร** สนามทั้งสองในกรุงเทพฯ เปลี่ยนรายการและราคาตามโปรโมเตอร์ หน้าที่พิมพ์มันไว้จะผิดภายในหนึ่งเดือน บันทึกสนามจึงติดธง `check` ไว้แทน\n- **ไม่มีการจัดอันดับยิมและไม่มีรีวิวยิม** แผนที่คือสำมะโนของสิ่งที่ OpenStreetMap ถือไว้ ไม่มีอะไรตรงนี้บอกว่ายิมไหนดีกว่ายิมไหน\n- **ไม่มีกฎปัจจุบันเรื่องผู้หญิงกับเวที** จากสนามใดในกรุงเทพฯ ธรรมเนียมถูกอธิบายไว้ ส่วนกฎปัจจุบันไม่ได้ระบุ เพราะโครงการนี้ไม่มีคำแถลงที่ลงวันที่\n- **ท่ายี่สิบสี่ท่าของท่าเสาเป็นจำนวนที่ไม่มีชื่อ** ในแหล่งที่ใช้ตรงนี้ อาจมีชื่ออยู่ที่อื่น แต่ไม่ได้อยู่บนดิสก์นี้\n- **จำนวนยิมขาดไปหนึ่งหลัก** เมื่อเทียบกับตัวเลข 3,800 แห่งในเอกสาร และหน้าของมันบอกไว้เอง"
+   },
+   "kin": [
+    {
+     "to": "the-gym-map",
+     "as": "The count that is short.",
+     "rel": "gym"
+    },
+    {
+     "to": "women-in-the-ring",
+     "as": "The rule not named.",
+     "rel": "issue"
+    },
+    {
+     "to": "thasao",
+     "as": "The list with no names.",
+     "rel": "style"
+    },
+    {
+     "to": "wat-bang-phra",
+     "as": "Its festival date and its prices move; the record says so.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:osm-gyms",
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:osm-gyms"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "id": "why-foreigners-lose-decisions",
+   "type": "story",
+   "names": {
+    "name": "Why you thought he won",
+    "th": "ทำไมคุณคิดว่าเขาชนะ",
+    "rtgs": "thammai khun khit wa khao chana",
+    "said": "You were counting punches. Nobody else was.",
+    "said_th": "คุณกำลังนับหมัด ไม่มีใครนับ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "The most common experience a first-time spectator has, and the five reasons for it.",
+    "story": "**You scored round one.** Nobody else did. The first two rounds are assessment and are commonly scored even.\n\n**You counted punches.** Punches are the lowest-value thing in the arsenal. Six that do not move a man are worth less than one kick that folds him.\n\n**You rewarded forward pressure.** Walking at someone is not scoring. The man going backwards and landing is ahead.\n\n**You scored the clinch as nothing happening.** It is where a Thai crowd gets loudest, because control in there is the clearest statement of who is handling whom.\n\n**You watched the fighters.** The room was watching the odds. The noise you could not place was money changing hands, and it tracks the fight better than any commentary you can hear.\n\n*Inference —* none of this means the decision was right. It means it was consistent, and that a scorecard is a language rather than an arithmetic."
+   },
+   "text_th": {
+    "what": "ประสบการณ์ที่คนดูครั้งแรกเจอบ่อยที่สุด และเหตุผลห้าข้อของมัน",
+    "story": "**คุณให้ยกหนึ่ง** ไม่มีใครให้ สองยกแรกคือการหยั่งเชิงและมักถูกให้เท่ากัน\n\n**คุณนับหมัด** หมัดคือของที่มีค่าน้อยที่สุดในคลังอาวุธ หกหมัดที่ไม่ทำให้ใครขยับ มีค่าน้อยกว่าเตะหนึ่งครั้งที่ทำให้เขาพับ\n\n**คุณให้คะแนนการเดินกดดัน** การเดินเข้าใส่ไม่ใช่การทำแต้ม คนที่ถอยหลังแล้วออกอาวุธเข้าเป้าคือคนที่นำ\n\n**คุณนับวงในว่าไม่มีอะไรเกิดขึ้น** มันคือช่วงที่คนดูไทยส่งเสียงดังที่สุด เพราะการควบคุมในนั้นคือคำแถลงที่ชัดที่สุดว่าใครกำลังจัดการใคร\n\n**คุณดูนักมวย** ส่วนคนทั้งห้องดูราคา เสียงที่คุณจับไม่ได้คือเงินที่เปลี่ยนมือ และมันตามไฟต์ได้ดีกว่าคำบรรยายใดที่คุณฟังออก\n\n*อนุมาน —* ไม่มีข้อไหนแปลว่าคำตัดสินถูก มันแปลว่าคำตัดสินนั้นสอดคล้องกันเอง และใบให้คะแนนเป็นภาษา มากกว่าจะเป็นการคิดเลข"
+   },
+   "kin": [
+    {
+     "to": "scoring",
+     "as": "The rules behind it.",
+     "rel": "rule"
+    },
+    {
+     "to": "betting",
+     "as": "The noise.",
+     "rel": "rule"
+    },
+    {
+     "to": "clinch",
+     "as": "The part that looked like nothing.",
+     "rel": "move"
+    },
+    {
+     "to": "fight-night",
+     "as": "What an evening is shaped like.",
+     "rel": "story"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "why-foreigners-lose-decisions/why-foreigners-lose-decisions-muay-thai-match-at-rajadamnern-stadium-2007-05-20-4.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai match at Rajadamnern Stadium 2007-05-20 4.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_4.JPG",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "BrokenSphere",
+     "credit": "Own work",
+     "alt": "A Muay Thai match at Rajadamnern Stadium in Bangkok, Thailand.",
+     "date": "2007-07-01",
+     "primary": true,
+     "sha256": "4d05fe5cfc6c0c64c9adc53873fe9a25818bf2950bf08561a4c48d8208e51e62"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "scoring",
+     "type": "rule",
+     "name": "How a fight is actually scored",
+     "as": "What it looks like from the cheap seats."
+    },
+    {
+     "from": "fight-night",
+     "type": "story",
+     "name": "What an evening is shaped like",
+     "as": "Why the decision surprised you."
+    },
+    {
+     "from": "fimue",
+     "type": "term",
+     "name": "fimue",
+     "as": "The misreading."
+    }
+   ]
+  },
+  {
+   "id": "ww1-france",
+   "type": "story",
+   "names": {
+    "name": "Thai troops in France, 1914–18",
+    "th": "ทหารไทยในฝรั่งเศส",
+    "rtgs": "thahan thai nai farangset",
+    "said": "A German magazine reviewed it in 1918 and called Siam remarkable.",
+    "said_th": "นิตยสารเยอรมันเขียนถึงมันในปี 2461 และเรียกสยามว่าน่าทึ่ง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ring"
+   },
+   "text": {
+    "what": "Thailand sent troops to France with the allies, and they taught what they knew. The English article records this as the route by which the word reached Europe.",
+    "story": "*Le Sport Orient*, published in Mainz, is quoted: the boxers are agile, strong and tough; the sport is hard to get to see; and \"once again, it makes the French feel that Siam is one of the truly remarkable nations of Asia.\"\n\n*Inference —* so the first foreign audience for muay thai was a European one, in a war, twenty years before the two Bangkok stadiums existed. The export is older than the domestic institution."
+   },
+   "text_th": {
+    "what": "ไทยส่งทหารไปฝรั่งเศสร่วมกับฝ่ายสัมพันธมิตร และพวกเขาสอนสิ่งที่ตัวเองรู้ บทความภาษาอังกฤษบันทึกว่านี่คือเส้นทางที่คำนี้เดินทางถึงยุโรป",
+    "story": "นิตยสาร *Le Sport Orient* ตีพิมพ์ที่ไมนซ์ ถูกยกมาว่า นักมวยคล่องแคล่ว แข็งแรง และทนทาน กีฬานี้หาดูได้ยาก และ \"อีกครั้งหนึ่ง มันทำให้ชาวฝรั่งเศสรู้สึกว่าสยามเป็นหนึ่งในชาติที่น่าทึ่งของเอเชีย\"\n\n*อนุมาน —* ผู้ชมต่างชาติกลุ่มแรกของมวยไทยจึงเป็นชาวยุโรป ในสงคราม ยี่สิบปีก่อนที่สนามมวยสองแห่งในกรุงเทพฯ จะมีอยู่ การส่งออกเก่ากว่าสถาบันในประเทศ"
+   },
+   "kin": [
+    {
+     "to": "first-ring",
+     "as": "What was happening at home.",
+     "rel": "story"
+    },
+    {
+     "to": "the-gym-map",
+     "as": "Where it ended up.",
+     "rel": "gym"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "choosing-a-gym",
+ "type": "gym",
+ "names": {
+  "name": "What to ask before paying a month",
+  "th": "ถามอะไรก่อนจ่ายรายเดือน",
+  "rtgs": "tham arai kon chai rai duean",
+  "said": "Ask how many of their fighters fought this month. Then ask where.",
+  "said_th": "ถามว่าเดือนนี้นักมวยของเขาขึ้นชกกี่คน แล้วถามว่าที่ไหน"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "country": "th",
+  "price": "varies"
+ },
+ "text": {
+  "what": "Five questions, and what each answer tells you.",
+  "story": "**How many of your fighters fought this month, and where?** A camp that matches fighters is a camp inside the sport. A gym where nobody fights is a fitness class with Thai vocabulary, which is a fine thing to buy and a different thing.\n\n**Who holds pads for me, and are they the same person each time?** Pads are the session. A trainer who learns your habits is the whole difference between a month of training and a month of exercise.\n\n**How many people are in the afternoon session?** Two rounds of pads each is the constraint, and it is set by trainer-to-student ratio, not by the timetable on the wall.\n\n**Do beginners clinch here?** Clinching is where muay thai stops being kickboxing, and also where a first-timer gets hurt by accident. Both answers are legitimate; a gym with no answer is not paying attention.\n\n**What happens if I want to fight?** Ask even if you do not. The answer tells you whether the place has a route into the sport or only a route into its classes."
+ },
+ "text_th": {
+  "what": "ห้าคำถาม และคำตอบแต่ละข้อบอกอะไร",
+  "story": "**เดือนนี้นักมวยของคุณขึ้นชกกี่คน และที่ไหน** ค่ายที่จับคู่ชกให้นักมวยคือค่ายที่อยู่ในกีฬานี้จริง ยิมที่ไม่มีใครขึ้นชกคือคลาสออกกำลังกายที่ใช้คำศัพท์ไทย ซึ่งเป็นของที่ซื้อได้และเป็นคนละอย่าง\n\n**ใครถือเป้าให้ผม และเป็นคนเดิมทุกครั้งไหม** เป้าคือตัวการฝึก ครูที่จำนิสัยคุณได้คือความต่างทั้งหมดระหว่างการฝึกหนึ่งเดือนกับการออกกำลังหนึ่งเดือน\n\n**รอบบ่ายมีคนกี่คน** เป้าคนละสองยกคือข้อจำกัด และมันถูกกำหนดด้วยอัตราส่วนครูต่อนักเรียน ไม่ใช่ด้วยตารางบนผนัง\n\n**ที่นี่ให้มือใหม่จับคอตีไหม** วงในคือจุดที่มวยไทยเลิกเป็นคิกบ็อกซิ่ง และเป็นจุดที่คนมาใหม่เจ็บโดยอุบัติเหตุด้วย ทั้งสองคำตอบใช้ได้ ยิมที่ไม่มีคำตอบคือยิมที่ไม่ได้ใส่ใจ\n\n**ถ้าผมอยากขึ้นชกล่ะ** ถามแม้จะไม่อยาก คำตอบบอกว่าที่นั่นมีทางเข้าสู่กีฬานี้ หรือมีแค่ทางเข้าสู่คลาสของมัน"
+ },
+ "kin": [
+  {
+   "to": "camp-vs-school",
+   "as": "The word for what you are buying.",
+   "rel": "gym"
+  },
+  {
+   "to": "first-session",
+   "as": "What the first one is like.",
+   "rel": "drill"
+  },
+  {
+   "to": "the-gym-map",
+   "as": "Where the places are.",
+   "rel": "gym"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner",
+  "money"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "choosing-a-gym/choosing-a-gym-muay-thai-in-lamai-2.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai in Lamai 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Muay_Thai_in_Lamai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_in_Lamai_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "alt": "Muay Thai in Lamai, Ko Samui.",
+   "date": "2018-06-09 23:02:36",
+   "primary": true,
+   "sha256": "972d5cdc8062ccb659d360c74caae65e221a73af18560f23c2ed67bfcb6bf899"
+  }
+ ]
+}

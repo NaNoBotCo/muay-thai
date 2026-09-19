@@ -1,0 +1,68 @@
+{
+ "id": "angkor-1431",
+ "type": "story",
+ "names": {
+  "name": "Boxers at Angkor, 1431",
+  "th": "นักมวยที่นครธม พ.ศ. 1974",
+  "rtgs": "nak muay thi nakhon thom",
+  "said": "The first time a chronicle puts boxers in an army and names the officer.",
+  "said_th": "ครั้งแรกที่พงศาวดารวางนักมวยไว้ในกองทัพและระบุชื่อนายทหาร"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "King Borommarachathirat II of Ayutthaya sent four forces against Angkor Thom, and the victory inscription lists groups of Siamese boxers among them.",
+  "story": "The inscription of Khun Sri Chaiya Raj Mongkol Thep, N.M. 78, face 2, dated 1431, names the officer, the three targets — Angkor Thom, Phimai, Phanom Rung — and the composition of the column that came home: **groups of Siamese boxers**, with elephant and horse battalions.\n\n*Inference —* a boxer inside an order of battle is not a sportsman and not a demonstrator. He is infantry with a specialism, which is what the sport was for about five hundred years before it was anything else."
+ },
+ "text_th": {
+  "what": "สมเด็จพระบรมราชาธิราชที่ 2 แห่งอยุธยา ยกทัพสี่ทัพไปตีนครธม และจารึกชัยชนะระบุกลุ่มนักมวยสยามไว้ในนั้น",
+  "story": "จารึกขุนศรีไชยราชมงคลเทพ N.M. 78 ด้านที่ 2 ลงปี พ.ศ. 1974 ระบุชื่อนายทหาร ระบุเป้าหมายสามแห่ง นครธม พิมาย และพนมรุ้ง และระบุองค์ประกอบของขบวนที่กลับมา คือ **กลุ่มนักมวยสยาม** พร้อมกองช้างและกองม้า\n\n*อนุมาน —* นักมวยที่อยู่ในลำดับการรบไม่ใช่นักกีฬาและไม่ใช่นักแสดง เขาคือทหารราบที่มีความชำนาญเฉพาะ ซึ่งคือสิ่งที่กีฬานี้เป็นอยู่ราวห้าร้อยปีก่อนจะเป็นอย่างอื่น"
+ },
+ "kin": [
+  {
+   "to": "kings-guard",
+   "as": "What it became, twenty-four years later.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-ayutthaya-kingdom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "angkor-1431/angkor-1431-samutsongkram-wat-bang-kung-2.jpg",
+   "source": "commons",
+   "title": "File:Samutsongkram Wat Bang Kung 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Samutsongkram_Wat_Bang_Kung_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASamutsongkram_Wat_Bang_Kung_2.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Mr.Niwat Tantayanusorn, Ph.D.",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "alt": "Located in Bang Kung subdistrict, Bang Khonthi district, this area was once set up as a military camp called “Kai Bang Kung” for troops from southern provinces to fight against Burmese army. After the",
+   "date": "2015-01-29 17:11:55",
+   "primary": true,
+   "sha256": "5d96165927c964f0925de7eb9f5d6dad64a51e22f9406155cdda78c0cfd51e97"
+  }
+ ]
+}

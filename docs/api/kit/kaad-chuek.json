@@ -1,0 +1,137 @@
+{
+ "id": "kaad-chuek",
+ "type": "kit",
+ "names": {
+  "name": "The rope",
+  "th": "คาดเชือก",
+  "rtgs": "khat chueak",
+  "said": "Hemp over the knuckles, knotted, and sometimes wetted.",
+  "said_th": "เชือกป่านพันข้อนิ้ว ผูกปม และบางทีก็ชุบน้ำ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "rope",
+  "worn": "fight"
+ },
+ "text": {
+  "what": "Hand-wrapping in hemp rope or raw cotton thread, used instead of gloves until the late 1920s. *Khat chueak* is literally to gird with rope.",
+  "story": "The English article is specific about what the rope did: knots placed over the knuckles made a strike \"more abrasive and damaging\", while the wrap protected the hand underneath. Chaiya's account uses raw cotton thread rather than hemp, and puts a prajiat round the head as well.\n\nIt ended after a death in the ring. Fighters went to gloves and to cotton coverlets over the feet and ankles, and the older form acquired a new name — *muay boran* — once the new one had taken the old one's.\n\n*Tradition holds —* the ropes were dipped in water, and in some tellings in resin and ground glass. The water is in the article, attached to the account of why the straight knee was risky; the glass is folklore, and this project has no source for it."
+ },
+ "text_th": {
+  "what": "การพันมือด้วยเชือกป่านหรือด้ายดิบ ใช้แทนนวมจนถึงปลายทศวรรษ 2460 *คาดเชือก* แปลตรงตัวว่าคาดด้วยเชือก",
+  "story": "บทความภาษาอังกฤษระบุชัดว่าเชือกทำอะไร ปมที่วางทับข้อนิ้วทำให้อาวุธ \"เสียดสีและสร้างความเสียหายมากขึ้น\" ขณะที่การพันปกป้องมือข้างใต้ ส่วนเรื่องเล่าของไชยาใช้ด้ายดิบแทนเชือกป่าน และคาดประเจียดที่ศีรษะด้วย\n\nมันจบลงหลังมีคนตายบนเวที นักมวยเปลี่ยนไปใช้นวมและผ้าฝ้ายหุ้มเท้ากับข้อเท้า แล้วรูปแบบเก่าก็ได้ชื่อใหม่ — *มวยโบราณ* — เมื่อของใหม่เอาชื่อเก่าไปแล้ว\n\n*ตามธรรมเนียม —* เชือกถูกชุบน้ำ และในบางสำนวนชุบยางไม้กับเศษแก้วบด เรื่องน้ำอยู่ในบทความ ผูกกับคำอธิบายว่าทำไมเข่าตรงจึงเสี่ยง ส่วนเศษแก้วเป็นเรื่องเล่า และโครงการนี้ไม่มีแหล่งอ้างอิง"
+ },
+ "kin": [
+  {
+   "to": "gloves",
+   "as": "What replaced it.",
+   "rel": "kit"
+  },
+  {
+   "to": "muay-boran",
+   "as": "What it is now filed under.",
+   "rel": "style"
+  },
+  {
+   "to": "knee",
+   "as": "Which technique it held back.",
+   "rel": "weapon"
+  },
+  {
+   "to": "chaiya",
+   "as": "Where it was thread rather than rope.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "kaad-chuek/kaad-chuek-chintawannakhadi-p-531.jpg",
+   "source": "commons",
+   "title": "File:Chintawannakhadi (p 531).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chintawannakhadi_%28p_531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChintawannakhadi_%28p_531%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Hem Vejakorn",
+   "credit": "นายตำรา ณ เมืองใต้ (เรื่อง), เหม เวชกร (ภาพ). (๒๕๔๐). จินตวรรณคดีไทย. กรุงเทพฯ: ไทยวัฒนาพานิช. (หนังสืออนุสรณ์งานพระราชทานเพลิงศพนายบุญธรรม ต.สุวรรณ ท.จ., ท.ช. วันที่ ๓๑ กรกฎาคม พ.ศ. ๒๕๔๐ ณ เมรุวัดธาต",
+   "alt": "An illustration of the book mentioned below, depicting the following:\nA French man challenged Thais to join boxing matches with him in the year 2331 BE (1788/89 CE).",
+   "date": "before 1969date QS:P,+1969-00-00T00:00:0",
+   "primary": true,
+   "sha256": "99a1e7d956e9338a1e32b888ecd2845a29ee72a84443cee8869b73f7c42d413a"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "knee",
+   "type": "weapon",
+   "name": "The knee",
+   "as": "The rope that the straight knee had to wait out."
+  },
+  {
+   "from": "chaiya",
+   "type": "style",
+   "name": "Muay Chaiya",
+   "as": "Thread, in this case, rather than rope."
+  },
+  {
+   "from": "korat",
+   "type": "style",
+   "name": "Muay Korat",
+   "as": "Wound to the elbow here."
+  },
+  {
+   "from": "muay-boran",
+   "type": "style",
+   "name": "Muay boran",
+   "as": "What it is fought with."
+  },
+  {
+   "from": "nai-khanom-tom",
+   "type": "person",
+   "name": "Nai Khanom Tom",
+   "as": "What he fought with."
+  },
+  {
+   "from": "gloves",
+   "type": "kit",
+   "name": "Gloves",
+   "as": "What it replaced."
+  },
+  {
+   "from": "la-loubere-1687",
+   "type": "story",
+   "name": "A French diplomat, 1687",
+   "as": "What they were fighting with."
+  },
+  {
+   "from": "muay-word",
+   "type": "term",
+   "name": "muay",
+   "as": "What got tied."
+  }
+ ]
+}

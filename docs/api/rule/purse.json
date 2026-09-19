@@ -1,0 +1,84 @@
+{
+ "id": "purse",
+ "type": "rule",
+ "names": {
+  "name": "What a fighter is paid",
+  "th": "ค่าตัว",
+  "rtgs": "kha tua",
+  "said": "100,000 baht for a superstar in 2016. The gate that night was worth more.",
+  "said_th": "ค่าตัวซูเปอร์สตาร์ราวหนึ่งแสนบาทในปี 2559 ส่วนเงินที่ไหลเวียนคืนนั้นมากกว่านั้น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "body": "conduct"
+ },
+ "text": {
+  "what": "Purse figures, and the cuts taken out of them before the fighter sees anything.",
+  "story": "The English article gives three figures and they are worth holding together. In the 1980s and 1990s top fighters commanded **up to 200,000 baht**. In 2016 a payout to a superstar was **about 100,000 baht**, ranging as high as 540,000. And the purse is \"sought as a means of support for the fighters and their families\" **after other parties have their cut** — the camp, the trainer, the manager.\n\nSet that against the 40 billion baht a year estimated to move through the betting, and against the note in the same article that the going rate to lose a fight on purpose is 60,000 to 150,000 baht.\n\n*Inference —* a sport where throwing a fight pays the same as winning one is not being held together by its purses."
+ },
+ "text_th": {
+  "what": "ตัวเลขค่าตัว และส่วนแบ่งที่ถูกหักออกก่อนนักมวยจะได้เห็นอะไร",
+  "story": "บทความภาษาอังกฤษให้ตัวเลขสามตัวที่ควรถือไว้ด้วยกัน ในทศวรรษ 1980 ถึง 1990 นักมวยระดับบนได้ **ถึงสองแสนบาท** ในปี 2559 ค่าตัวซูเปอร์สตาร์อยู่ที่ **ราวหนึ่งแสนบาท** สูงสุดถึงห้าแสนสี่หมื่น และค่าตัวนั้นเป็น \"ทางเลี้ยงดูนักมวยและครอบครัว\" **หลังจากฝ่ายอื่นหักส่วนแบ่งไปแล้ว** ทั้งค่าย ครูฝึก และผู้จัดการ\n\nเทียบกับเงินสี่หมื่นล้านบาทต่อปีที่ประเมินว่าหมุนอยู่ในวงพนัน และเทียบกับข้อความในบทความเดียวกันว่าราคาของการล้มมวยอยู่ที่หกหมื่นถึงหนึ่งแสนห้าหมื่นบาท\n\n*อนุมาน —* กีฬาที่การล้มมวยได้เงินพอ ๆ กับการชนะ ไม่ได้ถูกยึดไว้ด้วยค่าตัวของมัน"
+ },
+ "kin": [
+  {
+   "to": "betting",
+   "as": "The money that is actually moving.",
+   "rel": "rule"
+  },
+  {
+   "to": "child-boxing",
+   "as": "Why a family puts a nine-year-old on a card.",
+   "rel": "issue"
+  },
+  {
+   "to": "isan",
+   "as": "Where most of the fighters come from.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "money",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "betting",
+   "type": "rule",
+   "name": "The gambling floor",
+   "as": "What a fighter is paid against it."
+  },
+  {
+   "from": "isan",
+   "type": "place",
+   "name": "Isan",
+   "as": "The money."
+  },
+  {
+   "from": "child-boxing",
+   "type": "issue",
+   "name": "Children in the ring",
+   "as": "The money in question."
+  }
+ ]
+}

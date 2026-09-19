@@ -1,0 +1,73 @@
+{
+ "id": "phraya-phichai",
+ "type": "person",
+ "names": {
+  "name": "Phraya Phichai of the Broken Sword",
+  "th": "พระยาพิชัยดาบหัก",
+  "rtgs": "phraya phichai dap hak",
+  "said": "Fought on with half a sword. The north's line is named for his home town.",
+  "said_th": "สู้ต่อด้วยดาบที่หักครึ่ง สายมวยเหนือตั้งชื่อตามบ้านเกิดของเขา"
+ },
+ "region": [
+  "north",
+  "uttaradit"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "A general of King Taksin, from Tha Sao in Uttaradit, said to have trained as a boxer before he was a soldier. Muay Thasao carries his name alongside the district's.",
+  "story": "The epithet is the story: a sword broken in a fight he went on to win. His statue stands in Uttaradit with the broken blade in his hand.\n\n*Inference —* the northern line has a hero and no technique list, and the southern line has a technique list and a governor's son with a printing press. Which of the two survived better is a question about publishing."
+ },
+ "text_th": {
+  "what": "แม่ทัพของพระเจ้าตากสิน มาจากท่าเสา จังหวัดอุตรดิตถ์ ว่ากันว่าฝึกมวยมาก่อนเป็นทหาร มวยท่าเสาใช้ชื่อของเขาควบกับชื่ออำเภอ",
+  "story": "ฉายาคือเรื่องเล่า ดาบที่หักในการรบที่เขาชนะต่อไปจนจบ อนุสาวรีย์ของเขาตั้งอยู่ที่อุตรดิตถ์ ถือดาบที่หักอยู่ในมือ\n\n*อนุมาน —* สายเหนือมีวีรบุรุษแต่ไม่มีรายการท่า ส่วนสายใต้มีรายการท่าและมีบุตรเจ้าเมืองที่เข้าถึงแท่นพิมพ์ ว่าสายไหนรอดมาได้ดีกว่า เป็นคำถามเรื่องการพิมพ์"
+ },
+ "kin": [
+  {
+   "to": "thasao",
+   "as": "The line named with him.",
+   "rel": "style"
+  },
+  {
+   "to": "khet-sriyaphai",
+   "as": "The other side of the comparison.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:wp-phraya-phichai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-phraya-phichai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "phraya-phichai/phraya-phichai-muay-thai-infront-of-king-taksin-phraya-pichai-dabha-eaf60b7.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai infront of King Taksin & Phraya Pichai Dabhak Monument 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Muay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Tmd",
+   "credit": "Own work",
+   "alt": "Muay Thai infront of King Taksin &amp; Phraya Pichai Dabhak Monument. Statue found in Hat-Sung Palace (Wat Kungtapao), Uttaradit Province, Thailand.",
+   "date": "2022-01-07",
+   "primary": true,
+   "sha256": "faca65236d5c348f337c2083a2a471d3c86a5983413e37bd97edd17461afbe3b"
+  }
+ ]
+}

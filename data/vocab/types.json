@@ -1,0 +1,203 @@
+{
+ "note": "The eighteen node types and the order the front page lists them in. `one` is the singular used in prose; `th` is the Thai label on every /th/ page.",
+ "entries": [
+  {
+   "key": "weapon",
+   "name": "The eight weapons",
+   "th": "อาวุธทั้งแปด",
+   "one": "weapon",
+   "path": "weapon",
+   "blurb": "Two fists, two elbows, two knees, two shins. What each one is for, what it costs to throw, and what it scores.",
+   "th_blurb": "หมัดสอง ศอกสอง เข่าสอง แข้งสอง แต่ละอย่างใช้ทำอะไร แลกด้วยอะไร และได้แต้มแค่ไหน",
+   "group_by": "facets.range",
+   "icon": "weapon"
+  },
+  {
+   "key": "move",
+   "name": "Techniques",
+   "th": "ท่ามวย",
+   "one": "move",
+   "path": "move",
+   "blurb": "The thirty named techniques, and the handful of everyday ones that win most fights. Every name is a picture.",
+   "th_blurb": "สามสิบท่าที่มีชื่อ และท่าธรรมดาไม่กี่ท่าที่ชนะจริง ทุกชื่อคือภาพ",
+   "group_by": "facets.set",
+   "icon": "move"
+  },
+  {
+   "key": "style",
+   "name": "The schools",
+   "th": "สายมวย",
+   "one": "style",
+   "path": "style",
+   "blurb": "Chaiya, Korat, Lopburi, Thasao — four regions, four answers, one rhyme that ranks them.",
+   "th_blurb": "ไชยา โคราช ลพบุรี ท่าเสา สี่ถิ่น สี่คำตอบ และกลอนบทเดียวที่จัดอันดับไว้",
+   "group_by": "facets.era",
+   "icon": "style"
+  },
+  {
+   "key": "ritual",
+   "name": "The ceremony",
+   "th": "พิธีกรรม",
+   "one": "ritual",
+   "path": "ritual",
+   "blurb": "The headband, the armbands, the dance before the fight, and the tattoo under the shirt.",
+   "th_blurb": "มงคล ประเจียด ราํมวยก่อนชก และรอยสักใต้เสื้อ",
+   "group_by": "facets.worn",
+   "icon": "ritual"
+  },
+  {
+   "key": "music",
+   "name": "The band",
+   "th": "ดนตรี",
+   "one": "music",
+   "path": "music",
+   "blurb": "Four instruments play every fight in Thailand, live, and they speed up when it matters.",
+   "th_blurb": "สี่ชิ้นบรรเลงสดทุกไฟต์ในเมืองไทย และเร่งขึ้นเมื่อถึงเวลา",
+   "group_by": "facets.instrument",
+   "icon": "music"
+  },
+  {
+   "key": "bout",
+   "name": "The fights",
+   "th": "ไฟต์สำคัญ",
+   "one": "bout",
+   "path": "bout",
+   "blurb": "Single nights that changed what the sport was allowed to be.",
+   "th_blurb": "คืนเดียวที่เปลี่ยนกติกาของกีฬานี้",
+   "group_by": "facets.era",
+   "icon": "bout"
+  },
+  {
+   "key": "person",
+   "name": "People",
+   "th": "บุคคล",
+   "one": "person",
+   "path": "person",
+   "blurb": "Fighters, kings, trainers and the one prisoner of war everybody starts with.",
+   "th_blurb": "นักมวย กษัตริย์ ครู และเชลยศึกคนหนึ่งที่ทุกคนเริ่มเล่าจากเขา",
+   "group_by": "facets.era",
+   "icon": "person"
+  },
+  {
+   "key": "venue",
+   "name": "Stadiums",
+   "th": "สนามมวย",
+   "one": "venue",
+   "path": "venue",
+   "blurb": "Where the fights are, which night, and what a ticket actually gets you.",
+   "th_blurb": "ชกที่ไหน คืนไหน และบัตรใบหนึ่งได้อะไรบ้าง",
+   "group_by": "facets.city",
+   "icon": "venue"
+  },
+  {
+   "key": "gym",
+   "name": "Gyms and camps",
+   "th": "ค่ายมวย",
+   "one": "gym",
+   "path": "gym",
+   "blurb": "Every place in the world OpenStreetMap knows you can train, grouped by country, plus the camps that made the sport.",
+   "th_blurb": "ทุกที่ในโลกที่ OpenStreetMap รู้ว่าฝึกได้ จัดตามประเทศ พร้อมค่ายที่สร้างกีฬานี้ขึ้นมา",
+   "group_by": "facets.country",
+   "icon": "gym"
+  },
+  {
+   "key": "drill",
+   "name": "Training",
+   "th": "การฝึก",
+   "one": "drill",
+   "path": "drill",
+   "blurb": "What two sessions a day actually consist of, in the order they happen.",
+   "th_blurb": "วันละสองรอบคืออะไรบ้าง เรียงตามลำดับจริง",
+   "group_by": "facets.part",
+   "icon": "drill"
+  },
+  {
+   "key": "rule",
+   "name": "The rules",
+   "th": "กติกา",
+   "one": "rule",
+   "path": "rule",
+   "blurb": "Five rounds, ten points, one winner — and almost none of it works the way boxing does.",
+   "th_blurb": "ห้ายก สิบคะแนน หนึ่งผู้ชนะ และแทบไม่มีอะไรเหมือนมวยสากล",
+   "group_by": "facets.body",
+   "icon": "rule"
+  },
+  {
+   "key": "kit",
+   "name": "Kit",
+   "th": "อุปกรณ์",
+   "one": "kit",
+   "path": "kit",
+   "blurb": "Rope, gloves, shorts, anklets, oil. What each is, what it costs, and what it does to a fight.",
+   "th_blurb": "เชือก นวม กางเกง ผ้าพันข้อ น้ำมัน แต่ละอย่างคืออะไร ราคาเท่าไร และเปลี่ยนไฟต์อย่างไร",
+   "group_by": "facets.era",
+   "icon": "kit"
+  },
+  {
+   "key": "story",
+   "name": "History",
+   "th": "ประวัติ",
+   "one": "story",
+   "path": "story",
+   "blurb": "Ayutthaya to the ring, in the episodes that are actually documented and the ones that are not.",
+   "th_blurb": "จากอยุธยาถึงเวที เฉพาะตอนที่มีหลักฐาน และตอนที่ไม่มี",
+   "group_by": "facets.era",
+   "icon": "story"
+  },
+  {
+   "key": "place",
+   "name": "Places",
+   "th": "ถิ่น",
+   "one": "place",
+   "path": "place",
+   "blurb": "Where the schools came from and where the fighters still come from.",
+   "th_blurb": "สายมวยมาจากไหน และนักมวยยังมาจากไหน",
+   "group_by": "facets.region",
+   "icon": "place"
+  },
+  {
+   "key": "org",
+   "name": "Bodies",
+   "th": "องค์กร",
+   "one": "org",
+   "path": "org",
+   "blurb": "Who writes the rules, who sanctions the belts, and who disagrees with whom.",
+   "th_blurb": "ใครเขียนกติกา ใครรับรองเข็มขัด และใครไม่ลงรอยกับใคร",
+   "group_by": "facets.scope",
+   "icon": "org"
+  },
+  {
+   "key": "issue",
+   "name": "Open questions",
+   "th": "ข้อถกเถียง",
+   "one": "issue",
+   "path": "issue",
+   "blurb": "Children in the ring, women in the ring, heads that take ten years of kicks. Both arguments, named.",
+   "th_blurb": "เด็กบนเวที ผู้หญิงบนเวที และศีรษะที่รับแรงสิบปี ทั้งสองฝ่าย ระบุชื่อ",
+   "group_by": "facets.status",
+   "icon": "issue"
+  },
+  {
+   "key": "term",
+   "name": "Words",
+   "th": "คำศัพท์",
+   "one": "term",
+   "path": "term",
+   "blurb": "The words a corner shouts, with their roots, so you know what just happened.",
+   "th_blurb": "คำที่มุมตะโกน พร้อมรากศัพท์ จะได้รู้ว่าเกิดอะไรขึ้น",
+   "group_by": "facets.domain",
+   "icon": "term"
+  },
+  {
+   "key": "art",
+   "name": "On screen and on the wall",
+   "th": "ในงานศิลป์",
+   "one": "art",
+   "path": "art",
+   "blurb": "The statues, the films and the song that taught most of the world the word.",
+   "th_blurb": "รูปปั้น ภาพยนตร์ และเพลงที่ทำให้โลกรู้จักคำนี้",
+   "group_by": "facets.medium",
+   "icon": "art"
+  }
+ ]
+}

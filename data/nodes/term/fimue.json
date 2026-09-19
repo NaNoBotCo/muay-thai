@@ -1,0 +1,62 @@
+{
+ "id": "fimue",
+ "type": "term",
+ "names": {
+  "name": "fimue",
+  "th": "ฝีมือ",
+  "rtgs": "fi mue",
+  "said": "Skill of hand. Said of a fighter who does not need to hurry."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "crowd"
+ },
+ "text": {
+  "what": "The word behind *muay femur*, the technician's style.",
+  "story": "Used far outside boxing — a cook has *fimue*, so does a carpenter. Applied to a fighter it means the thing a Thai crowd is actually paying to see, and it is why a technical fight that looks slow to a visitor is the one the room came for."
+ },
+ "text_th": {
+  "what": "คำที่อยู่เบื้องหลัง *มวยฝีมือ* สายของนักเทคนิค",
+  "story": "ใช้กันนอกวงการมวยกว้างมาก พ่อครัวมีฝีมือ ช่างไม้ก็มี เมื่อใช้กับนักมวย มันหมายถึงสิ่งที่คนดูไทยจ่ายเงินมาดูจริง ๆ และเป็นเหตุที่ไฟต์เชิงเทคนิคซึ่งดูช้าในสายตาผู้มาเยือน คือไฟต์ที่คนทั้งห้องมาเพื่อมัน"
+ },
+ "kin": [
+  {
+   "to": "muay-femur",
+   "as": "The style.",
+   "rel": "style"
+  },
+  {
+   "to": "why-foreigners-lose-decisions",
+   "as": "The misreading.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "Thai ฝี (skill, craft) + มือ (hand)",
+  "tier": "cited",
+  "source": "s:thwp-มวยไทย"
+ }
+}

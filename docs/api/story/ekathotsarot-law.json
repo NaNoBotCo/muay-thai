@@ -1,0 +1,57 @@
+{
+ "id": "ekathotsarot-law",
+ "type": "story",
+ "names": {
+  "name": "The law that would not punish it",
+  "th": "พระอัยการเบ็ดเสร็จ",
+  "rtgs": "phra aiyakan betset",
+  "said": "Clause 117: if second-class people box or wrestle and someone is hurt or dies, no penalty.",
+  "said_th": "มาตรา 117 ถ้าไพร่ชกมวยหรือปล้ำกันแล้วบาดเจ็บหรือตาย ไม่ต้องรับโทษ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "A clause in the Miscellaneous Laws of the reign of King Ekathotsarot, 1590 to 1605, quoted in the English article.",
+  "story": "\"CLAUSE 117: ARTICLE I. Second-class people who fight by boxing (Muay) or wrestling, which then results in injuries or death, cannot be penalized…\"\n\n*Inference —* a legal exemption is a more reliable witness than a chronicle, because it is written to solve a problem somebody actually had. For a court to write this down, men must have been boxing often enough, and dying often enough, that magistrates needed telling what to do.\n\nNote who it covers. *Second-class people* — commoners. The exemption is for the fights in the field behind the temple, not for the ones in front of the throne."
+ },
+ "text_th": {
+  "what": "ข้อความหนึ่งในพระอัยการเบ็ดเสร็จ รัชสมัยสมเด็จพระเอกาทศรถ พ.ศ. 2133 ถึง 2148 ที่บทความภาษาอังกฤษยกมา",
+  "story": "\"มาตรา 117 ข้อหนึ่ง ไพร่ผู้ใดชกมวยหรือปล้ำกันแล้วเกิดบาดเจ็บหรือถึงแก่ความตาย มิให้เอาโทษ…\"\n\n*อนุมาน —* ข้อยกเว้นทางกฎหมายเป็นพยานที่เชื่อถือได้มากกว่าพงศาวดาร เพราะมันถูกเขียนขึ้นเพื่อแก้ปัญหาที่มีคนเจอจริง การที่ราชสำนักเขียนข้อนี้ไว้ แปลว่าผู้ชายชกกันบ่อยพอ และตายบ่อยพอ จนตุลาการต้องมีคนบอกว่าให้ทำอย่างไร\n\nและสังเกตว่ามันคุ้มครองใคร *ไพร่* ข้อยกเว้นนี้มีไว้สำหรับการชกในลานหลังวัด ไม่ใช่การชกหน้าพระที่นั่ง"
+ },
+ "kin": [
+  {
+   "to": "kings-guard",
+   "as": "The other half of the same society.",
+   "rel": "story"
+  },
+  {
+   "to": "child-boxing",
+   "as": "The modern version of the same question.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:wp-ekathotsarot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": []
+}

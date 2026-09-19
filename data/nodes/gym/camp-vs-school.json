@@ -1,0 +1,80 @@
+{
+ "id": "camp-vs-school",
+ "type": "gym",
+ "names": {
+  "name": "A camp is not a school",
+  "th": "ค่ายมวยไม่ใช่สำนักเรียน",
+  "rtgs": "khai muay mai chai samnak rian",
+  "said": "One sells fights. The other transmits a line.",
+  "said_th": "อย่างหนึ่งขายไฟต์ อีกอย่างส่งต่อสายวิชา"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "country": "th"
+ },
+ "text": {
+  "what": "Thai distinguishes *khai muay*, a boxing camp, from *samnak rian*, a school of instruction, and the difference is not size.",
+  "story": "The Thai article puts it directly: a *samnak rian* has a head — a master whose skill and name are known and respected — who means to pass the knowledge on so it is not lost, and who teaches only students he judges suitable. A *khai muay* is the professional arrangement: it houses fighters, matches them and takes a cut.\n\n*Inference —* almost every place a visitor trains at is a camp, and there is nothing wrong with that. It is worth knowing which word applies before assuming a lineage is on offer."
+ },
+ "text_th": {
+  "what": "ภาษาไทยแยก *ค่ายมวย* ออกจาก *สำนักเรียน* และความต่างไม่ได้อยู่ที่ขนาด",
+  "story": "บทความไทยพูดไว้ตรง ๆ *สำนักเรียน* มีเจ้าสำนักหรือครูมวย ซึ่งมีฝีมือและชื่อเสียงเป็นที่เคารพรู้จัก มีความประสงค์จะถ่ายทอดวิชาไม่ให้สูญหาย และสอนเฉพาะศิษย์ที่เห็นว่าเหมาะสม ส่วน *ค่ายมวย* คือการจัดการเชิงอาชีพ เลี้ยงนักมวย จับคู่ให้ และหักส่วนแบ่ง\n\n*อนุมาน —* แทบทุกที่ที่ผู้มาเยือนไปฝึกคือค่าย และนั่นไม่มีอะไรผิด แต่ควรรู้ว่าคำไหนใช้กับที่นั่น ก่อนจะสรุปว่ามีสายวิชาให้"
+ },
+ "kin": [
+  {
+   "to": "choosing-a-gym",
+   "as": "What to ask.",
+   "rel": "gym"
+  },
+  {
+   "to": "chaiya",
+   "as": "A line with a school.",
+   "rel": "style"
+  },
+  {
+   "to": "shorts",
+   "as": "Whose name you end up wearing.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "camp-vs-school/camp-vs-school-kru-phon-narupai-with-his-twin-and-kru-lop-narupai-t-9a06d9a.jpg",
+   "source": "commons",
+   "title": "File:Kru Phon Narupai with his twin and Kru Lop Narupai training in Thailand - Dec 2021.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kru_Phon_Narupai_with_his_twin_and_Kru_Lop_Narupai_training_in_Thailand_-_Dec_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKru_Phon_Narupai_with_his_twin_and_Kru_Lop_Narupai_training_in_Thailand_-_Dec_2021.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Dacuevas",
+   "credit": "Own work",
+   "alt": "Kru Phon Narupai (right) training alongside his twin brother Kru Lop Narupai (left) at a Muay Thai gym in Thailand. Both are legendary Muay Thai fighters and trainers from Thailand’s Golden Era. The p",
+   "date": "2021-12-07",
+   "primary": true,
+   "sha256": "33cf4798d78964183156f52f3b27c398dcd1322850b8a64b014825c9fa56439c"
+  }
+ ]
+}

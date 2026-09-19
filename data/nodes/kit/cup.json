@@ -1,0 +1,55 @@
+{
+ "id": "cup",
+ "type": "kit",
+ "names": {
+  "name": "The cup",
+  "th": "กระจับ",
+  "rtgs": "krachap",
+  "said": "Steel, not plastic, and tied on with a cord through the legs.",
+  "said_th": "เหล็ก ไม่ใช่พลาสติก และผูกด้วยเชือกลอดหว่างขา"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "fight"
+ },
+ "text": {
+  "what": "A hard steel groin guard, worn under the shorts and tied with a cord.",
+  "story": "Heavier and harder than anything worn in western boxing, for the reason given under the fouls: in Thailand under traditional rules, the groin is a legal target. The cup is not a precaution against an accident. It is equipment for an attack that is allowed."
+ },
+ "text_th": {
+  "what": "กระจับเหล็กแข็ง ใส่ใต้กางเกง ผูกด้วยเชือก",
+  "story": "หนักกว่าและแข็งกว่าอะไรก็ตามที่ใส่กันในมวยสากล ด้วยเหตุผลที่อยู่ในหัวข้อการผิดกติกา ในเมืองไทยภายใต้กติกาดั้งเดิม เป้าเป็นเป้าหมายที่ถูกกติกา กระจับไม่ใช่การป้องกันอุบัติเหตุ มันคืออุปกรณ์สำหรับการโจมตีที่อนุญาต"
+ },
+ "kin": [
+  {
+   "to": "fouls",
+   "as": "Why it is made of steel.",
+   "rel": "rule"
+  },
+  {
+   "to": "gloves",
+   "as": "What it came in with.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

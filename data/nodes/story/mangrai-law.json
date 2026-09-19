@@ -1,0 +1,89 @@
+{
+ "id": "mangrai-law",
+ "type": "story",
+ "names": {
+  "name": "The Mangrai law, 1296",
+  "th": "มังรายศาสตร์",
+  "rtgs": "mangrai sat",
+  "said": "The oldest written muay is in a Lanna palm-leaf law code, filed under quarrels.",
+  "said_th": "คำว่ามวยที่เก่าที่สุดในเอกสารอยู่ในกฎหมายใบลานของล้านนา อยู่ในหมวดการวิวาท"
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "The oldest law code of Lanna, compiled from the Indian Dharmaśāstra, in 27 sections. The English article on muay thai names it as the oldest recorded use of the word *muay*, in section seven, among eighteen kinds of quarrel.",
+  "story": "Dated **1296**, in the reign of Mangrai, who founded Chiang Mai four years earlier. Written in Northern Thai on palm leaf.\n\nIts other sections say what kind of document it is: deserting a battle, dying in the middle of a battlefield, fighting a war and coming back with an enemy's head or without one, the death of a minister. It is a war-state's code.\n\n*Inference —* and *muay* appears in it not as an art or a display but under **quarrels** — one of eighteen ways people get into a fight that the law then has to sort out. That is the earliest thing anyone can point to in writing, and it describes the sport as a public order problem in a northern kingdom.\n\nEvery founding story on this site is later, southern, and better dressed."
+ },
+ "text_th": {
+  "what": "กฎหมายที่เก่าที่สุดของอาณาจักรล้านนา เรียบเรียงจากคัมภีร์ธรรมศาสตร์ของอินเดีย แบ่งเป็น 27 หมวด บทความภาษาอังกฤษว่าด้วยมวยไทยระบุว่าเป็นการใช้คำว่า *มวย* ที่เก่าที่สุดเท่าที่บันทึกไว้ อยู่ในหมวดที่เจ็ด ในการวิวาทสิบแปดประการ",
+  "story": "ลงปี **พ.ศ. 1839** ในรัชกาลพญามังราย ผู้สร้างเชียงใหม่ก่อนหน้านั้นสี่ปี เขียนเป็นภาษาไทยถิ่นเหนือบนใบลาน\n\nหมวดอื่น ๆ ของมันบอกว่ามันเป็นเอกสารประเภทไหน หนีศึก คนตายกลางสนามรบ รบศึกกรณีได้หัวและกรณีไม่ได้หัวข้าศึกมา เสนาอมาตย์ตาย มันคือประมวลกฎหมายของรัฐที่ทำสงคราม\n\n*อนุมาน —* และคำว่า *มวย* ปรากฏในนั้น ไม่ใช่ในฐานะศิลปะหรือการแสดง แต่อยู่ใต้หมวด**การวิวาท** หนึ่งในสิบแปดวิธีที่คนมีเรื่องกัน แล้วกฎหมายต้องมาจัดการ นั่นคือสิ่งที่เก่าที่สุดที่ใครชี้ได้ในเอกสาร และมันอธิบายกีฬานี้ว่าเป็นปัญหาความสงบเรียบร้อยในอาณาจักรทางเหนือ\n\nเรื่องต้นกำเนิดทุกเรื่องบนเว็บนี้มาทีหลัง อยู่ทางใต้กว่า และแต่งตัวดีกว่า"
+ },
+ "kin": [
+  {
+   "to": "muay-word",
+   "as": "The word itself.",
+   "rel": "term"
+  },
+  {
+   "to": "lanna",
+   "as": "Whose law.",
+   "rel": "place"
+  },
+  {
+   "to": "mai-sastra",
+   "as": "The softer claim.",
+   "rel": "story"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "What came later.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:thwp-มังรายศาสตร์",
+  "s:wp-muay-thai",
+  "s:thwp-อาณาจักรล้านนา"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มังรายศาสตร์"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "mangrai-law/mangrai-law-1.jpg",
+   "source": "commons",
+   "title": "File:อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%81%E0%B8%A9%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%281%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "alt": "อนุสาวรีย์สามกษัตริย์ อ.เมือง จ.เชียงใหม่ (1).jpg",
+   "date": "2022-03-13 08:44:51",
+   "primary": true,
+   "sha256": "8c2818cdba827e7425e716e61ed580cb3e02bbae742dc230f0554383c06bbabf"
+  }
+ ]
+}

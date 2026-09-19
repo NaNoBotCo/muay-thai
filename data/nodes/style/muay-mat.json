@@ -1,0 +1,80 @@
+{
+ "id": "muay-mat",
+ "type": "style",
+ "names": {
+  "name": "Muay mat",
+  "th": "มวยหมัด",
+  "rtgs": "muay mat",
+  "said": "The puncher. Fighting the scoring system, not the other man.",
+  "said_th": "นักมวยหมัด สู้กับระบบคะแนน ไม่ใช่สู้กับคู่ชก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "golden"
+ },
+ "text": {
+  "what": "The heavy-handed fighter, looking for the knockout because the points will not come.",
+  "story": "A puncher in muay thai is working against the arithmetic: punches score least, so he has to end it. Which makes muay mat the most exciting style to watch and the least reliable way to build a record.\n\nForeign fighters arrive as muay mat almost without exception, because that is what they were before."
+ },
+ "text_th": {
+  "what": "นักมวยหมัดหนัก มองหาการน็อก เพราะคะแนนจะไม่มา",
+  "story": "นักมวยหมัดในมวยไทยกำลังสู้กับการคิดเลข หมัดได้คะแนนน้อยที่สุด เขาจึงต้องจบเกม ทำให้มวยหมัดเป็นสายที่ดูสนุกที่สุด และเป็นวิธีสร้างสถิติที่พึ่งพาได้น้อยที่สุด\n\nนักมวยต่างชาติมาถึงในสภาพมวยหมัดแทบทุกคน เพราะนั่นคือสิ่งที่เขาเป็นมาก่อน"
+ },
+ "kin": [
+  {
+   "to": "fist",
+   "as": "Its weapon.",
+   "rel": "weapon"
+  },
+  {
+   "to": "scoring",
+   "as": "What it is up against.",
+   "rel": "rule"
+  },
+  {
+   "to": "four-styles-of-fighter",
+   "as": "One of four ways to win.",
+   "rel": "style"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "muay-mat/muay-mat-muay-thai-fight-us-vs-burma-80668039.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai Fight Us Vs Burma (80668039).jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Muay_Thai_Fight_Us_Vs_Burma_%2880668039%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Fight_Us_Vs_Burma_%2880668039%29.jpeg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Gerrit Phil Baumann",
+   "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+   "alt": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+   "date": "before 23 August 2014, 02:36:42 (UTC)",
+   "primary": true,
+   "sha256": "712cccf19fca6d0d7028294ca6590ada08265724bf6d77a30b4c70fbd99d0175"
+  }
+ ]
+}

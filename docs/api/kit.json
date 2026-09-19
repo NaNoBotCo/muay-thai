@@ -1,0 +1,571 @@
+{
+ "type": "kit",
+ "count": 6,
+ "nodes": [
+  {
+   "id": "cup",
+   "type": "kit",
+   "names": {
+    "name": "The cup",
+    "th": "กระจับ",
+    "rtgs": "krachap",
+    "said": "Steel, not plastic, and tied on with a cord through the legs.",
+    "said_th": "เหล็ก ไม่ใช่พลาสติก และผูกด้วยเชือกลอดหว่างขา"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "fight"
+   },
+   "text": {
+    "what": "A hard steel groin guard, worn under the shorts and tied with a cord.",
+    "story": "Heavier and harder than anything worn in western boxing, for the reason given under the fouls: in Thailand under traditional rules, the groin is a legal target. The cup is not a precaution against an accident. It is equipment for an attack that is allowed."
+   },
+   "text_th": {
+    "what": "กระจับเหล็กแข็ง ใส่ใต้กางเกง ผูกด้วยเชือก",
+    "story": "หนักกว่าและแข็งกว่าอะไรก็ตามที่ใส่กันในมวยสากล ด้วยเหตุผลที่อยู่ในหัวข้อการผิดกติกา ในเมืองไทยภายใต้กติกาดั้งเดิม เป้าเป็นเป้าหมายที่ถูกกติกา กระจับไม่ใช่การป้องกันอุบัติเหตุ มันคืออุปกรณ์สำหรับการโจมตีที่อนุญาต"
+   },
+   "kin": [
+    {
+     "to": "fouls",
+     "as": "Why it is made of steel.",
+     "rel": "rule"
+    },
+    {
+     "to": "gloves",
+     "as": "What it came in with.",
+     "rel": "kit"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "fouls",
+     "type": "rule",
+     "name": "What is not allowed",
+     "as": "What the groin rule requires."
+    },
+    {
+     "from": "gloves",
+     "type": "kit",
+     "name": "Gloves",
+     "as": "What came in with it."
+    }
+   ]
+  },
+  {
+   "id": "gloves",
+   "type": "kit",
+   "names": {
+    "name": "Gloves",
+    "th": "นวม",
+    "rtgs": "nuam",
+    "said": "They came in at Lumpinee, for fights against foreigners, before they came in for Thais.",
+    "said_th": "นวมเข้ามาที่ลุมพินีก่อน ในไฟต์ที่ชกกับชาวต่างชาติ ก่อนจะเข้ามาสำหรับคนไทย"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "ring",
+    "worn": "fight"
+   },
+   "text": {
+    "what": "Padded gloves, plus a hard groin cup, adopted in the late 1920s. Modern fights use 8oz or 10oz depending on weight; a gym will hand a beginner 14oz or 16oz.",
+    "story": "The order of adoption in the English article is worth reading twice: gloves and hard groin protectors came in \"during training and in boxing matches against foreigners\" — and rope-binding \"was still used in fights between Thais\" until a death in the ring settled it.\n\nSo the glove arrives as a condition of the international fixture, not as a safety reform, and the safety reform follows it.\n\nA heavier glove is a bigger surface and a slower hand, so gym sparring in 16oz is not the same sport as a fight in 8oz. That is a standard thing for a beginner to misread about their own progress."
+   },
+   "text_th": {
+    "what": "นวมบุนุ่ม พร้อมกระจับแข็ง เริ่มใช้ปลายทศวรรษ 2460 ไฟต์สมัยใหม่ใช้ 8 หรือ 10 ออนซ์ตามพิกัดน้ำหนัก ส่วนยิมจะยื่นนวม 14 หรือ 16 ออนซ์ให้ผู้เริ่มต้น",
+    "story": "ลำดับการรับนวมในบทความภาษาอังกฤษควรอ่านสองรอบ นวมกับกระจับแข็งเข้ามา \"ในการฝึกซ้อมและในไฟต์ที่ชกกับชาวต่างชาติ\" — ส่วนการคาดเชือก \"ยังใช้ในไฟต์ระหว่างคนไทยด้วยกัน\" จนกระทั่งมีคนตายบนเวทีจึงยุติ\n\nนวมจึงมาถึงในฐานะเงื่อนไขของการชกกับต่างชาติ ไม่ใช่ในฐานะการปฏิรูปความปลอดภัย และการปฏิรูปความปลอดภัยตามมาทีหลัง\n\nนวมที่หนักกว่าคือพื้นที่ที่ใหญ่กว่าและมือที่ช้ากว่า การสปาร์ในยิมด้วยนวม 16 ออนซ์จึงไม่ใช่กีฬาเดียวกับการชกจริงด้วยนวม 8 ออนซ์ นั่นคือสิ่งที่ผู้เริ่มต้นเข้าใจผิดเกี่ยวกับความก้าวหน้าของตัวเองเป็นปกติ"
+   },
+   "kin": [
+    {
+     "to": "kaad-chuek",
+     "as": "What it replaced.",
+     "rel": "kit"
+    },
+    {
+     "to": "cup",
+     "as": "What came in with it.",
+     "rel": "kit"
+    },
+    {
+     "to": "lumpinee",
+     "as": "Where the article puts the change.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "gloves/gloves-kruang-muay-thai.jpg",
+     "source": "commons",
+     "title": "File:Kruang Muay Thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kruang_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKruang_Muay_Thai.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Victor Soares Cardoso",
+     "credit": "Own work",
+     "alt": "Kruang",
+     "date": "2012-03-25",
+     "primary": true,
+     "sha256": "03a69bf349e730f92a31683f982d74d46df6820e465a8467f917b3b66f04bb70"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "lumpinee",
+     "type": "venue",
+     "name": "Lumpinee Boxing Stadium",
+     "as": "Where the article puts the change."
+    },
+    {
+     "from": "cup",
+     "type": "kit",
+     "name": "The cup",
+     "as": "What it came in with."
+    },
+    {
+     "from": "kaad-chuek",
+     "type": "kit",
+     "name": "The rope",
+     "as": "What replaced it."
+    },
+    {
+     "from": "first-ring",
+     "type": "story",
+     "name": "The ring arrives, 1921",
+     "as": "What came next."
+    }
+   ]
+  },
+  {
+   "id": "kaad-chuek",
+   "type": "kit",
+   "names": {
+    "name": "The rope",
+    "th": "คาดเชือก",
+    "rtgs": "khat chueak",
+    "said": "Hemp over the knuckles, knotted, and sometimes wetted.",
+    "said_th": "เชือกป่านพันข้อนิ้ว ผูกปม และบางทีก็ชุบน้ำ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "rope",
+    "worn": "fight"
+   },
+   "text": {
+    "what": "Hand-wrapping in hemp rope or raw cotton thread, used instead of gloves until the late 1920s. *Khat chueak* is literally to gird with rope.",
+    "story": "The English article is specific about what the rope did: knots placed over the knuckles made a strike \"more abrasive and damaging\", while the wrap protected the hand underneath. Chaiya's account uses raw cotton thread rather than hemp, and puts a prajiat round the head as well.\n\nIt ended after a death in the ring. Fighters went to gloves and to cotton coverlets over the feet and ankles, and the older form acquired a new name — *muay boran* — once the new one had taken the old one's.\n\n*Tradition holds —* the ropes were dipped in water, and in some tellings in resin and ground glass. The water is in the article, attached to the account of why the straight knee was risky; the glass is folklore, and this project has no source for it."
+   },
+   "text_th": {
+    "what": "การพันมือด้วยเชือกป่านหรือด้ายดิบ ใช้แทนนวมจนถึงปลายทศวรรษ 2460 *คาดเชือก* แปลตรงตัวว่าคาดด้วยเชือก",
+    "story": "บทความภาษาอังกฤษระบุชัดว่าเชือกทำอะไร ปมที่วางทับข้อนิ้วทำให้อาวุธ \"เสียดสีและสร้างความเสียหายมากขึ้น\" ขณะที่การพันปกป้องมือข้างใต้ ส่วนเรื่องเล่าของไชยาใช้ด้ายดิบแทนเชือกป่าน และคาดประเจียดที่ศีรษะด้วย\n\nมันจบลงหลังมีคนตายบนเวที นักมวยเปลี่ยนไปใช้นวมและผ้าฝ้ายหุ้มเท้ากับข้อเท้า แล้วรูปแบบเก่าก็ได้ชื่อใหม่ — *มวยโบราณ* — เมื่อของใหม่เอาชื่อเก่าไปแล้ว\n\n*ตามธรรมเนียม —* เชือกถูกชุบน้ำ และในบางสำนวนชุบยางไม้กับเศษแก้วบด เรื่องน้ำอยู่ในบทความ ผูกกับคำอธิบายว่าทำไมเข่าตรงจึงเสี่ยง ส่วนเศษแก้วเป็นเรื่องเล่า และโครงการนี้ไม่มีแหล่งอ้างอิง"
+   },
+   "kin": [
+    {
+     "to": "gloves",
+     "as": "What replaced it.",
+     "rel": "kit"
+    },
+    {
+     "to": "muay-boran",
+     "as": "What it is now filed under.",
+     "rel": "style"
+    },
+    {
+     "to": "knee",
+     "as": "Which technique it held back.",
+     "rel": "weapon"
+    },
+    {
+     "to": "chaiya",
+     "as": "Where it was thread rather than rope.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "kaad-chuek/kaad-chuek-chintawannakhadi-p-531.jpg",
+     "source": "commons",
+     "title": "File:Chintawannakhadi (p 531).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chintawannakhadi_%28p_531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChintawannakhadi_%28p_531%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Hem Vejakorn",
+     "credit": "นายตำรา ณ เมืองใต้ (เรื่อง), เหม เวชกร (ภาพ). (๒๕๔๐). จินตวรรณคดีไทย. กรุงเทพฯ: ไทยวัฒนาพานิช. (หนังสืออนุสรณ์งานพระราชทานเพลิงศพนายบุญธรรม ต.สุวรรณ ท.จ., ท.ช. วันที่ ๓๑ กรกฎาคม พ.ศ. ๒๕๔๐ ณ เมรุวัดธาต",
+     "alt": "An illustration of the book mentioned below, depicting the following:\nA French man challenged Thais to join boxing matches with him in the year 2331 BE (1788/89 CE).",
+     "date": "before 1969date QS:P,+1969-00-00T00:00:0",
+     "primary": true,
+     "sha256": "99a1e7d956e9338a1e32b888ecd2845a29ee72a84443cee8869b73f7c42d413a"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "knee",
+     "type": "weapon",
+     "name": "The knee",
+     "as": "The rope that the straight knee had to wait out."
+    },
+    {
+     "from": "chaiya",
+     "type": "style",
+     "name": "Muay Chaiya",
+     "as": "Thread, in this case, rather than rope."
+    },
+    {
+     "from": "korat",
+     "type": "style",
+     "name": "Muay Korat",
+     "as": "Wound to the elbow here."
+    },
+    {
+     "from": "muay-boran",
+     "type": "style",
+     "name": "Muay boran",
+     "as": "What it is fought with."
+    },
+    {
+     "from": "nai-khanom-tom",
+     "type": "person",
+     "name": "Nai Khanom Tom",
+     "as": "What he fought with."
+    },
+    {
+     "from": "gloves",
+     "type": "kit",
+     "name": "Gloves",
+     "as": "What it replaced."
+    },
+    {
+     "from": "la-loubere-1687",
+     "type": "story",
+     "name": "A French diplomat, 1687",
+     "as": "What they were fighting with."
+    },
+    {
+     "from": "muay-word",
+     "type": "term",
+     "name": "muay",
+     "as": "What got tied."
+    }
+   ]
+  },
+  {
+   "id": "nam-man-muay",
+   "type": "kit",
+   "names": {
+    "name": "The oil",
+    "th": "น้ำมันมวย",
+    "rtgs": "nam man muay",
+    "said": "It is a liniment. It is not a warm-up.",
+    "said_th": "มันคือยาทานวด ไม่ใช่การวอร์ม"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "fight",
+    "price": "cheap"
+   },
+   "text": {
+    "what": "The camphor and menthol liniment rubbed into a fighter's legs before a fight, and sold in every pharmacy in Thailand in a small yellow bottle.",
+    "story": "It smells like the sport. What it does is raise the skin temperature and distract from soreness, which is not the same as warming a muscle — a fighter still skips and shadow-boxes.\n\n*Inference —* the reason a gym insists on it before pads is partly the rub itself: two minutes of someone working your calves is a check for damage as much as a preparation."
+   },
+   "text_th": {
+    "what": "ยาทาน้ำมันการบูรและเมนทอลที่นวดลงขานักมวยก่อนชก ขายในร้านขายยาทุกร้านในเมืองไทย ขวดเหลืองเล็ก ๆ",
+    "story": "กลิ่นของมันคือกลิ่นของกีฬานี้ สิ่งที่มันทำคือเพิ่มอุณหภูมิผิวและกลบความปวดระบม ซึ่งไม่ใช่เรื่องเดียวกับการอุ่นกล้ามเนื้อ นักมวยก็ยังต้องกระโดดเชือกและชกลม\n\n*อนุมาน —* เหตุที่ยิมยืนกรานให้ทาก่อนซ้อมเป้าส่วนหนึ่งคือตัวการนวดเอง สองนาทีที่มีคนคลึงน่องคุณคือการตรวจหาความเสียหายพอ ๆ กับการเตรียมตัว"
+   },
+   "kin": [
+    {
+     "to": "first-session",
+     "as": "What happens to you in it.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "first-session",
+     "type": "drill",
+     "name": "Your first session",
+     "as": "What goes on your legs."
+    }
+   ]
+  },
+  {
+   "id": "shorts",
+   "type": "kit",
+   "names": {
+    "name": "The shorts",
+    "th": "กางเกงมวย",
+    "rtgs": "kangkeng muay",
+    "said": "Cut wide at the leg so a kick can go over your own head.",
+    "said_th": "ตัดขากว้างเพื่อให้เตะข้ามหัวตัวเองได้"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "fight"
+   },
+   "text": {
+    "what": "Short, wide-legged satin shorts with a broad elastic waistband, carrying the gym's name in Thai across the front.",
+    "story": "The cut is functional. A round kick to the head takes the knee past the ear, and anything that grips the thigh stops it.\n\nThe lettering is not decoration either: it is the camp's name, and in Thailand the camp name is part of the fighter's name. Buakaw Banchamek, Dieselnoi Chor Thanasukarn, Apidej Sit Hirun — the second word is where he trains.\n\n*Inference —* a foreigner in shorts bought at a market is wearing a gym's name like a football shirt, which Thai people read exactly as what it is and mind less than the internet suggests."
+   },
+   "text_th": {
+    "what": "กางเกงซาตินขาสั้นและกว้าง ขอบเอวยางยืดกว้าง มีชื่อค่ายเป็นภาษาไทยพาดหน้า",
+    "story": "ทรงของมันมีหน้าที่ เตะวงเข้าหัวต้องยกเข่าเลยหู อะไรที่รัดต้นขาก็หยุดมันไว้\n\nตัวอักษรก็ไม่ใช่เครื่องประดับ มันคือชื่อค่าย และในเมืองไทยชื่อค่ายคือส่วนหนึ่งของชื่อนักมวย บัวขาว บัญชาเมฆ ดีเซลน้อย ช.ธนะสุกาญจน์ อภิเดช ศิษย์หิรัญ — คำที่สองคือที่ที่เขาฝึก\n\n*อนุมาน —* ฝรั่งที่ใส่กางเกงซื้อจากตลาดกำลังใส่ชื่อค่ายแบบเสื้อบอล ซึ่งคนไทยอ่านออกตรงตามนั้น และถือสาน้อยกว่าที่อินเทอร์เน็ตทำให้คิด"
+   },
+   "kin": [
+    {
+     "to": "nak-muay",
+     "as": "Whose name is on them.",
+     "rel": "term"
+    },
+    {
+     "to": "buakaw",
+     "as": "One of the names.",
+     "rel": "person"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "shorts/shorts-muay-thai-sitsiam-boxer.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai SitSiam Boxer.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Muay_Thai_SitSiam_Boxer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_SitSiam_Boxer.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "Muay Thai Kick Thailand.",
+     "date": "2008-10-31 09:37:35",
+     "primary": true,
+     "sha256": "4a73f7b0bb1e25d415663c951c646f873f3a3851b3ef3254a4f8cd13e7a93242"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "buakaw",
+     "type": "person",
+     "name": "Buakaw Banchamek",
+     "as": "Whose camp name he carries."
+    },
+    {
+     "from": "camp-vs-school",
+     "type": "gym",
+     "name": "A camp is not a school",
+     "as": "Whose name you end up wearing."
+    },
+    {
+     "from": "nak-muay",
+     "type": "term",
+     "name": "nak muay",
+     "as": "Where the camp name goes."
+    }
+   ]
+  },
+  {
+   "id": "takrut",
+   "type": "kit",
+   "names": {
+    "name": "Takrut",
+    "th": "ตะกรุด",
+    "rtgs": "takrut",
+    "said": "The same yant, rolled in metal, worn at the waist.",
+    "said_th": "ยันต์เดียวกัน ม้วนในแผ่นโลหะ คาดไว้ที่เอว"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "worn": "always"
+   },
+   "text": {
+    "what": "A sheet of metal — often copper, sometimes lead, silver or gold — inscribed with a yantra and rolled into a tube, then bound with cord and worn on the body.",
+    "story": "The same syllables in the same script as a tattoo, on a surface that can be taken off, given away or buried. Thai accounts of amulets list the takrut among the things a warrior carried into battle before the moulded Buddha image took over that job — alongside the prajiat.\n\n*Inference —* the family is what matters. Yant on skin, yant on cloth at the arm, yant in metal at the waist, yant braided into the cord on the head. A fighter walking to the ring is usually wearing three of the four, and they are one practice, not four superstitions."
+   },
+   "text_th": {
+    "what": "แผ่นโลหะ มักเป็นทองแดง บางครั้งเป็นตะกั่ว เงิน หรือทอง จารยันต์ลงไปแล้วม้วนเป็นหลอด ถักเชือกแล้วคาดไว้กับตัว",
+    "story": "อักขระชุดเดียวกันในอักษรเดียวกับรอยสัก บนพื้นผิวที่ถอดออก ให้คนอื่น หรือฝังได้ ตำราไทยเรื่องพระเครื่องระบุตะกรุดไว้ในบรรดาสิ่งที่นักรบพกเข้าสนามรบ ก่อนที่พระพิมพ์จะมารับหน้าที่นั้นไป โดยระบุคู่กับประเจียด\n\n*อนุมาน —* สิ่งที่สำคัญคือความเป็นตระกูลเดียวกัน ยันต์บนผิว ยันต์บนผ้าที่แขน ยันต์ในโลหะที่เอว ยันต์ที่ถักอยู่ในวงด้ายบนหัว นักมวยที่เดินไปเวทีมักสวมอยู่สามในสี่อย่าง และทั้งหมดเป็นแนวปฏิบัติเดียว ไม่ใช่ความเชื่อสี่อย่าง"
+   },
+   "kin": [
+    {
+     "to": "sak-yant",
+     "as": "The same thing on skin.",
+     "rel": "ritual"
+    },
+    {
+     "to": "prajiat",
+     "as": "The same thing on cloth.",
+     "rel": "ritual"
+    },
+    {
+     "to": "mongkhon",
+     "as": "The same thing on cord.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:wp-takrut",
+    "s:wp-thai-buddha-amulet"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-takrut"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ritual"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "takrut/takrut-yan-takrut-thai-19th-century-yantra-and-amulet-manuscript.png",
+     "source": "commons",
+     "title": "File:Yan Takrut (ยันต์ตะกรุด) - Thai 19th century yantra and amulet manuscript.png",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Yan_Takrut_%28%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%29_-_Thai_19th_century_yantra_and_amulet_manuscript.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AYan_Takrut_%28%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%29_-_Thai_19th_century_yantra_and_amulet_manuscript.png",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "19th century artist",
+     "credit": "Part of the digitalized manuscript in the Manuscripts of Western Thailand Database - Princess Maha Chakri Sirindhorn Anthropology Centre [2]",
+     "alt": "Part of a Thai folding book (identifier NPT-004-011) at Wat Lam Phaya Folk Floating Market Museum, Nakhon Pathom. According to Jana Igunma (3 November 2016), Thai local knowledge: The long hidden wisd",
+     "date": "19th century",
+     "primary": true,
+     "sha256": "b672b558fc5e300c0fc1ccecd175cbf46684d70e9cfb738f1c69bdc7c41717a6"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "prajiat",
+     "type": "ritual",
+     "name": "The armbands",
+     "as": "The same yantra, in metal."
+    },
+    {
+     "from": "sak-yant",
+     "type": "ritual",
+     "name": "Sak yant",
+     "as": "The same thing, in metal."
+    }
+   ]
+  }
+ ]
+}

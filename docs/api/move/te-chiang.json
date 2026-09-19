@@ -1,0 +1,146 @@
+{
+ "id": "te-chiang",
+ "type": "move",
+ "names": {
+  "name": "The round kick",
+  "th": "เตะเฉียง",
+  "rtgs": "te chiang",
+  "said": "The whole body turns. The leg is the last thing to arrive.",
+  "said_th": "ทั้งตัวหมุน ขาคือสิ่งสุดท้ายที่มาถึง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "everyday",
+  "range": "long"
+ },
+ "text": {
+  "what": "The kick the rest of the world copied. Thrown upward at an angle, cutting under the arm and into the ribs, and named for the triangle it travels.",
+  "story": "What separates it from a karate or taekwondo kick is that nothing is chambered. The hip goes first and the shin follows through the target rather than snapping back off it. The stance behind it is narrower than a boxer's, because the base is there to be turned on, not to be punched from.\n\nLand it on the thigh enough times and the other man cannot push off that leg; land it on the ribs and he stops breathing properly in the fourth. Neither is spectacular and both win fights, which is most of what a foreign viewer is missing."
+ },
+ "text_th": {
+  "what": "ท่าเตะที่โลกทั้งใบลอกไป เหวี่ยงขึ้นเฉียง ตัดใต้แขนเข้าชายโครง ตั้งชื่อตามสามเหลี่ยมที่มันเดินทาง",
+  "story": "สิ่งที่ทำให้มันต่างจากเตะคาราเต้หรือเทควันโดคือไม่มีการงอเก็บขา สะโพกไปก่อน แข้งตามผ่านเป้าไป ไม่ใช่กระตุกกลับ ท่ายืนที่รองรับมันแคบกว่านักมวยสากล เพราะฐานมีไว้ให้หมุน ไม่ได้มีไว้ให้ชก\n\nลงที่ต้นขาซ้ำพอ อีกฝ่ายจะถีบขานั้นไม่ขึ้น ลงที่ชายโครง เขาจะหายใจไม่เต็มในยกสี่ ทั้งสองอย่างไม่หวือหวาและทั้งสองอย่างชนะไฟต์ ซึ่งคือสิ่งที่คนดูต่างชาติมองข้ามเป็นส่วนใหญ่"
+ },
+ "kin": [
+  {
+   "to": "shin",
+   "as": "The part that lands.",
+   "rel": "weapon"
+  },
+  {
+   "to": "check",
+   "as": "What stops it.",
+   "rel": "move"
+  },
+  {
+   "to": "scoring",
+   "as": "Why it counts for so much.",
+   "rel": "rule"
+  },
+  {
+   "to": "pads",
+   "as": "Where it is built.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "te-chiang/te-chiang-muay-thai-spectacular-kick.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai spectacular kick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Muay_Thai_spectacular_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_spectacular_kick.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Muay Thai spectacular Kick, Sitsiam  camp Student.",
+   "date": "2017-05-06 10:32:59",
+   "primary": true,
+   "sha256": "bbcf07039aed46cb6b2b6462b99fd1aa0b46a063e59a7968ec06a9259ded0323"
+  },
+  {
+   "file": "te-chiang/te-chiang-thairoundkick.jpg",
+   "source": "commons",
+   "title": "File:Thairoundkick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Thairoundkick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThairoundkick.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Claudio Scott",
+   "credit": "https://pixabay.com/photos/football-kick-boxing-combat-gloves-2239040/",
+   "alt": "A fighter leans back to evade a round kick",
+   "date": "2011-04-29 16:59:18",
+   "primary": false,
+   "sha256": "789e9b522bd4104d732357484517c3aff160f03874d8069722dc9a5fef352a39"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "shin",
+   "type": "weapon",
+   "name": "The shin",
+   "as": "The kick itself."
+  },
+  {
+   "from": "check",
+   "type": "move",
+   "name": "Checking the kick",
+   "as": "What it is aimed at."
+  },
+  {
+   "from": "teep",
+   "type": "move",
+   "name": "The teep",
+   "as": "The other thing the leg does."
+  },
+  {
+   "from": "muay-tae",
+   "type": "style",
+   "name": "Muay tae",
+   "as": "Its weapon."
+  },
+  {
+   "from": "changpuek-vs-roufus",
+   "type": "bout",
+   "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+   "as": "The weapon."
+  },
+  {
+   "from": "pads",
+   "type": "drill",
+   "name": "Pads",
+   "as": "What is being built."
+  },
+  {
+   "from": "te",
+   "type": "term",
+   "name": "te",
+   "as": "The kick."
+  }
+ ]
+}

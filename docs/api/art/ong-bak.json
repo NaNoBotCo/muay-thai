@@ -1,0 +1,89 @@
+{
+ "id": "ong-bak",
+ "type": "art",
+ "names": {
+  "name": "Ong-Bak",
+  "th": "องค์บาก",
+  "rtgs": "ong bak",
+  "said": "2003. No wires, no doubles, and a title song about the mae mai.",
+  "said_th": "พ.ศ. 2546 ไม่มีสลิง ไม่มีตัวแสดงแทน และเพลงท้ายเรื่องชื่อแม่ไม้มวยไทย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "medium": "film"
+ },
+ "text": {
+  "what": "Prachya Pinkaew's film, starring Tony Jaa, which sold muay boran to an international audience that had never heard of it.",
+  "story": "Its marketing was a negative claim — no wires, no computer graphics, no stunt double — and the claim was the product. What the audience was buying was the absence of the thing Hong Kong action had taught them to expect.\n\nThe closing song is called *Mae Mai Muay Thai*, sung by Add Carabao.\n\n*Inference —* the film that taught the world the word taught it the wrong half. Ong-Bak is muay boran: flying elbows, knees off a man's shoulders, techniques that are not legal or not survivable in a ring. The sport in the stadium is five rounds of a man kicking another man in the arm, and the gap between those two products is most of what a first-time spectator has to get over."
+ },
+ "text_th": {
+  "what": "ภาพยนตร์ของปรัชญา ปิ่นแก้ว นำแสดงโดยโทนี่ จา ที่ขายมวยโบราณให้ผู้ชมต่างชาติที่ไม่เคยได้ยินชื่อมาก่อน",
+  "story": "การตลาดของมันคือคำกล่าวเชิงปฏิเสธ ไม่มีสลิง ไม่มีคอมพิวเตอร์กราฟิก ไม่มีตัวแสดงแทน และคำกล่าวนั้นคือตัวสินค้า สิ่งที่คนดูซื้อคือการไม่มีสิ่งที่หนังบู๊ฮ่องกงสอนให้เขาคาดหวัง\n\nเพลงปิดเรื่องชื่อ *แม่ไม้มวยไทย* ขับร้องโดยแอ๊ด คาราบาว\n\n*อนุมาน —* หนังที่สอนคำนี้ให้โลก สอนไปครึ่งที่ผิด องค์บากคือมวยโบราณ ศอกลอย เข่าที่เหยียบไหล่คนขึ้นไป ท่าที่ผิดกติกาหรือรอดยากบนเวที ส่วนกีฬาในสนามคือห้ายกของชายคนหนึ่งเตะแขนชายอีกคน และช่องว่างระหว่างสินค้าสองอย่างนั้นคือสิ่งที่คนดูครั้งแรกต้องข้ามให้ได้เป็นส่วนใหญ่"
+ },
+ "kin": [
+  {
+   "to": "muay-boran",
+   "as": "What it is selling.",
+   "rel": "style"
+  },
+  {
+   "to": "mae-mai",
+   "as": "What the song is named after.",
+   "rel": "move"
+  },
+  {
+   "to": "the-gym-map",
+   "as": "What it did to the count abroad.",
+   "rel": "gym"
+  }
+ ],
+ "sources": [
+  "s:wp-ong-bak",
+  "s:maemai-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ong-bak"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "abroad"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "ong-bak/ong-bak-tony-jaa.jpg",
+   "source": "commons",
+   "title": "File:Tony Jaa.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tony_Jaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ATony_Jaa.jpg",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5/",
+   "author": "1987porsche944",
+   "credit": "https://www.flickr.com/photos/1987porsche944/221170990/sizes/l/",
+   "alt": "Tony Jaa, Martial Arts demonstration @ The Museum of the Moving Image, Astoria, Queens, NYC 8/20/06",
+   "date": "2006-08-20",
+   "primary": true,
+   "sha256": "0f80389e48424d6418e887aa3fa774814ea6da594a83ad880685708463cb4b72"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "muay-boran",
+   "type": "style",
+   "name": "Muay boran",
+   "as": "The film that sold it to the world."
+  }
+ ]
+}

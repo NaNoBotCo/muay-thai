@@ -1,0 +1,15 @@
+{
+ "name": "Muay Thai",
+ "short_name": "Muay Thai",
+ "start_url": "/muay-thai/",
+ "display": "standalone",
+ "background_color": "#fdfbf4",
+ "theme_color": "#17110c",
+ "icons": [
+  {
+   "src": "/muay-thai/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "id": "mongkhon",
+ "type": "ritual",
+ "names": {
+  "name": "The mongkhon",
+  "th": "มงคล",
+  "rtgs": "mongkhon",
+  "said": "The trainer puts it on. The trainer takes it off. Never the fighter.",
+  "said_th": "ครูเป็นคนสวมให้ ครูเป็นคนถอดออก ไม่ใช่นักมวย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "ring"
+ },
+ "text": {
+  "what": "The cord headband worn into the ring and removed before the first bell. It belongs to the gym, not the man wearing it.",
+  "story": "The origin the English article gives is domestic: when Siam was at war, young men tore a strip from a mother's or a lover's clothing and wore it into the fight for luck and against harmful spirits.\n\nWhat it means now is institutional. A trainer presents the mongkhon when he judges a fighter fit to represent the gym, and takes it off in the corner after the dance. Fighters commonly bring it to a monk to be blessed first, whether or not they are Buddhist.\n\nTwo things follow that visitors get wrong. It is not a rank, and it is not yours: the shop-bought mongkhon hanging in a hotel room is a souvenir of an object that only means anything when someone else puts it on your head. And it does not stay on during the fight — a mongkhon in the ring at the bell is a film, not a card."
+ },
+ "text_th": {
+  "what": "มงคลคือวงด้ายที่คาดศีรษะขึ้นเวที และถอดออกก่อนระฆังยกแรก เป็นของค่าย ไม่ใช่ของคนที่สวม",
+  "story": "ที่มาที่บทความภาษาอังกฤษให้ไว้เป็นเรื่องในบ้าน เมื่อสยามอยู่ในภาวะสงคราม ชายหนุ่มฉีกผ้าจากเสื้อผ้าของแม่หรือคนรักมาคาดไว้ตอนออกรบ เพื่อความโชคดีและกันผีร้าย\n\nความหมายในวันนี้เป็นเรื่องของสถาบัน ครูมอบมงคลให้เมื่อเห็นว่านักมวยพร้อมจะเป็นตัวแทนค่าย แล้วถอดออกที่มุมหลังรำเสร็จ นักมวยมักนำไปให้พระปลุกเสกก่อน ไม่ว่าจะนับถือพุทธหรือไม่\n\nสองเรื่องที่ผู้มาเยือนเข้าใจผิด มันไม่ใช่ระดับขั้น และมันไม่ใช่ของคุณ มงคลที่ซื้อจากร้านแล้วแขวนไว้ในห้องพักคือของที่ระลึกของวัตถุซึ่งมีความหมายก็ต่อเมื่อคนอื่นเป็นผู้สวมให้ และมันไม่ได้อยู่บนหัวระหว่างชก มงคลที่ยังอยู่บนเวทีตอนระฆังดังคือหนัง ไม่ใช่ไฟต์จริง"
+ },
+ "kin": [
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "When it comes off.",
+   "rel": "ritual"
+  },
+  {
+   "to": "prajiat",
+   "as": "The armband version.",
+   "rel": "ritual"
+  },
+  {
+   "to": "sak-yant",
+   "as": "The one that cannot be taken off.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ritual",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "mongkhon/mongkhon-mongkhon-in-singapore-1.jpg",
+   "source": "commons",
+   "title": "File:Mongkhon in Singapore (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mongkhon_in_Singapore_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMongkhon_in_Singapore_%281%29.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "B20180",
+   "credit": "Own work",
+   "alt": "มงคลในประเทศสิงคโปร์",
+   "date": "2023-08-19 11:23:11",
+   "primary": true,
+   "sha256": "4ebbb626fd36f673dd28e8f5e8b685827a4636c29eb6a6c86d831bd330b0f12f"
+  },
+  {
+   "file": "mongkhon/mongkhon-muay-thai-boxer.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai boxer.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Muay_Thai_boxer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_boxer.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Dmitri Markine",
+   "credit": "Own workTransferred from en.wikipedia",
+   "alt": "Muay Thai boxer",
+   "date": "Taken on 2 March 2008, 04:08",
+   "primary": false,
+   "sha256": "6e35b51925ec3a1b5f4ffa198a51cdaae82181abf7e88c1893f783f03ee0ad54"
+  },
+  {
+   "file": "mongkhon/mongkhon-wai-khru-ram-muay-1-head.jpg",
+   "source": "commons",
+   "title": "File:Wai khru ram muay 1-head.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Wai_khru_ram_muay_1-head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWai_khru_ram_muay_1-head.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "selbst",
+   "credit": "Bildausschnitt aus File:Wai khru ram muay 1.jpg von B20180",
+   "alt": "Muay Thai Kämpfer mit Mongkon",
+   "date": "2015-10-28",
+   "primary": false,
+   "sha256": "2b45c1e2ece03142d69f15527e62de929346da9cabf09505a2c5c79311b367a0"
+  },
+  {
+   "file": "mongkhon/mongkhon-young-thai-boxer-thailand.jpg",
+   "source": "commons",
+   "title": "File:Young Thai Boxer, Thailand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Young_Thai_Boxer%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AYoung_Thai_Boxer%2C_Thailand.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Young Thai boxer waiting for his call to the ring.",
+   "date": "2016-04-11 12:08:57",
+   "primary": false,
+   "sha256": "497be9e31761b163aa2c0b0f125d5f3d6bcd3d327a87dddbdc55bd4aea7fd8dc"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "prajiat",
+   "type": "ritual",
+   "name": "The armbands",
+   "as": "The headband."
+  },
+  {
+   "from": "sak-yant",
+   "type": "ritual",
+   "name": "Sak yant",
+   "as": "The same thing, on cord."
+  },
+  {
+   "from": "wai-kru-ram-muay",
+   "type": "ritual",
+   "name": "The dance before the fight",
+   "as": "Worn through it, and taken off at the end."
+  },
+  {
+   "from": "takrut",
+   "type": "kit",
+   "name": "Takrut",
+   "as": "The same thing on cord."
+  },
+  {
+   "from": "women-in-the-ring",
+   "type": "issue",
+   "name": "Women in the ring",
+   "as": "The other consecrated object."
+  }
+ ]
+}

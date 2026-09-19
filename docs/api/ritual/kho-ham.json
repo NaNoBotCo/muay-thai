@@ -1,0 +1,91 @@
+{
+ "id": "kho-ham",
+ "type": "ritual",
+ "names": {
+  "name": "The rules that come with it",
+  "th": "ข้อห้าม",
+  "rtgs": "kho ham",
+  "said": "It works while you keep them, and it fades anyway.",
+  "said_th": "มันทำงานตราบที่คุณถือไว้ และถึงอย่างไรมันก็จาง"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "always"
+ },
+ "text": {
+  "what": "A yant is conditional. The bearer accepts precepts and taboos with it, and the power holds only while those are kept.",
+  "story": "The English article puts it in one clause: the tattoo confers its powers **only so long as the bearer observes certain rules and taboos**, which can include abstaining from a particular food. Different masters set different lists, and the list is part of what you are receiving.\n\nAnd separately from conduct, **the power decreases with time**. That is why Wai Khru exists: once a year the disciples come back to the master's parlour to have the yant honoured, blessed and re-empowered.\n\n*Inference —* these two facts together are what make sak yant a relationship rather than a purchase. A tattoo you can buy in an afternoon and never think about again is a different object, whatever is drawn on it."
+ },
+ "text_th": {
+  "what": "ยันต์มีเงื่อนไข ผู้สักรับศีลและข้อห้ามมาพร้อมกับมัน และอำนาจคงอยู่ตราบที่ถือสิ่งเหล่านั้นไว้",
+  "story": "บทความภาษาอังกฤษพูดไว้ในอนุประโยคเดียว รอยสักให้อำนาจ **เฉพาะตราบที่ผู้สักถือกฎและข้อห้ามบางอย่าง** ซึ่งอาจรวมถึงการงดอาหารบางชนิด ครูแต่ละท่านตั้งรายการไม่เหมือนกัน และรายการนั้นเป็นส่วนหนึ่งของสิ่งที่คุณรับมา\n\nและแยกจากเรื่องความประพฤติ **อำนาจลดลงตามเวลา** นั่นคือเหตุที่มีวันไหว้ครู ปีละครั้งศิษย์กลับมาที่สำนักของครูเพื่อให้ยันต์ได้รับการคารวะ เสก และเพิ่มพลังใหม่\n\n*อนุมาน —* ข้อเท็จจริงสองข้อนี้รวมกันคือสิ่งที่ทำให้สักยันต์เป็นความสัมพันธ์ ไม่ใช่การซื้อขาย รอยสักที่ซื้อได้ในบ่ายเดียวแล้วไม่ต้องคิดถึงอีกเลย เป็นวัตถุคนละอย่าง ไม่ว่าจะวาดอะไรลงไป"
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "The practice.",
+   "rel": "ritual"
+  },
+  {
+   "to": "wat-bang-phra",
+   "as": "Where Wai Khru happens.",
+   "rel": "venue"
+  },
+  {
+   "to": "wai-kru-ram-muay",
+   "as": "The same two words, in the ring.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra-tattooing",
+  "s:wp-wat-bang-phra"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "ritual"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "kho-ham/kho-ham-own-01.jpg",
+   "source": "own",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "NaN",
+   "credit": "Taken at Sak Yant Chiang Mai, used with permission",
+   "alt": "Two finished yant in front of the shrine where the work was done, at Sak Yant Chiang Mai.",
+   "primary": true,
+   "sha256": "e6b63c531e8cb83c55660c9a0cce2f7bf9e156c6337ac6a63bfa216788a2e822"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "sak-yant",
+   "type": "ritual",
+   "name": "Sak yant",
+   "as": "What keeps it working."
+  },
+  {
+   "from": "wat-bang-phra",
+   "type": "venue",
+   "name": "Wat Bang Phra",
+   "as": "What you take on with it."
+  }
+ ]
+}

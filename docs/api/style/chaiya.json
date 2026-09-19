@@ -1,0 +1,142 @@
+{
+ "id": "chaiya",
+ "type": "style",
+ "names": {
+  "name": "Muay Chaiya",
+  "th": "มวยไชยา",
+  "rtgs": "muay chaiya",
+  "said": "Good form. A tight guard, and footwork taught before anything else.",
+  "said_th": "ท่าดี การ์ดแน่น และสอนการก้าวก่อนอย่างอื่นทั้งหมด"
+ },
+ "region": [
+  "south",
+  "chaiya"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "The southern line, from Chaiya district in what is now Surat Thani. Known for defence: elbows in, shoulders up, and a triangle of footwork underneath.",
+  "story": "The Thai account starts with a man nobody has a full name for. *Pho Than Ma* — Father Ma — was a boxing teacher from Bangkok who left the capital for reasons the sources do not give, ended up abbot of a forest temple outside Chaiya, and taught the town to fight.\n\nIt was then adopted upward. Phraya Wachi Sattayarak, governor of Chaiya, became a patron and a teacher himself; his son Khet Sriyaphai wrote the book that carried the style into print.\n\nThe fights happened at **Sala Kao Hong**, the nine-room pavilion at Phumriang, at the Chak Phra festival in the eleventh lunar month: a dirt floor, four posts, hemp rope for the ropes, no weigh-in — two men who looked about the same size were a match. Raw cotton thread on the hands instead of gloves, a prajiat tied around the head for the whole fight.\n\nThe format was *yok wian*, the rotating round. Every pair fought round one, then every pair fought round two, and so on to five. Any pair that could not finish five dropped out.\n\n*Inference —* that format explains the style. A man fighting five rounds interleaved with everybody else's five rounds cannot afford to be hit, and defence stops being a preference."
+ },
+ "text_th": {
+  "what": "สายใต้ จากอำเภอไชยา ปัจจุบันอยู่ในจังหวัดสุราษฎร์ธานี ขึ้นชื่อเรื่องการป้องกัน ศอกชิด ไหล่ยก และมีสามเหลี่ยมของการก้าวอยู่ข้างใต้",
+  "story": "เรื่องเล่าฝั่งไทยเริ่มจากชายที่ไม่มีใครรู้ชื่อจริง *พ่อท่านมา* เป็นครูมวยจากพระนครที่ออกจากเมืองหลวงด้วยเหตุที่แหล่งข้อมูลไม่ได้บอกไว้ ไปเป็นสมภารวัดป่านอกเมืองไชยา แล้วสอนคนทั้งเมืองให้ชกมวย\n\nจากนั้นจึงถูกรับขึ้นไปข้างบน พระยาวจีสัตยารักษ์ เจ้าเมืองไชยา เป็นผู้อุปถัมภ์และเป็นครูมวยเอง ส่วนบุตรชายของท่าน เขตร ศรียาภัย เขียนหนังสือที่พาสายมวยนี้เข้าสู่ตัวพิมพ์\n\nการชกเกิดที่ **ศาลาเก้าห้อง** ตำบลพุมเรียง ในงานชักพระเดือนสิบเอ็ด ลานดิน เสาสี่ต้น ขึงเชือกป่านเป็นเวที ไม่มีการชั่งน้ำหนัก สองคนที่ดูตัวพอกันก็จับคู่ได้ ใช้ด้ายดิบพันมือแทนนวม คาดประเจียดที่ศีรษะตลอดการชก\n\nรูปแบบคือ *ยกเวียน* ทุกคู่ชกยกหนึ่งให้ครบ แล้วจึงขึ้นยกสองทุกคู่ ไปจนครบห้ายก คู่ไหนชกไม่ครบห้ายกก็ออกไป\n\n*อนุมาน —* รูปแบบนี้อธิบายลักษณะของสายมวย คนที่ต้องชกห้ายกสลับกับห้ายกของคนอื่นทั้งหมด ย่อมไม่มีต้นทุนพอจะโดนชก การป้องกันจึงเลิกเป็นเรื่องของรสนิยม"
+ },
+ "kin": [
+  {
+   "to": "four-lines",
+   "as": "One of the four.",
+   "rel": "style"
+  },
+  {
+   "to": "yang-sam-khum",
+   "as": "What it teaches first.",
+   "rel": "move"
+  },
+  {
+   "to": "khet-sriyaphai",
+   "as": "Who wrote it down.",
+   "rel": "person"
+  },
+  {
+   "to": "prajiat",
+   "as": "Worn through the fight, not just into the ring.",
+   "rel": "ritual"
+  },
+  {
+   "to": "kaad-chuek",
+   "as": "Thread, in this case, rather than rope.",
+   "rel": "kit"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไชยา",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไชยา"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "chaiya/chaiya-.jpg",
+   "source": "commons",
+   "title": "File:เขตร์ ศรียาภัย.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Unknown photographer",
+   "credit": "อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959 - retrieved from http://assumptionmuseum.com/th-th/book-viewer/?file=/Media/FileUploads/FaFileUpload/3005d33a-d54c-4d1d-8581-f45018e12255.pdf",
+   "alt": "เขตร ศรียาภัย (หนังสือตีพิมพ์เป็น เขตร์ ศรียาภัย) ภาพถ่ายบุคคลที่ตีพิมพ์ใน อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959",
+   "date": "1959-03-14",
+   "primary": true,
+   "sha256": "b79c2f9cb70d2124932b4b58b927f289c777d456296fce456848bbd3f25e90ec"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "yang-sam-khum",
+   "type": "move",
+   "name": "The three-pit step",
+   "as": "The school that teaches it."
+  },
+  {
+   "from": "four-lines",
+   "type": "style",
+   "name": "The four lines, and the rhyme that ranks them",
+   "as": "Good form."
+  },
+  {
+   "from": "prajiat",
+   "type": "ritual",
+   "name": "The armbands",
+   "as": "Where it went round the head."
+  },
+  {
+   "from": "khet-sriyaphai",
+   "type": "person",
+   "name": "Khet Sriyaphai",
+   "as": "The school he carried."
+  },
+  {
+   "from": "camp-vs-school",
+   "type": "gym",
+   "name": "A camp is not a school",
+   "as": "A line with a school."
+  },
+  {
+   "from": "kaad-chuek",
+   "type": "kit",
+   "name": "The rope",
+   "as": "Where it was thread rather than rope."
+  },
+  {
+   "from": "chaiya-place",
+   "type": "place",
+   "name": "Chaiya",
+   "as": "The style."
+  },
+  {
+   "from": "yok",
+   "type": "term",
+   "name": "yok",
+   "as": "Where yok wian was fought."
+  }
+ ]
+}

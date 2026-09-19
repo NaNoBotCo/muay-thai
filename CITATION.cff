@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Muay Thai — the eight limbs, the thirty named techniques, and the gyms on the map"
+message: "If you use this dataset, cite it."
+type: dataset
+authors:
+  - name: "NaN"
+  - name: "Hongdam"
+    city: "Chiang Rai"
+    country: TH
+    website: "https://hongdam.net/"
+url: "https://motdang.net/muaythai"
+repository-code: "https://github.com/NaNoBotCo/muay-thai"
+license: CC-BY-4.0
+abstract: >-
+  A bilingual (English and Thai) reference for muay thai: the eight weapons, the thirty
+  named techniques of the mae mai and luk mai with what the names point at, the four
+  regional schools, the ceremony and the yant that go with it, the Lanna material the
+  Thai-language history starts from, and a census of every place to train that
+  OpenStreetMap holds. Every claim carries a provenance tier; every figure is computed at
+  build time from the files in the repository.

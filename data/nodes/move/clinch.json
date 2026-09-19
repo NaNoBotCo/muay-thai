@@ -1,0 +1,94 @@
+{
+ "id": "clinch",
+ "type": "move",
+ "names": {
+  "name": "The clinch",
+  "th": "จับคอตี",
+  "rtgs": "chap kho ti",
+  "said": "Boxing separates them. This does not.",
+  "said_th": "มวยสากลแยกออก มวยไทยไม่แยก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "everyday",
+  "range": "close"
+ },
+ "text": {
+  "what": "Hands locked behind the other man's head, forearms on his collarbones, both men fighting for the inside position — and knees going in the whole time.",
+  "story": "This single rule is why muay thai is not kickboxing. Because nobody pulls the two men apart, a fight has a wrestling phase, and the wrestling phase is where fitness cashes out. Watch a fifth round: the man who wins the clinch is usually the man who wins.\n\nIt is also the part that looks like nothing happening, and it is the part a Thai crowd is loudest for.",
+  "how": "Palm on the back of the other hand — not fingers laced. Three reasons, and the article gives all three: you are wearing gloves and cannot lace them; the grip has to press down on the crown of the head, which wants the hands high on the skull rather than round the neck; and laced fingers break, and cannot be let go of quickly enough to throw an elbow."
+ },
+ "text_th": {
+  "what": "มือประสานหลังหัวอีกฝ่าย ท่อนแขนกดไหปลาร้า ทั้งคู่แย่งตำแหน่งวงใน และเข่าเข้าตลอดเวลา",
+  "story": "กติกาข้อเดียวนี้คือเหตุที่มวยไทยไม่ใช่คิกบ็อกซิ่ง เพราะไม่มีใครแยกสองคนออกจากกัน ไฟต์หนึ่งจึงมีช่วงปล้ำ และช่วงปล้ำคือที่ที่ความฟิตถูกขึ้นเงิน ลองดูยกห้า คนที่ชนะในวงใน มักเป็นคนที่ชนะไฟต์\n\nมันยังเป็นช่วงที่ดูเหมือนไม่มีอะไรเกิดขึ้น และเป็นช่วงที่คนดูไทยส่งเสียงดังที่สุด",
+  "how": "ฝ่ามือทับหลังมืออีกข้าง ไม่ใช่สอดนิ้วประสาน เหตุผลสามข้อ และบทความให้ไว้ครบ คุณสวมนวมอยู่จึงสอดนิ้วไม่ได้ การจับต้องกดลงบนกระหม่อม ซึ่งต้องการมือสูงบนกะโหลกมากกว่ารอบคอ และนิ้วที่สอดกันจะหัก แล้วปล่อยไม่ทันจะออกศอก"
+ },
+ "kin": [
+  {
+   "to": "knee",
+   "as": "What it exists to deliver.",
+   "rel": "weapon"
+  },
+  {
+   "to": "elbow",
+   "as": "The other thing waiting in there.",
+   "rel": "weapon"
+  },
+  {
+   "to": "hak-kho-erawan",
+   "as": "The named version of it.",
+   "rel": "move"
+  },
+  {
+   "to": "clinch-work",
+   "as": "How it is trained.",
+   "rel": "drill"
+  },
+  {
+   "to": "scoring",
+   "as": "Why the crowd is shouting.",
+   "rel": "rule"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "watching",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "clinch/clinch-muay-thai-knee-clinch.jpg",
+   "source": "commons",
+   "title": "File:Muay thai knee clinch.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Muay_thai_knee_clinch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_knee_clinch.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "superwebdeveloper",
+   "credit": "https://www.flickr.com/photos/superwebdeveloper/5106996626/",
+   "alt": "Knee in muay thai clinch",
+   "date": "2010-10-22",
+   "primary": true,
+   "sha256": "c8935d7c29a1636782bd1fab9fc40b1f70eb910db2cac3bbd83fed4bb254d575"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": "bag-work",
+ "type": "drill",
+ "names": {
+  "name": "The bag",
+  "th": "กระสอบทราย",
+  "rtgs": "krasop sai"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "part": "bag"
+ },
+ "text": {
+  "what": "Rounds on a heavy bag: power, and the bone.",
+  "story": "The bag is where the shin is made. Repeated striking of a dense object thickens the bone — cortical remodelling — and there is no shortcut and no bottle of anything that does it faster.\n\n*Inference —* bag rounds come after pads because the point is throwing hard while tired, which is the fourth round of a fight."
+ },
+ "text_th": {
+  "what": "ซ้อมกระสอบเป็นยก ทั้งแรงและกระดูก",
+  "story": "กระสอบคือที่ที่แข้งถูกสร้าง การกระแทกของแข็งซ้ำ ๆ ทำให้กระดูกหนาขึ้น คือการปรับรูปของชั้นคอร์เทกซ์ ไม่มีทางลัดและไม่มีขวดอะไรที่ทำให้เร็วขึ้น\n\n*อนุมาน —* ยกกระสอบมาหลังเป้า เพราะประเด็นคือการออกอาวุธหนัก ๆ ทั้งที่เหนื่อย ซึ่งคือยกสี่ของไฟต์"
+ },
+ "kin": [
+  {
+   "to": "shin",
+   "as": "What is being built.",
+   "rel": "weapon"
+  },
+  {
+   "to": "first-session",
+   "as": "The order it all comes in.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "session": {
+  "part": "bag",
+  "minutes": "4–6 rounds",
+  "when": "After pads, when you are already tired.",
+  "hurts": "Your shins."
+ },
+ "images": [
+  {
+   "file": "bag-work/bag-work-learning-muay-thai-with-royal-thai-marines-160213-m-abebdde.jpg",
+   "source": "commons",
+   "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-053.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-053.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-053.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Gunnery Sgt. Ismael Pena",
+   "credit": "https://www.dvidshub.net/image/2421321/learning-muay-thai-with-royal-thai-marines",
+   "alt": "Royal Thai Marines demonstrate Muay Thai techniques to U.S., Royal Thai and Republic of Korea Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016. CG 16 is a multinational training exerc",
+   "date": "2016-02-11",
+   "primary": true,
+   "sha256": "c276ad3da78fc23b9adc9ac3b9d2e9f47200d44f223843a51ceb8c7c22f3bb66"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "shin",
+   "type": "weapon",
+   "name": "The shin",
+   "as": "Where the bone is made."
+  }
+ ]
+}

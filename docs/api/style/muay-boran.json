@@ -1,0 +1,133 @@
+{
+ "id": "muay-boran",
+ "type": "style",
+ "names": {
+  "name": "Muay boran",
+  "th": "มวยโบราณ",
+  "rtgs": "muay boran",
+  "said": "The name is younger than the thing it names.",
+  "said_th": "ชื่อนี้อายุน้อยกว่าสิ่งที่มันเรียก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "\"Ancient boxing\": the collective name for what was fought before rounds, gloves and a ring — now performed mostly as demonstration.",
+  "story": "The English article is exact about the order of events: the term *muay boran* was **coined** to describe the pre-modern form, after *muay thai* had been introduced in physical education documents to distinguish the Siamese art from international boxing. The old thing was named by the new one.\n\nThis matters for what a visitor is watching. A muay boran demonstration is a reconstruction, performed by people who compete under modern rules, of a practice that stopped being competitive before any of them were born. That is not a criticism of it. It is what it is, and the shows do not usually say so."
+ },
+ "text_th": {
+  "what": "\"มวยโบราณ\" ชื่อรวมของสิ่งที่ชกกันก่อนจะมียก นวม และเวที ปัจจุบันแสดงเป็นการสาธิตเสียเป็นส่วนใหญ่",
+  "story": "บทความภาษาอังกฤษเรียงลำดับเหตุการณ์ไว้แม่นยำ คำว่า *มวยโบราณ* **ถูกบัญญัติขึ้น** เพื่อเรียกรูปแบบก่อนสมัยใหม่ หลังจากคำว่า *มวยไทย* ถูกใช้ในเอกสารพลศึกษาเพื่อแยกศิลปะของสยามออกจากมวยสากล ของเก่าถูกตั้งชื่อโดยของใหม่\n\nเรื่องนี้สำคัญต่อสิ่งที่ผู้มาเยือนกำลังดูอยู่ การแสดงมวยโบราณคือการสร้างขึ้นใหม่ แสดงโดยคนที่แข่งขันภายใต้กติกาสมัยใหม่ ของแนวปฏิบัติที่เลิกแข่งขันไปก่อนพวกเขาเกิดทุกคน นี่ไม่ใช่การตำหนิ มันเป็นอย่างนั้น และการแสดงมักไม่ได้บอกไว้"
+ },
+ "kin": [
+  {
+   "to": "four-lines",
+   "as": "What it collects.",
+   "rel": "style"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "The argument about who assembled it.",
+   "rel": "issue"
+  },
+  {
+   "to": "kaad-chuek",
+   "as": "What it is fought with.",
+   "rel": "kit"
+  },
+  {
+   "to": "ong-bak",
+   "as": "The film that sold it to the world.",
+   "rel": "art"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai",
+  "s:thwp-มวยไทย"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "muay-boran/muay-boran-chintawannakhadi-p-531.jpg",
+   "source": "commons",
+   "title": "File:Chintawannakhadi (p 531).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chintawannakhadi_%28p_531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AChintawannakhadi_%28p_531%29.jpg",
+   "license": "Public domain",
+   "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+   "author": "Hem Vejakorn",
+   "credit": "นายตำรา ณ เมืองใต้ (เรื่อง), เหม เวชกร (ภาพ). (๒๕๔๐). จินตวรรณคดีไทย. กรุงเทพฯ: ไทยวัฒนาพานิช. (หนังสืออนุสรณ์งานพระราชทานเพลิงศพนายบุญธรรม ต.สุวรรณ ท.จ., ท.ช. วันที่ ๓๑ กรกฎาคม พ.ศ. ๒๕๔๐ ณ เมรุวัดธาต",
+   "alt": "An illustration of the book mentioned below, depicting the following:\nA French man challenged Thais to join boxing matches with him in the year 2331 BE (1788/89 CE).",
+   "date": "before 1969date QS:P,+1969-00-00T00:00:0",
+   "primary": true,
+   "sha256": "99a1e7d956e9338a1e32b888ecd2845a29ee72a84443cee8869b73f7c42d413a"
+  },
+  {
+   "file": "muay-boran/muay-boran-krabi-krabong-thai.jpg",
+   "source": "commons",
+   "title": "File:Krabi Krabong Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Krabi_Krabong_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKrabi_Krabong_Thai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Arjarn Sira",
+   "credit": "Buddhai Swan, Thailand",
+   "alt": "Krabi Krabong Thai Sword fighting, Buddhai Swan, Thailand.",
+   "date": "2017-02-18 13:52:22",
+   "primary": false,
+   "sha256": "55762a105b750a8115798e99e2c5ce21b787cbe33b74ed8f5197dce3b7363e43"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "four-lines",
+   "type": "style",
+   "name": "The four lines, and the rhyme that ranks them",
+   "as": "What the four are collectively called now."
+  },
+  {
+   "from": "kaad-chuek",
+   "type": "kit",
+   "name": "The rope",
+   "as": "What it is now filed under."
+  },
+  {
+   "from": "first-ring",
+   "type": "story",
+   "name": "The ring arrives, 1921",
+   "as": "What got renamed."
+  },
+  {
+   "from": "invented-tradition",
+   "type": "issue",
+   "name": "How old is any of this",
+   "as": "The name coined last."
+  },
+  {
+   "from": "ong-bak",
+   "type": "art",
+   "name": "Ong-Bak",
+   "as": "What it is selling."
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "id": "why-foreigners-lose-decisions",
+ "type": "story",
+ "names": {
+  "name": "Why you thought he won",
+  "th": "ทำไมคุณคิดว่าเขาชนะ",
+  "rtgs": "thammai khun khit wa khao chana",
+  "said": "You were counting punches. Nobody else was.",
+  "said_th": "คุณกำลังนับหมัด ไม่มีใครนับ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "The most common experience a first-time spectator has, and the five reasons for it.",
+  "story": "**You scored round one.** Nobody else did. The first two rounds are assessment and are commonly scored even.\n\n**You counted punches.** Punches are the lowest-value thing in the arsenal. Six that do not move a man are worth less than one kick that folds him.\n\n**You rewarded forward pressure.** Walking at someone is not scoring. The man going backwards and landing is ahead.\n\n**You scored the clinch as nothing happening.** It is where a Thai crowd gets loudest, because control in there is the clearest statement of who is handling whom.\n\n**You watched the fighters.** The room was watching the odds. The noise you could not place was money changing hands, and it tracks the fight better than any commentary you can hear.\n\n*Inference —* none of this means the decision was right. It means it was consistent, and that a scorecard is a language rather than an arithmetic."
+ },
+ "text_th": {
+  "what": "ประสบการณ์ที่คนดูครั้งแรกเจอบ่อยที่สุด และเหตุผลห้าข้อของมัน",
+  "story": "**คุณให้ยกหนึ่ง** ไม่มีใครให้ สองยกแรกคือการหยั่งเชิงและมักถูกให้เท่ากัน\n\n**คุณนับหมัด** หมัดคือของที่มีค่าน้อยที่สุดในคลังอาวุธ หกหมัดที่ไม่ทำให้ใครขยับ มีค่าน้อยกว่าเตะหนึ่งครั้งที่ทำให้เขาพับ\n\n**คุณให้คะแนนการเดินกดดัน** การเดินเข้าใส่ไม่ใช่การทำแต้ม คนที่ถอยหลังแล้วออกอาวุธเข้าเป้าคือคนที่นำ\n\n**คุณนับวงในว่าไม่มีอะไรเกิดขึ้น** มันคือช่วงที่คนดูไทยส่งเสียงดังที่สุด เพราะการควบคุมในนั้นคือคำแถลงที่ชัดที่สุดว่าใครกำลังจัดการใคร\n\n**คุณดูนักมวย** ส่วนคนทั้งห้องดูราคา เสียงที่คุณจับไม่ได้คือเงินที่เปลี่ยนมือ และมันตามไฟต์ได้ดีกว่าคำบรรยายใดที่คุณฟังออก\n\n*อนุมาน —* ไม่มีข้อไหนแปลว่าคำตัดสินถูก มันแปลว่าคำตัดสินนั้นสอดคล้องกันเอง และใบให้คะแนนเป็นภาษา มากกว่าจะเป็นการคิดเลข"
+ },
+ "kin": [
+  {
+   "to": "scoring",
+   "as": "The rules behind it.",
+   "rel": "rule"
+  },
+  {
+   "to": "betting",
+   "as": "The noise.",
+   "rel": "rule"
+  },
+  {
+   "to": "clinch",
+   "as": "The part that looked like nothing.",
+   "rel": "move"
+  },
+  {
+   "to": "fight-night",
+   "as": "What an evening is shaped like.",
+   "rel": "story"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching",
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "why-foreigners-lose-decisions/why-foreigners-lose-decisions-muay-thai-match-at-rajadamnern-stadium-2007-05-20-4.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai match at Rajadamnern Stadium 2007-05-20 4.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_at_Rajadamnern_Stadium_2007-05-20_4.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "alt": "A Muay Thai match at Rajadamnern Stadium in Bangkok, Thailand.",
+   "date": "2007-07-01",
+   "primary": true,
+   "sha256": "4d05fe5cfc6c0c64c9adc53873fe9a25818bf2950bf08561a4c48d8208e51e62"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "scoring",
+   "type": "rule",
+   "name": "How a fight is actually scored",
+   "as": "What it looks like from the cheap seats."
+  },
+  {
+   "from": "fight-night",
+   "type": "story",
+   "name": "What an evening is shaped like",
+   "as": "Why the decision surprised you."
+  },
+  {
+   "from": "fimue",
+   "type": "term",
+   "name": "fimue",
+   "as": "The misreading."
+  }
+ ]
+}

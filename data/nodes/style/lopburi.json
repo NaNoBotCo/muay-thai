@@ -1,0 +1,62 @@
+{
+ "id": "lopburi",
+ "type": "style",
+ "names": {
+  "name": "Muay Lopburi",
+  "th": "มวยลพบุรี",
+  "rtgs": "muay lopburi",
+  "said": "Clever. Named for a man the king liked watching.",
+  "said_th": "ฉลาด ตั้งชื่อตามคนที่ในหลวงโปรดจะทอดพระเนตร"
+ },
+ "region": [
+  "central",
+  "lopburi"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "The central line, from the old Khmer-Thai city north of Ayutthaya. Its reputation is for angles and feints rather than force.",
+  "story": "The Thai article gives the moment the adjective was attached. At Prince Urubongse's cremation, **Nai Kluen To-sa-at** of Lopburi fought in front of Rama V, who was pleased enough with the way he fought that the phrase *chalat Lopburi* — clever Lopburi — stuck to the province, and Kluen was made *Muen Mue Maen Mat*, the sure-fisted.\n\nIts list of six is the most concentrated of any school: Erawan tosses its tusks, the giant carries off the lady, Rama draws the bow, the deer looks back, Hiran rolls up the earth, Hanuman presents the ring. **Five of the six are out of the epic.** For a city whose ruins are Khmer and whose monkeys are its main export to the postcard trade, that is either fitting or circular, and the sources do not settle which."
+ },
+ "text_th": {
+  "what": "สายภาคกลาง จากเมืองเขมร-ไทยเก่าทางเหนือของอยุธยา ขึ้นชื่อเรื่องเหลี่ยมมุมและการล่อหลอกมากกว่ากำลัง",
+  "story": "บทความไทยให้ช่วงเวลาที่คำคุณศัพท์นั้นถูกติดเข้าไป ในงานพระเมรุพระองค์เจ้าอุรุพงษ์ฯ **นายกลึง โตสะอาด** ชาวลพบุรีขึ้นชกต่อหน้ารัชกาลที่ 5 พระองค์ทรงพอพระทัยในเชิงชกจนคำว่า *ฉลาดลพบุรี* ติดอยู่กับจังหวัด และนายกลึงได้รับบรรดาศักดิ์เป็น หมื่นมือแม่นหมัด\n\nรายการหกท่าของสายนี้เข้มข้นที่สุดในบรรดาสายทั้งหมด เอราวัณเสยงา ขุนยักษ์พานาง พระรามน้าวศร กวางเหลียวหลัง หิรัญม้วนแผ่นดิน หนุมานถวายแหวน **ห้าในหกท่ามาจากวรรณคดี** สำหรับเมืองที่ซากโบราณสถานเป็นเขมรและลิงคือสินค้าออกหลักสู่ตลาดโปสต์การ์ด เรื่องนี้จะเรียกว่าเหมาะสมหรือวนกลับมาที่เดิมก็ได้ และแหล่งข้อมูลไม่ได้ชี้ขาด"
+ },
+ "kin": [
+  {
+   "to": "four-lines",
+   "as": "One of the four.",
+   "rel": "style"
+  },
+  {
+   "to": "hanuman-thawai-waen",
+   "as": "On its list too.",
+   "rel": "move"
+  },
+  {
+   "to": "ramakien-in-the-ring",
+   "as": "Which its list is almost entirely made of.",
+   "rel": "art"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยลพบ-ร-",
+  "s:maemai-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยลพบ-ร-"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

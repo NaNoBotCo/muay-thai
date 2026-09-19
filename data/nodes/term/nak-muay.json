@@ -1,0 +1,62 @@
+{
+ "id": "nak-muay",
+ "type": "term",
+ "names": {
+  "name": "nak muay",
+  "th": "นักมวย",
+  "rtgs": "nak muai",
+  "said": "A boxer. Literally, a person of the boxing."
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "domain": "gym"
+ },
+ "text": {
+  "what": "What a fighter is called. *Nak* is the prefix Thai uses for anyone who does a thing as their work.",
+  "story": "Same prefix as *nak rian* (a student), *nak khian* (a writer), *nak thurakit* (a person in business). A foreigner who trains gets *nak muay farang* — which the English article glosses simply as \"foreign boxer\", and which is descriptive rather than pointed."
+ },
+ "text_th": {
+  "what": "คำเรียกนักมวย *นัก* คือคำนำหน้าที่ภาษาไทยใช้กับคนที่ทำสิ่งใดเป็นงาน",
+  "story": "คำนำหน้าเดียวกับ *นักเรียน* *นักเขียน* *นักธุรกิจ* ชาวต่างชาติที่ฝึกมวยได้คำว่า *นักมวยฝรั่ง* ซึ่งบทความภาษาอังกฤษแปลตรง ๆ ว่า \"นักมวยต่างชาติ\" และเป็นคำพรรณนามากกว่าคำเสียดสี"
+ },
+ "kin": [
+  {
+   "to": "shorts",
+   "as": "Where the camp name goes.",
+   "rel": "kit"
+  },
+  {
+   "to": "choosing-a-gym",
+   "as": "Becoming one.",
+   "rel": "gym"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "etymology": {
+  "root": "นัก nak, a doer or practitioner (from Khmer) + มวย muay",
+  "tier": "cited",
+  "source": "s:wp-muay-thai"
+ }
+}

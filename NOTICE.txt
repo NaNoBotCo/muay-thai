@@ -1,0 +1,28 @@
+# NOTICE
+
+Muay Thai — https://motdang.net/muaythai
+Made by hongdam.net, a bilingual web studio in Chiang Rai.
+
+## What is licensed how
+
+- **Records, text and the computed figures** — CC BY 4.0.
+  https://creativecommons.org/licenses/by/4.0/
+- **Code** — MIT.
+- **Gyms, camps and stadiums** — © OpenStreetMap contributors, ODbL 1.0, fetched via
+  Overpass. Share-alike applies to derived databases. https://www.openstreetmap.org/copyright
+- **The roster of people** — Wikidata, CC0 1.0.
+- **Corpus text and quotations** — Wikipedia, English and Thai, CC BY-SA 4.0. Every article
+  used is listed in data/sources/sources.json with its URL and the date it was fetched.
+- **The thirty technique names** — from the Thai Wikipedia article แม่ไม้มวยไทย at revision
+  13177866, CC BY-SA 4.0, which cites สารานุกรมไทยสำหรับเยาวชนฯ.
+- **Country outlines** — Natural Earth, public domain.
+- **Photographs from Wikimedia Commons** — per file. Only CC0, public domain, CC BY, CC BY-SA
+  and FAL are used, and the author, the licence and a link to the Commons page are printed
+  beside each picture.
+- **Photographs marked `own`** — CC BY 4.0. The sak yant photographs were taken at Sak Yant
+  Chiang Mai, where the ajarns welcome photography, and are used with their permission.
+
+## Attribution
+
+Attribute records to https://motdang.net/muaythai . When reusing a harvested row, carry the
+attribution that came with it.

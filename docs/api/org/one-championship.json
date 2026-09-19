@@ -1,0 +1,74 @@
+{
+ "id": "one-championship",
+ "type": "org",
+ "names": {
+  "name": "ONE Championship",
+  "th": "วัน แชมเปียนชิพ",
+  "rtgs": "wan chaempiaenchip",
+  "said": "Foreign money, four-ounce gloves, and three rounds instead of five.",
+  "said_th": "เงินต่างชาติ นวมสี่ออนซ์ และสามยกแทนห้ายก"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "scope": "promotion"
+ },
+ "text": {
+  "what": "A Singapore-based promotion running muay thai under its own rules, and paying the best Thai fighters more than the stadium system does.",
+  "story": "It is a promotion, not a federation, and that distinction matters: it sanctions nothing outside its own cards. What it does is buy the fighters.\n\n*Inference —* its rule changes all point the same way — shorter, smaller gloves, more finishes — because its product is a broadcast and a five-round points win does not travel. That is the same pressure that produced K-1, and the same pressure that produced the three-rope ring in 1923. Every time this sport has met an international audience it has been asked to be shorter and more conclusive."
+ },
+ "text_th": {
+  "what": "รายการที่ตั้งฐานในสิงคโปร์ จัดมวยไทยภายใต้กติกาของตัวเอง และจ่ายนักมวยไทยชั้นนำมากกว่าที่ระบบสนามจ่าย",
+  "story": "มันคือรายการ ไม่ใช่สหพันธ์ และความต่างนั้นสำคัญ มันไม่ได้รับรองอะไรนอกรายการของตัวเอง สิ่งที่มันทำคือซื้อตัวนักมวย\n\n*อนุมาน —* การเปลี่ยนกติกาของมันชี้ไปทางเดียวกันหมด สั้นลง นวมเล็กลง จบไฟต์มากขึ้น เพราะสินค้าของมันคือการออกอากาศ และการชนะคะแนนห้ายกเดินทางไม่ได้ นั่นคือแรงกดดันเดียวกับที่สร้าง K-1 และแรงกดดันเดียวกับที่สร้างเวทีสามเชือกในปี 2466 ทุกครั้งที่กีฬานี้เจอผู้ชมต่างชาติ มันถูกขอให้สั้นลงและชี้ขาดกว่าเดิม"
+ },
+ "kin": [
+  {
+   "to": "rodtang",
+   "as": "Whom it pays.",
+   "rel": "person"
+  },
+  {
+   "to": "rounds",
+   "as": "What it shortened.",
+   "rel": "rule"
+  },
+  {
+   "to": "buakaw",
+   "as": "The earlier version of the same deal.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "buakaw-k1-2004",
+   "type": "bout",
+   "name": "Buakaw at K-1 Max, 2004",
+   "as": "The next version of the same deal."
+  },
+  {
+   "from": "rodtang",
+   "type": "person",
+   "name": "Rodtang Jitmuangnon",
+   "as": "Who pays him."
+  }
+ ]
+}

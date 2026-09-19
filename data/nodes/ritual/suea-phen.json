@@ -1,0 +1,59 @@
+{
+ "id": "suea-phen",
+ "type": "ritual",
+ "names": {
+  "name": "Suea phen, the leaping tiger",
+  "th": "เสือเผ่น",
+  "rtgs": "suea phen",
+  "said": "One monk, one forest, and a tiger on half the backs in the sport.",
+  "said_th": "พระรูปเดียว ป่าผืนเดียว และเสือบนหลังคนครึ่งวงการ"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "always"
+ },
+ "text": {
+  "what": "A tiger in mid-leap, usually one on each shoulder blade, for strength, command and the turning away of an attack.",
+  "story": "The design is old and the reason it is everywhere is recent and traceable. In 1953 Luang Phor Pern walked into the forest on the Kanchanaburi border, where tigers had been killing villagers, and gave out kata and sak yant — telling them that **the tiger yantra in particular would fend off an attack**. His reputation was built on that, and the tiger came with it.\n\n*Inference —* a fighter and a villager on that border want the same thing from it. Not luck. A specific mechanism against something coming at you fast."
+ },
+ "text_th": {
+  "what": "เสือกำลังเผ่น มักลงข้างละตัวบนสะบักสองข้าง เพื่อพละกำลัง อำนาจ และการพลิกการจู่โจม",
+  "story": "ลายนี้เก่า แต่เหตุที่มันอยู่ทุกที่นั้นใหม่และสืบย้อนได้ พ.ศ. 2496 หลวงพ่อเปิ่นเดินเข้าป่าชายแดนกาญจนบุรี ที่ซึ่งเสือกัดชาวบ้านตาย แล้วให้คาถาและสักยันต์ โดยบอกว่า **ยันต์เสือจะกันการจู่โจมได้** ชื่อเสียงของท่านสร้างขึ้นจากเรื่องนั้น และเสือก็ติดมาด้วย\n\n*อนุมาน —* นักมวยกับชาวบ้านชายแดนนั้นต้องการสิ่งเดียวกันจากมัน ไม่ใช่โชค แต่เป็นกลไกเฉพาะที่ใช้กับสิ่งที่พุ่งเข้ามาเร็ว ๆ"
+ },
+ "kin": [
+  {
+   "to": "wat-bang-phra",
+   "as": "Whose forest.",
+   "rel": "venue"
+  },
+  {
+   "to": "sak-yant",
+   "as": "The practice.",
+   "rel": "ritual"
+  }
+ ],
+ "sources": [
+  "s:wp-wat-bang-phra",
+  "s:wp-yantra-tattooing"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-wat-bang-phra"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ritual"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "korat-place",
+ "type": "place",
+ "names": {
+  "name": "Nakhon Ratchasima",
+  "th": "นครราชสีมา",
+  "rtgs": "nakhon ratchasima",
+  "said": "Korat: the gateway to the plateau, and the heavy fist.",
+  "said_th": "โคราช ประตูสู่ที่ราบสูง และหมัดหนัก"
+ },
+ "region": [
+  "isan",
+  "korat"
+ ],
+ "facets": {
+  "region": "north-east"
+ },
+ "text": {
+  "what": "The largest province in Thailand by area and the entry point to Isan from the central plain.",
+  "story": "Its man at the Rama V bouts was Nai Daeng Thai-prasert, made *Muen Changat Choeng Chok*. The rope here was wound to the elbow, and the punch the province is named for in the rhyme travels further than anyone else's."
+ },
+ "text_th": {
+  "what": "จังหวัดที่ใหญ่ที่สุดของไทยตามพื้นที่ และเป็นประตูเข้าสู่อีสานจากภาคกลาง",
+  "story": "คนของจังหวัดในการชกหน้าพระที่นั่งสมัยรัชกาลที่ 5 คือนายแดง ไทยประเสริฐ ได้เป็นหมื่นชงัดเชิงชก เชือกที่นี่พันขึ้นไปถึงข้อศอก และหมัดที่จังหวัดนี้ถูกเอ่ยชื่อในคำกล่าว เดินทางไกลกว่าของใคร"
+ },
+ "kin": [
+  {
+   "to": "korat",
+   "as": "The style.",
+   "rel": "style"
+  },
+  {
+   "to": "isan",
+   "as": "The region.",
+   "rel": "place"
+  }
+ ],
+ "geo": {
+  "lat": 14.9799,
+  "lon": 102.0977,
+  "precision": "town"
+ },
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

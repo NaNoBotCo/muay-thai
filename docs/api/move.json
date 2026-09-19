@@ -1,0 +1,1377 @@
+{
+ "type": "move",
+ "count": 13,
+ "nodes": [
+  {
+   "id": "batha-lup-phak",
+   "type": "move",
+   "names": {
+    "name": "The foot strokes the face",
+    "th": "บาทาลูบพักตร์",
+    "rtgs": "batha lup phak",
+    "said": "The foot strokes the face"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "luk-mai"
+   },
+   "text": {
+    "what": "The one name in the thirty that says what the movement is.",
+    "story": "And even here the sport refuses the ordinary word. Everyday Thai for foot is *thao* (เท้า) and for face is *na* (หน้า). This name uses *batha*, from Sanskrit *pāda*, and *phak*, from *vaktra* — the register of court poetry and the Ramakien.\n\n*Inference —* the naming is not decoration. Wherever the vocabulary comes from, so did the people who wrote it down: the technique lists were court documents before they were gym documents."
+   },
+   "text_th": {
+    "what": "ชื่อเดียวในสามสิบท่าที่บอกว่าการเคลื่อนไหวคืออะไร",
+    "story": "และแม้ตรงนี้ กีฬานี้ก็ยังปฏิเสธคำธรรมดา ภาษาพูดเรียกเท้าว่าเท้า เรียกหน้าว่าหน้า ชื่อนี้ใช้ *บาทา* จากสันสกฤต *ปาท* และ *พักตร์* จาก *วักตระ* ซึ่งเป็นระดับภาษาของกวีนิพนธ์ราชสำนักและรามเกียรติ์\n\n*อนุมาน —* การตั้งชื่อไม่ใช่เครื่องประดับ คำศัพท์มาจากไหน คนที่จดมันไว้ก็มาจากที่นั่น รายการท่ามวยเป็นเอกสารราชสำนักก่อนจะเป็นเอกสารของค่ายมวย"
+   },
+   "kin": [
+    {
+     "to": "luk-mai",
+     "as": "Second on the second fifteen.",
+     "rel": "move"
+    },
+    {
+     "to": "mae-mai",
+     "as": "And the exception to the whole set.",
+     "rel": "move"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "move.gloss": {
+      "tier": "inference",
+      "note": "this project's translation"
+     },
+     "move.refers": {
+      "tier": "inference",
+      "note": "this project's classification of what the name points at"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "move": {
+    "th": "บาทาลูบพักตร์",
+    "rtgs": "batha lup phak",
+    "gloss": "The foot strokes the face",
+    "refers": "plain",
+    "figure": "",
+    "set": "luk-mai",
+    "n": 2,
+    "does": "A foot to the face, off a caught or blocked attack.",
+    "does_th": "เท้าขึ้นหน้า จากการรับหรือบล็อกอาวุธที่เข้ามา"
+   },
+   "kin_in": []
+  },
+  {
+   "id": "check",
+   "type": "move",
+   "names": {
+    "name": "Checking the kick",
+    "th": "เช็กแข้ง",
+    "rtgs": "chek khaeng",
+    "said": "The one exchange where the defender wins outright.",
+    "said_th": "การแลกครั้งเดียวที่ฝ่ายรับชนะขาด"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "everyday",
+    "range": "long"
+   },
+   "text": {
+    "what": "Lifting the shin to meet an incoming round kick, so that the two bones collide and the thrower takes the worse end.",
+    "story": "Everything else in the sport costs something to defend. A blocked punch still moves you; a caught kick still turns you. A checked kick turns the attack into an injury for the attacker, which is why a fighter who checks well can change somebody's whole game plan inside two rounds without throwing anything."
+   },
+   "text_th": {
+    "what": "ยกแข้งขึ้นรับเตะวงที่เข้ามา ให้กระดูกสองชิ้นชนกัน แล้วคนเตะเป็นฝ่ายเจ็บกว่า",
+    "story": "ทุกอย่างในกีฬานี้มีต้นทุนในการป้องกัน หมัดที่บล็อกได้ก็ยังทำให้คุณขยับ เตะที่รับไว้ก็ยังทำให้คุณหมุน แต่เตะที่ถูกเช็กเปลี่ยนการโจมตีให้กลายเป็นอาการบาดเจ็บของคนโจมตีเอง คนที่เช็กเก่งจึงเปลี่ยนแผนของอีกฝ่ายได้ภายในสองยก โดยไม่ต้องออกอาวุธอะไรเลย"
+   },
+   "kin": [
+    {
+     "to": "te-chiang",
+     "as": "What it is aimed at.",
+     "rel": "move"
+    },
+    {
+     "to": "shin",
+     "as": "Bone against bone.",
+     "rel": "weapon"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "beginner",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "check/check-muay-thai-low-kick.jpg",
+     "source": "commons",
+     "title": "File:Muay thai low kick.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Muay_thai_low_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_low_kick.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "superwebdeveloper",
+     "credit": "https://www.flickr.com/photos/superwebdeveloper/5106991788/sizes/o/in/photostream/",
+     "alt": "Fighter throwing a lowkick during an amateur muay thai competition.",
+     "date": "2010-10-22",
+     "primary": true,
+     "sha256": "5a8e046a376314a071708fea93e639a2e5949cb22e2f4d2b7c30a4d98e5957a0"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "te-chiang",
+     "type": "move",
+     "name": "The round kick",
+     "as": "What stops it."
+    }
+   ]
+  },
+  {
+   "id": "chorakhe-fat-hang",
+   "type": "move",
+   "names": {
+    "name": "The crocodile lashes its tail",
+    "th": "จระเข้ฟาดหาง",
+    "rtgs": "chorakhe fat hang",
+    "said": "The crocodile lashes its tail"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "mae-mai"
+   },
+   "text": {
+    "what": "Number nine of the fifteen, and the only one of the thirty whose Thai name is still said out loud in gyms from Sao Paulo to Sheffield.",
+    "story": "The Thai encyclopedia's description is four words long: the heel strikes the head. What it leaves out is why the name is a crocodile. A crocodile does not turn to face you before it hits you with its tail — the tail arrives while the head is still pointing away. That is the technique.\n\n*Inference —* the name survived translation where the other twenty-nine did not, and the reason is that it is the one whose picture and whose movement are the same thing."
+   },
+   "text_th": {
+    "what": "ท่าที่เก้าในสิบห้า และเป็นท่าเดียวในสามสิบท่าที่ยังถูกเรียกชื่อไทยดัง ๆ ในยิมตั้งแต่เซาเปาโลถึงเชฟฟีลด์",
+    "story": "คำอธิบายในสารานุกรมยาวสี่คำ ใช้ส้นเท้ากระแทกศีรษะ สิ่งที่ไม่ได้บอกคือทำไมชื่อจึงเป็นจระเข้ จระเข้ไม่หันมาหาคุณก่อนจะฟาดหางใส่ หางมาถึงตอนที่หัวยังหันไปอีกทาง นั่นคือตัวท่า\n\n*อนุมาน —* ชื่อนี้รอดจากการแปลในขณะที่อีกยี่สิบเก้าชื่อไม่รอด เหตุผลคือมันเป็นชื่อเดียวที่ภาพกับการเคลื่อนไหวเป็นสิ่งเดียวกัน"
+   },
+   "kin": [
+    {
+     "to": "mae-mai",
+     "as": "The list it is ninth on.",
+     "rel": "move"
+    },
+    {
+     "to": "shin",
+     "as": "Except this one lands with the heel.",
+     "rel": "weapon"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "move.gloss": {
+      "tier": "inference",
+      "note": "this project's translation"
+     },
+     "move.refers": {
+      "tier": "inference",
+      "note": "this project's classification of what the name points at"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ramakien",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "move": {
+    "th": "จระเข้ฟาดหาง",
+    "rtgs": "chorakhe fat hang",
+    "gloss": "The crocodile lashes its tail",
+    "refers": "beast",
+    "figure": "a crocodile",
+    "set": "mae-mai",
+    "n": 9,
+    "does": "Spin away from the opponent and drive the heel into his head on the way round.",
+    "does_th": "หมุนตัวออกจากคู่ต่อสู้ แล้วกระแทกส้นเท้าเข้าที่ศีรษะระหว่างที่หมุนกลับมา"
+   },
+   "kin_in": [
+    {
+     "from": "elbow",
+     "type": "weapon",
+     "name": "The elbow",
+     "as": "A named technique that is not an elbow, and is mistaken for one."
+    },
+    {
+     "from": "mae-mai",
+     "type": "move",
+     "name": "The fifteen mother techniques",
+     "as": "Number nine, and the one every gym still says."
+    },
+    {
+     "from": "wat-bang-kung-statues",
+     "type": "art",
+     "name": "The fifteen, standing in a courtyard",
+     "as": "The one on the right of the row."
+    }
+   ]
+  },
+  {
+   "id": "clinch",
+   "type": "move",
+   "names": {
+    "name": "The clinch",
+    "th": "จับคอตี",
+    "rtgs": "chap kho ti",
+    "said": "Boxing separates them. This does not.",
+    "said_th": "มวยสากลแยกออก มวยไทยไม่แยก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "everyday",
+    "range": "close"
+   },
+   "text": {
+    "what": "Hands locked behind the other man's head, forearms on his collarbones, both men fighting for the inside position — and knees going in the whole time.",
+    "story": "This single rule is why muay thai is not kickboxing. Because nobody pulls the two men apart, a fight has a wrestling phase, and the wrestling phase is where fitness cashes out. Watch a fifth round: the man who wins the clinch is usually the man who wins.\n\nIt is also the part that looks like nothing happening, and it is the part a Thai crowd is loudest for.",
+    "how": "Palm on the back of the other hand — not fingers laced. Three reasons, and the article gives all three: you are wearing gloves and cannot lace them; the grip has to press down on the crown of the head, which wants the hands high on the skull rather than round the neck; and laced fingers break, and cannot be let go of quickly enough to throw an elbow."
+   },
+   "text_th": {
+    "what": "มือประสานหลังหัวอีกฝ่าย ท่อนแขนกดไหปลาร้า ทั้งคู่แย่งตำแหน่งวงใน และเข่าเข้าตลอดเวลา",
+    "story": "กติกาข้อเดียวนี้คือเหตุที่มวยไทยไม่ใช่คิกบ็อกซิ่ง เพราะไม่มีใครแยกสองคนออกจากกัน ไฟต์หนึ่งจึงมีช่วงปล้ำ และช่วงปล้ำคือที่ที่ความฟิตถูกขึ้นเงิน ลองดูยกห้า คนที่ชนะในวงใน มักเป็นคนที่ชนะไฟต์\n\nมันยังเป็นช่วงที่ดูเหมือนไม่มีอะไรเกิดขึ้น และเป็นช่วงที่คนดูไทยส่งเสียงดังที่สุด",
+    "how": "ฝ่ามือทับหลังมืออีกข้าง ไม่ใช่สอดนิ้วประสาน เหตุผลสามข้อ และบทความให้ไว้ครบ คุณสวมนวมอยู่จึงสอดนิ้วไม่ได้ การจับต้องกดลงบนกระหม่อม ซึ่งต้องการมือสูงบนกะโหลกมากกว่ารอบคอ และนิ้วที่สอดกันจะหัก แล้วปล่อยไม่ทันจะออกศอก"
+   },
+   "kin": [
+    {
+     "to": "knee",
+     "as": "What it exists to deliver.",
+     "rel": "weapon"
+    },
+    {
+     "to": "elbow",
+     "as": "The other thing waiting in there.",
+     "rel": "weapon"
+    },
+    {
+     "to": "hak-kho-erawan",
+     "as": "The named version of it.",
+     "rel": "move"
+    },
+    {
+     "to": "clinch-work",
+     "as": "How it is trained.",
+     "rel": "drill"
+    },
+    {
+     "to": "scoring",
+     "as": "Why the crowd is shouting.",
+     "rel": "rule"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "watching",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "clinch/clinch-muay-thai-knee-clinch.jpg",
+     "source": "commons",
+     "title": "File:Muay thai knee clinch.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Muay_thai_knee_clinch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_knee_clinch.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "superwebdeveloper",
+     "credit": "https://www.flickr.com/photos/superwebdeveloper/5106996626/",
+     "alt": "Knee in muay thai clinch",
+     "date": "2010-10-22",
+     "primary": true,
+     "sha256": "c8935d7c29a1636782bd1fab9fc40b1f70eb910db2cac3bbd83fed4bb254d575"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "eight-limbs",
+     "type": "weapon",
+     "name": "The eight limbs",
+     "as": "What legal knees produce."
+    },
+    {
+     "from": "elbow",
+     "type": "weapon",
+     "name": "The elbow",
+     "as": "Where most of them are thrown from."
+    },
+    {
+     "from": "knee",
+     "type": "weapon",
+     "name": "The knee",
+     "as": "What makes it possible."
+    },
+    {
+     "from": "hak-kho-erawan",
+     "type": "move",
+     "name": "Breaking Erawan's neck",
+     "as": "What it is."
+    },
+    {
+     "from": "sweep",
+     "type": "move",
+     "name": "The dump",
+     "as": "Where most of them start."
+    },
+    {
+     "from": "muay-khao",
+     "type": "style",
+     "name": "Muay khao",
+     "as": "Where it lives."
+    },
+    {
+     "from": "buakaw-k1-2004",
+     "type": "bout",
+     "name": "Buakaw at K-1 Max, 2004",
+     "as": "What was taken out."
+    },
+    {
+     "from": "clinch-work",
+     "type": "drill",
+     "name": "Clinch",
+     "as": "What is being trained."
+    },
+    {
+     "from": "why-foreigners-lose-decisions",
+     "type": "story",
+     "name": "Why you thought he won",
+     "as": "The part that looked like nothing."
+    }
+   ]
+  },
+  {
+   "id": "hak-kho-erawan",
+   "type": "move",
+   "names": {
+    "name": "Breaking Erawan's neck",
+    "th": "หักคอเอราวัณ",
+    "rtgs": "hak kho erawan",
+    "said": "Breaking Erawan's neck"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "mae-mai"
+   },
+   "text": {
+    "what": "The last of the fifteen, and the plainest thing in the sport: the clinch knee, named after killing the mount of a god.",
+    "story": "Erawan is Airavata, the three-headed white elephant Indra rides, and the animal on the flag of Laos and on a hundred temple gables. The technique named after breaking its neck is the first thing a beginner is shown in the clinch.\n\nNumber ten on the same list, *hak nguang aiyara*, breaks the same elephant's trunk under its Pali name — the arm trapped and the elbow driven into the thigh."
+   },
+   "text_th": {
+    "what": "ท่าสุดท้ายในสิบห้า และเป็นสิ่งที่ธรรมดาที่สุดในกีฬานี้ เข่าในวงใน ที่ตั้งชื่อตามการฆ่าพาหนะของเทพ",
+    "story": "เอราวัณคือไอราวตะ ช้างเผือกสามเศียรที่พระอินทร์ทรง เป็นสัตว์บนธงชาติลาวและบนหน้าบันวัดนับร้อย ท่าที่ตั้งชื่อตามการหักคอมันคือสิ่งแรกที่ผู้เริ่มต้นถูกสอนในวงใน\n\nท่าที่สิบในรายการเดียวกัน *หักงวงไอยรา* หักงวงช้างตัวเดียวกันในชื่อบาลี คือการล็อกแขนไว้แล้วแทงศอกลงต้นขา"
+   },
+   "kin": [
+    {
+     "to": "mae-mai",
+     "as": "The list it closes.",
+     "rel": "move"
+    },
+    {
+     "to": "clinch",
+     "as": "What it is.",
+     "rel": "move"
+    },
+    {
+     "to": "knee",
+     "as": "The weapon it delivers.",
+     "rel": "weapon"
+    },
+    {
+     "to": "ramakien-in-the-ring",
+     "as": "Whose elephant.",
+     "rel": "art"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "move.gloss": {
+      "tier": "inference",
+      "note": "this project's translation"
+     },
+     "move.refers": {
+      "tier": "inference",
+      "note": "this project's classification of what the name points at"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ramakien"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "move": {
+    "th": "หักคอเอราวัณ",
+    "rtgs": "hak kho erawan",
+    "gloss": "Breaking Erawan's neck",
+    "refers": "myth",
+    "figure": "Erawan, the three-headed elephant",
+    "set": "mae-mai",
+    "n": 15,
+    "does": "Both hands onto the back of the neck, pull down, knee into the face.",
+    "does_th": "สองมือจับต้นคอ ดึงลง แล้วกระแทกเข่าเข้าหน้า"
+   },
+   "kin_in": [
+    {
+     "from": "clinch",
+     "type": "move",
+     "name": "The clinch",
+     "as": "The named version of it."
+    },
+    {
+     "from": "mae-mai",
+     "type": "move",
+     "name": "The fifteen mother techniques",
+     "as": "Number fifteen."
+    }
+   ]
+  },
+  {
+   "id": "hanuman-thawai-waen",
+   "type": "move",
+   "names": {
+    "name": "Hanuman presents the ring",
+    "th": "หนุมานถวายแหวน",
+    "rtgs": "hanuman thawai waen",
+    "said": "Hanuman presents the ring"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "luk-mai"
+   },
+   "text": {
+    "what": "The only technique named by three of the four regional schools as well as by the standard list. If anything in the curriculum is bedrock, it is this one.",
+    "story": "In the Ramakien, Hanuman crosses the ocean to Lanka and finds Sida in the garden, and hands her Rama's ring so she will believe he was sent. He kneels and holds it up with both hands. That gesture — both hands rising together, palms up, to the height of another person's face — is the technique.\n\nKorat's older list names four more Hanuman techniques: he parts the waves, he carries the lord, he pulls up the stump."
+   },
+   "text_th": {
+    "what": "ท่าเดียวที่สามในสี่สายท้องถิ่นเรียกชื่อไว้ นอกเหนือจากรายการมาตรฐาน ถ้ามีอะไรในหลักสูตรที่เป็นชั้นหิน ก็คือท่านี้",
+    "story": "ในรามเกียรติ์ หนุมานข้ามมหาสมุทรไปลงกา พบนางสีดาในสวน แล้วถวายแหวนของพระรามเพื่อให้นางเชื่อว่าตนถูกส่งมา เขาคุกเข่าและยกขึ้นด้วยสองมือ ท่าทางนั้น — สองมือยกขึ้นพร้อมกัน หงายฝ่ามือ สูงระดับหน้าของอีกคน — คือตัวท่า\n\nรายการเก่าของโคราชเรียกชื่อท่าหนุมานไว้อีกสี่ท่า หนุมานแหวกฟอง หนุมานแบกพระ หนุมานถอนตอ"
+   },
+   "kin": [
+    {
+     "to": "luk-mai",
+     "as": "Ninth on the second fifteen.",
+     "rel": "move"
+    },
+    {
+     "to": "korat",
+     "as": "Which also names it.",
+     "rel": "style"
+    },
+    {
+     "to": "lopburi",
+     "as": "Which also names it.",
+     "rel": "style"
+    },
+    {
+     "to": "ramakien-in-the-ring",
+     "as": "The scene it comes from.",
+     "rel": "art"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "move.gloss": {
+      "tier": "inference",
+      "note": "this project's translation"
+     },
+     "move.refers": {
+      "tier": "inference",
+      "note": "this project's classification of what the name points at"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "ramakien",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "move": {
+    "th": "หนุมานถวายแหวน",
+    "rtgs": "hanuman thawai waen",
+    "gloss": "Hanuman presents the ring",
+    "refers": "myth",
+    "figure": "Hanuman",
+    "set": "luk-mai",
+    "n": 9,
+    "does": "Both fists driven up into the chin from below, together.",
+    "does_th": "สองหมัดเสยขึ้นใต้คางพร้อมกัน"
+   },
+   "images": [
+    {
+     "file": "hanuman-thawai-waen/hanuman-thawai-waen-19th-century-ramayana-manuscript-ramakien-thailand-v-3ced689.jpg",
+     "source": "commons",
+     "title": "File:19th-century Ramayana manuscript, Ramakien, Thailand version, Khom script, Hanuman with sword reaches Ravana's palace.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Ms Sarah Welch",
+     "credit": "Own work",
+     "alt": "The Ramayana is a Sanskrit language Hindu epic attributed to Valmiki, whose first redaction is dated between 5th-century to 4th-century BCE (see J. L. Brockington        Academic The Sanskrit Epics, p",
+     "date": "2018-10-30 12:03:36",
+     "primary": true,
+     "sha256": "9f44351cfe408c48612781c265e4ba33347daa8799b725cb43922dede93f4902"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "luk-mai",
+     "type": "move",
+     "name": "The fifteen that come after",
+     "as": "The one three schools out of four also name."
+    },
+    {
+     "from": "lopburi",
+     "type": "style",
+     "name": "Muay Lopburi",
+     "as": "On its list too."
+    },
+    {
+     "from": "ramakien-in-the-ring",
+     "type": "art",
+     "name": "The epic in the technique list",
+     "as": "The scene."
+    }
+   ]
+  },
+  {
+   "id": "luk-mai",
+   "type": "move",
+   "names": {
+    "name": "The fifteen that come after",
+    "th": "ลูกไม้มวยไทย",
+    "rtgs": "luk mai muay thai",
+    "said": "Nine of these fifteen are gods, demons and epic heroes.",
+    "said_th": "เก้าในสิบห้าท่านี้คือเทพ ยักษ์ และตัวละครในวรรณคดี"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "luk-mai"
+   },
+   "text": {
+    "what": "The second set of fifteen, taught after the first. The Thai encyclopedia's line is that a student works the mae mai before the luk mai will take.",
+    "story": "Erawan tosses its tusks. Thotsakan carries off the lady. Rama draws the bow. Hanuman presents the ring. Hiranyaksha rolls up the earth and carries it to the bottom of the sea. A naga dives to the underworld.\n\nThen, in the middle of that, number two: **batha lup phak**, the foot strokes the face. The one name in all thirty that describes the movement instead of drawing a picture — and it still reaches for Sanskrit to do it, *bāda* for foot and *vaktra* for face, where everyday Thai has *thao* and *na*.\n\nThe rest of the set is household: threading a garland, slicing a gourd, an elder sweeping the temple courtyard, a swan with a broken wing, a deer looking back over its shoulder."
+   },
+   "text_th": {
+    "what": "ชุดที่สองอีกสิบห้าท่า สอนต่อจากชุดแรก สารานุกรมไทยว่าไว้ว่าผู้ฝึกต้องผ่านแม่ไม้ก่อน ลูกไม้จึงจะติด",
+    "story": "เอราวัณเสยงา ขุนยักษ์พานาง พระรามน้าวศร หนุมานถวายแหวน หิรัญม้วนแผ่นดินแล้วแบกลงไปก้นทะเล นาคมุดบาดาล\n\nแล้วตรงกลางชุดนั้น ท่าที่สอง **บาทาลูบพักตร์** ชื่อเดียวในสามสิบท่าที่บอกการเคลื่อนไหวแทนการวาดภาพ และยังหยิบคำสันสกฤตมาใช้ *บาทา* แทนเท้า *พักตร์* แทนหน้า ทั้งที่ภาษาพูดมีคำว่าเท้าและหน้าอยู่แล้ว\n\nที่เหลือในชุดเป็นเรื่องในบ้าน ร้อยพวงมาลัย ฝานลูกบวบ พระเถระกวาดลานวัด หงส์ปีกหัก และกวางที่เหลียวมองข้ามบ่า"
+   },
+   "kin": [
+    {
+     "to": "mae-mai",
+     "as": "The first fifteen.",
+     "rel": "move"
+    },
+    {
+     "to": "hanuman-thawai-waen",
+     "as": "The one three schools out of four also name.",
+     "rel": "move"
+    },
+    {
+     "to": "ramakien-in-the-ring",
+     "as": "The cast list.",
+     "rel": "art"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted",
+    "ramakien"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "luk-mai/luk-mai-bang-kung-barracks-thai-boxing-sculptures-for-learne-a9d69ef.jpg",
+     "source": "commons",
+     "title": "File:Bang Kung Barracks - Thai Boxing Sculptures For Learners - panoramio.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bang_Kung_Barracks_-_Thai_Boxing_Sculptures_For_Learners_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ABang_Kung_Barracks_-_Thai_Boxing_Sculptures_For_Learners_-_panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "Kasom SKULTAB",
+     "credit": "https://web.archive.org/web/20161025201316/http://www.panoramio.com/photo/80227504",
+     "alt": "Bang Kung Barracks  - Thai Boxing Sculptures For Learners",
+     "date": "Taken on 28 September 2012",
+     "primary": true,
+     "sha256": "4495727d53243e7c9620ef37d10b519a2e457c4642d6164ff12dd6becd473bff"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "batha-lup-phak",
+     "type": "move",
+     "name": "The foot strokes the face",
+     "as": "Second on the second fifteen."
+    },
+    {
+     "from": "hanuman-thawai-waen",
+     "type": "move",
+     "name": "Hanuman presents the ring",
+     "as": "Ninth on the second fifteen."
+    },
+    {
+     "from": "mae-mai",
+     "type": "move",
+     "name": "The fifteen mother techniques",
+     "as": "The second fifteen."
+    },
+    {
+     "from": "ramakien-in-the-ring",
+     "type": "art",
+     "name": "The epic in the technique list",
+     "as": "The second."
+    }
+   ]
+  },
+  {
+   "id": "mae-mai",
+   "type": "move",
+   "names": {
+    "name": "The fifteen mother techniques",
+    "th": "แม่ไม้มวยไทย",
+    "rtgs": "mae mai muay thai",
+    "said": "Not one of them is named after what it does.",
+    "said_th": "ไม่มีสักท่าเดียวที่ตั้งชื่อตามสิ่งที่มันทำ"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "mae-mai"
+   },
+   "text": {
+    "what": "The first fifteen named techniques, taught as a set. *Mae* is mother, *mai* is a move; the fifteen that come after are called *luk mai*, child moves.",
+    "story": "Thai Wikipedia lists them with a sentence of description each, sourcing the Thai Encyclopedia for Youth. This project took the list off the page at revision 13177866 rather than retyping it, glossed each name, and then counted what the names point at.\n\n**Fourteen of the fifteen name a picture and one names a movement.** Salap fan pla is the zigzag of a fish's jaw. Chorakhe fat hang is a crocodile's tail. Hak kho erawan breaks the neck of the three-headed elephant that Indra rides. Wirunhok klap turns Virūḷhaka, guardian of the south, upside down.\n\n*Inference —* this is why translating the names does not help a beginner and never has. The name is a mnemonic for a **shape**, held by people who had the shapes in front of them already: at Wat Bang Kung in Samut Songkhram the techniques stand in the courtyard as statues. The word was never carrying the instruction. The word was carrying the picture.\n\nSome sources put the count at 385 techniques rather than thirty, with the hardest named as *Narai ban sian* — Narayana beheads. This project prints the fifteen and the fifteen because those are the two lists with a source attached."
+   },
+   "text_th": {
+    "what": "สิบห้าท่าแรกที่มีชื่อ สอนเป็นชุด *แม่* คือแม่ *ไม้* คือท่า อีกสิบห้าท่าที่ตามมาเรียกว่า *ลูกไม้*",
+    "story": "วิกิพีเดียภาษาไทยลงรายการไว้พร้อมคำอธิบายท่าละหนึ่งประโยค โดยอ้างสารานุกรมไทยสำหรับเยาวชนฯ โครงการนี้ดึงรายการออกจากหน้าเว็บที่รุ่นแก้ไข 13177866 แทนการพิมพ์ใหม่ แล้วแปลชื่อแต่ละท่า และนับว่าชื่อเหล่านั้นชี้ไปที่อะไร\n\n**สิบสี่ในสิบห้าท่าตั้งชื่อเป็นภาพ มีเพียงท่าเดียวที่ตั้งชื่อตามการเคลื่อนไหว** สลับฟันปลาคือฟันปลาสองแถวที่เหลื่อมกัน จระเข้ฟาดหางคือหางจระเข้ หักคอเอราวัณคือการหักคอช้างสามเศียรที่พระอินทร์ทรง วิรุฬหกกลับคือการพลิกท้าวิรุฬหก ผู้รักษาทิศใต้ ให้กลับหัว\n\n*อนุมาน —* นี่คือเหตุที่การแปลชื่อท่าไม่ช่วยผู้เริ่มต้น และไม่เคยช่วย ชื่อคือกลอุบายช่วยจำ**รูปร่าง** สำหรับคนที่มีรูปร่างเหล่านั้นอยู่ตรงหน้าแล้ว ที่วัดบางกุ้ง สมุทรสงคราม ท่าเหล่านี้ตั้งเป็นรูปปั้นอยู่กลางลาน คำไม่เคยเป็นตัวบอกวิธี คำเป็นตัวถือภาพไว้\n\nบางแหล่งระบุว่ามีถึง 385 ท่า ไม่ใช่สามสิบ โดยท่าที่ยากที่สุดชื่อ *นารายณ์บั่นเศียร* โครงการนี้พิมพ์สิบห้ากับสิบห้า เพราะสองรายการนั้นคือรายการที่มีแหล่งอ้างอิงติดมาด้วย"
+   },
+   "kin": [
+    {
+     "to": "luk-mai",
+     "as": "The second fifteen.",
+     "rel": "move"
+    },
+    {
+     "to": "ramakien-in-the-ring",
+     "as": "Where half the names come from.",
+     "rel": "art"
+    },
+    {
+     "to": "wat-bang-kung-statues",
+     "as": "The fifteen, standing up, in a courtyard.",
+     "rel": "art"
+    },
+    {
+     "to": "hak-kho-erawan",
+     "as": "Number fifteen.",
+     "rel": "move"
+    },
+    {
+     "to": "chorakhe-fat-hang",
+     "as": "Number nine, and the one every gym still says.",
+     "rel": "move"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "inference",
+      "note": "the classification of the names is this project's, off the cited list"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted",
+    "ramakien",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "mae-mai/mae-mai-11.jpg",
+     "source": "commons",
+     "title": "File:วัดบางกุ้ง อำเภอบางคนที จังหวัดสมุทรสงคราม 11.JPG",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87_%E0%B8%AD%E0%B8%B3%E0%B9%80%E0%B8%A0%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_11.JPG",
+     "license": "CC BY-SA 3.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+     "author": "KengCH",
+     "credit": "Own work",
+     "alt": "This is a photo of a monument in Thailand identified by the ID",
+     "date": "2013-01-10 15:02:33",
+     "primary": true,
+     "sha256": "06dced42a7afbcad3db2bfc2b64f0a7e1d9f875f05f85719392e63247d4b0328"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "batha-lup-phak",
+     "type": "move",
+     "name": "The foot strokes the face",
+     "as": "And the exception to the whole set."
+    },
+    {
+     "from": "chorakhe-fat-hang",
+     "type": "move",
+     "name": "The crocodile lashes its tail",
+     "as": "The list it is ninth on."
+    },
+    {
+     "from": "hak-kho-erawan",
+     "type": "move",
+     "name": "Breaking Erawan's neck",
+     "as": "The list it closes."
+    },
+    {
+     "from": "luk-mai",
+     "type": "move",
+     "name": "The fifteen that come after",
+     "as": "The first fifteen."
+    },
+    {
+     "from": "korat",
+     "type": "style",
+     "name": "Muay Korat",
+     "as": "Which its list disagrees with."
+    },
+    {
+     "from": "tiger-king",
+     "type": "person",
+     "name": "The Tiger King",
+     "as": "What he is credited with."
+    },
+    {
+     "from": "ong-bak",
+     "type": "art",
+     "name": "Ong-Bak",
+     "as": "What the song is named after."
+    },
+    {
+     "from": "ramakien-in-the-ring",
+     "type": "art",
+     "name": "The epic in the technique list",
+     "as": "The first list."
+    },
+    {
+     "from": "wat-bang-kung-statues",
+     "type": "art",
+     "name": "The fifteen, standing in a courtyard",
+     "as": "What is standing there."
+    }
+   ]
+  },
+  {
+   "id": "sweep",
+   "type": "move",
+   "names": {
+    "name": "The dump",
+    "th": "ทุ่ม",
+    "rtgs": "thum",
+    "said": "Putting the other man on the floor without hitting him.",
+    "said_th": "ทำให้อีกฝ่ายลงไปกองโดยไม่ต้องชก",
+    "aliases": [
+     "sweep",
+     "throw"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "everyday",
+    "range": "close"
+   },
+   "text": {
+    "what": "Catching a kick, stepping past a leg, or turning a man out of the clinch so that he lands. Legal here; not legal in most kickboxing rulesets.",
+    "story": "A dump is not a knockdown and is not counted as one. What it is, is a statement to three judges that one man is handling the other, and in a close fight that is the round.\n\n*Inference —* this is why the judging looks strange to someone raised on boxing. Nothing was landed. The round still went somewhere."
+   },
+   "text_th": {
+    "what": "รับเตะไว้ ก้าวข้ามขา หรือบิดอีกฝ่ายออกจากวงในจนล้มลง ถูกกติกาที่นี่ ไม่ถูกกติกาในคิกบ็อกซิ่งส่วนใหญ่",
+    "story": "การทุ่มไม่ใช่การน็อกดาวน์และไม่ถูกนับเป็นน็อกดาวน์ สิ่งที่มันเป็นคือคำแถลงต่อกรรมการสามคนว่าฝ่ายหนึ่งกำลังจัดการอีกฝ่ายได้ และในไฟต์ที่สูสี นั่นคือยกนั้น\n\n*อนุมาน —* นี่คือเหตุที่การให้คะแนนดูประหลาดสำหรับคนที่โตมากับมวยสากล ไม่มีอาวุธลงสักชิ้น แต่ยกนั้นก็ยังมีเจ้าของ"
+   },
+   "kin": [
+    {
+     "to": "clinch",
+     "as": "Where most of them start.",
+     "rel": "move"
+    },
+    {
+     "to": "scoring",
+     "as": "What it is worth.",
+     "rel": "rule"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "sweep/sweep-muay-thai-fight-us-vs-burma-80668067.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai Fight Us Vs Burma (80668067).jpeg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Muay_Thai_Fight_Us_Vs_Burma_%2880668067%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Fight_Us_Vs_Burma_%2880668067%29.jpeg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Gerrit Phil Baumann",
+     "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+     "alt": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+     "date": "before 23 August 2014, 02:36:43 (UTC)",
+     "primary": true,
+     "sha256": "75413883f4b0a412403a55f88106b7fb8cfe4eaf9618d5d2f57168b3d0ff9a42"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "te-chiang",
+   "type": "move",
+   "names": {
+    "name": "The round kick",
+    "th": "เตะเฉียง",
+    "rtgs": "te chiang",
+    "said": "The whole body turns. The leg is the last thing to arrive.",
+    "said_th": "ทั้งตัวหมุน ขาคือสิ่งสุดท้ายที่มาถึง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "everyday",
+    "range": "long"
+   },
+   "text": {
+    "what": "The kick the rest of the world copied. Thrown upward at an angle, cutting under the arm and into the ribs, and named for the triangle it travels.",
+    "story": "What separates it from a karate or taekwondo kick is that nothing is chambered. The hip goes first and the shin follows through the target rather than snapping back off it. The stance behind it is narrower than a boxer's, because the base is there to be turned on, not to be punched from.\n\nLand it on the thigh enough times and the other man cannot push off that leg; land it on the ribs and he stops breathing properly in the fourth. Neither is spectacular and both win fights, which is most of what a foreign viewer is missing."
+   },
+   "text_th": {
+    "what": "ท่าเตะที่โลกทั้งใบลอกไป เหวี่ยงขึ้นเฉียง ตัดใต้แขนเข้าชายโครง ตั้งชื่อตามสามเหลี่ยมที่มันเดินทาง",
+    "story": "สิ่งที่ทำให้มันต่างจากเตะคาราเต้หรือเทควันโดคือไม่มีการงอเก็บขา สะโพกไปก่อน แข้งตามผ่านเป้าไป ไม่ใช่กระตุกกลับ ท่ายืนที่รองรับมันแคบกว่านักมวยสากล เพราะฐานมีไว้ให้หมุน ไม่ได้มีไว้ให้ชก\n\nลงที่ต้นขาซ้ำพอ อีกฝ่ายจะถีบขานั้นไม่ขึ้น ลงที่ชายโครง เขาจะหายใจไม่เต็มในยกสี่ ทั้งสองอย่างไม่หวือหวาและทั้งสองอย่างชนะไฟต์ ซึ่งคือสิ่งที่คนดูต่างชาติมองข้ามเป็นส่วนใหญ่"
+   },
+   "kin": [
+    {
+     "to": "shin",
+     "as": "The part that lands.",
+     "rel": "weapon"
+    },
+    {
+     "to": "check",
+     "as": "What stops it.",
+     "rel": "move"
+    },
+    {
+     "to": "scoring",
+     "as": "Why it counts for so much.",
+     "rel": "rule"
+    },
+    {
+     "to": "pads",
+     "as": "Where it is built.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "beginner",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "te-chiang/te-chiang-muay-thai-spectacular-kick.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai spectacular kick.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Muay_Thai_spectacular_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_spectacular_kick.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Kru Tony Moore",
+     "credit": "Own work",
+     "alt": "Muay Thai spectacular Kick, Sitsiam  camp Student.",
+     "date": "2017-05-06 10:32:59",
+     "primary": true,
+     "sha256": "bbcf07039aed46cb6b2b6462b99fd1aa0b46a063e59a7968ec06a9259ded0323"
+    },
+    {
+     "file": "te-chiang/te-chiang-thairoundkick.jpg",
+     "source": "commons",
+     "title": "File:Thairoundkick.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Thairoundkick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AThairoundkick.jpg",
+     "license": "CC0 1.0",
+     "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+     "author": "Claudio Scott",
+     "credit": "https://pixabay.com/photos/football-kick-boxing-combat-gloves-2239040/",
+     "alt": "A fighter leans back to evade a round kick",
+     "date": "2011-04-29 16:59:18",
+     "primary": false,
+     "sha256": "789e9b522bd4104d732357484517c3aff160f03874d8069722dc9a5fef352a39"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "shin",
+     "type": "weapon",
+     "name": "The shin",
+     "as": "The kick itself."
+    },
+    {
+     "from": "check",
+     "type": "move",
+     "name": "Checking the kick",
+     "as": "What it is aimed at."
+    },
+    {
+     "from": "teep",
+     "type": "move",
+     "name": "The teep",
+     "as": "The other thing the leg does."
+    },
+    {
+     "from": "muay-tae",
+     "type": "style",
+     "name": "Muay tae",
+     "as": "Its weapon."
+    },
+    {
+     "from": "changpuek-vs-roufus",
+     "type": "bout",
+     "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+     "as": "The weapon."
+    },
+    {
+     "from": "pads",
+     "type": "drill",
+     "name": "Pads",
+     "as": "What is being built."
+    },
+    {
+     "from": "te",
+     "type": "term",
+     "name": "te",
+     "as": "The kick."
+    }
+   ]
+  },
+  {
+   "id": "teep",
+   "type": "move",
+   "names": {
+    "name": "The teep",
+    "th": "ถีบ",
+    "rtgs": "thip",
+    "said": "A shove with the sole. The rudest thing in the sport when it lands on a face.",
+    "said_th": "การถีบด้วยฝ่าเท้า และเป็นสิ่งที่หยาบคายที่สุดในกีฬานี้เมื่อลงที่หน้า",
+    "aliases": [
+     "foot jab",
+     "push kick"
+    ]
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "everyday",
+    "range": "long"
+   },
+   "text": {
+    "what": "The straight push with the ball or sole of the foot, into the stomach, hip or chest. The article calls it a foot jab and that is what it does: it manages distance and interrupts.",
+    "story": "Thrown quickly and with enough weight to take the other man's balance, not to hurt him. It is the answer to someone walking forward, and it is the reason a muay thai round can look static from the outside: two men at the exact distance at which the lead foot rules.\n\n*Tradition holds —* the foot is the low end of the body and the head is the high end, so a foot in the face is an insult on top of a strike. Fighters use it knowing that, and a crowd reacts to it as an insult rather than as points."
+   },
+   "text_th": {
+    "what": "การดันตรงด้วยจมูกเท้าหรือฝ่าเท้า เข้าท้อง สะโพก หรืออก บทความเรียกมันว่าหมัดแย็บของเท้า และนั่นคือหน้าที่ของมัน คุมระยะ และขัดจังหวะ",
+    "story": "ออกเร็วและมีน้ำหนักพอจะทำให้อีกฝ่ายเสียหลัก ไม่ใช่เพื่อทำให้เจ็บ มันคือคำตอบของคนที่เดินเข้ามา และเป็นเหตุที่ยกหนึ่งของมวยไทยดูนิ่งเมื่อมองจากข้างนอก สองคนยืนที่ระยะซึ่งเท้าหน้าเป็นใหญ่พอดี\n\n*ตามธรรมเนียม —* เท้าคือส่วนต่ำของร่างกาย หัวคือส่วนสูง เท้าที่ขึ้นหน้าจึงเป็นการดูหมิ่นซ้อนการชก นักมวยใช้มันทั้งที่รู้ และคนดูตอบสนองต่อมันแบบการดูหมิ่น ไม่ใช่แบบคะแนน"
+   },
+   "kin": [
+    {
+     "to": "shin",
+     "as": "The limb it comes off.",
+     "rel": "weapon"
+    },
+    {
+     "to": "te-chiang",
+     "as": "The other thing the leg does.",
+     "rel": "move"
+    },
+    {
+     "to": "nak-muay",
+     "as": "Who throws it.",
+     "rel": "term"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "beginner",
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "teep/teep-womens-muay-thai-teep.jpg",
+     "source": "commons",
+     "title": "File:Womens Muay Thai teep.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AWomens_Muay_Thai_teep.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Eric Langley",
+     "credit": "Flickr: [1]",
+     "alt": "One fighter executes a Muay Thai teep kick against her opponent in a women's Muay Thai match.",
+     "date": "2011-07-30 20:56:11",
+     "primary": true,
+     "sha256": "3de2497c51e0546465f0c8c87e1d32a5f0d8f26f9f7c1ff14cdec00dda8d9f6b"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "shin",
+     "type": "weapon",
+     "name": "The shin",
+     "as": "The other thing the leg does."
+    }
+   ]
+  },
+  {
+   "id": "top-maphap",
+   "type": "move",
+   "names": {
+    "name": "Top maphap",
+    "th": "ตบมะผาบ",
+    "rtgs": "top maphap",
+    "said": "Slapping your own body, hard, in rhythm, before anyone is touched.",
+    "said_th": "ตบร่างกายตัวเองแรง ๆ เป็นจังหวะ ก่อนจะมีใครถูกแตะ"
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "set": "regional"
+   },
+   "text": {
+    "what": "The Lanna display in which a man slaps his own arms, chest and thighs in a driving rhythm. Thai Wikipedia's article on Lanna performing arts names it beside the sabatchai drum as the strong end of the repertoire.",
+    "story": "*Inference —* three things are happening at once, and a spectator only sees the third. It conditions the surface it strikes. It sets a tempo the body then moves in. And it is a declaration to whoever is watching that the man is not afraid of being hit, which is the whole content of a pre-fight display in any tradition that has one.\n\nIt belongs to fon jerng rather than to the ring, and it is the part of the northern repertoire that looks least like anything in the modern sport and most like where the sport says it came from."
+   },
+   "text_th": {
+    "what": "การแสดงของล้านนาที่ชายคนหนึ่งตบแขน อก และต้นขาของตัวเองเป็นจังหวะรัว บทความนาฏศิลป์ล้านนาของวิกิพีเดียไทยระบุไว้คู่กับกลองสะบัดชัยในฐานะส่วนที่เข้มแข็งหนักแน่นของชุดการแสดง",
+    "story": "*อนุมาน —* มีสามอย่างเกิดขึ้นพร้อมกัน และคนดูเห็นแค่อย่างที่สาม มันทำให้ผิวที่ถูกตบทนขึ้น มันตั้งจังหวะที่ร่างกายจะเคลื่อนตาม และมันคือการประกาศต่อคนที่มองอยู่ว่าชายคนนี้ไม่กลัวการถูกตี ซึ่งคือเนื้อหาทั้งหมดของการแสดงก่อนชกในทุกธรรมเนียมที่มีมัน\n\nมันเป็นของฟ้อนเจิง ไม่ใช่ของเวที และเป็นส่วนของชุดการแสดงภาคเหนือที่ดูไม่เหมือนอะไรในกีฬาสมัยใหม่ที่สุด และเหมือนที่ที่กีฬานี้บอกว่าตัวเองมาจากมากที่สุด"
+   },
+   "kin": [
+    {
+     "to": "fon-jerng",
+     "as": "The dance it belongs to.",
+     "rel": "style"
+    },
+    {
+     "to": "lanna",
+     "as": "Where it is from.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:thwp-นาฏศิลป์ล้านนา",
+    "s:thwp-ประวัติศาสตร์มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "tradition",
+     "source": "s:thwp-นาฏศิลป์ล้านนา"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "needs_verification": true,
+   "tags": [
+    "lanna"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "fon-jerng",
+     "type": "style",
+     "name": "Fon jerng",
+     "as": "The part with no weapon and no opponent."
+    }
+   ]
+  },
+  {
+   "id": "yang-sam-khum",
+   "type": "move",
+   "names": {
+    "name": "The three-pit step",
+    "th": "ย่างสามขุม",
+    "rtgs": "yang sam khum",
+    "said": "The three-pit step"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "set": "regional"
+   },
+   "text": {
+    "what": "Chaiya's first lesson, and the one thing on its list of seven that is not a strike at all.",
+    "story": "Three points on the ground, and the fighter moves between them rather than forward and back. *Khum* is a pit or a hollow; the name is the ground, not the feet.\n\n*Inference —* a school that opens with footwork is a school that expects to be outnumbered or outreached. Chaiya's reputation is defence, and it starts here."
+   },
+   "text_th": {
+    "what": "บทเรียนแรกของไชยา และเป็นสิ่งเดียวในเจ็ดข้อของสายนี้ที่ไม่ใช่การออกอาวุธเลย",
+    "story": "จุดสามจุดบนพื้น นักมวยเคลื่อนระหว่างจุดเหล่านั้น ไม่ใช่เดินหน้าถอยหลัง *ขุม* คือหลุมหรือแอ่ง ชื่อท่าคือพื้นดิน ไม่ใช่เท้า\n\n*อนุมาน —* สายที่เปิดด้วยการก้าวคือสายที่คาดว่าจะถูกรุมหรือถูกช่วงชกที่ยาวกว่า ไชยาขึ้นชื่อเรื่องการป้องกัน และมันเริ่มตรงนี้"
+   },
+   "kin": [
+    {
+     "to": "chaiya",
+     "as": "The school that teaches it.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:saranukrom"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "move.gloss": {
+      "tier": "inference",
+      "note": "this project's translation"
+     },
+     "move.refers": {
+      "tier": "inference",
+      "note": "this project's classification of what the name points at"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "move": {
+    "th": "ย่างสามขุม",
+    "rtgs": "yang sam khum",
+    "gloss": "The three-pit step",
+    "refers": "thing",
+    "figure": "three pits in the ground",
+    "set": "regional",
+    "n": 0,
+    "does": "The footwork the southern school teaches first: a triangle, never a line.",
+    "does_th": "การก้าวที่สายใต้สอนก่อนอื่น เป็นสามเหลี่ยม ไม่ใช่เส้นตรง"
+   },
+   "kin_in": [
+    {
+     "from": "chaiya",
+     "type": "style",
+     "name": "Muay Chaiya",
+     "as": "What it teaches first."
+    },
+    {
+     "from": "khet-sriyaphai",
+     "type": "person",
+     "name": "Khet Sriyaphai",
+     "as": "The step he traced."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "id": "channel-7",
+ "type": "venue",
+ "names": {
+  "name": "The Channel 7 ring",
+  "th": "สนามมวยเวทีช่อง 7",
+  "rtgs": "sanam muay wethi chong chet",
+  "said": "Free, on a Sunday afternoon, behind a television studio.",
+  "said_th": "เข้าฟรี บ่ายวันอาทิตย์ หลังสถานีโทรทัศน์"
+ },
+ "region": [
+  "bangkok"
+ ],
+ "facets": {
+  "city": "bangkok",
+  "price": "free"
+ },
+ "text": {
+  "what": "The ring behind the Channel 7 studios at Mo Chit, where cards are staged for broadcast and the crowd gets in for nothing.",
+  "story": "Television is the third institution in the sport, after the army and the betting floor, and this is where you can see it working. The card exists to fill a slot; the audience is the set dressing; entry is free because the product is not the ticket.\n\n*Inference —* it is also the one ring in Bangkok where a visitor sees a Thai crowd rather than a crowd of visitors, and that changes what the fight sounds like more than anything happening in the ring."
+ },
+ "text_th": {
+  "what": "เวทีหลังสถานีโทรทัศน์ช่อง 7 ที่หมอชิต จัดรายการเพื่อออกอากาศ และคนดูเข้าฟรี",
+  "story": "โทรทัศน์คือสถาบันที่สามของกีฬานี้ ถัดจากกองทัพและวงพนัน และที่นี่คือที่ที่เห็นมันทำงาน รายการมีอยู่เพื่อเติมช่วงเวลาออกอากาศ คนดูคือฉาก เข้าฟรีเพราะสินค้าไม่ใช่บัตร\n\n*อนุมาน —* มันยังเป็นเวทีเดียวในกรุงเทพฯ ที่ผู้มาเยือนได้เห็นคนดูไทยแทนที่จะเป็นคนดูต่างชาติ และนั่นเปลี่ยนเสียงของไฟต์มากกว่าอะไรก็ตามที่เกิดขึ้นบนเวที"
+ },
+ "kin": [
+  {
+   "to": "lumpinee",
+   "as": "The paid version.",
+   "rel": "venue"
+  },
+  {
+   "to": "betting",
+   "as": "Absent here, and audible for it.",
+   "rel": "rule"
+  }
+ ],
+ "geo": {
+  "lat": 13.8034,
+  "lon": 100.557,
+  "precision": "street"
+ },
+ "sources": [
+  "s:osm-gyms",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:osm-gyms"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "tags": [
+  "watching",
+  "money"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "venue": {
+  "city": "Bangkok",
+  "nights": [
+   "Sunday afternoon"
+  ],
+  "nights_note": "Broadcast schedules move. Check before travelling across Bangkok for it.",
+  "ticket_thb": "free",
+  "check": true
+ },
+ "images": [
+  {
+   "file": "channel-7/channel-7-muay-thai-match-in-bangkok-thailand.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai match in Bangkok, Thailand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Muay_Thai_match_in_Bangkok%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_match_in_Bangkok%2C_Thailand.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Dmitri Markine",
+   "credit": "Own workTransferred from en.wikipedia",
+   "alt": "Boxing match in Bangkok,Thailand.",
+   "date": "Taken on 2 March 2008, 04:18",
+   "primary": true,
+   "sha256": "fde74e2a78236ec2b56add09cd843e1a74471cf059cff36cefa89a4d5241bef3"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bangkok",
+   "type": "place",
+   "name": "Bangkok",
+   "as": "Three."
+  }
+ ]
+}

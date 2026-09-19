@@ -1,0 +1,86 @@
+{
+ "id": "teep",
+ "type": "move",
+ "names": {
+  "name": "The teep",
+  "th": "ถีบ",
+  "rtgs": "thip",
+  "said": "A shove with the sole. The rudest thing in the sport when it lands on a face.",
+  "said_th": "การถีบด้วยฝ่าเท้า และเป็นสิ่งที่หยาบคายที่สุดในกีฬานี้เมื่อลงที่หน้า",
+  "aliases": [
+   "foot jab",
+   "push kick"
+  ]
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "everyday",
+  "range": "long"
+ },
+ "text": {
+  "what": "The straight push with the ball or sole of the foot, into the stomach, hip or chest. The article calls it a foot jab and that is what it does: it manages distance and interrupts.",
+  "story": "Thrown quickly and with enough weight to take the other man's balance, not to hurt him. It is the answer to someone walking forward, and it is the reason a muay thai round can look static from the outside: two men at the exact distance at which the lead foot rules.\n\n*Tradition holds —* the foot is the low end of the body and the head is the high end, so a foot in the face is an insult on top of a strike. Fighters use it knowing that, and a crowd reacts to it as an insult rather than as points."
+ },
+ "text_th": {
+  "what": "การดันตรงด้วยจมูกเท้าหรือฝ่าเท้า เข้าท้อง สะโพก หรืออก บทความเรียกมันว่าหมัดแย็บของเท้า และนั่นคือหน้าที่ของมัน คุมระยะ และขัดจังหวะ",
+  "story": "ออกเร็วและมีน้ำหนักพอจะทำให้อีกฝ่ายเสียหลัก ไม่ใช่เพื่อทำให้เจ็บ มันคือคำตอบของคนที่เดินเข้ามา และเป็นเหตุที่ยกหนึ่งของมวยไทยดูนิ่งเมื่อมองจากข้างนอก สองคนยืนที่ระยะซึ่งเท้าหน้าเป็นใหญ่พอดี\n\n*ตามธรรมเนียม —* เท้าคือส่วนต่ำของร่างกาย หัวคือส่วนสูง เท้าที่ขึ้นหน้าจึงเป็นการดูหมิ่นซ้อนการชก นักมวยใช้มันทั้งที่รู้ และคนดูตอบสนองต่อมันแบบการดูหมิ่น ไม่ใช่แบบคะแนน"
+ },
+ "kin": [
+  {
+   "to": "shin",
+   "as": "The limb it comes off.",
+   "rel": "weapon"
+  },
+  {
+   "to": "te-chiang",
+   "as": "The other thing the leg does.",
+   "rel": "move"
+  },
+  {
+   "to": "nak-muay",
+   "as": "Who throws it.",
+   "rel": "term"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "teep/teep-womens-muay-thai-teep.jpg",
+   "source": "commons",
+   "title": "File:Womens Muay Thai teep.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Womens_Muay_Thai_teep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWomens_Muay_Thai_teep.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "Eric Langley",
+   "credit": "Flickr: [1]",
+   "alt": "One fighter executes a Muay Thai teep kick against her opponent in a women's Muay Thai match.",
+   "date": "2011-07-30 20:56:11",
+   "primary": true,
+   "sha256": "3de2497c51e0546465f0c8c87e1d32a5f0d8f26f9f7c1ff14cdec00dda8d9f6b"
+  }
+ ]
+}

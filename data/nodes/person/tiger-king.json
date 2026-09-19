@@ -1,0 +1,68 @@
+{
+ "id": "tiger-king",
+ "type": "person",
+ "names": {
+  "name": "The Tiger King",
+  "th": "พระเจ้าเสือ",
+  "rtgs": "phra chao suea",
+  "said": "The king who is credited with inventing the curriculum, and who fought at a temple fair in disguise.",
+  "said_th": "กษัตริย์ที่ถูกยกให้เป็นผู้คิดค้นแม่ไม้ และปลอมตัวไปชกที่งานวัด",
+  "aliases": [
+   "Sanphet VIII",
+   "Suriyenthrathibodi"
+  ]
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "ayutthaya"
+ },
+ "text": {
+  "what": "King Sanphet VIII of Ayutthaya, reigned 1703–1709. Thai Wikipedia's article on the mae mai opens by attributing the fifteen to him, on the authority of a cabinet resolution.",
+  "story": "The story everyone tells: in 1702 the king hears there is a temple fair at Wiset Chai Chan, says he has not punched anyone since his accession, goes in disguise, and beats the local champions.\n\nAnd the sourcing, which is the more interesting part. The claim that he devised the mae mai is carried not by a chronicle but by **a resolution of the Thai cabinet**, cited through a newspaper article about the founding of Muay Thai Day. A government meeting is a perfectly real source for what a government has decided. It is not a source for what happened in 1702.\n\n*Inference —* this is the same machinery as Nai Khanom Tom and the four regional lines: a modern state fixing a date, a founder and a canon, and the fixing being the documented event."
+ },
+ "text_th": {
+  "what": "สมเด็จพระสรรเพชญ์ที่ 8 แห่งกรุงศรีอยุธยา ครองราชย์ พ.ศ. 2246–2252 บทความแม่ไม้มวยไทยของวิกิพีเดียไทยเปิดด้วยการยกท่าทั้งสิบห้าให้เป็นของพระองค์ โดยอ้างมติคณะรัฐมนตรี",
+  "story": "เรื่องที่ทุกคนเล่า พ.ศ. 2245 พระเจ้าเสือทรงทราบว่ามีงานวัดที่แขวงวิเศษไชยชาญ ตรัสว่าไม่ได้ชกมวยมานานตั้งแต่เสวยราชย์ จึงปลอมพระองค์ไป แล้วชนะนักมวยเอกของท้องถิ่น\n\nและที่มาของข้อมูล ซึ่งเป็นส่วนที่น่าสนใจกว่า ข้อความที่ว่าพระองค์ทรงคิดค้นแม่ไม้นั้น ไม่ได้มาจากพงศาวดาร แต่มาจาก **มติคณะรัฐมนตรี** อ้างผ่านข่าวหนังสือพิมพ์เรื่องการสถาปนาวันมวยไทย การประชุมของรัฐบาลเป็นแหล่งอ้างอิงที่ใช้ได้จริงสำหรับสิ่งที่รัฐบาลตัดสินใจ แต่ไม่ใช่แหล่งอ้างอิงสำหรับสิ่งที่เกิดขึ้นใน พ.ศ. 2245\n\n*อนุมาน —* นี่คือกลไกเดียวกับนายขนมต้มและสายมวยทั้งสี่ รัฐสมัยใหม่กำหนดวัน กำหนดผู้ก่อตั้ง และกำหนดสารบบ แล้วการกำหนดนั้นคือเหตุการณ์ที่มีหลักฐาน"
+ },
+ "kin": [
+  {
+   "to": "mae-mai",
+   "as": "What he is credited with.",
+   "rel": "move"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "The pattern.",
+   "rel": "issue"
+  },
+  {
+   "to": "nai-khanom-tom",
+   "as": "The other founder.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:wp-suriyenthrathibodi",
+  "s:maemai-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

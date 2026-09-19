@@ -1,0 +1,139 @@
+{
+ "id": "rajadamnern",
+ "type": "venue",
+ "names": {
+  "name": "Rajadamnern Stadium",
+  "th": "สนามมวยราชดำเนิน",
+  "rtgs": "sanam muay ratchadamnoen",
+  "said": "Opened 1945. The older of the two.",
+  "said_th": "เปิด พ.ศ. 2488 เก่ากว่าอีกแห่ง"
+ },
+ "region": [
+  "bangkok"
+ ],
+ "facets": {
+  "city": "bangkok",
+  "price": "high"
+ },
+ "text": {
+  "what": "The first of Bangkok's two ranking stadiums, off Ratchadamnoen Nok Avenue, north of the old royal district.",
+  "story": "A title at Rajadamnern is one of the two belts that settle an argument in Thailand — the other is at Lumpinee — and a fighter who holds both at once is having a career other people will describe for the rest of his life.\n\n*Inference —* the stadium's address is the point of it. Ratchadamnoen is the processional avenue built under Rama V on the model of a European boulevard, and putting the national sport's ring on it in the 1940s is a statement about what the sport was being made into."
+ },
+ "text_th": {
+  "what": "สนามแรกในสองสนามหลักของกรุงเทพฯ อยู่ริมถนนราชดำเนินนอก เหนือเขตพระราชฐานเก่า",
+  "story": "แชมป์ราชดำเนินคือหนึ่งในสองเข็มขัดที่ยุติข้อโต้แย้งในเมืองไทย — อีกเส้นอยู่ที่ลุมพินี — และนักมวยที่ถือทั้งสองเส้นพร้อมกันกำลังมีอาชีพที่คนอื่นจะเล่าถึงไปตลอดชีวิตเขา\n\n*อนุมาน —* ที่ตั้งของสนามคือประเด็นของมัน ราชดำเนินคือถนนพระราชพิธีที่สร้างในรัชกาลที่ 5 ตามแบบถนนใหญ่ของยุโรป การวางเวทีของกีฬาประจำชาติลงบนถนนสายนั้นในทศวรรษ 2480 คือการแถลงว่ากีฬานี้กำลังถูกทำให้เป็นอะไร"
+ },
+ "kin": [
+  {
+   "to": "lumpinee",
+   "as": "The other one.",
+   "rel": "venue"
+  },
+  {
+   "to": "betting",
+   "as": "What fills the seats.",
+   "rel": "rule"
+  },
+  {
+   "to": "nai-khanom-tom-day",
+   "as": "Whose statue stands outside.",
+   "rel": "story"
+  }
+ ],
+ "geo": {
+  "lat": 13.7605,
+  "lon": 100.5089,
+  "precision": "street"
+ },
+ "sources": [
+  "s:thwp-สนามมวยราชดำเน-น",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-สนามมวยราชดำเน-น"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "venue": {
+  "opened": "1945",
+  "city": "Bangkok",
+  "nights_note": "Fight nights and ticket prices at both Bangkok stadiums change with the promotion holding the card. This project does not print a schedule it cannot keep current.",
+  "check": true
+ },
+ "images": [
+  {
+   "file": "rajadamnern/rajadamnern-audience-at-muay-thai-match-at-rajadamnern-stadium-2-025832b.jpg",
+   "source": "commons",
+   "title": "File:Audience at Muay Thai match at Rajadamnern Stadium 2007-05-20.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Audience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AAudience_at_Muay_Thai_match_at_Rajadamnern_Stadium_2007-05-20.JPG",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "alt": "The Muay Thai audience at Rajadamnern Stadium in Bangkok, Thailand.",
+   "date": "2007-07-01",
+   "primary": true,
+   "sha256": "a803608432d2a0a6749fe681567ca953b0b8ac4c881f4c9f94e86c93094d10d0"
+  },
+  {
+   "file": "rajadamnern/rajadamnern-rajinfront.jpg",
+   "source": "commons",
+   "title": "File:RajInfront.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/RajInfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARajInfront.jpg",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "author": "Mynameisfootlong",
+   "credit": "Own work",
+   "alt": "Rajadamnern Stadium",
+   "date": "2023-07-01 18:49:13",
+   "primary": false,
+   "sha256": "b4c13c6a22e9eb2938bdd5c2598f3d403d0a34f955633dd3bcf411fc66f5a06c"
+  },
+  {
+   "file": "rajadamnern/rajadamnern-rajadamnern-s-ring.jpg",
+   "source": "commons",
+   "title": "File:Rajadamnern's ring.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Rajadamnern%27s_ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARajadamnern%27s_ring.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "B20180",
+   "credit": "Own work",
+   "alt": "Rajadamnern's ring",
+   "date": "2012-12-24 17:07:31",
+   "primary": false,
+   "sha256": "32f7329d3d04399a4330dd036b873d43030c00d422a8c09eb38adf464a1cf1da"
+  },
+  {
+   "file": "rajadamnern/rajadamnern-rajadamnern-stadium.jpg",
+   "source": "commons",
+   "title": "File:Rajadamnern Stadium.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rajadamnern_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARajadamnern_Stadium.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "DiverDave",
+   "credit": "Own work",
+   "alt": "Rajadamnern Stadium, Ratchadamnoen Avenue, Pom Prap Sattru Phai district, Bangkok, Thailand",
+   "date": "2022-11-05 12:41:00",
+   "primary": false,
+   "sha256": "731cff1f1bca9b3d56112d9ad5bbe7f43b5c4578c0518505dbe3e085b710cb95"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+# Reuse
+Records on this site are CC BY 4.0: reuse them with attribution to https://nanobotco.github.io/muay-thai .
+Harvested rows keep their own licences — OpenStreetMap ODbL 1.0, Wikidata CC0, Wikipedia CC BY-SA 4.0, pictures per file. The machine-readable form is at https://nanobotco.github.io/muay-thai/api/ .
+
+# — roster of sibling sites, generated from data/fleet.json —
+Publisher: NaNoBotCo · nan@motdang.net
+Everything this publisher holds, counted: https://nanobotco.github.io/index/
+Sibling corpora (roster as JSON): https://nanobotco.github.io/index/fleet.json
+  Mot Dang: https://motdang.net/
+  The Mae Hong Son Loop: https://nanobotco.github.io/mae-hong-son-loop/
+  wichaa: https://wichaa.net/
+  Amulet Atlas: https://nanobotco.github.io/amulet-atlas/
+  Carolina Barbecue: https://nanobotco.github.io/carolina-barbecue/
+  Wing Country: https://nanobotco.github.io/buffalo-wings/
+  Pink Box: https://nanobotco.github.io/pink-box/
+  Basque Tables: https://nanobotco.github.io/basque-tables/
+  Pinot Country: https://nanobotco.github.io/pinot-noir/
+  Care Abroad: https://nanobotco.github.io/care-abroad/
+  Thai Roots: https://nanobotco.github.io/thairoots/
+  The index: https://nanobotco.github.io/index/
+  Uptake: https://nanobotco.github.io/uptake/
+  NaNoBotCo: https://nanobotco.github.io/
+  ฮักฝรั่ง: https://hakfarang.net/
+  Offrampt: https://offrampt.net/

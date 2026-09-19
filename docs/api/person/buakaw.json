@@ -1,0 +1,127 @@
+{
+ "id": "buakaw",
+ "type": "person",
+ "names": {
+  "name": "Buakaw Banchamek",
+  "th": "บัวขาว บัญชาเมฆ",
+  "rtgs": "buakhao banchamek",
+  "said": "White lotus. The name most of the world learned first.",
+  "said_th": "บัวขาว ชื่อที่คนทั้งโลกรู้จักก่อนชื่ออื่น"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Born Sombat Banchamek, 8 May 1982. Omnoi champion at two weights, and the fighter who won K-1 Max in Japan in 2004 and again in 2006.",
+  "story": "Joined Por Pramuk gym in 1997, won the Toyota Marathon at Lumpinee in late 2002, then entered K-1 Max in 2004 and beat John Wayne Parr and Masato in the same tournament.\n\n*Inference —* K-1 is why. Muay thai had been exported for decades, but K-1 was a television product with a Japanese broadcast budget, and one Thai fighter winning it twice did more for the sport's name abroad than any federation has. The kickboxing rules he won under do not allow elbows and break the clinch — so the world learned the sport from a version of it with two of the eight limbs turned off."
+ },
+ "text_th": {
+  "what": "ชื่อจริง สมบัติ บัญชาเมฆ เกิด 8 พฤษภาคม พ.ศ. 2525 แชมป์อ้อมน้อยสองรุ่น และเป็นนักมวยที่ชนะ K-1 Max ที่ญี่ปุ่นในปี 2547 และอีกครั้งในปี 2549",
+  "story": "เข้าค่าย ป.ประมุข เมื่อ พ.ศ. 2540 ชนะโตโยต้ามาราธอนที่ลุมพินีปลายปี 2545 แล้วเข้าแข่ง K-1 Max ในปี 2547 ชนะทั้งจอห์น เวย์น พารร์ และมาซาโตะ ในทัวร์นาเมนต์เดียวกัน\n\n*อนุมาน —* K-1 คือเหตุผล มวยไทยถูกส่งออกมาหลายสิบปีแล้ว แต่ K-1 เป็นสินค้าโทรทัศน์ที่มีงบออกอากาศแบบญี่ปุ่น และนักมวยไทยคนเดียวที่ชนะมันสองครั้งทำให้ชื่อของกีฬานี้ดังในต่างประเทศมากกว่าที่สหพันธ์ไหนเคยทำ กติกาคิกบ็อกซิ่งที่เขาชนะมานั้นห้ามศอกและแยกวงใน โลกจึงเรียนรู้กีฬานี้จากรุ่นที่ปิดอาวุธไปสองในแปดชิ้น"
+ },
+ "kin": [
+  {
+   "to": "the-gym-map",
+   "as": "The export, counted.",
+   "rel": "gym"
+  },
+  {
+   "to": "shorts",
+   "as": "Whose camp name he carries.",
+   "rel": "kit"
+  },
+  {
+   "to": "changpuek-vs-roufus",
+   "as": "The earlier crossing.",
+   "rel": "bout"
+  }
+ ],
+ "sources": [
+  "s:wp-buakaw-banchamek"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-buakaw-banchamek"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "abroad"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "buakaw/buakaw-vitaly-vs-buakaw-1.jpg",
+   "source": "commons",
+   "title": "File:Vitaly vs Buakaw 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Vitaly_vs_Buakaw_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AVitaly_vs_Buakaw_1.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "B20180",
+   "credit": "Own work",
+   "alt": "Vitaly vs Buakaw",
+   "date": "2012-12-16 19:41:29",
+   "primary": true,
+   "sha256": "a19482327e5a9377bb97828b0cf65f336c5227c456ffe0b8c75a5786857522f7"
+  },
+  {
+   "file": "buakaw/buakaw-.jpg",
+   "source": "commons",
+   "title": "File:บัวขาว บัญชาเมฆ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7_%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7_%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%86.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "ตั๊กกะล่อนนน",
+   "credit": "Own work",
+   "alt": "บัวขาว บัญชาเมฆ",
+   "date": "2016-04-23",
+   "primary": false,
+   "sha256": "ed302e832c2c2255dce69d432886cd640d2f12700e835a342cb670be98b0ca0e"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "buakaw-k1-2004",
+   "type": "bout",
+   "name": "Buakaw at K-1 Max, 2004",
+   "as": "Who won it."
+  },
+  {
+   "from": "changpuek-vs-roufus",
+   "type": "bout",
+   "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+   "as": "The next crossing."
+  },
+  {
+   "from": "the-gym-map",
+   "type": "gym",
+   "name": "Every gym on the map",
+   "as": "One reason for the shape."
+  },
+  {
+   "from": "shorts",
+   "type": "kit",
+   "name": "The shorts",
+   "as": "One of the names."
+  },
+  {
+   "from": "one-championship",
+   "type": "org",
+   "name": "ONE Championship",
+   "as": "The earlier version of the same deal."
+  }
+ ]
+}

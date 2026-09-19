@@ -1,0 +1,75 @@
+{
+ "id": "shorts",
+ "type": "kit",
+ "names": {
+  "name": "The shorts",
+  "th": "กางเกงมวย",
+  "rtgs": "kangkeng muay",
+  "said": "Cut wide at the leg so a kick can go over your own head.",
+  "said_th": "ตัดขากว้างเพื่อให้เตะข้ามหัวตัวเองได้"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "fight"
+ },
+ "text": {
+  "what": "Short, wide-legged satin shorts with a broad elastic waistband, carrying the gym's name in Thai across the front.",
+  "story": "The cut is functional. A round kick to the head takes the knee past the ear, and anything that grips the thigh stops it.\n\nThe lettering is not decoration either: it is the camp's name, and in Thailand the camp name is part of the fighter's name. Buakaw Banchamek, Dieselnoi Chor Thanasukarn, Apidej Sit Hirun — the second word is where he trains.\n\n*Inference —* a foreigner in shorts bought at a market is wearing a gym's name like a football shirt, which Thai people read exactly as what it is and mind less than the internet suggests."
+ },
+ "text_th": {
+  "what": "กางเกงซาตินขาสั้นและกว้าง ขอบเอวยางยืดกว้าง มีชื่อค่ายเป็นภาษาไทยพาดหน้า",
+  "story": "ทรงของมันมีหน้าที่ เตะวงเข้าหัวต้องยกเข่าเลยหู อะไรที่รัดต้นขาก็หยุดมันไว้\n\nตัวอักษรก็ไม่ใช่เครื่องประดับ มันคือชื่อค่าย และในเมืองไทยชื่อค่ายคือส่วนหนึ่งของชื่อนักมวย บัวขาว บัญชาเมฆ ดีเซลน้อย ช.ธนะสุกาญจน์ อภิเดช ศิษย์หิรัญ — คำที่สองคือที่ที่เขาฝึก\n\n*อนุมาน —* ฝรั่งที่ใส่กางเกงซื้อจากตลาดกำลังใส่ชื่อค่ายแบบเสื้อบอล ซึ่งคนไทยอ่านออกตรงตามนั้น และถือสาน้อยกว่าที่อินเทอร์เน็ตทำให้คิด"
+ },
+ "kin": [
+  {
+   "to": "nak-muay",
+   "as": "Whose name is on them.",
+   "rel": "term"
+  },
+  {
+   "to": "buakaw",
+   "as": "One of the names.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "inference",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "beginner"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "shorts/shorts-muay-thai-sitsiam-boxer.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai SitSiam Boxer.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Muay_Thai_SitSiam_Boxer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_SitSiam_Boxer.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Muay Thai Kick Thailand.",
+   "date": "2008-10-31 09:37:35",
+   "primary": true,
+   "sha256": "4a73f7b0bb1e25d415663c951c646f873f3a3851b3ef3254a4f8cd13e7a93242"
+  }
+ ]
+}

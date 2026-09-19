@@ -1,0 +1,58 @@
+{
+ "id": "saenchai",
+ "type": "person",
+ "names": {
+  "name": "Saenchai",
+  "th": "แสนชัย",
+  "rtgs": "saenchai",
+  "said": "Six Lumpinee titles in four divisions, usually giving away weight.",
+  "said_th": "แชมป์ลุมพินีหกสมัยในสี่รุ่น และมักเสียเปรียบน้ำหนัก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Born Suphachai Saepong, 30 July 1980. Six-time Lumpinee champion across four divisions, fighter of the year in 1999 and 2008.",
+  "story": "The English article records the thing that makes him unusual: he gave up weight to find opponents, and between 2003 and 2014 **lost twice in Thailand at equal weight** — every other defeat came in fights he had agreed to take at a disadvantage.\n\n*Inference —* that is what happens to a technician at the top of a small market. There is no one left to fight, so the promoter sells the handicap instead, and the record shows losses that are really a shortage of opponents."
+ },
+ "text_th": {
+  "what": "ชื่อจริง ศุภชัย แสนพงษ์ เกิด 30 กรกฎาคม พ.ศ. 2523 แชมป์ลุมพินีหกสมัยในสี่รุ่น นักมวยแห่งปี พ.ศ. 2542 และ 2551",
+  "story": "บทความภาษาอังกฤษบันทึกสิ่งที่ทำให้เขาไม่เหมือนใคร เขายอมเสียเปรียบน้ำหนักเพื่อหาคู่ชก และระหว่างปี 2546 ถึง 2557 **แพ้ในเมืองไทยเพียงสองครั้งเมื่อชกในน้ำหนักเท่ากัน** ความพ่ายแพ้ครั้งอื่นทั้งหมดเกิดในไฟต์ที่เขาตกลงขึ้นชกทั้งที่เสียเปรียบ\n\n*อนุมาน —* นั่นคือสิ่งที่เกิดกับนักเทคนิคที่อยู่บนยอดของตลาดเล็ก ๆ ไม่เหลือใครให้ชก โปรโมเตอร์จึงขายการต่อรองแทน และสถิติก็แสดงความพ่ายแพ้ที่แท้จริงแล้วคือการขาดคู่ชก"
+ },
+ "kin": [
+  {
+   "to": "muay-femur",
+   "as": "The style he defines.",
+   "rel": "style"
+  },
+  {
+   "to": "lumpinee",
+   "as": "Six of its belts.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:wp-saenchai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-saenchai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

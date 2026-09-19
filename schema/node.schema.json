@@ -1,0 +1,782 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://nanobotco.github.io/muay-thai/schema/node.schema.json",
+ "title": "Muay Thai node",
+ "description": "One record: a weapon, a technique, a school, a piece of ceremony, an instrument, a fight, a person, a stadium, a gym, a drill, a rule, a piece of kit, an episode of history, a place, a body, an open question, a word or a work. Every reader-facing field exists twice, English and Thai; a record with no Thai says so rather than machine-translating in silence. Every claim carries its tier and, where the tier is `cited`, the id of a source in data/sources/sources.json.",
+ "type": "object",
+ "required": [
+  "schema",
+  "id",
+  "type",
+  "names",
+  "region",
+  "text",
+  "sources",
+  "provenance",
+  "confidence",
+  "updated"
+ ],
+ "additionalProperties": false,
+ "patternProperties": {
+  "^x_": {}
+ },
+ "properties": {
+  "schema": {
+   "type": "integer",
+   "const": 1
+  },
+  "id": {
+   "type": "string",
+   "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+  },
+  "type": {
+   "type": "string",
+   "enum": [
+    "weapon",
+    "move",
+    "style",
+    "ritual",
+    "music",
+    "bout",
+    "person",
+    "venue",
+    "gym",
+    "drill",
+    "rule",
+    "kit",
+    "story",
+    "place",
+    "org",
+    "issue",
+    "term",
+    "art"
+   ]
+  },
+  "names": {
+   "type": "object",
+   "required": [
+    "name"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "name": {
+     "type": "string",
+     "minLength": 1,
+     "description": "the term as the tradition uses it"
+    },
+    "aliases": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "said": {
+     "type": "string",
+     "description": "how it is said or spelled locally, when that differs from the written name"
+    },
+    "sort": {
+     "type": "string",
+     "description": "sort key when the name starts with an article or a first name"
+    },
+    "th": {
+     "type": "string",
+     "description": "The name in Thai script."
+    },
+    "shan": {
+     "type": "string",
+     "description": "The name in Shan, where the place has one."
+    },
+    "rtgs": {
+     "type": "string",
+     "description": "Royal Thai General System transcription."
+    },
+    "said_th": {
+     "type": "string",
+     "description": "names.said, in Thai."
+    }
+   }
+  },
+  "etymology": {
+   "type": "object",
+   "additionalProperties": false,
+   "properties": {
+    "root": {
+     "type": "string",
+     "description": "the etymon or morpheme split, e.g. Taino barbacoa > Spanish barbacoa > English barbecue"
+    },
+    "first_attested": {
+     "type": "string",
+     "description": "earliest dated use you can NAME with a source; blank if none"
+    },
+    "note": {
+     "type": "string"
+    },
+    "tier": {
+     "$ref": "#/$defs/tier"
+    },
+    "source": {
+     "type": "string"
+    }
+   }
+  },
+  "region": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "string"
+   },
+   "description": "open list, validated against data/vocab/regions.json with a warning"
+  },
+  "facets": {
+   "type": "object",
+   "description": "open per-type facets; values are scalars or lists of scalars. Known keys per type are listed in data/vocab/facets.json",
+   "additionalProperties": {
+    "type": [
+     "string",
+     "number",
+     "boolean",
+     "null",
+     "array"
+    ],
+    "items": {
+     "type": [
+      "string",
+      "number"
+     ]
+    }
+   }
+  },
+  "text": {
+   "type": "object",
+   "required": [
+    "what"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "what": {
+     "type": "string",
+     "minLength": 1,
+     "description": "one plain paragraph: what it is"
+    },
+    "story": {
+     "type": "string",
+     "description": "the narrative, told as narrative; source marks inline: *Tradition —* / *Inference —*"
+    },
+    "how": {
+     "type": "string",
+     "description": "how it is made, served, eaten, or done"
+    },
+    "today": {
+     "type": "string",
+     "description": "present-tense state, dated where possible"
+    },
+    "notes": {
+     "type": "string"
+    }
+   }
+  },
+  "kin": {
+   "type": "array",
+   "description": "what other nodes ARE to this one, said from here. Directional: the other record says its own sentence back.",
+   "items": {
+    "type": "object",
+    "required": [
+     "to",
+     "as"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "to": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+     },
+     "as": {
+      "type": "string",
+      "minLength": 1
+     },
+     "rel": {
+      "type": "string",
+      "enum": [
+       "weapon",
+       "move",
+       "style",
+       "ritual",
+       "music",
+       "bout",
+       "person",
+       "venue",
+       "gym",
+       "drill",
+       "rule",
+       "kit",
+       "story",
+       "place",
+       "org",
+       "issue",
+       "term",
+       "art",
+       "part",
+       "whole",
+       "origin",
+       "descendant",
+       "contrast",
+       "same-word",
+       "kin",
+       "source",
+       "teacher",
+       "student",
+       "opponent"
+      ],
+      "description": "What the target IS to this record. Normally the target's own type; the relational values (part, whole, origin, descendant, contrast, same-word) are for edges the type alone does not describe."
+     }
+    }
+   }
+  },
+  "confusable_with": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "tell"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "id": {
+      "type": "string"
+     },
+     "tell": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "geo": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "additionalProperties": false,
+   "required": [
+    "lat",
+    "lon"
+   ],
+   "properties": {
+    "lat": {
+     "type": "number"
+    },
+    "lon": {
+     "type": "number"
+    },
+    "precision": {
+     "type": "string",
+     "enum": [
+      "exact",
+      "street",
+      "town",
+      "county",
+      "region"
+     ]
+    },
+    "source": {
+     "type": "string"
+    },
+    "elevation_m": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "description": "metres above sea level, where known"
+    }
+   }
+  },
+  "address": {
+   "type": "object",
+   "additionalProperties": false,
+   "properties": {
+    "street": {
+     "type": "string"
+    },
+    "city": {
+     "type": "string"
+    },
+    "county": {
+     "type": "string"
+    },
+    "state": {
+     "type": "string",
+     "enum": [
+      "AL",
+      "AK",
+      "AZ",
+      "AR",
+      "CA",
+      "CO",
+      "CT",
+      "DE",
+      "DC",
+      "FL",
+      "GA",
+      "HI",
+      "ID",
+      "IL",
+      "IN",
+      "IA",
+      "KS",
+      "KY",
+      "LA",
+      "ME",
+      "MD",
+      "MA",
+      "MI",
+      "MN",
+      "MS",
+      "MO",
+      "MT",
+      "NE",
+      "NV",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "NC",
+      "ND",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "PR",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VT",
+      "VA",
+      "WA",
+      "WV",
+      "WI",
+      "WY"
+     ]
+    },
+    "postcode": {
+     "type": "string"
+    }
+   }
+  },
+  "links": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "label",
+     "url"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "label": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string",
+      "pattern": "^https?://"
+     }
+    }
+   }
+  },
+  "sources": {
+   "type": "array",
+   "items": {
+    "type": "string",
+    "pattern": "^s:"
+   },
+   "description": "ids from data/sources/sources.json only"
+  },
+  "provenance": {
+   "type": "object",
+   "required": [
+    "default"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "default": {
+     "$ref": "#/$defs/prov"
+    },
+    "fields": {
+     "type": "object",
+     "additionalProperties": {
+      "$ref": "#/$defs/prov"
+     },
+     "description": "dotted field path -> provenance override, e.g. text.story"
+    }
+   }
+  },
+  "images": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "file",
+     "source",
+     "license"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "file": {
+      "type": "string",
+      "description": "path relative to data/images/"
+     },
+     "source": {
+      "type": "string",
+      "enum": [
+       "commons",
+       "own",
+       "contributed",
+       "flickr",
+       "loc",
+       "diagram",
+       "other"
+      ]
+     },
+     "title": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string"
+     },
+     "page_url": {
+      "type": "string"
+     },
+     "license": {
+      "type": "string"
+     },
+     "license_url": {
+      "type": "string"
+     },
+     "author": {
+      "type": "string"
+     },
+     "credit": {
+      "type": "string"
+     },
+     "alt": {
+      "type": "string"
+     },
+     "date": {
+      "type": "string"
+     },
+     "primary": {
+      "type": "boolean"
+     },
+     "sha256": {
+      "type": "string"
+     },
+     "width": {
+      "type": "integer"
+     },
+     "height": {
+      "type": "integer"
+     }
+    }
+   }
+  },
+  "confidence": {
+   "type": "string",
+   "enum": [
+    "high",
+    "medium",
+    "low"
+   ]
+  },
+  "needs_verification": {
+   "type": "boolean"
+  },
+  "updated": {
+   "type": "string",
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+  },
+  "tags": {
+   "type": "array",
+   "description": "Free tags from data/vocab/tags.json, for grouping pages a reader might arrive at sideways. A tag here makes no claim about evidence; the provenance block does that.",
+   "items": {
+    "type": "string"
+   }
+  },
+  "sections": {
+   "type": "array",
+   "description": "Long-form pieces (type story, art): headed sections rendered in order after text.what",
+   "items": {
+    "type": "object",
+    "required": [
+     "h",
+     "text"
+    ],
+    "additionalProperties": false,
+    "properties": {
+     "h": {
+      "type": "string"
+     },
+     "text": {
+      "type": "string"
+     },
+     "images": {
+      "type": "array",
+      "items": {
+       "type": "integer"
+      },
+      "description": "indices into images[] to show beside this section"
+     }
+    }
+   }
+  },
+  "text_th": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "The Thai text. Same keys as `text`. A key present here is published on the /th/ page; a key absent leaves that section showing the English with a note saying it has not been written in Thai yet. Never machine-translated without saying so in provenance.",
+   "properties": {
+    "what": {
+     "type": "string"
+    },
+    "story": {
+     "type": "string"
+    },
+    "how": {
+     "type": "string"
+    },
+    "today": {
+     "type": "string"
+    },
+    "notes": {
+     "type": "string"
+    }
+   }
+  },
+  "offer": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "A paid thing attached to this record. Empty on every record until the site's owner sets one. `kind` says what was paid for; the page prints that word to the reader.",
+   "properties": {
+    "kind": {
+     "type": "string",
+     "enum": [
+      "sponsor",
+      "listing",
+      "affiliate",
+      "own-product"
+     ]
+    },
+    "who": {
+     "type": "string"
+    },
+    "url": {
+     "type": "string"
+    },
+    "price_thb": {
+     "type": "number"
+    },
+    "note": {
+     "type": "string"
+    },
+    "since": {
+     "type": "string"
+    }
+   }
+  },
+  "x_commons_files": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "Candidate Wikimedia Commons File: titles, to be fetched with their licences by tools/harvest_commons.py. Not published as-is."
+  },
+  "move": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "For a technique: the name as the lists give it, what the name literally says, and what it points at. `refers` is this project's classification and is inference, not a citation.",
+   "properties": {
+    "th": {
+     "type": "string"
+    },
+    "rtgs": {
+     "type": "string"
+    },
+    "gloss": {
+     "type": "string",
+     "description": "what the Thai name literally says"
+    },
+    "refers": {
+     "type": "string",
+     "enum": [
+      "myth",
+      "beast",
+      "people",
+      "thing",
+      "plain"
+     ]
+    },
+    "figure": {
+     "type": "string",
+     "description": "the being or object the name names"
+    },
+    "set": {
+     "type": "string",
+     "description": "a value from facets.set"
+    },
+    "n": {
+     "type": "integer"
+    },
+    "does": {
+     "type": "string",
+     "description": "what the movement actually is"
+    },
+    "does_th": {
+     "type": "string"
+    },
+    "scores": {
+     "type": "string",
+     "description": "what it is worth to a Thai judge"
+    }
+   }
+  },
+  "bout": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "For a single fight: when, where, who, and what changed after it.",
+   "properties": {
+    "date": {
+     "type": "string"
+    },
+    "date_note": {
+     "type": "string"
+    },
+    "venue": {
+     "type": "string"
+    },
+    "city": {
+     "type": "string"
+    },
+    "red": {
+     "type": "string"
+    },
+    "blue": {
+     "type": "string"
+    },
+    "result": {
+     "type": "string"
+    },
+    "result_th": {
+     "type": "string"
+    },
+    "rules": {
+     "type": "string"
+    },
+    "why": {
+     "type": "string",
+     "description": "what it settled"
+    },
+    "why_th": {
+     "type": "string"
+    },
+    "disputed": {
+     "type": "string",
+     "description": "what about it is not settled"
+    }
+   }
+  },
+  "venue": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "For a stadium: the nights, the seats and the money. Anything that changes without notice is marked `check`.",
+   "properties": {
+    "opened": {
+     "type": "string"
+    },
+    "city": {
+     "type": "string"
+    },
+    "nights": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    },
+    "nights_note": {
+     "type": "string"
+    },
+    "capacity": {
+     "type": "integer"
+    },
+    "ticket_thb": {
+     "type": "string"
+    },
+    "ticket_note": {
+     "type": "string"
+    },
+    "check": {
+     "type": "boolean",
+     "description": "true where the figures move faster than this site does"
+    },
+    "moved": {
+     "type": "string"
+    }
+   }
+  },
+  "session": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "For a drill: where it sits in a session and how long it runs.",
+   "properties": {
+    "part": {
+     "type": "string"
+    },
+    "minutes": {
+     "type": "string"
+    },
+    "rounds": {
+     "type": "string"
+    },
+    "when": {
+     "type": "string"
+    },
+    "hurts": {
+     "type": "string",
+     "description": "what a first-timer feels the next day"
+    }
+   }
+  }
+ },
+ "$defs": {
+  "tier": {
+   "type": "string",
+   "enum": [
+    "cited",
+    "harvested",
+    "tradition",
+    "inference",
+    "field"
+   ]
+  },
+  "prov": {
+   "type": "object",
+   "required": [
+    "tier"
+   ],
+   "additionalProperties": false,
+   "properties": {
+    "tier": {
+     "$ref": "#/$defs/tier"
+    },
+    "source": {
+     "type": "string"
+    },
+    "note": {
+     "type": "string"
+    },
+    "fetched_at": {
+     "type": "string"
+    }
+   }
+  }
+ }
+}

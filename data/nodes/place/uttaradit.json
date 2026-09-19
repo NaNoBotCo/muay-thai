@@ -1,0 +1,62 @@
+{
+ "id": "uttaradit",
+ "type": "place",
+ "names": {
+  "name": "Uttaradit",
+  "th": "อุตรดิตถ์",
+  "rtgs": "uttaradit",
+  "said": "Tha Sao, and a general with half a sword.",
+  "said_th": "ท่าเสา และแม่ทัพที่มีดาบครึ่งเล่ม"
+ },
+ "region": [
+  "north",
+  "uttaradit"
+ ],
+ "facets": {
+  "region": "the north"
+ },
+ "text": {
+  "what": "A northern province on the Nan river, home of Muay Thasao and of Phraya Phichai.",
+  "story": "The line from here is the one the rhyme uses as its yardstick — *faster than Thasao* — and the one whose twenty-four techniques are recorded as a count with no names."
+ },
+ "text_th": {
+  "what": "จังหวัดทางเหนือริมแม่น้ำน่าน บ้านของมวยท่าเสาและพระยาพิชัยดาบหัก",
+  "story": "สายจากที่นี่คือสายที่คำกล่าวใช้เป็นไม้บรรทัด — *ไวกว่าท่าเสา* — และเป็นสายที่ท่ายี่สิบสี่ท่าถูกบันทึกไว้เป็นจำนวน โดยไม่มีชื่อ"
+ },
+ "kin": [
+  {
+   "to": "thasao",
+   "as": "The style.",
+   "rel": "style"
+  },
+  {
+   "to": "phraya-phichai",
+   "as": "The general.",
+   "rel": "person"
+  }
+ ],
+ "geo": {
+  "lat": 17.62,
+  "lon": 100.0993,
+  "precision": "town"
+ },
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "schema": 1,
+ "updated": "2026-09-19"
+}

@@ -1,0 +1,145 @@
+{
+ "id": "shin",
+ "type": "weapon",
+ "names": {
+  "name": "The shin",
+  "th": "แข้ง",
+  "rtgs": "khaeng",
+  "said": "Not the foot. The foot is full of small bones.",
+  "said_th": "ไม่ใช่เท้า เท้าเต็มไปด้วยกระดูกชิ้นเล็ก"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "range": "long"
+ },
+ "text": {
+  "what": "The front edge of the lower leg, swung on the end of a turning body. The round kick is the sport's signature, and the shin is the part that lands.",
+  "story": "The kick draws almost all of its power from the hips rotating, with the shoulders and arms counter-rotating to add torque. The leg is not a whip; the whole body is.\n\nFighters are trained to connect with the shin and not the instep, because the foot is a bag of small bones and the shin is one thick one. It is toughened by hitting dense objects — pads and heavy bags — and the bone answers by thickening, which the medical name for calls cortical remodelling.\n\n*Inference —* the banana-tree and glass-bottle stories are about the same mechanism told as folklore. The bone does adapt. It adapts to bags.\n\nA kick that is checked — blocked with the outside of the other man's raised shin — is the one exchange in this sport where the defender wins the trade outright."
+ },
+ "text_th": {
+  "what": "สันหน้าแข้ง เหวี่ยงไปตามลำตัวที่หมุน เตะวงคืออาวุธประจำตัวของกีฬานี้ และแข้งคือส่วนที่ลง",
+  "story": "แรงของเตะเกือบทั้งหมดมาจากการหมุนสะโพก โดยไหล่และแขนหมุนสวนเพื่อเพิ่มแรงบิด ขาไม่ใช่แส้ ทั้งตัวต่างหากที่เป็น\n\nนักมวยถูกฝึกให้ลงด้วยแข้ง ไม่ใช่หลังเท้า เพราะเท้าคือถุงกระดูกชิ้นเล็ก ส่วนแข้งคือกระดูกหนาชิ้นเดียว ทำให้แกร่งด้วยการกระแทกของแข็ง — เป้าและกระสอบ — แล้วกระดูกตอบด้วยการหนาขึ้น ชื่อทางการแพทย์เรียกว่าการปรับรูปของชั้นคอร์เทกซ์\n\n*อนุมาน —* เรื่องต้นกล้วยกับขวดแก้วคือกลไกเดียวกันที่เล่าเป็นตำนาน กระดูกปรับตัวจริง มันปรับตัวกับกระสอบ\n\nเตะที่ถูกเช็ก — บล็อกด้วยสันแข้งที่อีกฝ่ายยกขึ้นรับ — คือการแลกครั้งเดียวในกีฬานี้ที่ฝ่ายรับชนะขาด"
+ },
+ "kin": [
+  {
+   "to": "eight-limbs",
+   "as": "The count it belongs to.",
+   "rel": "weapon"
+  },
+  {
+   "to": "te-chiang",
+   "as": "The kick itself.",
+   "rel": "move"
+  },
+  {
+   "to": "teep",
+   "as": "The other thing the leg does.",
+   "rel": "move"
+  },
+  {
+   "to": "bag-work",
+   "as": "Where the bone is made.",
+   "rel": "drill"
+  }
+ ],
+ "sources": [
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-muay-thai"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "shin/shin-muay-thai-low-kick.jpg",
+   "source": "commons",
+   "title": "File:Muay thai low kick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Muay_thai_low_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_low_kick.jpg",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "author": "superwebdeveloper",
+   "credit": "https://www.flickr.com/photos/superwebdeveloper/5106991788/sizes/o/in/photostream/",
+   "alt": "Fighter throwing a lowkick during an amateur muay thai competition.",
+   "date": "2010-10-22",
+   "primary": true,
+   "sha256": "5a8e046a376314a071708fea93e639a2e5949cb22e2f4d2b7c30a4d98e5957a0"
+  },
+  {
+   "file": "shin/shin-thairoundkick.jpg",
+   "source": "commons",
+   "title": "File:Thairoundkick.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Thairoundkick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThairoundkick.jpg",
+   "license": "CC0 1.0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Claudio Scott",
+   "credit": "https://pixabay.com/photos/football-kick-boxing-combat-gloves-2239040/",
+   "alt": "A fighter leans back to evade a round kick",
+   "date": "2011-04-29 16:59:18",
+   "primary": false,
+   "sha256": "789e9b522bd4104d732357484517c3aff160f03874d8069722dc9a5fef352a39"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "eight-limbs",
+   "type": "weapon",
+   "name": "The eight limbs",
+   "as": "One pair of the eight."
+  },
+  {
+   "from": "check",
+   "type": "move",
+   "name": "Checking the kick",
+   "as": "Bone against bone."
+  },
+  {
+   "from": "chorakhe-fat-hang",
+   "type": "move",
+   "name": "The crocodile lashes its tail",
+   "as": "Except this one lands with the heel."
+  },
+  {
+   "from": "te-chiang",
+   "type": "move",
+   "name": "The round kick",
+   "as": "The part that lands."
+  },
+  {
+   "from": "teep",
+   "type": "move",
+   "name": "The teep",
+   "as": "The limb it comes off."
+  },
+  {
+   "from": "apidej",
+   "type": "person",
+   "name": "Apidej Sit Hirun",
+   "as": "His weapon."
+  },
+  {
+   "from": "bag-work",
+   "type": "drill",
+   "name": "The bag",
+   "as": "What is being built."
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "id": "four-lines",
+ "type": "style",
+ "names": {
+  "name": "The four lines, and the rhyme that ranks them",
+  "th": "สี่สายมวย",
+  "rtgs": "si sai muay",
+  "said": "Heavy fists Korat · clever Lopburi · good form Chaiya · faster than Thasao",
+  "said_th": "หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "rope"
+ },
+ "text": {
+  "what": "Four regional schools, each with its own reputation, fixed in a four-part saying that Thai sources still quote first and explain second.",
+  "story": "*หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา* — heavy fists from Korat, cleverness from Lopburi, good form from Chaiya, faster than Thasao. Eleven syllables that do the work of a curriculum.\n\nThe lines were not tidy regional traditions that someone later noticed. They were **named at a funeral**. In 1910 Rama V called fighters in from the provinces to fight at the cremation of his son Prince Urubongse, and granted the rank of *muen* to the three best — from Lopburi, Khorat and Chaiya. The English article says it plainly: those three \"would later become codified as regional styles of Muay Boran\".\n\nSo the four schools are a prize list before they are a taxonomy, and the adjectives in the rhyme are what three individual men did on one afternoon in Bangkok.\n\nThai Wikipedia now counts seven lines rather than four: the four, plus Muay Phra Nakhon of Ayutthaya, plus the Department of Physical Education's syllabus, plus the army's *Muay Thai Loet Rit*. Two of the seven are government programmes, which is a fair picture of where the transmission actually sits."
+ },
+ "text_th": {
+  "what": "สายมวยท้องถิ่นสี่สาย แต่ละสายมีชื่อเสียงของตัวเอง ตรึงไว้ในคำกล่าวสี่วรรคที่แหล่งไทยยังยกขึ้นก่อนแล้วค่อยอธิบายทีหลัง",
+  "story": "*หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา* — สิบเอ็ดพยางค์ที่ทำงานแทนหลักสูตรทั้งหลักสูตร\n\nสายทั้งสี่ไม่ใช่ธรรมเนียมท้องถิ่นเรียบร้อยที่ใครมาสังเกตเห็นทีหลัง แต่ถูก**ตั้งชื่อขึ้นในงานศพ** พ.ศ. 2453 รัชกาลที่ 5 ทรงเรียกนักมวยจากหัวเมืองเข้ามาชกในงานพระเมรุ พระองค์เจ้าอุรุพงษ์รัชสมโภช พระราชโอรส แล้วพระราชทานบรรดาศักดิ์หมื่นแก่สามคนที่เก่งที่สุด จากลพบุรี โคราช และไชยา บทความภาษาอังกฤษพูดไว้ตรง ๆ ว่าทั้งสามนั้น \"ต่อมาถูกจัดรวบรวมเป็นสายมวยโบราณประจำถิ่น\"\n\nสายทั้งสี่จึงเป็นรายชื่อผู้ชนะก่อนจะเป็นการจัดหมวดหมู่ และคำคุณศัพท์ในคำกล่าวนั้นคือสิ่งที่ชายสามคนทำในบ่ายวันหนึ่งที่พระนคร\n\nปัจจุบันวิกิพีเดียไทยนับเป็นเจ็ดสาย ไม่ใช่สี่ คือสี่สายเดิม บวกมวยพระนครของอยุธยา บวกหลักสูตรกรมพลศึกษา และบวกมวยไทยเลิศฤทธิ์ของทหาร สองในเจ็ดเป็นโครงการของรัฐ ซึ่งเป็นภาพที่ตรงพอสมควรว่าการสืบทอดอยู่ตรงไหนจริง ๆ"
+ },
+ "kin": [
+  {
+   "to": "korat",
+   "as": "Heavy fists.",
+   "rel": "style"
+  },
+  {
+   "to": "lopburi",
+   "as": "Clever.",
+   "rel": "style"
+  },
+  {
+   "to": "chaiya",
+   "as": "Good form.",
+   "rel": "style"
+  },
+  {
+   "to": "thasao",
+   "as": "Fast.",
+   "rel": "style"
+  },
+  {
+   "to": "muay-boran",
+   "as": "What the four are collectively called now.",
+   "rel": "style"
+  },
+  {
+   "to": "invented-tradition",
+   "as": "Who assembled the list, and when.",
+   "rel": "issue"
+  }
+ ],
+ "sources": [
+  "s:thwp-มวยไทย",
+  "s:wp-muay-thai",
+  "s:maemai-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-มวยไทย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "four-lines/four-lines-krabi-krabong-thai.jpg",
+   "source": "commons",
+   "title": "File:Krabi Krabong Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Krabi_Krabong_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AKrabi_Krabong_Thai.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Arjarn Sira",
+   "credit": "Buddhai Swan, Thailand",
+   "alt": "Krabi Krabong Thai Sword fighting, Buddhai Swan, Thailand.",
+   "date": "2017-02-18 13:52:22",
+   "primary": true,
+   "sha256": "55762a105b750a8115798e99e2c5ce21b787cbe33b74ed8f5197dce3b7363e43"
+  }
+ ]
+}

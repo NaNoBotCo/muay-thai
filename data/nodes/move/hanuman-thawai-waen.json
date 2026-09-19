@@ -1,0 +1,105 @@
+{
+ "id": "hanuman-thawai-waen",
+ "type": "move",
+ "names": {
+  "name": "Hanuman presents the ring",
+  "th": "หนุมานถวายแหวน",
+  "rtgs": "hanuman thawai waen",
+  "said": "Hanuman presents the ring"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "luk-mai"
+ },
+ "text": {
+  "what": "The only technique named by three of the four regional schools as well as by the standard list. If anything in the curriculum is bedrock, it is this one.",
+  "story": "In the Ramakien, Hanuman crosses the ocean to Lanka and finds Sida in the garden, and hands her Rama's ring so she will believe he was sent. He kneels and holds it up with both hands. That gesture — both hands rising together, palms up, to the height of another person's face — is the technique.\n\nKorat's older list names four more Hanuman techniques: he parts the waves, he carries the lord, he pulls up the stump."
+ },
+ "text_th": {
+  "what": "ท่าเดียวที่สามในสี่สายท้องถิ่นเรียกชื่อไว้ นอกเหนือจากรายการมาตรฐาน ถ้ามีอะไรในหลักสูตรที่เป็นชั้นหิน ก็คือท่านี้",
+  "story": "ในรามเกียรติ์ หนุมานข้ามมหาสมุทรไปลงกา พบนางสีดาในสวน แล้วถวายแหวนของพระรามเพื่อให้นางเชื่อว่าตนถูกส่งมา เขาคุกเข่าและยกขึ้นด้วยสองมือ ท่าทางนั้น — สองมือยกขึ้นพร้อมกัน หงายฝ่ามือ สูงระดับหน้าของอีกคน — คือตัวท่า\n\nรายการเก่าของโคราชเรียกชื่อท่าหนุมานไว้อีกสี่ท่า หนุมานแหวกฟอง หนุมานแบกพระ หนุมานถอนตอ"
+ },
+ "kin": [
+  {
+   "to": "luk-mai",
+   "as": "Ninth on the second fifteen.",
+   "rel": "move"
+  },
+  {
+   "to": "korat",
+   "as": "Which also names it.",
+   "rel": "style"
+  },
+  {
+   "to": "lopburi",
+   "as": "Which also names it.",
+   "rel": "style"
+  },
+  {
+   "to": "ramakien-in-the-ring",
+   "as": "The scene it comes from.",
+   "rel": "art"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:saranukrom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "move.gloss": {
+    "tier": "inference",
+    "note": "this project's translation"
+   },
+   "move.refers": {
+    "tier": "inference",
+    "note": "this project's classification of what the name points at"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ramakien",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "move": {
+  "th": "หนุมานถวายแหวน",
+  "rtgs": "hanuman thawai waen",
+  "gloss": "Hanuman presents the ring",
+  "refers": "myth",
+  "figure": "Hanuman",
+  "set": "luk-mai",
+  "n": 9,
+  "does": "Both fists driven up into the chin from below, together.",
+  "does_th": "สองหมัดเสยขึ้นใต้คางพร้อมกัน"
+ },
+ "images": [
+  {
+   "file": "hanuman-thawai-waen/hanuman-thawai-waen-19th-century-ramayana-manuscript-ramakien-thailand-v-3ced689.jpg",
+   "source": "commons",
+   "title": "File:19th-century Ramayana manuscript, Ramakien, Thailand version, Khom script, Hanuman with sword reaches Ravana's palace.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3A19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Ms Sarah Welch",
+   "credit": "Own work",
+   "alt": "The Ramayana is a Sanskrit language Hindu epic attributed to Valmiki, whose first redaction is dated between 5th-century to 4th-century BCE (see J. L. Brockington        Academic The Sanskrit Epics, p",
+   "date": "2018-10-30 12:03:36",
+   "primary": true,
+   "sha256": "9f44351cfe408c48612781c265e4ba33347daa8799b725cb43922dede93f4902"
+  }
+ ]
+}

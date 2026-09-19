@@ -1,0 +1,88 @@
+{
+ "id": "dieselnoi",
+ "type": "person",
+ "names": {
+  "name": "Dieselnoi Chor Thanasukarn",
+  "th": "ดีเซลน้อย ช.ธนะสุกาญจน์",
+  "rtgs": "diesel noi cho thanasukan",
+  "said": "The telegraph-pole knee. Retired at twenty-four because nobody would fight him.",
+  "said_th": "ขุนเข่าเสาโทรเลข แขวนนวมตอนอายุยี่สิบสี่เพราะไม่มีใครยอมชกด้วย"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "golden"
+ },
+ "text": {
+  "what": "Born Charin Sondee, 27 December 1961, Nakhon Luang district, Ayutthaya. Lumpinee lightweight champion, and the tallest knee fighter anyone had seen.",
+  "story": "Started at twelve. Followed his brother to Si Racha, joined the So Worakunchai camp there, and took the ring name he kept. Toured the eastern provinces, arrived at Rajadamnern in 1976, and between 1977 and 1985 beat most of the best fighters in Thailand — Samart Payakaroon among them.\n\nThe press called him *khun khao sao thoralek*, the telegraph-pole knee, and *khun khao thalai fa*, the sky-breaking knee. He was long in the arm and longer in the leg, and the whole fight was about getting a hand behind a head that was a foot below his.\n\n*Tradition holds —* he retired as champion because promoters could not find anyone willing to take the fight. That is the story the sport tells about him and it is told about very few others."
+ },
+ "text_th": {
+  "what": "ชื่อจริง ชรินทร์ สอนดี เกิด 27 ธันวาคม พ.ศ. 2504 อำเภอนครหลวง จังหวัดพระนครศรีอยุธยา แชมป์ไลท์เวทเวทีลุมพินี และเป็นนักมวยเข่าที่สูงที่สุดเท่าที่เคยมีใครเห็น",
+  "story": "เริ่มชกตอนสิบสอง ตามพี่ชายไปศรีราชา เข้าค่าย ส.วรกุลชัย ที่นั่น และได้ชื่อในวงการที่ใช้ตลอดมา ตระเวนชกภาคตะวันออก มาถึงราชดำเนินใน พ.ศ. 2519 และระหว่าง พ.ศ. 2520 ถึง 2528 ชนะนักมวยชั้นนำของไทยเกือบทั้งหมด รวมถึงสามารถ พยัคฆ์อรุณ\n\nสื่อเรียกเขาว่า *ขุนเข่าเสาโทรเลข* และ *ขุนเข่าทะลายฟ้า* เขาแขนยาวและขายาวกว่า ทั้งไฟต์คือการพยายามเอามือไปไว้หลังหัวที่อยู่ต่ำกว่าเขาหนึ่งฟุต\n\n*ตามธรรมเนียม —* เขาแขวนนวมทั้งที่ยังเป็นแชมป์ เพราะโปรโมเตอร์หาคนที่ยอมขึ้นชกด้วยไม่ได้ นั่นคือเรื่องที่วงการเล่าถึงเขา และเล่าถึงคนอื่นน้อยมาก"
+ },
+ "kin": [
+  {
+   "to": "muay-khao",
+   "as": "The style he defines.",
+   "rel": "style"
+  },
+  {
+   "to": "knee",
+   "as": "His weapon.",
+   "rel": "weapon"
+  },
+  {
+   "to": "samart-payakaroon",
+   "as": "Whom he beat.",
+   "rel": "person"
+  },
+  {
+   "to": "lumpinee",
+   "as": "His belt.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:thwp-ด-เซลน-อย-ช-ธนะส-กาญจน-"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-ด-เซลน-อย-ช-ธนะส-กาญจน-"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "kin_in": [
+  {
+   "from": "knee",
+   "type": "weapon",
+   "name": "The knee",
+   "as": "The fighter nobody could stop kneeing them."
+  },
+  {
+   "from": "muay-khao",
+   "type": "style",
+   "name": "Muay khao",
+   "as": "Who it is named after, in effect."
+  },
+  {
+   "from": "samart-payakaroon",
+   "type": "person",
+   "name": "Samart Payakaroon",
+   "as": "Who beat him."
+  }
+ ]
+}

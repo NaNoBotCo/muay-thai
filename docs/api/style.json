@@ -1,0 +1,1349 @@
+{
+ "type": "style",
+ "count": 12,
+ "nodes": [
+  {
+   "id": "chaiya",
+   "type": "style",
+   "names": {
+    "name": "Muay Chaiya",
+    "th": "มวยไชยา",
+    "rtgs": "muay chaiya",
+    "said": "Good form. A tight guard, and footwork taught before anything else.",
+    "said_th": "ท่าดี การ์ดแน่น และสอนการก้าวก่อนอย่างอื่นทั้งหมด"
+   },
+   "region": [
+    "south",
+    "chaiya"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "The southern line, from Chaiya district in what is now Surat Thani. Known for defence: elbows in, shoulders up, and a triangle of footwork underneath.",
+    "story": "The Thai account starts with a man nobody has a full name for. *Pho Than Ma* — Father Ma — was a boxing teacher from Bangkok who left the capital for reasons the sources do not give, ended up abbot of a forest temple outside Chaiya, and taught the town to fight.\n\nIt was then adopted upward. Phraya Wachi Sattayarak, governor of Chaiya, became a patron and a teacher himself; his son Khet Sriyaphai wrote the book that carried the style into print.\n\nThe fights happened at **Sala Kao Hong**, the nine-room pavilion at Phumriang, at the Chak Phra festival in the eleventh lunar month: a dirt floor, four posts, hemp rope for the ropes, no weigh-in — two men who looked about the same size were a match. Raw cotton thread on the hands instead of gloves, a prajiat tied around the head for the whole fight.\n\nThe format was *yok wian*, the rotating round. Every pair fought round one, then every pair fought round two, and so on to five. Any pair that could not finish five dropped out.\n\n*Inference —* that format explains the style. A man fighting five rounds interleaved with everybody else's five rounds cannot afford to be hit, and defence stops being a preference."
+   },
+   "text_th": {
+    "what": "สายใต้ จากอำเภอไชยา ปัจจุบันอยู่ในจังหวัดสุราษฎร์ธานี ขึ้นชื่อเรื่องการป้องกัน ศอกชิด ไหล่ยก และมีสามเหลี่ยมของการก้าวอยู่ข้างใต้",
+    "story": "เรื่องเล่าฝั่งไทยเริ่มจากชายที่ไม่มีใครรู้ชื่อจริง *พ่อท่านมา* เป็นครูมวยจากพระนครที่ออกจากเมืองหลวงด้วยเหตุที่แหล่งข้อมูลไม่ได้บอกไว้ ไปเป็นสมภารวัดป่านอกเมืองไชยา แล้วสอนคนทั้งเมืองให้ชกมวย\n\nจากนั้นจึงถูกรับขึ้นไปข้างบน พระยาวจีสัตยารักษ์ เจ้าเมืองไชยา เป็นผู้อุปถัมภ์และเป็นครูมวยเอง ส่วนบุตรชายของท่าน เขตร ศรียาภัย เขียนหนังสือที่พาสายมวยนี้เข้าสู่ตัวพิมพ์\n\nการชกเกิดที่ **ศาลาเก้าห้อง** ตำบลพุมเรียง ในงานชักพระเดือนสิบเอ็ด ลานดิน เสาสี่ต้น ขึงเชือกป่านเป็นเวที ไม่มีการชั่งน้ำหนัก สองคนที่ดูตัวพอกันก็จับคู่ได้ ใช้ด้ายดิบพันมือแทนนวม คาดประเจียดที่ศีรษะตลอดการชก\n\nรูปแบบคือ *ยกเวียน* ทุกคู่ชกยกหนึ่งให้ครบ แล้วจึงขึ้นยกสองทุกคู่ ไปจนครบห้ายก คู่ไหนชกไม่ครบห้ายกก็ออกไป\n\n*อนุมาน —* รูปแบบนี้อธิบายลักษณะของสายมวย คนที่ต้องชกห้ายกสลับกับห้ายกของคนอื่นทั้งหมด ย่อมไม่มีต้นทุนพอจะโดนชก การป้องกันจึงเลิกเป็นเรื่องของรสนิยม"
+   },
+   "kin": [
+    {
+     "to": "four-lines",
+     "as": "One of the four.",
+     "rel": "style"
+    },
+    {
+     "to": "yang-sam-khum",
+     "as": "What it teaches first.",
+     "rel": "move"
+    },
+    {
+     "to": "khet-sriyaphai",
+     "as": "Who wrote it down.",
+     "rel": "person"
+    },
+    {
+     "to": "prajiat",
+     "as": "Worn through the fight, not just into the ring.",
+     "rel": "ritual"
+    },
+    {
+     "to": "kaad-chuek",
+     "as": "Thread, in this case, rather than rope.",
+     "rel": "kit"
+    }
+   ],
+   "sources": [
+    "s:thwp-มวยไชยา",
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไชยา"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "chaiya/chaiya-.jpg",
+     "source": "commons",
+     "title": "File:เขตร์ ศรียาภัย.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3A%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%A3%E0%B9%8C_%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Unknown photographer",
+     "credit": "อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959 - retrieved from http://assumptionmuseum.com/th-th/book-viewer/?file=/Media/FileUploads/FaFileUpload/3005d33a-d54c-4d1d-8581-f45018e12255.pdf",
+     "alt": "เขตร ศรียาภัย (หนังสือตีพิมพ์เป็น เขตร์ ศรียาภัย) ภาพถ่ายบุคคลที่ตีพิมพ์ใน อนุสรณ์งานสมโภชรับขวัญ เจษฎาจารย์ ฟ.ฮีแลร์ 14 มีนาคม 1959",
+     "date": "1959-03-14",
+     "primary": true,
+     "sha256": "b79c2f9cb70d2124932b4b58b927f289c777d456296fce456848bbd3f25e90ec"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "yang-sam-khum",
+     "type": "move",
+     "name": "The three-pit step",
+     "as": "The school that teaches it."
+    },
+    {
+     "from": "four-lines",
+     "type": "style",
+     "name": "The four lines, and the rhyme that ranks them",
+     "as": "Good form."
+    },
+    {
+     "from": "prajiat",
+     "type": "ritual",
+     "name": "The armbands",
+     "as": "Where it went round the head."
+    },
+    {
+     "from": "khet-sriyaphai",
+     "type": "person",
+     "name": "Khet Sriyaphai",
+     "as": "The school he carried."
+    },
+    {
+     "from": "camp-vs-school",
+     "type": "gym",
+     "name": "A camp is not a school",
+     "as": "A line with a school."
+    },
+    {
+     "from": "kaad-chuek",
+     "type": "kit",
+     "name": "The rope",
+     "as": "Where it was thread rather than rope."
+    },
+    {
+     "from": "chaiya-place",
+     "type": "place",
+     "name": "Chaiya",
+     "as": "The style."
+    },
+    {
+     "from": "yok",
+     "type": "term",
+     "name": "yok",
+     "as": "Where yok wian was fought."
+    }
+   ]
+  },
+  {
+   "id": "fon-jerng",
+   "type": "style",
+   "names": {
+    "name": "Fon jerng",
+    "th": "ฟ้อนเจิง",
+    "rtgs": "fon choeng",
+    "said": "Thai Wikipedia's history of the sport starts it here, in Lanna, as a dance.",
+    "said_th": "บทความประวัติศาสตร์มวยไทยของวิกิพีเดียไทยเริ่มเรื่องที่นี่ ในล้านนา ในฐานะการฟ้อน",
+    "aliases": [
+     "jerng",
+     "เจิง"
+    ]
+   },
+   "region": [
+    "north",
+    "lanna"
+   ],
+   "facets": {
+    "era": "ayutthaya"
+   },
+   "text": {
+    "what": "The Lanna martial dance. *Jerng* means tactics or finesse; *fon* is to dance. It is performed with weapons and with empty hands, and the Thai-language history of muay thai names it as the origin of the craft.",
+    "story": "The sentence is unambiguous in Thai: *วิชามวยไทยจึงมีจุดเริ่มต้นมาจากวิชาเจิง* — the craft of muay thai therefore begins from the craft of jerng.\n\nIt comes in forms named for what is in the hand. **ฟ้อนเจิงหอก** with a spear, **ฟ้อนเจิงดาบ** with a sword, **ฟ้อนเจิงลา** with nothing at all. The empty-hand form is the one that matters here: a set of movements held as a dance, performed at festivals, which is also a fighting syllabus.\n\n*Inference —* that is a different relationship between dance and fighting from the one the ram muay has. A ram muay is a ceremony attached to a fight. Fon jerng is the fighting, kept as a dance — which is how a syllabus survives in a place with no standing school and no printed manual.\n\nThe English article carries the same claim in a weaker form, dating the training of muay thai from the movements of *fon jerng* and noting that it survives as a recreational dance in the north today."
+   },
+   "text_th": {
+    "what": "การฟ้อนเชิงต่อสู้ของล้านนา *เจิง* หมายถึงชั้นเชิงหรือกลวิธี *ฟ้อน* คือการรำ ฟ้อนได้ทั้งมีอาวุธและมือเปล่า และประวัติศาสตร์มวยไทยฉบับภาษาไทยระบุว่าเป็นต้นทางของวิชานี้",
+    "story": "ประโยคในภาษาไทยไม่กำกวม *วิชามวยไทยจึงมีจุดเริ่มต้นมาจากวิชาเจิง*\n\nมันมีหลายแบบ ตั้งชื่อตามสิ่งที่อยู่ในมือ **ฟ้อนเจิงหอก** ใช้หอก **ฟ้อนเจิงดาบ** ใช้ดาบ **ฟ้อนเจิงลา** ไม่ใช้อะไรเลย แบบมือเปล่าคือแบบที่สำคัญตรงนี้ ชุดการเคลื่อนไหวที่เก็บไว้ในรูปการฟ้อน แสดงในงานเทศกาล และเป็นหลักสูตรการต่อสู้ไปพร้อมกัน\n\n*อนุมาน —* นั่นคือความสัมพันธ์ระหว่างการรำกับการต่อสู้ที่ต่างจากของรำมวย รำมวยคือพิธีที่ติดอยู่กับการชก ส่วนฟ้อนเจิงคือการต่อสู้ที่เก็บไว้ในรูปการฟ้อน ซึ่งเป็นวิธีที่หลักสูตรหนึ่งอยู่รอดในที่ที่ไม่มีสำนักถาวรและไม่มีตำราตีพิมพ์\n\nบทความภาษาอังกฤษถือข้อความเดียวกันไว้ในรูปที่อ่อนกว่า โดยนับการฝึกมวยไทยจากท่าของ *ฟ้อนเจิง* และระบุว่ามันยังอยู่ในฐานะการฟ้อนเพื่อความบันเทิงในภาคเหนือจนทุกวันนี้"
+   },
+   "kin": [
+    {
+     "to": "lanna",
+     "as": "Where it is from.",
+     "rel": "place"
+    },
+    {
+     "to": "klong-sabatchai",
+     "as": "What is played over it.",
+     "rel": "music"
+    },
+    {
+     "to": "top-maphap",
+     "as": "The part with no weapon and no opponent.",
+     "rel": "move"
+    },
+    {
+     "to": "manop-yarana",
+     "as": "Who taught it, for fifty years.",
+     "rel": "person"
+    },
+    {
+     "to": "mai-sastra",
+     "as": "The older claim underneath it.",
+     "rel": "story"
+    },
+    {
+     "to": "wai-kru-ram-muay",
+     "as": "The other dance, and a different relationship.",
+     "rel": "ritual"
+    }
+   ],
+   "sources": [
+    "s:thwp-ประวัติศาสตร์มวยไทย",
+    "s:wp-muay-thai",
+    "s:thwp-นาฏศิลป์ล้านนา"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-ประวัติศาสตร์มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "lanna",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "fon-jerng/fon-jerng-krabi-krabong-thai.jpg",
+     "source": "commons",
+     "title": "File:Krabi Krabong Thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Krabi_Krabong_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKrabi_Krabong_Thai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Arjarn Sira",
+     "credit": "Buddhai Swan, Thailand",
+     "alt": "Krabi Krabong Thai Sword fighting, Buddhai Swan, Thailand.",
+     "date": "2017-02-18 13:52:22",
+     "primary": true,
+     "sha256": "55762a105b750a8115798e99e2c5ce21b787cbe33b74ed8f5197dce3b7363e43"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "top-maphap",
+     "type": "move",
+     "name": "Top maphap",
+     "as": "The dance it belongs to."
+    },
+    {
+     "from": "klong-sabatchai",
+     "type": "music",
+     "name": "The victory drum",
+     "as": "What it is played over."
+    },
+    {
+     "from": "manop-yarana",
+     "type": "person",
+     "name": "Manop Yarana",
+     "as": "What he taught."
+    },
+    {
+     "from": "lanna",
+     "type": "place",
+     "name": "Lanna",
+     "as": "The dance."
+    }
+   ]
+  },
+  {
+   "id": "four-lines",
+   "type": "style",
+   "names": {
+    "name": "The four lines, and the rhyme that ranks them",
+    "th": "สี่สายมวย",
+    "rtgs": "si sai muay",
+    "said": "Heavy fists Korat · clever Lopburi · good form Chaiya · faster than Thasao",
+    "said_th": "หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "Four regional schools, each with its own reputation, fixed in a four-part saying that Thai sources still quote first and explain second.",
+    "story": "*หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา* — heavy fists from Korat, cleverness from Lopburi, good form from Chaiya, faster than Thasao. Eleven syllables that do the work of a curriculum.\n\nThe lines were not tidy regional traditions that someone later noticed. They were **named at a funeral**. In 1910 Rama V called fighters in from the provinces to fight at the cremation of his son Prince Urubongse, and granted the rank of *muen* to the three best — from Lopburi, Khorat and Chaiya. The English article says it plainly: those three \"would later become codified as regional styles of Muay Boran\".\n\nSo the four schools are a prize list before they are a taxonomy, and the adjectives in the rhyme are what three individual men did on one afternoon in Bangkok.\n\nThai Wikipedia now counts seven lines rather than four: the four, plus Muay Phra Nakhon of Ayutthaya, plus the Department of Physical Education's syllabus, plus the army's *Muay Thai Loet Rit*. Two of the seven are government programmes, which is a fair picture of where the transmission actually sits."
+   },
+   "text_th": {
+    "what": "สายมวยท้องถิ่นสี่สาย แต่ละสายมีชื่อเสียงของตัวเอง ตรึงไว้ในคำกล่าวสี่วรรคที่แหล่งไทยยังยกขึ้นก่อนแล้วค่อยอธิบายทีหลัง",
+    "story": "*หมัดหนักโคราช ฉลาดลพบุรี ท่าดีไชยา ไวกว่าท่าเสา* — สิบเอ็ดพยางค์ที่ทำงานแทนหลักสูตรทั้งหลักสูตร\n\nสายทั้งสี่ไม่ใช่ธรรมเนียมท้องถิ่นเรียบร้อยที่ใครมาสังเกตเห็นทีหลัง แต่ถูก**ตั้งชื่อขึ้นในงานศพ** พ.ศ. 2453 รัชกาลที่ 5 ทรงเรียกนักมวยจากหัวเมืองเข้ามาชกในงานพระเมรุ พระองค์เจ้าอุรุพงษ์รัชสมโภช พระราชโอรส แล้วพระราชทานบรรดาศักดิ์หมื่นแก่สามคนที่เก่งที่สุด จากลพบุรี โคราช และไชยา บทความภาษาอังกฤษพูดไว้ตรง ๆ ว่าทั้งสามนั้น \"ต่อมาถูกจัดรวบรวมเป็นสายมวยโบราณประจำถิ่น\"\n\nสายทั้งสี่จึงเป็นรายชื่อผู้ชนะก่อนจะเป็นการจัดหมวดหมู่ และคำคุณศัพท์ในคำกล่าวนั้นคือสิ่งที่ชายสามคนทำในบ่ายวันหนึ่งที่พระนคร\n\nปัจจุบันวิกิพีเดียไทยนับเป็นเจ็ดสาย ไม่ใช่สี่ คือสี่สายเดิม บวกมวยพระนครของอยุธยา บวกหลักสูตรกรมพลศึกษา และบวกมวยไทยเลิศฤทธิ์ของทหาร สองในเจ็ดเป็นโครงการของรัฐ ซึ่งเป็นภาพที่ตรงพอสมควรว่าการสืบทอดอยู่ตรงไหนจริง ๆ"
+   },
+   "kin": [
+    {
+     "to": "korat",
+     "as": "Heavy fists.",
+     "rel": "style"
+    },
+    {
+     "to": "lopburi",
+     "as": "Clever.",
+     "rel": "style"
+    },
+    {
+     "to": "chaiya",
+     "as": "Good form.",
+     "rel": "style"
+    },
+    {
+     "to": "thasao",
+     "as": "Fast.",
+     "rel": "style"
+    },
+    {
+     "to": "muay-boran",
+     "as": "What the four are collectively called now.",
+     "rel": "style"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "Who assembled the list, and when.",
+     "rel": "issue"
+    }
+   ],
+   "sources": [
+    "s:thwp-มวยไทย",
+    "s:wp-muay-thai",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "beginner",
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "four-lines/four-lines-krabi-krabong-thai.jpg",
+     "source": "commons",
+     "title": "File:Krabi Krabong Thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Krabi_Krabong_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKrabi_Krabong_Thai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Arjarn Sira",
+     "credit": "Buddhai Swan, Thailand",
+     "alt": "Krabi Krabong Thai Sword fighting, Buddhai Swan, Thailand.",
+     "date": "2017-02-18 13:52:22",
+     "primary": true,
+     "sha256": "55762a105b750a8115798e99e2c5ce21b787cbe33b74ed8f5197dce3b7363e43"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "chaiya",
+     "type": "style",
+     "name": "Muay Chaiya",
+     "as": "One of the four."
+    },
+    {
+     "from": "korat",
+     "type": "style",
+     "name": "Muay Korat",
+     "as": "One of the four."
+    },
+    {
+     "from": "lopburi",
+     "type": "style",
+     "name": "Muay Lopburi",
+     "as": "One of the four."
+    },
+    {
+     "from": "muay-boran",
+     "type": "style",
+     "name": "Muay boran",
+     "as": "What it collects."
+    },
+    {
+     "from": "thasao",
+     "type": "style",
+     "name": "Muay Thasao",
+     "as": "One of the four."
+    },
+    {
+     "from": "rama-v-golden-age",
+     "type": "story",
+     "name": "Rama V, and the making of a national sport",
+     "as": "What came out of it."
+    },
+    {
+     "from": "lanna",
+     "type": "place",
+     "name": "Lanna",
+     "as": "The canon it is outside."
+    },
+    {
+     "from": "invented-tradition",
+     "type": "issue",
+     "name": "How old is any of this",
+     "as": "The four schools."
+    }
+   ]
+  },
+  {
+   "id": "four-styles-of-fighter",
+   "type": "style",
+   "names": {
+    "name": "Four ways to win a fight",
+    "th": "สี่แบบของนักมวย",
+    "rtgs": "si baep khong nak muay",
+    "said": "Fimue, khao, mat, tae. Pick one and you have picked your problems.",
+    "said_th": "ฝีมือ เข่า หมัด เตะ เลือกอย่างหนึ่ง เท่ากับเลือกปัญหาของตัวเองแล้ว"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "now"
+   },
+   "text": {
+    "what": "Thai commentary sorts fighters into four kinds, and it is the most useful thing anyone can hand a first-time spectator.",
+    "story": "Watch for which one each man is inside the first round and the next four rounds stop being confusing. A knee fighter against a technician is a chase. A puncher against a kicker is a race between a knockout and a scorecard. Two technicians is the fight Thai crowds pay for and foreigners walk out of."
+   },
+   "text_th": {
+    "what": "คนไทยจัดนักมวยเป็นสี่แบบ และนี่คือสิ่งที่มีประโยชน์ที่สุดที่จะยื่นให้คนดูครั้งแรก",
+    "story": "ดูให้ออกในยกแรกว่าแต่ละคนเป็นแบบไหน แล้วอีกสี่ยกจะเลิกสับสน มวยเข่าเจอมวยฝีมือคือการไล่ล่า มวยหมัดเจอมวยเตะคือการแข่งกันระหว่างการน็อกกับใบให้คะแนน มวยฝีมือเจอมวยฝีมือคือไฟต์ที่คนไทยจ่ายเงินมาดู และฝรั่งเดินออก"
+   },
+   "kin": [
+    {
+     "to": "muay-femur",
+     "as": "One.",
+     "rel": "style"
+    },
+    {
+     "to": "muay-khao",
+     "as": "Two.",
+     "rel": "style"
+    },
+    {
+     "to": "muay-mat",
+     "as": "Three.",
+     "rel": "style"
+    },
+    {
+     "to": "muay-tae",
+     "as": "Four.",
+     "rel": "style"
+    },
+    {
+     "to": "scoring",
+     "as": "What sorts between them.",
+     "rel": "rule"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching",
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "muay-femur",
+     "type": "style",
+     "name": "Muay femur",
+     "as": "One of four ways to win."
+    },
+    {
+     "from": "muay-khao",
+     "type": "style",
+     "name": "Muay khao",
+     "as": "One of four ways to win."
+    },
+    {
+     "from": "muay-mat",
+     "type": "style",
+     "name": "Muay mat",
+     "as": "One of four ways to win."
+    },
+    {
+     "from": "muay-tae",
+     "type": "style",
+     "name": "Muay tae",
+     "as": "One of four ways to win."
+    }
+   ]
+  },
+  {
+   "id": "korat",
+   "type": "style",
+   "names": {
+    "name": "Muay Korat",
+    "th": "มวยโคราช",
+    "rtgs": "muay khorat",
+    "said": "Heavy fists. The long swinging arm, thrown from the shoulder.",
+    "said_th": "หมัดหนัก หมัดเหวี่ยงยาวออกจากไหล่"
+   },
+   "region": [
+    "isan",
+    "korat"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "The northeastern line, from Nakhon Ratchasima. The rope was wound to the elbow here, and the punch it is known for travels furthest.",
+    "story": "Under Rama V, bouts were held before the throne at Suan Misakawan and fighters were selected from every province. Korat's man was **Nai Daeng Thai-prasert**, a student of the governor, who was given the title *Muen Changat Choeng Chok*.\n\nThe style's own list is the longest of the four and the strangest. Five teaching techniques, all of them plain instructions — *going in, punch outside; coming out, punch inside* — and then twenty-one older ones which are nothing of the kind. This project counted them: **eleven of the twenty-one name an animal**, six name a figure out of the epic, and two name an object.\n\nThe animals are not the temple menagerie either. A carp hiding by a stump. A quail going into its nest. A rat running along a rail. A crow slipping a snare.\n\n*Inference —* the central curriculum is a court's bestiary and Korat's is a farmer's."
+   },
+   "text_th": {
+    "what": "สายอีสาน จากนครราชสีมา ที่นี่พันเชือกขึ้นไปถึงข้อศอก และหมัดที่ขึ้นชื่อของสายนี้เดินทางไกลที่สุด",
+    "story": "ในรัชกาลที่ 5 มีการชกหน้าพระที่นั่งที่สวนมิสกวัน และคัดนักมวยจากทุกหัวเมือง คนของโคราชคือ **นายแดง ไทยประเสริฐ** ศิษย์ของเจ้าเมือง ได้รับบรรดาศักดิ์เป็น หมื่นชงัดเชิงชก\n\nรายการท่าของสายนี้ยาวที่สุดในสี่สายและแปลกที่สุด แม่ไม้ครูห้าท่าเป็นคำสั่งตรง ๆ ทั้งหมด — *เมื่อเข้าให้ชกนอก เมื่อออกให้ชกใน* — แล้วตามด้วยท่าโบราณอีกยี่สิบเอ็ดท่าที่ไม่ใช่อย่างนั้นเลย โครงการนี้นับดู **สิบเอ็ดในยี่สิบเอ็ดท่าตั้งชื่อตามสัตว์** หกท่าตั้งตามตัวละครในวรรณคดี และสองท่าตั้งตามสิ่งของ\n\nสัตว์เหล่านั้นก็ไม่ใช่สัตว์หิมพานต์ในวัด ตะเพียนแฝงตอ นกคุ้มเข้ารัง หนูไต่ราว กาลอดบ่วง\n\n*อนุมาน —* หลักสูตรส่วนกลางคือสมุดสัตว์ของราชสำนัก ส่วนของโคราชคือของชาวนา"
+   },
+   "kin": [
+    {
+     "to": "four-lines",
+     "as": "One of the four.",
+     "rel": "style"
+    },
+    {
+     "to": "mae-mai",
+     "as": "Which its list disagrees with.",
+     "rel": "move"
+    },
+    {
+     "to": "kaad-chuek",
+     "as": "Wound to the elbow here.",
+     "rel": "kit"
+    },
+    {
+     "to": "isan",
+     "as": "Where most stadium fighters still come from.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:thwp-มวยโคราช",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยโคราช"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "counted"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "hanuman-thawai-waen",
+     "type": "move",
+     "name": "Hanuman presents the ring",
+     "as": "Which also names it."
+    },
+    {
+     "from": "four-lines",
+     "type": "style",
+     "name": "The four lines, and the rhyme that ranks them",
+     "as": "Heavy fists."
+    },
+    {
+     "from": "isan",
+     "type": "place",
+     "name": "Isan",
+     "as": "The school."
+    },
+    {
+     "from": "korat-place",
+     "type": "place",
+     "name": "Nakhon Ratchasima",
+     "as": "The style."
+    }
+   ]
+  },
+  {
+   "id": "lopburi",
+   "type": "style",
+   "names": {
+    "name": "Muay Lopburi",
+    "th": "มวยลพบุรี",
+    "rtgs": "muay lopburi",
+    "said": "Clever. Named for a man the king liked watching.",
+    "said_th": "ฉลาด ตั้งชื่อตามคนที่ในหลวงโปรดจะทอดพระเนตร"
+   },
+   "region": [
+    "central",
+    "lopburi"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "The central line, from the old Khmer-Thai city north of Ayutthaya. Its reputation is for angles and feints rather than force.",
+    "story": "The Thai article gives the moment the adjective was attached. At Prince Urubongse's cremation, **Nai Kluen To-sa-at** of Lopburi fought in front of Rama V, who was pleased enough with the way he fought that the phrase *chalat Lopburi* — clever Lopburi — stuck to the province, and Kluen was made *Muen Mue Maen Mat*, the sure-fisted.\n\nIts list of six is the most concentrated of any school: Erawan tosses its tusks, the giant carries off the lady, Rama draws the bow, the deer looks back, Hiran rolls up the earth, Hanuman presents the ring. **Five of the six are out of the epic.** For a city whose ruins are Khmer and whose monkeys are its main export to the postcard trade, that is either fitting or circular, and the sources do not settle which."
+   },
+   "text_th": {
+    "what": "สายภาคกลาง จากเมืองเขมร-ไทยเก่าทางเหนือของอยุธยา ขึ้นชื่อเรื่องเหลี่ยมมุมและการล่อหลอกมากกว่ากำลัง",
+    "story": "บทความไทยให้ช่วงเวลาที่คำคุณศัพท์นั้นถูกติดเข้าไป ในงานพระเมรุพระองค์เจ้าอุรุพงษ์ฯ **นายกลึง โตสะอาด** ชาวลพบุรีขึ้นชกต่อหน้ารัชกาลที่ 5 พระองค์ทรงพอพระทัยในเชิงชกจนคำว่า *ฉลาดลพบุรี* ติดอยู่กับจังหวัด และนายกลึงได้รับบรรดาศักดิ์เป็น หมื่นมือแม่นหมัด\n\nรายการหกท่าของสายนี้เข้มข้นที่สุดในบรรดาสายทั้งหมด เอราวัณเสยงา ขุนยักษ์พานาง พระรามน้าวศร กวางเหลียวหลัง หิรัญม้วนแผ่นดิน หนุมานถวายแหวน **ห้าในหกท่ามาจากวรรณคดี** สำหรับเมืองที่ซากโบราณสถานเป็นเขมรและลิงคือสินค้าออกหลักสู่ตลาดโปสต์การ์ด เรื่องนี้จะเรียกว่าเหมาะสมหรือวนกลับมาที่เดิมก็ได้ และแหล่งข้อมูลไม่ได้ชี้ขาด"
+   },
+   "kin": [
+    {
+     "to": "four-lines",
+     "as": "One of the four.",
+     "rel": "style"
+    },
+    {
+     "to": "hanuman-thawai-waen",
+     "as": "On its list too.",
+     "rel": "move"
+    },
+    {
+     "to": "ramakien-in-the-ring",
+     "as": "Which its list is almost entirely made of.",
+     "rel": "art"
+    }
+   ],
+   "sources": [
+    "s:thwp-มวยลพบ-ร-",
+    "s:maemai-th"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยลพบ-ร-"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": [
+    {
+     "from": "hanuman-thawai-waen",
+     "type": "move",
+     "name": "Hanuman presents the ring",
+     "as": "Which also names it."
+    },
+    {
+     "from": "four-lines",
+     "type": "style",
+     "name": "The four lines, and the rhyme that ranks them",
+     "as": "Clever."
+    },
+    {
+     "from": "mai-sastra",
+     "type": "story",
+     "name": "The hermit's school",
+     "as": "The school named for the city."
+    },
+    {
+     "from": "ramakien-in-the-ring",
+     "type": "art",
+     "name": "The epic in the technique list",
+     "as": "Five of six."
+    }
+   ]
+  },
+  {
+   "id": "muay-boran",
+   "type": "style",
+   "names": {
+    "name": "Muay boran",
+    "th": "มวยโบราณ",
+    "rtgs": "muay boran",
+    "said": "The name is younger than the thing it names.",
+    "said_th": "ชื่อนี้อายุน้อยกว่าสิ่งที่มันเรียก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "\"Ancient boxing\": the collective name for what was fought before rounds, gloves and a ring — now performed mostly as demonstration.",
+    "story": "The English article is exact about the order of events: the term *muay boran* was **coined** to describe the pre-modern form, after *muay thai* had been introduced in physical education documents to distinguish the Siamese art from international boxing. The old thing was named by the new one.\n\nThis matters for what a visitor is watching. A muay boran demonstration is a reconstruction, performed by people who compete under modern rules, of a practice that stopped being competitive before any of them were born. That is not a criticism of it. It is what it is, and the shows do not usually say so."
+   },
+   "text_th": {
+    "what": "\"มวยโบราณ\" ชื่อรวมของสิ่งที่ชกกันก่อนจะมียก นวม และเวที ปัจจุบันแสดงเป็นการสาธิตเสียเป็นส่วนใหญ่",
+    "story": "บทความภาษาอังกฤษเรียงลำดับเหตุการณ์ไว้แม่นยำ คำว่า *มวยโบราณ* **ถูกบัญญัติขึ้น** เพื่อเรียกรูปแบบก่อนสมัยใหม่ หลังจากคำว่า *มวยไทย* ถูกใช้ในเอกสารพลศึกษาเพื่อแยกศิลปะของสยามออกจากมวยสากล ของเก่าถูกตั้งชื่อโดยของใหม่\n\nเรื่องนี้สำคัญต่อสิ่งที่ผู้มาเยือนกำลังดูอยู่ การแสดงมวยโบราณคือการสร้างขึ้นใหม่ แสดงโดยคนที่แข่งขันภายใต้กติกาสมัยใหม่ ของแนวปฏิบัติที่เลิกแข่งขันไปก่อนพวกเขาเกิดทุกคน นี่ไม่ใช่การตำหนิ มันเป็นอย่างนั้น และการแสดงมักไม่ได้บอกไว้"
+   },
+   "kin": [
+    {
+     "to": "four-lines",
+     "as": "What it collects.",
+     "rel": "style"
+    },
+    {
+     "to": "invented-tradition",
+     "as": "The argument about who assembled it.",
+     "rel": "issue"
+    },
+    {
+     "to": "kaad-chuek",
+     "as": "What it is fought with.",
+     "rel": "kit"
+    },
+    {
+     "to": "ong-bak",
+     "as": "The film that sold it to the world.",
+     "rel": "art"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai",
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "contested"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "muay-boran/muay-boran-chintawannakhadi-p-531.jpg",
+     "source": "commons",
+     "title": "File:Chintawannakhadi (p 531).jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chintawannakhadi_%28p_531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AChintawannakhadi_%28p_531%29.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Hem Vejakorn",
+     "credit": "นายตำรา ณ เมืองใต้ (เรื่อง), เหม เวชกร (ภาพ). (๒๕๔๐). จินตวรรณคดีไทย. กรุงเทพฯ: ไทยวัฒนาพานิช. (หนังสืออนุสรณ์งานพระราชทานเพลิงศพนายบุญธรรม ต.สุวรรณ ท.จ., ท.ช. วันที่ ๓๑ กรกฎาคม พ.ศ. ๒๕๔๐ ณ เมรุวัดธาต",
+     "alt": "An illustration of the book mentioned below, depicting the following:\nA French man challenged Thais to join boxing matches with him in the year 2331 BE (1788/89 CE).",
+     "date": "before 1969date QS:P,+1969-00-00T00:00:0",
+     "primary": true,
+     "sha256": "99a1e7d956e9338a1e32b888ecd2845a29ee72a84443cee8869b73f7c42d413a"
+    },
+    {
+     "file": "muay-boran/muay-boran-krabi-krabong-thai.jpg",
+     "source": "commons",
+     "title": "File:Krabi Krabong Thai.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Krabi_Krabong_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKrabi_Krabong_Thai.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Arjarn Sira",
+     "credit": "Buddhai Swan, Thailand",
+     "alt": "Krabi Krabong Thai Sword fighting, Buddhai Swan, Thailand.",
+     "date": "2017-02-18 13:52:22",
+     "primary": false,
+     "sha256": "55762a105b750a8115798e99e2c5ce21b787cbe33b74ed8f5197dce3b7363e43"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "four-lines",
+     "type": "style",
+     "name": "The four lines, and the rhyme that ranks them",
+     "as": "What the four are collectively called now."
+    },
+    {
+     "from": "kaad-chuek",
+     "type": "kit",
+     "name": "The rope",
+     "as": "What it is now filed under."
+    },
+    {
+     "from": "first-ring",
+     "type": "story",
+     "name": "The ring arrives, 1921",
+     "as": "What got renamed."
+    },
+    {
+     "from": "invented-tradition",
+     "type": "issue",
+     "name": "How old is any of this",
+     "as": "The name coined last."
+    },
+    {
+     "from": "ong-bak",
+     "type": "art",
+     "name": "Ong-Bak",
+     "as": "What it is selling."
+    }
+   ]
+  },
+  {
+   "id": "muay-femur",
+   "type": "style",
+   "names": {
+    "name": "Muay femur",
+    "th": "มวยฝีมือ",
+    "rtgs": "muay fimue",
+    "said": "The technician. Wins by making the other man look clumsy.",
+    "said_th": "นักมวยเชิง ชนะด้วยการทำให้อีกฝ่ายดูเก้งก้าง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "The all-rounder who fights on timing and distance and is usually ahead on the cards without appearing to try.",
+    "story": "The word is *fimue*, skill of hand. A femur fighter teeps you out of range, catches the kick you were going to throw anyway, dumps you, and looks bored.\n\n*Inference —* this is the style Thai judging was built to reward and the style foreign audiences find hardest to enjoy, and those two facts are the same fact."
+   },
+   "text_th": {
+    "what": "นักมวยครบเครื่องที่ชกด้วยจังหวะและระยะ และมักนำคะแนนอยู่โดยไม่ต้องดูเหมือนพยายาม",
+    "story": "คำว่า *ฝีมือ* คือความชำนาญของมือ นักมวยเชิงจะถีบคุณออกนอกระยะ รับเตะที่คุณกำลังจะออกอยู่แล้ว ทุ่มคุณลง แล้วทำหน้าเบื่อ\n\n*อนุมาน —* นี่คือแบบที่การให้คะแนนของไทยถูกสร้างมาเพื่อตอบแทน และเป็นแบบที่คนดูต่างชาติสนุกด้วยยากที่สุด และสองข้อนั้นคือข้อเดียวกัน"
+   },
+   "kin": [
+    {
+     "to": "scoring",
+     "as": "The system it is built for.",
+     "rel": "rule"
+    },
+    {
+     "to": "samart-payakaroon",
+     "as": "The one everybody names.",
+     "rel": "person"
+    },
+    {
+     "to": "four-styles-of-fighter",
+     "as": "One of four ways to win.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "muay-femur/muay-femur-manachai-yokkao.jpg",
+     "source": "commons",
+     "title": "File:Manachai yokkao.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Manachai_yokkao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AManachai_yokkao.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "D3viliz3d",
+     "credit": "Own work",
+     "alt": "Manachai performing the Ram Muay",
+     "date": "2018-02-18",
+     "primary": true,
+     "sha256": "aca5cae2701c0e19cfa8da2607252855840994cd0d8163e22e480d71eaf7d5a1"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "four-styles-of-fighter",
+     "type": "style",
+     "name": "Four ways to win a fight",
+     "as": "One."
+    },
+    {
+     "from": "saenchai",
+     "type": "person",
+     "name": "Saenchai",
+     "as": "The style he defines."
+    },
+    {
+     "from": "samart-payakaroon",
+     "type": "person",
+     "name": "Samart Payakaroon",
+     "as": "The style he defines."
+    },
+    {
+     "from": "scoring",
+     "type": "rule",
+     "name": "How a fight is actually scored",
+     "as": "The fighter this system rewards."
+    },
+    {
+     "from": "fimue",
+     "type": "term",
+     "name": "fimue",
+     "as": "The style."
+    }
+   ]
+  },
+  {
+   "id": "muay-khao",
+   "type": "style",
+   "names": {
+    "name": "Muay khao",
+    "th": "มวยเข่า",
+    "rtgs": "muay khao",
+    "said": "The knee fighter. Walks through you and does not stop.",
+    "said_th": "นักมวยเข่า เดินทับแล้วไม่หยุด"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "Built entirely around getting hold of you and kneeing until the round ends.",
+    "story": "A knee fighter takes shots to get inside, and the arithmetic works because a knee scores more than the two punches it cost to walk through. The cost is that it demands a level of fitness the other styles do not.\n\nDieselnoi Chor Thanasukarn was so much the best at it that Thai promoters could not find him opponents and he retired undefeated as champion at twenty-four."
+   },
+   "text_th": {
+    "what": "สร้างมาเพื่อจับคุณให้ได้แล้วเข่าไปจนหมดยก",
+    "story": "นักมวยเข่ายอมกินอาวุธเพื่อเข้าวงใน และการคิดเลขนั้นคุ้ม เพราะเข่าหนึ่งได้คะแนนมากกว่าสองหมัดที่จ่ายไปตอนเดินเข้า ต้นทุนคือมันต้องการความฟิตระดับที่สายอื่นไม่ต้องการ\n\nดีเซลน้อย ช.ธนะสุกาญจน์ เก่งเรื่องนี้จนโปรโมเตอร์ไทยหาคู่ชกให้ไม่ได้ และแขวนนวมทั้งที่ยังเป็นแชมป์ไม่แพ้ใคร ตอนอายุยี่สิบสี่"
+   },
+   "kin": [
+    {
+     "to": "clinch",
+     "as": "Where it lives.",
+     "rel": "move"
+    },
+    {
+     "to": "dieselnoi",
+     "as": "Who it is named after, in effect.",
+     "rel": "person"
+    },
+    {
+     "to": "four-styles-of-fighter",
+     "as": "One of four ways to win.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "muay-khao/muay-khao-muay-thai-knee-clinch.jpg",
+     "source": "commons",
+     "title": "File:Muay thai knee clinch.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Muay_thai_knee_clinch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_thai_knee_clinch.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "superwebdeveloper",
+     "credit": "https://www.flickr.com/photos/superwebdeveloper/5106996626/",
+     "alt": "Knee in muay thai clinch",
+     "date": "2010-10-22",
+     "primary": true,
+     "sha256": "c8935d7c29a1636782bd1fab9fc40b1f70eb910db2cac3bbd83fed4bb254d575"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "four-styles-of-fighter",
+     "type": "style",
+     "name": "Four ways to win a fight",
+     "as": "Two."
+    },
+    {
+     "from": "dieselnoi",
+     "type": "person",
+     "name": "Dieselnoi Chor Thanasukarn",
+     "as": "The style he defines."
+    }
+   ]
+  },
+  {
+   "id": "muay-mat",
+   "type": "style",
+   "names": {
+    "name": "Muay mat",
+    "th": "มวยหมัด",
+    "rtgs": "muay mat",
+    "said": "The puncher. Fighting the scoring system, not the other man.",
+    "said_th": "นักมวยหมัด สู้กับระบบคะแนน ไม่ใช่สู้กับคู่ชก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "The heavy-handed fighter, looking for the knockout because the points will not come.",
+    "story": "A puncher in muay thai is working against the arithmetic: punches score least, so he has to end it. Which makes muay mat the most exciting style to watch and the least reliable way to build a record.\n\nForeign fighters arrive as muay mat almost without exception, because that is what they were before."
+   },
+   "text_th": {
+    "what": "นักมวยหมัดหนัก มองหาการน็อก เพราะคะแนนจะไม่มา",
+    "story": "นักมวยหมัดในมวยไทยกำลังสู้กับการคิดเลข หมัดได้คะแนนน้อยที่สุด เขาจึงต้องจบเกม ทำให้มวยหมัดเป็นสายที่ดูสนุกที่สุด และเป็นวิธีสร้างสถิติที่พึ่งพาได้น้อยที่สุด\n\nนักมวยต่างชาติมาถึงในสภาพมวยหมัดแทบทุกคน เพราะนั่นคือสิ่งที่เขาเป็นมาก่อน"
+   },
+   "kin": [
+    {
+     "to": "fist",
+     "as": "Its weapon.",
+     "rel": "weapon"
+    },
+    {
+     "to": "scoring",
+     "as": "What it is up against.",
+     "rel": "rule"
+    },
+    {
+     "to": "four-styles-of-fighter",
+     "as": "One of four ways to win.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "muay-mat/muay-mat-muay-thai-fight-us-vs-burma-80668039.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai Fight Us Vs Burma (80668039).jpeg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Muay_Thai_Fight_Us_Vs_Burma_%2880668039%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_Fight_Us_Vs_Burma_%2880668039%29.jpeg",
+     "license": "CC BY 3.0",
+     "license_url": "https://creativecommons.org/licenses/by/3.0/",
+     "author": "Gerrit Phil Baumann",
+     "credit": "Imported from 500px (archived version) by the Archive Team. (detail page)",
+     "alt": "500px provided description: Muay Thai Fight Us Vs Burma [#Thailand ,#Bangkok ,#Boxing ,#Men ,#Muay Thai ,#Thai Boxing ,#World Championship ,#Kick Boxing ,#Burma vs. USA]",
+     "date": "before 23 August 2014, 02:36:42 (UTC)",
+     "primary": true,
+     "sha256": "712cccf19fca6d0d7028294ca6590ada08265724bf6d77a30b4c70fbd99d0175"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "fist",
+     "type": "weapon",
+     "name": "The fist",
+     "as": "The style built on it."
+    },
+    {
+     "from": "four-styles-of-fighter",
+     "type": "style",
+     "name": "Four ways to win a fight",
+     "as": "Three."
+    }
+   ]
+  },
+  {
+   "id": "muay-tae",
+   "type": "style",
+   "names": {
+    "name": "Muay tae",
+    "th": "มวยเตะ",
+    "rtgs": "muay te",
+    "said": "The kicker. One leg, over and over, until something gives.",
+    "said_th": "นักมวยเตะ ขาเดียว ซ้ำแล้วซ้ำเล่า จนมีอะไรพัง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "era": "golden"
+   },
+   "text": {
+    "what": "Built on the round kick, thrown at the arm, the ribs and the thigh until one of them stops working.",
+    "story": "The most Thai of the four and the one that wins most rounds: a kick is the highest-scoring thing you can throw from outside the clinch, and a kicker who is not being checked can bank a round in ninety seconds.\n\nApidej Sit Hirun is the name attached to it — a left kick that is still talked about in the way other sports talk about a fastball."
+   },
+   "text_th": {
+    "what": "สร้างบนเตะวง ออกใส่แขน ชายโครง และต้นขา จนมีอย่างใดอย่างหนึ่งใช้การไม่ได้",
+    "story": "เป็นสายที่ไทยที่สุดในสี่สาย และเป็นสายที่ชนะยกได้มากที่สุด เตะคืออาวุธที่ได้คะแนนสูงสุดเท่าที่จะออกได้จากนอกวงใน คนเตะที่ไม่ถูกเช็กสามารถเก็บยกได้ในเก้าสิบวินาที\n\nอภิเดช ศิษย์หิรัญ คือชื่อที่ติดอยู่กับสายนี้ เตะซ้ายที่ยังถูกพูดถึงในแบบที่กีฬาอื่นพูดถึงลูกขว้างเร็ว"
+   },
+   "kin": [
+    {
+     "to": "te-chiang",
+     "as": "Its weapon.",
+     "rel": "move"
+    },
+    {
+     "to": "apidej",
+     "as": "Whose left leg.",
+     "rel": "person"
+    },
+    {
+     "to": "four-styles-of-fighter",
+     "as": "One of four ways to win.",
+     "rel": "style"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "watching"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "muay-tae/muay-tae-muay-thai-high-kick.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai high kick.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Muay_Thai_high_kick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_high_kick.jpg",
+     "license": "CC BY 2.0",
+     "license_url": "https://creativecommons.org/licenses/by/2.0/",
+     "author": "Eric Langley",
+     "credit": "Flickr: [1]",
+     "alt": "Muay Thai competitor attempts a high kick but it is blocked by his opponent.",
+     "date": "2011-06-17 22:38:50",
+     "primary": true,
+     "sha256": "6f3be71837c9f8454beb45c30c202121f17f502c5c5fb6d44c7f1844179c1491"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "four-styles-of-fighter",
+     "type": "style",
+     "name": "Four ways to win a fight",
+     "as": "Four."
+    },
+    {
+     "from": "apidej",
+     "type": "person",
+     "name": "Apidej Sit Hirun",
+     "as": "The style he defines."
+    }
+   ]
+  },
+  {
+   "id": "thasao",
+   "type": "style",
+   "names": {
+    "name": "Muay Thasao",
+    "th": "มวยท่าเสา",
+    "rtgs": "muay tha sao",
+    "said": "Fast. And the one line whose techniques are not written down.",
+    "said_th": "ไว และเป็นสายเดียวที่ท่าไม่ได้ถูกจดไว้"
+   },
+   "region": [
+    "north",
+    "uttaradit"
+   ],
+   "facets": {
+    "era": "rope"
+   },
+   "text": {
+    "what": "The northern line, from Tha Sao in Uttaradit, tied to Phraya Phichai of the Broken Sword — a general of King Taksin who is said to have been a boxer first.",
+    "story": "The rhyme says *faster than Thasao*, which is a strange way to praise a school — it makes the school the yardstick and gives the prize to whoever beat it.\n\nThe list is where this line differs from the other three. Thai Wikipedia gives it as twelve upper techniques and twelve lower techniques and **names none of them**. Chaiya's seven are named. Korat's twenty-six are named. Lopburi's six are named. Thasao gets a count.\n\nThat is not evidence the techniques are lost; it is evidence they are not on this page. What a gym in Uttaradit teaches today is not on this disk either way."
+   },
+   "text_th": {
+    "what": "สายเหนือ จากท่าเสา จังหวัดอุตรดิตถ์ ผูกกับพระยาพิชัยดาบหัก แม่ทัพของพระเจ้าตากซึ่งว่ากันว่าเป็นนักมวยมาก่อน",
+    "story": "คำกล่าวว่า *ไวกว่าท่าเสา* ซึ่งเป็นวิธีชมสายมวยที่แปลก เพราะทำให้สายนั้นกลายเป็นไม้บรรทัด แล้วยกรางวัลให้คนที่ชนะมันไป\n\nรายการท่าคือจุดที่สายนี้ต่างจากอีกสามสาย วิกิพีเดียไทยระบุว่ามีแม่ไม้บน 12 ไม้ และแม่ไม้ล่าง 12 ไม้ แล้ว**ไม่ได้บอกชื่อสักท่า** ของไชยาเจ็ดท่ามีชื่อ ของโคราชยี่สิบหกท่ามีชื่อ ของลพบุรีหกท่ามีชื่อ ท่าเสาได้แค่จำนวน\n\nนั่นไม่ใช่หลักฐานว่าท่าสูญหาย เป็นหลักฐานว่าไม่ได้อยู่บนหน้านั้น ส่วนค่ายมวยในอุตรดิตถ์วันนี้สอนอะไร ก็ไม่ได้อยู่บนดิสก์นี้เช่นกัน"
+   },
+   "kin": [
+    {
+     "to": "four-lines",
+     "as": "One of the four.",
+     "rel": "style"
+    },
+    {
+     "to": "uttaradit",
+     "as": "Where it is from.",
+     "rel": "place"
+    }
+   ],
+   "sources": [
+    "s:maemai-th",
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:maemai-th"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "low",
+   "needs_verification": true,
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "thasao/thasao-muay-thai-infront-of-king-taksin-phraya-pichai-dabha-4f93870.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai infront of King Taksin & Phraya Pichai Dabhak Monument 02.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Muay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_infront_of_King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_02.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Tmd",
+     "credit": "Own work",
+     "alt": "Muay Thai infront of King Taksin &amp; Phraya Pichai Dabhak Monument. Statue found in Hat-Sung Palace (Wat Kungtapao), Uttaradit Province, Thailand.",
+     "date": "2022-01-07",
+     "primary": true,
+     "sha256": "3a4e84a6f44bc166b59b05781227ab12b80d60949607833e7b74013127402305"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "four-lines",
+     "type": "style",
+     "name": "The four lines, and the rhyme that ranks them",
+     "as": "Fast."
+    },
+    {
+     "from": "khet-sriyaphai",
+     "type": "person",
+     "name": "Khet Sriyaphai",
+     "as": "The one that had no such book."
+    },
+    {
+     "from": "phraya-phichai",
+     "type": "person",
+     "name": "Phraya Phichai of the Broken Sword",
+     "as": "The line named with him."
+    },
+    {
+     "from": "what-we-did-not-do",
+     "type": "story",
+     "name": "What this site does not have",
+     "as": "The list with no names."
+    },
+    {
+     "from": "lanna",
+     "type": "place",
+     "name": "Lanna",
+     "as": "The nearest line to it."
+    },
+    {
+     "from": "uttaradit",
+     "type": "place",
+     "name": "Uttaradit",
+     "as": "The style."
+    }
+   ]
+  }
+ ]
+}

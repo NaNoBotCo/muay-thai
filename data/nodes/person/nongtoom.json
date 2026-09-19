@@ -1,0 +1,68 @@
+{
+ "id": "nongtoom",
+ "type": "person",
+ "names": {
+  "name": "Nong Toom",
+  "th": "น้องตุ้ม",
+  "rtgs": "nong tum",
+  "said": "Won at Lumpinee at sixteen, in makeup, and kissed the man she beat.",
+  "said_th": "ชนะที่ลุมพินีตอนอายุสิบหก แต่งหน้า แล้วจูบคนที่เธอชนะ",
+  "aliases": [
+   "Parinya Charoenphol",
+   "Parinya Kiatbusaba"
+  ]
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "now"
+ },
+ "text": {
+  "what": "Parinya Charoenphol, born 9 June 1981. A kathoey fighter whose win at Lumpini Stadium in February 1998 made her the most photographed person in the sport.",
+  "story": "The English article records two things side by side and does not join them, so this does.\n\nOne: the Thai government had previously kept kathoey off the national volleyball team \"for fear of negative reaction\" from abroad. Two: the muay thai establishment took her up immediately, and tourism officials promoted her as \"indicative of the wonders to be found\" in Thailand.\n\nThe difference between those two receptions is business. The article says the sport was in a slump, and that she \"revitalised both media and public interest\", with ticket sales and stadium revenue to show for it.\n\nShe retired in 1999, announced a singing career, was turned down by several Bangkok surgeons, and had gender-affirming surgery at Yanhee that year. The film *Beautiful Boxer* followed in 2003.\n\n*Inference —* a sport that would not let women into the ring at all made room for her inside eighteen months, and the measurable reason was the gate."
+ },
+ "text_th": {
+  "what": "ปริญญา เจริญผล เกิด 9 มิถุนายน พ.ศ. 2524 นักมวยกะเทยที่ชนะบนเวทีลุมพินีเมื่อกุมภาพันธ์ พ.ศ. 2541 จนกลายเป็นคนที่ถูกถ่ายรูปมากที่สุดในวงการ",
+  "story": "บทความภาษาอังกฤษบันทึกสองเรื่องไว้ข้าง ๆ กันโดยไม่ได้เชื่อมให้ ตรงนี้จึงเชื่อมให้\n\nหนึ่ง ก่อนหน้านั้นรัฐบาลไทยกันกะเทยออกจากทีมวอลเลย์บอลทีมชาติ \"เพราะกลัวปฏิกิริยาทางลบ\" จากต่างประเทศ สอง วงการมวยไทยรับเธอทันที และเจ้าหน้าที่การท่องเที่ยวโปรโมตเธอว่าเป็น \"เครื่องบ่งชี้ถึงสิ่งมหัศจรรย์ที่พบได้\" ในประเทศไทย\n\nความต่างระหว่างการต้อนรับสองแบบนั้นคือเรื่องธุรกิจ บทความระบุว่าวงการกำลังซบเซา และเธอ \"ปลุกความสนใจของสื่อและสาธารณชนขึ้นมาใหม่\" โดยมียอดขายบัตรและรายได้สนามเป็นหลักฐาน\n\nเธอแขวนนวมในปี 2542 ประกาศจะเป็นนักร้อง ถูกศัลยแพทย์ในกรุงเทพฯ หลายรายปฏิเสธ และเข้ารับการผ่าตัดยืนยันเพศที่ยันฮีในปีนั้น ภาพยนตร์ *บิวตี้ฟูล บ๊อกเซอร์* ตามมาในปี 2546\n\n*อนุมาน —* กีฬาที่ไม่ยอมให้ผู้หญิงขึ้นเวทีเลย เปิดที่ให้เธอภายในสิบแปดเดือน และเหตุผลที่วัดได้คือรายได้หน้าประตู"
+ },
+ "kin": [
+  {
+   "to": "women-in-the-ring",
+   "as": "The rule she went around.",
+   "rel": "issue"
+  },
+  {
+   "to": "lumpinee",
+   "as": "Where she won.",
+   "rel": "venue"
+  },
+  {
+   "to": "the-roster",
+   "as": "Where she appears in the census, and as what.",
+   "rel": "person"
+  }
+ ],
+ "sources": [
+  "s:wp-parinya-charoenphol"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-parinya-charoenphol"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "women",
+  "contested"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19"
+}

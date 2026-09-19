@@ -1,0 +1,88 @@
+{
+ "id": "klong-sabatchai",
+ "type": "music",
+ "names": {
+  "name": "The victory drum",
+  "th": "กลองสะบัดชัย",
+  "rtgs": "klong sabat chai",
+  "said": "Played with the elbow, the knee and the head. The drumming uses the weapons.",
+  "said_th": "ตีด้วยศอก เข่า และศีรษะ การตีกลองใช้อาวุธของมวย"
+ },
+ "region": [
+  "north",
+  "lanna"
+ ],
+ "facets": {
+  "instrument": "drum"
+ },
+ "text": {
+  "what": "The Lanna war drum, beaten going out to battle for good fortune and to hold the soldiers' nerve. Three old melodies are named: *Chaiphaeri*, *Chaithiti*, *Chanamarn*.",
+  "story": "The Thai article describes how it is played now, and the sentence is the finding: the style is **bold and rousing, and the player uses parts of the body — the elbow, the knee, the head — to strike the drum**.\n\n*Inference —* a drum played with the elbow and the knee, in a region whose martial dance is the sport's claimed origin, is not a coincidence anyone needs to argue for. The same body is being trained. In one direction it hits a drum; in the other it hits a man.\n\n**Where the oldest one was found.** A miniature sabatchai drum set in bronze was excavated at Wat Chedi Sung, Ban Luang subdistrict, **Hot district, Chiang Mai** — two double-headed drums of different sizes, a gong as wide as the larger drum, three beaters and a carrying pole for the lot. Hot sits on Route 108, on the Mae Hong Son loop.\n\nThe common form hangs in temple drum-towers across Lanna: one big double-headed drum, 30 to 35 inches across and about 45 inches long, hide fixed with pegs — Lanna calls them *saeo* — left long rather than trimmed flush, with two or three small drums called *luk tup* beside it."
+ },
+ "text_th": {
+  "what": "กลองศึกของล้านนา ตียามออกศึกเพื่อเป็นสิริมงคลและเป็นขวัญกำลังใจแก่เหล่าทหาร มีทำนองโบราณสามทำนอง คือ ชัยเภรี ชัยดิถี และชนะมาร",
+  "story": "บทความไทยอธิบายวิธีตีในปัจจุบัน และประโยคนั้นคือข้อค้นพบ ลีลาการตี **โลดโผนเร้าใจ และผู้ตีใช้อวัยวะส่วนต่าง ๆ ของร่างกาย เช่น ศอก เข่า ศีรษะ ประกอบในการตี**\n\n*อนุมาน —* กลองที่ตีด้วยศอกและเข่า ในภูมิภาคที่การฟ้อนเชิงต่อสู้ของมันคือต้นทางที่กีฬานี้อ้าง ไม่ใช่ความบังเอิญที่ต้องเถียงให้ใครฟัง ร่างกายชุดเดียวกันกำลังถูกฝึก ทางหนึ่งมันตีกลอง อีกทางหนึ่งมันตีคน\n\n**ของเก่าที่สุดพบที่ไหน** กลองสะบัดชัยจำลองทำด้วยสำริดขุดพบที่วัดเจดีย์สูง ตำบลบ้านหลวง **อำเภอฮอด จังหวัดเชียงใหม่** ประกอบด้วยกลองสองหน้าขนาดเล็กหนึ่งลูก ขนาดใหญ่หนึ่งลูก ฆ้องหน้ากว้างพอ ๆ กับกลองใหญ่อีกหนึ่งใบ ไม้ตีสามอัน และคานหามรวมกันทั้งชุด อำเภอฮอดอยู่บนทางหลวง 108 บนวงรอบแม่ฮ่องสอน\n\nแบบที่พบทั่วไปแขวนอยู่ตามหอกลองของวัดในเขตล้านนา กลองสองหน้าขนาดใหญ่หนึ่งลูก หน้ากว้างราว 30–35 นิ้ว ยาวราว 45 นิ้ว หุ้มหนังตรึงด้วยหมุดที่ล้านนาเรียกว่า *แซว่* ปล่อยยาวไม่ตัดเรียบ ข้าง ๆ มีกลองลูกเล็กสองสามลูกเรียกว่า *ลูกตุบ*"
+ },
+ "kin": [
+  {
+   "to": "fon-jerng",
+   "as": "What it is played over.",
+   "rel": "style"
+  },
+  {
+   "to": "kham-kaiwai",
+   "as": "The National Artist of it.",
+   "rel": "person"
+  },
+  {
+   "to": "sarama",
+   "as": "The other band, at the ring.",
+   "rel": "music"
+  },
+  {
+   "to": "lanna",
+   "as": "Whose drum.",
+   "rel": "place"
+  }
+ ],
+ "sources": [
+  "s:thwp-กลองสะบัดชัย",
+  "s:thwp-นาฏศิลป์ล้านนา"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-กลองสะบัดชัย"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "lanna",
+  "counted"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "klong-sabatchai/klong-sabatchai-piphat-mon.jpg",
+   "source": "commons",
+   "title": "File:Piphat Mon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Piphat_Mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3APiphat_Mon.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Mahatee",
+   "credit": "Own work",
+   "alt": "Thailand: Mon Pi Paat Band Rayong Witthayakhom School",
+   "date": "",
+   "primary": true,
+   "sha256": "8af946af14de73c401ff8c513e81fc816d6fc39ea490777f5cfeff1ff7998bb4"
+  }
+ ]
+}

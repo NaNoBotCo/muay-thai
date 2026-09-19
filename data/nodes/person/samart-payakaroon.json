@@ -1,0 +1,86 @@
+{
+ "id": "samart-payakaroon",
+ "type": "person",
+ "names": {
+  "name": "Samart Payakaroon",
+  "th": "สามารถ พยัคฆ์อรุณ",
+  "rtgs": "samat phayak arun",
+  "said": "Four Lumpinee titles in four divisions, then a WBC world title at boxing.",
+  "said_th": "แชมป์ลุมพินีสี่รุ่น แล้วไปได้แชมป์โลก WBC มวยสากล"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "era": "golden"
+ },
+ "text": {
+  "what": "Born Samart Thip-thamai, 5 December 1962, Bang Pakong district, Chachoengsao. The fighter most often named when Thais argue about the best there has been.",
+  "story": "Started at eleven, fighting as *Samart Luk Khlong Khet*. Took four Lumpinee titles across four weight divisions, then crossed to western boxing and became **Thailand's tenth world champion**, WBC super bantamweight. Fighter of the year in 1981 and again in 1988.\n\n*Inference —* the crossing is the argument. Muay thai scores punches lowest, so the sport's best technician going to a code that scores nothing else, and winning a world title there, is the strongest single piece of evidence that Thai technique transfers and that the scoring is a preference rather than a limit.\n\nHe runs a gym in Bangkok, and he sings."
+ },
+ "text_th": {
+  "what": "ชื่อจริง สามารถ ทิพย์ท่าไม้ เกิด 5 ธันวาคม พ.ศ. 2505 อำเภอบางปะกง จังหวัดฉะเชิงเทรา เป็นชื่อที่ถูกเอ่ยบ่อยที่สุดเมื่อคนไทยเถียงกันว่าใครเก่งที่สุด",
+  "story": "เริ่มชกตอนสิบเอ็ด ใช้ชื่อ *สามารถ ลูกคลองเขต* ได้แชมป์ลุมพินีสี่เส้นในสี่รุ่น แล้วข้ามไปมวยสากลและเป็น **แชมป์โลกคนที่ 10 ของไทย** รุ่นซูเปอร์แบนตัมเวท WBC เป็นนักมวยแห่งปี พ.ศ. 2524 และอีกครั้งใน พ.ศ. 2531\n\n*อนุมาน —* การข้ามนั้นคือข้อโต้แย้ง มวยไทยให้คะแนนหมัดต่ำที่สุด การที่นักเทคนิคที่ดีที่สุดของกีฬานี้ข้ามไปสู่กีฬาที่ไม่ให้คะแนนอะไรนอกจากหมัด แล้วได้แชมป์โลกที่นั่น คือหลักฐานชิ้นเดียวที่หนักที่สุดว่าเทคนิคไทยถ่ายโอนได้ และการให้คะแนนเป็นรสนิยมมากกว่าเป็นขีดจำกัด\n\nเขามีค่ายมวยในกรุงเทพฯ และเขาร้องเพลง"
+ },
+ "kin": [
+  {
+   "to": "muay-femur",
+   "as": "The style he defines.",
+   "rel": "style"
+  },
+  {
+   "to": "fist",
+   "as": "What he proved about it.",
+   "rel": "weapon"
+  },
+  {
+   "to": "dieselnoi",
+   "as": "Who beat him.",
+   "rel": "person"
+  },
+  {
+   "to": "lumpinee",
+   "as": "Four of its belts.",
+   "rel": "venue"
+  }
+ ],
+ "sources": [
+  "s:thwp-สามารถ-พย-คฆ-อร-ณ",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-สามารถ-พย-คฆ-อร-ณ"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "samart-payakaroon/samart-payakaroon-samart-payakaroon.jpg",
+   "source": "commons",
+   "title": "File:Samart Payakaroon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Samart_Payakaroon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASamart_Payakaroon.jpg",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "author": "Sry85",
+   "credit": "Own work",
+   "alt": "Samart Payakaroon at MTV",
+   "date": "",
+   "primary": true,
+   "sha256": "b6d66924e1dac4d307352ef36e01f7c766e538f014f804766d10d8b6964a899d"
+  }
+ ]
+}

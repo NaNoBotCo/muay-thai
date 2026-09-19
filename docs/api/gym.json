@@ -1,0 +1,458 @@
+{
+ "type": "gym",
+ "count": 4,
+ "nodes": [
+  {
+   "id": "camp-vs-school",
+   "type": "gym",
+   "names": {
+    "name": "A camp is not a school",
+    "th": "ค่ายมวยไม่ใช่สำนักเรียน",
+    "rtgs": "khai muay mai chai samnak rian",
+    "said": "One sells fights. The other transmits a line.",
+    "said_th": "อย่างหนึ่งขายไฟต์ อีกอย่างส่งต่อสายวิชา"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "country": "th"
+   },
+   "text": {
+    "what": "Thai distinguishes *khai muay*, a boxing camp, from *samnak rian*, a school of instruction, and the difference is not size.",
+    "story": "The Thai article puts it directly: a *samnak rian* has a head — a master whose skill and name are known and respected — who means to pass the knowledge on so it is not lost, and who teaches only students he judges suitable. A *khai muay* is the professional arrangement: it houses fighters, matches them and takes a cut.\n\n*Inference —* almost every place a visitor trains at is a camp, and there is nothing wrong with that. It is worth knowing which word applies before assuming a lineage is on offer."
+   },
+   "text_th": {
+    "what": "ภาษาไทยแยก *ค่ายมวย* ออกจาก *สำนักเรียน* และความต่างไม่ได้อยู่ที่ขนาด",
+    "story": "บทความไทยพูดไว้ตรง ๆ *สำนักเรียน* มีเจ้าสำนักหรือครูมวย ซึ่งมีฝีมือและชื่อเสียงเป็นที่เคารพรู้จัก มีความประสงค์จะถ่ายทอดวิชาไม่ให้สูญหาย และสอนเฉพาะศิษย์ที่เห็นว่าเหมาะสม ส่วน *ค่ายมวย* คือการจัดการเชิงอาชีพ เลี้ยงนักมวย จับคู่ให้ และหักส่วนแบ่ง\n\n*อนุมาน —* แทบทุกที่ที่ผู้มาเยือนไปฝึกคือค่าย และนั่นไม่มีอะไรผิด แต่ควรรู้ว่าคำไหนใช้กับที่นั่น ก่อนจะสรุปว่ามีสายวิชาให้"
+   },
+   "kin": [
+    {
+     "to": "choosing-a-gym",
+     "as": "What to ask.",
+     "rel": "gym"
+    },
+    {
+     "to": "chaiya",
+     "as": "A line with a school.",
+     "rel": "style"
+    },
+    {
+     "to": "shorts",
+     "as": "Whose name you end up wearing.",
+     "rel": "kit"
+    }
+   ],
+   "sources": [
+    "s:thwp-มวยไทย"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:thwp-มวยไทย"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "camp-vs-school/camp-vs-school-kru-phon-narupai-with-his-twin-and-kru-lop-narupai-t-9a06d9a.jpg",
+     "source": "commons",
+     "title": "File:Kru Phon Narupai with his twin and Kru Lop Narupai training in Thailand - Dec 2021.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kru_Phon_Narupai_with_his_twin_and_Kru_Lop_Narupai_training_in_Thailand_-_Dec_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AKru_Phon_Narupai_with_his_twin_and_Kru_Lop_Narupai_training_in_Thailand_-_Dec_2021.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Dacuevas",
+     "credit": "Own work",
+     "alt": "Kru Phon Narupai (right) training alongside his twin brother Kru Lop Narupai (left) at a Muay Thai gym in Thailand. Both are legendary Muay Thai fighters and trainers from Thailand’s Golden Era. The p",
+     "date": "2021-12-07",
+     "primary": true,
+     "sha256": "33cf4798d78964183156f52f3b27c398dcd1322850b8a64b014825c9fa56439c"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "choosing-a-gym",
+     "type": "gym",
+     "name": "What to ask before paying a month",
+     "as": "The word for what you are buying."
+    },
+    {
+     "from": "ed-visa",
+     "type": "gym",
+     "name": "Training on a study visa",
+     "as": "Which word applies to it."
+    },
+    {
+     "from": "khru",
+     "type": "term",
+     "name": "khru",
+     "as": "Who has one."
+    }
+   ]
+  },
+  {
+   "id": "choosing-a-gym",
+   "type": "gym",
+   "names": {
+    "name": "What to ask before paying a month",
+    "th": "ถามอะไรก่อนจ่ายรายเดือน",
+    "rtgs": "tham arai kon chai rai duean",
+    "said": "Ask how many of their fighters fought this month. Then ask where.",
+    "said_th": "ถามว่าเดือนนี้นักมวยของเขาขึ้นชกกี่คน แล้วถามว่าที่ไหน"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "country": "th",
+    "price": "varies"
+   },
+   "text": {
+    "what": "Five questions, and what each answer tells you.",
+    "story": "**How many of your fighters fought this month, and where?** A camp that matches fighters is a camp inside the sport. A gym where nobody fights is a fitness class with Thai vocabulary, which is a fine thing to buy and a different thing.\n\n**Who holds pads for me, and are they the same person each time?** Pads are the session. A trainer who learns your habits is the whole difference between a month of training and a month of exercise.\n\n**How many people are in the afternoon session?** Two rounds of pads each is the constraint, and it is set by trainer-to-student ratio, not by the timetable on the wall.\n\n**Do beginners clinch here?** Clinching is where muay thai stops being kickboxing, and also where a first-timer gets hurt by accident. Both answers are legitimate; a gym with no answer is not paying attention.\n\n**What happens if I want to fight?** Ask even if you do not. The answer tells you whether the place has a route into the sport or only a route into its classes."
+   },
+   "text_th": {
+    "what": "ห้าคำถาม และคำตอบแต่ละข้อบอกอะไร",
+    "story": "**เดือนนี้นักมวยของคุณขึ้นชกกี่คน และที่ไหน** ค่ายที่จับคู่ชกให้นักมวยคือค่ายที่อยู่ในกีฬานี้จริง ยิมที่ไม่มีใครขึ้นชกคือคลาสออกกำลังกายที่ใช้คำศัพท์ไทย ซึ่งเป็นของที่ซื้อได้และเป็นคนละอย่าง\n\n**ใครถือเป้าให้ผม และเป็นคนเดิมทุกครั้งไหม** เป้าคือตัวการฝึก ครูที่จำนิสัยคุณได้คือความต่างทั้งหมดระหว่างการฝึกหนึ่งเดือนกับการออกกำลังหนึ่งเดือน\n\n**รอบบ่ายมีคนกี่คน** เป้าคนละสองยกคือข้อจำกัด และมันถูกกำหนดด้วยอัตราส่วนครูต่อนักเรียน ไม่ใช่ด้วยตารางบนผนัง\n\n**ที่นี่ให้มือใหม่จับคอตีไหม** วงในคือจุดที่มวยไทยเลิกเป็นคิกบ็อกซิ่ง และเป็นจุดที่คนมาใหม่เจ็บโดยอุบัติเหตุด้วย ทั้งสองคำตอบใช้ได้ ยิมที่ไม่มีคำตอบคือยิมที่ไม่ได้ใส่ใจ\n\n**ถ้าผมอยากขึ้นชกล่ะ** ถามแม้จะไม่อยาก คำตอบบอกว่าที่นั่นมีทางเข้าสู่กีฬานี้ หรือมีแค่ทางเข้าสู่คลาสของมัน"
+   },
+   "kin": [
+    {
+     "to": "camp-vs-school",
+     "as": "The word for what you are buying.",
+     "rel": "gym"
+    },
+    {
+     "to": "first-session",
+     "as": "What the first one is like.",
+     "rel": "drill"
+    },
+    {
+     "to": "the-gym-map",
+     "as": "Where the places are.",
+     "rel": "gym"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner",
+    "money"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "choosing-a-gym/choosing-a-gym-muay-thai-in-lamai-2.jpg",
+     "source": "commons",
+     "title": "File:Muay Thai in Lamai 2.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Muay_Thai_in_Lamai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3AMuay_Thai_in_Lamai_2.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Christophe95",
+     "credit": "Own work",
+     "alt": "Muay Thai in Lamai, Ko Samui.",
+     "date": "2018-06-09 23:02:36",
+     "primary": true,
+     "sha256": "972d5cdc8062ccb659d360c74caae65e221a73af18560f23c2ed67bfcb6bf899"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "camp-vs-school",
+     "type": "gym",
+     "name": "A camp is not a school",
+     "as": "What to ask."
+    },
+    {
+     "from": "ed-visa",
+     "type": "gym",
+     "name": "Training on a study visa",
+     "as": "What to ask the school."
+    },
+    {
+     "from": "first-session",
+     "type": "drill",
+     "name": "Your first session",
+     "as": "Before you pay for a month of them."
+    },
+    {
+     "from": "pads",
+     "type": "drill",
+     "name": "Pads",
+     "as": "The question to ask about it."
+    },
+    {
+     "from": "chiangmai",
+     "type": "place",
+     "name": "Chiang Mai",
+     "as": "What to ask before paying a month."
+    },
+    {
+     "from": "nak-muay",
+     "type": "term",
+     "name": "nak muay",
+     "as": "Becoming one."
+    }
+   ]
+  },
+  {
+   "id": "ed-visa",
+   "type": "gym",
+   "names": {
+    "name": "Training on a study visa",
+    "th": "วีซ่านักเรียนเพื่อฝึกมวย",
+    "rtgs": "wisa nakrian phuea fuek muay",
+    "said": "The visa list names muay thai courses in its own words.",
+    "said_th": "บัญชีประเภทวีซ่าระบุคำว่าหลักสูตรมวยไทยไว้เอง"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "country": "th"
+   },
+   "text": {
+    "what": "Thailand's non-immigrant visa categories include study, and a registered muay thai school can be the reason for one. This is a long-standing, ordinary arrangement, not a loophole.",
+    "story": "*Inference —* the reason this matters is arithmetic. A visa exemption stamp gives you weeks. Muay thai does not work in weeks: the shin needs months, the clinch needs months, and every fighter on this site started as a child and trained daily for years. Anyone serious about training in Thailand runs into the visa before they run into a plateau.\n\nWhat this project can say is what the categories are, because they are published. **What it does not have on this disk:** current fees, current processing times, the current list of schools approved to sponsor, the current in-country extension rules, or what changed last month. Those move, they move without notice, and a page that printed them would be wrong before the next reader arrived.\n\n**Who to ask.** The people who publish this site also run **[Chiang Mai Visa Desk](https://chiangmaivisadesk.com/)**, which answers visa questions for Thailand, and is happy to take one about training. That is a sibling business, said so plainly: it is the publisher's own, not an independent recommendation and not a paid placement by anybody else.",
+    "how": "Two categories are relevant and they are not the same thing.\n\n**Type ED** is the study visa — *to study; to come on a work study tour or observation tour; to participate in projects or seminars; to attend a conference or training course; to study as a foreign Buddhist monk*.\n\n**Type B** is the business category, and its own published description includes **\"attend scuba diving, muay Thai, and massage courses\"** — the sport is named, in the list, by the state.\n\nWhich one a given school sponsors depends on how that school is registered, and that is the question to ask before paying anyone."
+   },
+   "text_th": {
+    "what": "ประเภทวีซ่าคนอยู่ชั่วคราวของไทยมีประเภทเพื่อการศึกษา และโรงเรียนมวยไทยที่จดทะเบียนเป็นเหตุผลของวีซ่านั้นได้ นี่เป็นการจัดการที่มีมานานและเป็นเรื่องปกติ ไม่ใช่ช่องโหว่",
+    "story": "*อนุมาน —* เหตุที่เรื่องนี้สำคัญคือการคิดเลข ตราประทับนักท่องเที่ยวให้เวลาเป็นสัปดาห์ มวยไทยไม่ทำงานในหน่วยสัปดาห์ แข้งต้องใช้เดือน วงในต้องใช้เดือน และนักมวยทุกคนบนเว็บนี้เริ่มตั้งแต่เด็กและซ้อมทุกวันเป็นปี ใครที่จริงจังกับการฝึกในเมืองไทยจะชนเรื่องวีซ่าก่อนจะชนกำแพงฝีมือ\n\nสิ่งที่โครงการนี้พูดได้คือประเภทวีซ่ามีอะไรบ้าง เพราะมันเผยแพร่ไว้ **สิ่งที่ไม่มีอยู่บนดิสก์นี้** คือค่าธรรมเนียมปัจจุบัน ระยะเวลาดำเนินการปัจจุบัน รายชื่อโรงเรียนที่ได้รับอนุมัติให้ออกเอกสารในปัจจุบัน กฎการต่ออายุในประเทศปัจจุบัน หรืออะไรที่เปลี่ยนไปเมื่อเดือนที่แล้ว สิ่งเหล่านี้ขยับ ขยับโดยไม่บอกล่วงหน้า และหน้าที่พิมพ์มันไว้จะผิดก่อนผู้อ่านคนถัดไปจะมาถึง\n\n**ถามใคร** คนกลุ่มเดียวกับที่จัดทำเว็บนี้ทำ **[Chiang Mai Visa Desk](https://chiangmaivisadesk.com/)** ซึ่งตอบคำถามเรื่องวีซ่าประเทศไทย และยินดีรับคำถามเรื่องการฝึกมวยด้วย นั่นเป็นธุรกิจในเครือ และบอกไว้ตรง ๆ มันเป็นของผู้จัดทำเอง ไม่ใช่คำแนะนำจากคนนอก และไม่ใช่การลงโฆษณาที่ใครจ่ายมา",
+    "how": "มีสองประเภทที่เกี่ยวข้อง และไม่ใช่สิ่งเดียวกัน\n\n**ประเภท ED** คือวีซ่าเพื่อการศึกษา *เพื่อศึกษา ดูงาน เข้าร่วมโครงการหรือสัมมนา เข้าประชุมหรือหลักสูตรฝึกอบรม หรือศึกษาในฐานะพระภิกษุชาวต่างชาติ*\n\n**ประเภท B** คือประเภทธุรกิจ และคำอธิบายที่เผยแพร่ของมันรวม **\"เข้าร่วมหลักสูตรดำน้ำ มวยไทย และนวด\"** ไว้ด้วย รัฐระบุชื่อกีฬานี้ไว้ในบัญชีเอง\n\nโรงเรียนแห่งใดออกประเภทไหนขึ้นอยู่กับว่าโรงเรียนนั้นจดทะเบียนอย่างไร และนั่นคือคำถามที่ควรถามก่อนจ่ายเงินให้ใคร"
+   },
+   "kin": [
+    {
+     "to": "choosing-a-gym",
+     "as": "What to ask the school.",
+     "rel": "gym"
+    },
+    {
+     "to": "camp-vs-school",
+     "as": "Which word applies to it.",
+     "rel": "gym"
+    },
+    {
+     "to": "first-session",
+     "as": "What you are staying for.",
+     "rel": "drill"
+    },
+    {
+     "to": "chiangmai",
+     "as": "Where the desk is.",
+     "rel": "place"
+    }
+   ],
+   "links": [
+    {
+     "label": "Chiang Mai Visa Desk",
+     "url": "https://chiangmaivisadesk.com/"
+    }
+   ],
+   "sources": [
+    "s:wp-visa-policy-of-thailand",
+    "s:cmvd"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-visa-policy-of-thailand"
+    },
+    "fields": {
+     "text.story": {
+      "tier": "inference",
+      "note": "the visa categories are cited; the note about the publisher's own service is a disclosure, not a claim about the service"
+     },
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "needs_verification": true,
+   "tags": [
+    "beginner",
+    "money"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "kin_in": []
+  },
+  {
+   "id": "the-gym-map",
+   "type": "gym",
+   "names": {
+    "name": "Every gym on the map",
+    "th": "ทุกยิมบนแผนที่",
+    "rtgs": "thuk yim bon phaenthi",
+    "said": "527 places in 58 countries. The sport's own OpenStreetMap tag found fewer than half of them.",
+    "said_th": "527 แห่งใน 58 ประเทศ แท็ก OpenStreetMap ของกีฬานี้เองหาเจอไม่ถึงครึ่ง"
+   },
+   "region": [
+    "world"
+   ],
+   "facets": {
+    "country": "world"
+   },
+   "text": {
+    "what": "A census of everywhere OpenStreetMap knows muay thai is trained, worldwide, taken two ways at once and then compared.",
+    "story": "**527 rows, 58 countries.** Thailand 113, the United States 67, Brazil 64, the United Kingdom 31, Germany 30, Canada 28, Spain 16.\n\n**The tag found 275 and the names found 252 more.** Only 53 rows carry both. The sport's own key, `sport=muay_thai`, is used 49 times in the whole database according to taginfo — so more than half of what is on the map is there because a gym put the word in its own name, not because a mapper reached for the right key.\n\n**And the floor is far below the number.** The English article records **more than 3,800 muay thai gyms overseas in 2020**. The map has 414 outside Thailand. This is a census of OpenStreetMap, not of the sport, and it is short by an order of magnitude.\n\n*Inference —* the shape is still worth having. Brazil with 64 and the Netherlands and France between them with dozens is the K-1 and Chute Boxe inheritance showing up in a volunteer map twenty years later.",
+    "how": "Two Overpass queries. One asks for the tag — `sport=muay_thai` and its spellings. One asks for the name — anything carrying *muay*, มวย, ムエタイ, 무에타이, муай, 泰拳, *thaibox* or *boxe thaï*. Country comes from point-in-polygon against Natural Earth at 1:50m, not from a geocoder.",
+    "notes": "Three traps, all found and all kept out of the count. Thai is written without spaces, so มวย matches inside หมวย — Muay, a nickname — and inside มวยผม, a bun of hair: twenty of the first Thai matches were noodle shops, a butcher, a beauty salon and two statues of the earth goddess wringing out her hair. In Latin script *muay* matches inside Turkish *muayene*, a medical or vehicle inspection, forty times over, and inside Filipino *Pamuayan* and Indonesian *Mamuaya*. Matching at word level and requiring a facility tag clears all three; 209 rows were dropped and every reason is in the harvest file."
+   },
+   "text_th": {
+    "what": "สำมะโนของทุกที่ที่ OpenStreetMap รู้ว่ามีการฝึกมวยไทย ทั่วโลก เก็บสองวิธีพร้อมกันแล้วนำมาเทียบ",
+    "story": "**527 แถว 58 ประเทศ** ไทย 113 สหรัฐอเมริกา 67 บราซิล 64 สหราชอาณาจักร 31 เยอรมนี 30 แคนาดา 28 สเปน 16\n\n**แท็กหาเจอ 275 ส่วนชื่อหาเจอเพิ่มอีก 252** มีเพียง 53 แถวที่มีทั้งสองอย่าง คีย์ของกีฬานี้เอง `sport=muay_thai` ถูกใช้ 49 ครั้งในฐานข้อมูลทั้งหมดตามที่ taginfo ระบุ มากกว่าครึ่งของสิ่งที่อยู่บนแผนที่จึงอยู่ตรงนั้นเพราะยิมใส่คำนั้นไว้ในชื่อของตัวเอง ไม่ใช่เพราะคนทำแผนที่หยิบคีย์ที่ถูกมาใช้\n\n**และพื้นอยู่ต่ำกว่าตัวเลขนี้มาก** บทความภาษาอังกฤษบันทึกว่ามี **ยิมมวยไทยในต่างประเทศมากกว่า 3,800 แห่งในปี 2563** แผนที่มี 414 แห่งนอกประเทศไทย นี่คือสำมะโนของ OpenStreetMap ไม่ใช่ของกีฬานี้ และขาดไปหนึ่งหลัก\n\n*อนุมาน —* รูปร่างของมันยังมีค่าอยู่ดี บราซิล 64 แห่ง กับเนเธอร์แลนด์และฝรั่งเศสรวมกันอีกหลายสิบ คือมรดกของ K-1 และ Chute Boxe ที่โผล่ขึ้นมาในแผนที่อาสาสมัครหลังจากนั้นยี่สิบปี",
+    "how": "คำสั่งค้นสองชุดบน Overpass ชุดหนึ่งถามหาแท็ก `sport=muay_thai` และการสะกดแบบอื่น อีกชุดถามหาชื่อ อะไรก็ตามที่มีคำว่า muay, มวย, ムエタイ, 무에타이, муай, 泰拳, thaibox หรือ boxe thaï ประเทศได้จากการทดสอบจุดในรูปหลายเหลี่ยมกับ Natural Earth มาตราส่วน 1:50m ไม่ได้ถามเครื่องระบุพิกัด"
+   },
+   "kin": [
+    {
+     "to": "chiangmai",
+     "as": "Fourteen of them.",
+     "rel": "place"
+    },
+    {
+     "to": "the-roster",
+     "as": "The same exercise on people.",
+     "rel": "person"
+    },
+    {
+     "to": "buakaw",
+     "as": "One reason for the shape.",
+     "rel": "person"
+    },
+    {
+     "to": "mae-sariang-ring",
+     "as": "One of the eighteen stadiums.",
+     "rel": "venue"
+    }
+   ],
+   "sources": [
+    "s:osm-gyms",
+    "s:taginfo",
+    "s:wp-muay-thai",
+    "s:naturalearth"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "harvested",
+     "source": "s:osm-gyms"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "high",
+   "tags": [
+    "counted",
+    "abroad"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "images": [
+    {
+     "file": "the-gym-map/the-gym-map-pumphanmaunggyms.jpg",
+     "source": "commons",
+     "title": "File:Pumphanmaunggyms.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pumphanmaunggyms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3APumphanmaunggyms.jpg",
+     "license": "CC BY-SA 4.0",
+     "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+     "author": "Wonmerome",
+     "credit": "Own work",
+     "alt": "In side S. Pumphanmaung gym.",
+     "date": "2016-11-15",
+     "primary": true,
+     "sha256": "de5e04a92cdc5c9d039145d19c8b48f9cb32f1e066e492efa5643093f462ca4f"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "changpuek-vs-roufus",
+     "type": "bout",
+     "name": "Changpuek and Rick Roufus, Las Vegas 1988",
+     "as": "What followed abroad."
+    },
+    {
+     "from": "buakaw",
+     "type": "person",
+     "name": "Buakaw Banchamek",
+     "as": "The export, counted."
+    },
+    {
+     "from": "the-roster",
+     "type": "person",
+     "name": "Who the record remembers",
+     "as": "The same exercise, on the map."
+    },
+    {
+     "from": "mae-sariang-ring",
+     "type": "venue",
+     "name": "The ring at Mae Sariang",
+     "as": "Where the count comes from."
+    },
+    {
+     "from": "choosing-a-gym",
+     "type": "gym",
+     "name": "What to ask before paying a month",
+     "as": "Where the places are."
+    },
+    {
+     "from": "what-we-did-not-do",
+     "type": "story",
+     "name": "What this site does not have",
+     "as": "The count that is short."
+    },
+    {
+     "from": "ww1-france",
+     "type": "story",
+     "name": "Thai troops in France, 1914–18",
+     "as": "Where it ended up."
+    },
+    {
+     "from": "chiangmai",
+     "type": "place",
+     "name": "Chiang Mai",
+     "as": "Where the count comes from."
+    },
+    {
+     "from": "ong-bak",
+     "type": "art",
+     "name": "Ong-Bak",
+     "as": "What it did to the count abroad."
+    }
+   ]
+  }
+ ]
+}

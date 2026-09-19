@@ -1,0 +1,708 @@
+{
+ "type": "drill",
+ "count": 7,
+ "nodes": [
+  {
+   "id": "bag-work",
+   "type": "drill",
+   "names": {
+    "name": "The bag",
+    "th": "กระสอบทราย",
+    "rtgs": "krasop sai"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "bag"
+   },
+   "text": {
+    "what": "Rounds on a heavy bag: power, and the bone.",
+    "story": "The bag is where the shin is made. Repeated striking of a dense object thickens the bone — cortical remodelling — and there is no shortcut and no bottle of anything that does it faster.\n\n*Inference —* bag rounds come after pads because the point is throwing hard while tired, which is the fourth round of a fight."
+   },
+   "text_th": {
+    "what": "ซ้อมกระสอบเป็นยก ทั้งแรงและกระดูก",
+    "story": "กระสอบคือที่ที่แข้งถูกสร้าง การกระแทกของแข็งซ้ำ ๆ ทำให้กระดูกหนาขึ้น คือการปรับรูปของชั้นคอร์เทกซ์ ไม่มีทางลัดและไม่มีขวดอะไรที่ทำให้เร็วขึ้น\n\n*อนุมาน —* ยกกระสอบมาหลังเป้า เพราะประเด็นคือการออกอาวุธหนัก ๆ ทั้งที่เหนื่อย ซึ่งคือยกสี่ของไฟต์"
+   },
+   "kin": [
+    {
+     "to": "shin",
+     "as": "What is being built.",
+     "rel": "weapon"
+    },
+    {
+     "to": "first-session",
+     "as": "The order it all comes in.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "bag",
+    "minutes": "4–6 rounds",
+    "when": "After pads, when you are already tired.",
+    "hurts": "Your shins."
+   },
+   "images": [
+    {
+     "file": "bag-work/bag-work-learning-muay-thai-with-royal-thai-marines-160213-m-abebdde.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-053.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-053.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-053.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421321/learning-muay-thai-with-royal-thai-marines",
+     "alt": "Royal Thai Marines demonstrate Muay Thai techniques to U.S., Royal Thai and Republic of Korea Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016. CG 16 is a multinational training exerc",
+     "date": "2016-02-11",
+     "primary": true,
+     "sha256": "c276ad3da78fc23b9adc9ac3b9d2e9f47200d44f223843a51ceb8c7c22f3bb66"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "shin",
+     "type": "weapon",
+     "name": "The shin",
+     "as": "Where the bone is made."
+    }
+   ]
+  },
+  {
+   "id": "clinch-work",
+   "type": "drill",
+   "names": {
+    "name": "Clinch",
+    "th": "ซ้อมวงใน",
+    "rtgs": "som wong nai"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "clinch"
+   },
+   "text": {
+    "what": "Two people fighting for the inside position, over and over, until the session ends.",
+    "story": "It is the least fun thing in the gym and the part that separates this sport from kickboxing. A round of clinch with someone better than you is twenty minutes of being moved around by the head.\n\n*Inference —* it is also the thing that does not transfer from any other striking art, and so the thing a visiting kickboxer is worst at on day one."
+   },
+   "text_th": {
+    "what": "สองคนแย่งตำแหน่งวงในซ้ำแล้วซ้ำเล่าจนหมดรอบ",
+    "story": "มันคือสิ่งที่สนุกน้อยที่สุดในยิม และเป็นส่วนที่แยกกีฬานี้ออกจากคิกบ็อกซิ่ง หนึ่งยกวงในกับคนที่เก่งกว่าคือยี่สิบนาทีของการถูกจับหัวเหวี่ยงไปมา\n\n*อนุมาน —* มันยังเป็นสิ่งที่ถ่ายโอนมาจากศิลปะการต่อสู้แบบยืนอื่น ๆ ไม่ได้เลย จึงเป็นสิ่งที่นักคิกบ็อกซิ่งที่มาเยือนทำได้แย่ที่สุดในวันแรก"
+   },
+   "kin": [
+    {
+     "to": "clinch",
+     "as": "What is being trained.",
+     "rel": "move"
+    },
+    {
+     "to": "first-session",
+     "as": "The order it all comes in.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "clinch",
+    "minutes": "10–20 min",
+    "when": "End of the session, when nobody has anything left.",
+    "hurts": "Your neck."
+   },
+   "images": [
+    {
+     "file": "clinch-work/clinch-work-learning-muay-thai-with-royal-thai-marines-160213-m-d527180.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-077.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-077.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-077.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421337/learning-muay-thai-with-royal-thai-marines",
+     "alt": "U.S. Marine Corps Sgt. Absalom Burton, with Maritime Raid Force, 31st Marine Expeditionary Unit, practices Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip,",
+     "date": "2016-02-11",
+     "primary": true,
+     "sha256": "f4f58cbeb8514da1a2a9e7bcfdbe5cd39a2c6e72c43af52ceb2ec827fc975b5d"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "clinch",
+     "type": "move",
+     "name": "The clinch",
+     "as": "How it is trained."
+    }
+   ]
+  },
+  {
+   "id": "first-session",
+   "type": "drill",
+   "names": {
+    "name": "Your first session",
+    "th": "รอบซ้อมแรกของคุณ",
+    "rtgs": "rop som raek khong khun",
+    "said": "Two hours, twice a day, and the second day is worse than the first.",
+    "said_th": "สองชั่วโมง วันละสองรอบ และวันที่สองแย่กว่าวันแรก"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "road",
+    "price": "cheap"
+   },
+   "text": {
+    "what": "What actually happens, in order, at a gym in Thailand that takes walk-ins.",
+    "story": "Two things nobody tells a first-timer.\n\n**The shin hurts before the lungs do.** A shin that has never hit anything will bruise on a pad on day one and the bruise is on the bone.\n\n**Two rounds of pads is not a small amount.** A pad round is three minutes of throwing everything you have at a man who is also hitting you back with the pads. Two of those is the ceiling for a beginner and a trainer who gives you five is not being generous.\n\n*Inference —* the second morning is the test. Everybody gets through the first session on adrenaline; the gyms are full of people who did one and full of people who did sixty, and almost nobody in between.",
+    "how": "Run. Skip. Shadow. Wrap hands. Oil on the legs. Two rounds of pads, or three. Bag. Clinch if they clinch beginners. Sit-ups nobody counts. Stretch. Two hours."
+   },
+   "text_th": {
+    "what": "สิ่งที่เกิดขึ้นจริง เรียงตามลำดับ ที่ยิมในเมืองไทยที่รับคนเดินเข้าไป",
+    "story": "สองเรื่องที่ไม่มีใครบอกคนมาครั้งแรก\n\n**แข้งเจ็บก่อนปอด** แข้งที่ไม่เคยกระแทกอะไรจะช้ำจากเป้าตั้งแต่วันแรก และรอยช้ำนั้นอยู่บนกระดูก\n\n**เป้าสองยกไม่ใช่น้อย** หนึ่งยกเป้าคือสามนาทีของการออกทุกอย่างที่มีใส่ชายที่ตีกลับด้วยเป้าเหมือนกัน สองยกคือเพดานของผู้เริ่มต้น และครูที่ให้คุณห้ายกไม่ได้กำลังใจดี\n\n*อนุมาน —* เช้าวันที่สองคือบททดสอบ ทุกคนผ่านรอบแรกได้ด้วยอะดรีนาลีน ยิมเต็มไปด้วยคนที่ซ้อมไปหนึ่งรอบ และเต็มไปด้วยคนที่ซ้อมไปหกสิบรอบ และแทบไม่มีใครอยู่ตรงกลาง",
+    "how": "วิ่ง กระโดดเชือก ชกลม พันมือ ทาน้ำมันที่ขา ซ้อมเป้าสองยก หรือสามยก กระสอบ จับคอตีถ้าที่นั่นให้มือใหม่ทำ ซิตอัพที่ไม่มีใครนับ ยืดเส้น สองชั่วโมง"
+   },
+   "kin": [
+    {
+     "to": "pads",
+     "as": "The part that matters.",
+     "rel": "drill"
+    },
+    {
+     "to": "roadwork",
+     "as": "How it opens.",
+     "rel": "drill"
+    },
+    {
+     "to": "nam-man-muay",
+     "as": "What goes on your legs.",
+     "rel": "kit"
+    },
+    {
+     "to": "choosing-a-gym",
+     "as": "Before you pay for a month of them.",
+     "rel": "gym"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "inference",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "road",
+    "minutes": "120",
+    "when": "06:30 or 16:00",
+    "hurts": "Shins, then hip flexors, then everything."
+   },
+   "images": [
+    {
+     "file": "first-session/first-session-learning-muay-thai-with-royal-thai-marines-160213-m-e13647c.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-016.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-016.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421246/learning-muay-thai-with-royal-thai-marines",
+     "alt": "Service members from the Royal Thai, Republic of Korea, and U.S. Marines practice Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016.",
+     "date": "Taken on 13 February 2016",
+     "primary": true,
+     "sha256": "5ae4e1222cad54bc742fbce78e57beea07bd04a9153f6cd81b3429b0ceedecdb"
+    },
+    {
+     "file": "first-session/first-session-learning-muay-thai-with-royal-thai-marines-160213-m-3b8ef30.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-030.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-030.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421346/learning-muay-thai-with-royal-thai-marines",
+     "alt": "U.S. Marine Corps Sgt. Absalom Burton, with Maritime Raid Force, 31st Marine Expeditionary Unit, practices Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip,",
+     "date": "2016-02-11",
+     "primary": false,
+     "sha256": "49e353fdc3485ef2caca1e6697856b83a78f5bbfe67533d0ae6903e9878f6cd2"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "choosing-a-gym",
+     "type": "gym",
+     "name": "What to ask before paying a month",
+     "as": "What the first one is like."
+    },
+    {
+     "from": "ed-visa",
+     "type": "gym",
+     "name": "Training on a study visa",
+     "as": "What you are staying for."
+    },
+    {
+     "from": "bag-work",
+     "type": "drill",
+     "name": "The bag",
+     "as": "The order it all comes in."
+    },
+    {
+     "from": "clinch-work",
+     "type": "drill",
+     "name": "Clinch",
+     "as": "The order it all comes in."
+    },
+    {
+     "from": "pads",
+     "type": "drill",
+     "name": "Pads",
+     "as": "The order it all comes in."
+    },
+    {
+     "from": "roadwork",
+     "type": "drill",
+     "name": "Roadwork",
+     "as": "Where it sits."
+    },
+    {
+     "from": "roadwork",
+     "type": "drill",
+     "name": "Roadwork",
+     "as": "The order it all comes in."
+    },
+    {
+     "from": "shadow",
+     "type": "drill",
+     "name": "Skipping and shadow",
+     "as": "Where it sits."
+    },
+    {
+     "from": "shadow",
+     "type": "drill",
+     "name": "Skipping and shadow",
+     "as": "The order it all comes in."
+    },
+    {
+     "from": "sparring",
+     "type": "drill",
+     "name": "Sparring",
+     "as": "The order it all comes in."
+    },
+    {
+     "from": "nam-man-muay",
+     "type": "kit",
+     "name": "The oil",
+     "as": "What happens to you in it."
+    },
+    {
+     "from": "head-injury",
+     "type": "issue",
+     "name": "What ten years of kicks does",
+     "as": "What a beginner is walking into."
+    }
+   ]
+  },
+  {
+   "id": "pads",
+   "type": "drill",
+   "names": {
+    "name": "Pads",
+    "th": "เตะเป้า",
+    "rtgs": "te pao"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "pads"
+   },
+   "text": {
+    "what": "Rounds with a trainer holding Thai pads — thick forearm shields — calling combinations and hitting back.",
+    "story": "This is the session. A pad round is a conversation: the trainer calls, you throw, he corrects by hitting the gap you left. He wears a belly pad so the body kick and the knee have somewhere to go at any moment.\n\n*Inference —* the quality of a gym is the quality of its pad holders and the number of students per one of them. Everything else in the timetable you could do in a park."
+   },
+   "text_th": {
+    "what": "ซ้อมกับครูที่ถือเป้ามวย คือเป้าหนาสวมท่อนแขน เรียกชุดอาวุธและตีสวนกลับ",
+    "story": "นี่คือตัวการซ้อม หนึ่งยกเป้าคือการสนทนา ครูเรียก คุณออกอาวุธ เขาแก้ด้วยการตีเข้าช่องที่คุณเปิดไว้ เขาใส่เป้าท้องไว้ด้วย เพื่อให้เตะลำตัวและเข่ามีที่ไปได้ทุกเมื่อ\n\n*อนุมาน —* คุณภาพของยิมคือคุณภาพของคนถือเป้า และจำนวนนักเรียนต่อคนถือเป้าหนึ่งคน ที่เหลือในตารางคุณไปทำที่สวนสาธารณะก็ได้"
+   },
+   "kin": [
+    {
+     "to": "choosing-a-gym",
+     "as": "The question to ask about it.",
+     "rel": "gym"
+    },
+    {
+     "to": "te-chiang",
+     "as": "What is being built.",
+     "rel": "move"
+    },
+    {
+     "to": "first-session",
+     "as": "The order it all comes in.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "pads",
+    "minutes": "3–5 rounds",
+    "when": "The middle of the session, and the reason you paid.",
+    "hurts": "Everything."
+   },
+   "images": [
+    {
+     "file": "pads/pads-learning-muay-thai-with-royal-thai-marines-160213-m-baf2866.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-047.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-047.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-047.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421301/learning-muay-thai-with-royal-thai-marines",
+     "alt": "Service members from the Royal Thai, Republic of Korea, and U.S. Marines practice Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016.",
+     "date": "Taken on 13 February 2016",
+     "primary": true,
+     "sha256": "48d4f9e3dfafed922da349756c8b0508e660294e514d27e1578679534476577d"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "te-chiang",
+     "type": "move",
+     "name": "The round kick",
+     "as": "Where it is built."
+    },
+    {
+     "from": "first-session",
+     "type": "drill",
+     "name": "Your first session",
+     "as": "The part that matters."
+    }
+   ]
+  },
+  {
+   "id": "roadwork",
+   "type": "drill",
+   "names": {
+    "name": "Roadwork",
+    "th": "วิ่ง",
+    "rtgs": "wing"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "road"
+   },
+   "text": {
+    "what": "Running, twice a day, before the heat and after it.",
+    "story": "Both sessions open with it. The morning run is before six because after six it is thirty degrees and climbing.\n\n*Inference —* it is not conditioning in the gym-programme sense. It is the thing that makes five rounds possible, and it is the first thing a fighter who is about to lose has already stopped doing."
+   },
+   "text_th": {
+    "what": "การวิ่ง วันละสองรอบ ก่อนแดดและหลังแดด",
+    "story": "ทั้งสองรอบเปิดด้วยการวิ่ง รอบเช้าก่อนหกโมงเพราะหลังหกโมงอุณหภูมิสามสิบองศาและกำลังขึ้น\n\n*อนุมาน —* มันไม่ใช่การสร้างความฟิตแบบโปรแกรมในยิม มันคือสิ่งที่ทำให้ห้ายกเป็นไปได้ และเป็นสิ่งแรกที่นักมวยซึ่งกำลังจะแพ้ได้เลิกทำไปแล้ว"
+   },
+   "kin": [
+    {
+     "to": "first-session",
+     "as": "Where it sits.",
+     "rel": "drill"
+    },
+    {
+     "to": "first-session",
+     "as": "The order it all comes in.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "road",
+    "minutes": "5–10 km",
+    "when": "Before dawn, and again in the afternoon.",
+    "hurts": "Your calves, tomorrow."
+   },
+   "images": [
+    {
+     "file": "roadwork/roadwork-learning-muay-thai-with-royal-thai-marines-160213-m-89f1235.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-005.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-005.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421216/learning-muay-thai-with-royal-thai-marines",
+     "alt": "U.S. Marine Corps Sgt. Absalom Burton with Maritime Raid Force, 31st Marine Expeditionary Unit practices Muay Thai techniques with Royal Thai Reconnaissance Marines during Cobra Gold 16 at Sattahip, T",
+     "date": "Taken on 13 February 2016",
+     "primary": true,
+     "sha256": "ce27ba973ebaad3c2d9c5ba636cdfa6c0179db5c96205f9181026f607c101b6d"
+    }
+   ],
+   "kin_in": [
+    {
+     "from": "first-session",
+     "type": "drill",
+     "name": "Your first session",
+     "as": "How it opens."
+    }
+   ]
+  },
+  {
+   "id": "shadow",
+   "type": "drill",
+   "names": {
+    "name": "Skipping and shadow",
+    "th": "กระโดดเชือกและชกลม",
+    "rtgs": "kradot chueak lae chok lom"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "shadow"
+   },
+   "text": {
+    "what": "Rope, then shadow boxing — the movements thrown at nobody.",
+    "story": "Shadow is where the shape is fixed, because nothing is pushing back. A trainer watching shadow is watching the hips on the kick and the hand that drops.\n\n*Inference —* it is also the only part of the session a beginner can do wrong for a month without finding out."
+   },
+   "text_th": {
+    "what": "กระโดดเชือก แล้วชกลม คือการออกอาวุธใส่ความว่างเปล่า",
+    "story": "ชกลมคือที่ที่รูปทรงถูกจัด เพราะไม่มีอะไรดันกลับ ครูที่ยืนดูชกลมคือคนที่กำลังดูสะโพกตอนเตะและมือที่ตก\n\n*อนุมาน —* มันยังเป็นส่วนเดียวของการซ้อมที่ผู้เริ่มต้นทำผิดได้เป็นเดือนโดยไม่รู้ตัว"
+   },
+   "kin": [
+    {
+     "to": "first-session",
+     "as": "Where it sits.",
+     "rel": "drill"
+    },
+    {
+     "to": "first-session",
+     "as": "The order it all comes in.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "shadow",
+    "minutes": "15–20 min",
+    "when": "After the run, before anything is hit.",
+    "hurts": "Nothing. That is the point."
+   },
+   "images": [
+    {
+     "file": "shadow/shadow-learning-muay-thai-with-royal-thai-marines-160213-m-19aade7.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-035.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-035.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421271/learning-muay-thai-with-royal-thai-marines",
+     "alt": "Royal Thai Marines demonstrate Muay Thai techniques to U.S., Royal Thai and Republic of Korea Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016. CG 16 is a multinational training exerc",
+     "date": "Taken on 13 February 2016",
+     "primary": true,
+     "sha256": "ef2b3a12158100c41042ec74508c68bb27284d0976b8ceeeda7124037589778e"
+    }
+   ],
+   "kin_in": []
+  },
+  {
+   "id": "sparring",
+   "type": "drill",
+   "names": {
+    "name": "Sparring",
+    "th": "สปาร์",
+    "rtgs": "spa"
+   },
+   "region": [
+    "thailand"
+   ],
+   "facets": {
+    "part": "spar"
+   },
+   "text": {
+    "what": "Light to medium contact, because a fighter with a card booked cannot afford to be hurt in the gym.",
+    "story": "The English article is clear that sparring is \"often a light to medium contact exercise\" for exactly that reason, and that specific things get trained in it — close range, clinch and knees only, cutting off the ring, keeping an aggressor at distance.\n\n*Inference —* a gym where the sparring is hard every day is a gym that is not preparing anyone for anything."
+   },
+   "text_th": {
+    "what": "สัมผัสเบาถึงปานกลาง เพราะนักมวยที่มีคิวชกเสียเวลากับการบาดเจ็บในยิมไม่ได้",
+    "story": "บทความภาษาอังกฤษระบุชัดว่าการสปาร์ \"มักเป็นการฝึกสัมผัสเบาถึงปานกลาง\" ด้วยเหตุผลนั้นพอดี และมีเรื่องเฉพาะที่ฝึกในนั้น ทั้งระยะประชิด การจับคอตีและเข่าอย่างเดียว การต้อนเข้ามุม และการกันคนบุกไว้นอกระยะ\n\n*อนุมาน —* ยิมที่สปาร์หนักทุกวันคือยิมที่ไม่ได้เตรียมใครไปทำอะไรทั้งนั้น"
+   },
+   "kin": [
+    {
+     "to": "head-injury",
+     "as": "Why the contact is light.",
+     "rel": "issue"
+    },
+    {
+     "to": "first-session",
+     "as": "The order it all comes in.",
+     "rel": "drill"
+    }
+   ],
+   "sources": [
+    "s:wp-muay-thai"
+   ],
+   "provenance": {
+    "default": {
+     "tier": "cited",
+     "source": "s:wp-muay-thai"
+    },
+    "fields": {
+     "text_th": {
+      "tier": "inference",
+      "note": "written in Thai by this project, not machine-translated"
+     }
+    }
+   },
+   "confidence": "medium",
+   "tags": [
+    "beginner"
+   ],
+   "schema": 1,
+   "updated": "2026-09-19",
+   "session": {
+    "part": "spar",
+    "minutes": "3–5 rounds",
+    "when": "Two or three times a week, not every day.",
+    "hurts": "Less than you expect, if it is done right."
+   },
+   "images": [
+    {
+     "file": "sparring/sparring-learning-muay-thai-with-royal-thai-marines-160213-m-8d91170.jpg",
+     "source": "commons",
+     "title": "File:Learning Muay Thai with Royal Thai Marines 160213-M-CX588-083.jpg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Learning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "page_url": "https://commons.wikimedia.org/wiki/File%3ALearning_Muay_Thai_with_Royal_Thai_Marines_160213-M-CX588-083.jpg",
+     "license": "Public domain",
+     "license_url": "https://en.wikipedia.org/wiki/Public_domain",
+     "author": "Gunnery Sgt. Ismael Pena",
+     "credit": "https://www.dvidshub.net/image/2421338/learning-muay-thai-with-royal-thai-marines",
+     "alt": "Royal Thai Marines demonstrate a Muay Thai martial arts techniques to U.S., Royal Thai and Republic of Korea Marines during Cobra Gold 16 at Sattahip, Thailand, Feb. 11, 2016. CG 16 is a multinational",
+     "date": "2016-02-11",
+     "primary": true,
+     "sha256": "6876d13e0b7ce01b54003edf2f763f1ce7a8476ebcb62933f1fd7a06384eea5f"
+    }
+   ],
+   "kin_in": []
+  }
+ ]
+}

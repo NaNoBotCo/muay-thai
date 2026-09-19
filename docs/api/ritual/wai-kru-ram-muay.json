@@ -1,0 +1,177 @@
+{
+ "id": "wai-kru-ram-muay",
+ "type": "ritual",
+ "names": {
+  "name": "The dance before the fight",
+  "th": "ไหว้ครูรำมวย",
+  "rtgs": "wai khru ram muay",
+  "said": "Four minutes of not fighting, and it is not a warm-up.",
+  "said_th": "สี่นาทีที่ไม่ได้ชก และไม่ใช่การวอร์ม"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "worn": "ring"
+ },
+ "text": {
+  "what": "Two halves. *Wai khru* is paying respect to the teacher — kneeling, bowing three times toward the corner. *Ram muay* is the dance that follows, which is the fighter's own and belongs to his gym.",
+  "story": "*Wai khru* is not a boxing ritual. The Thai article on it lists the same ceremony for school teachers, for shadow puppetry, for krabi-krabong, and for writing poetry: the form belongs to apprenticeship in general, and boxing is one of its borrowers.\n\nWhat the fighter is doing in the second half is more specific. A ram muay is taught, it is a gym's signature, and a Thai watching can often name the camp from it. It also tells the other corner something: a man who takes his time in the dance is making a statement about his own composure while the other man stands there in the cold.\n\n*Inference —* the reason the ceremony survived professionalisation intact, when the rope, the bare feet and the open-weight matchmaking all went, is that it costs the promoter nothing and fills four minutes of a television slot."
+ },
+ "text_th": {
+  "what": "สองส่วน *ไหว้ครู* คือการคารวะครู คุกเข่า กราบสามครั้งไปทางมุมของตน *รำมวย* คือการรำที่ตามมา ซึ่งเป็นของนักมวยเองและเป็นของค่ายเขา",
+  "story": "*ไหว้ครู* ไม่ใช่พิธีของมวย บทความไทยว่าด้วยเรื่องนี้ระบุพิธีเดียวกันสำหรับครูในโรงเรียน สำหรับหนังตะลุง สำหรับกระบี่กระบอง และสำหรับการประพันธ์ รูปแบบนี้เป็นของการเป็นศิษย์โดยทั่วไป มวยเป็นผู้ยืมมาใช้รายหนึ่ง\n\nสิ่งที่นักมวยทำในครึ่งหลังเฉพาะเจาะจงกว่านั้น รำมวยเป็นสิ่งที่ถูกสอน เป็นลายเซ็นของค่าย และคนไทยที่ดูอยู่มักบอกชื่อค่ายได้จากการรำ มันยังบอกอะไรกับมุมตรงข้ามด้วย คนที่รำช้า ๆ กำลังแถลงเรื่องความนิ่งของตัวเอง ขณะที่อีกคนยืนรออยู่ตรงนั้นจนตัวเย็น\n\n*อนุมาน —* เหตุที่พิธีนี้รอดผ่านการทำให้เป็นอาชีพมาได้ทั้งดุ้น ทั้งที่เชือก เท้าเปล่า และการจับคู่ไม่ชั่งน้ำหนักหายไปหมด คือมันไม่มีต้นทุนสำหรับโปรโมเตอร์ และเติมเวลาออกอากาศได้สี่นาที"
+ },
+ "kin": [
+  {
+   "to": "mongkhon",
+   "as": "Worn through it, and taken off at the end.",
+   "rel": "ritual"
+  },
+  {
+   "to": "sarama",
+   "as": "What is played under it.",
+   "rel": "music"
+  },
+  {
+   "to": "prajiat",
+   "as": "The other thing tied on.",
+   "rel": "ritual"
+  },
+  {
+   "to": "ram-muay-reading",
+   "as": "How to read one from the seats.",
+   "rel": "term"
+  }
+ ],
+ "sources": [
+  "s:thwp-พ-ธ-ไหว-คร-",
+  "s:wp-muay-thai"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:thwp-พ-ธ-ไหว-คร-"
+  },
+  "fields": {
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "high",
+ "tags": [
+  "beginner",
+  "ritual",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "images": [
+  {
+   "file": "wai-kru-ram-muay/wai-kru-ram-muay-ram-muay.jpg",
+   "source": "commons",
+   "title": "File:Ram Muay.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ram_Muay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ARam_Muay.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Wai Kru/Ram Muay (Ritual Dance)",
+   "date": "2014-10-25 12:33:38",
+   "primary": true,
+   "sha256": "465ef9dc8d7da39a8ab38ea715da0fb8b842161c612f34afcb13159175179ba0"
+  },
+  {
+   "file": "wai-kru-ram-muay/wai-kru-ram-muay-sitsiam-ram-muay.jpg",
+   "source": "commons",
+   "title": "File:Sitsiam Ram Muay.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sitsiam_Ram_Muay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3ASitsiam_Ram_Muay.jpg",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Thai Dance,Wai Kru/Ram Muay, Pra Ram Plaeng Sorn.",
+   "date": "2015-01-15 19:20:36",
+   "primary": false,
+   "sha256": "d226d66ef50890360c241112f3234b1eaa3c61764ac5dd3905864271512074f9"
+  },
+  {
+   "file": "wai-kru-ram-muay/wai-kru-ram-muay-thai-boxing-dance-ram-muay.jpg",
+   "source": "commons",
+   "title": "File:Thai Boxing Dance (Ram Muay).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Thai_Boxing_Dance_%28Ram_Muay%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AThai_Boxing_Dance_%28Ram_Muay%29.JPG",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "Thai boxers performing ritual dance at the Sitsiam camp",
+   "date": "2016-05-05",
+   "primary": false,
+   "sha256": "afd799b50d7c601d26ef06d7bfc86701315f9c0647914ae3bd42efd780f16e0f"
+  },
+  {
+   "file": "wai-kru-ram-muay/wai-kru-ram-muay-wai-kru-muay-thai.jpg",
+   "source": "commons",
+   "title": "File:Wai Kru Muay Thai.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Wai_Kru_Muay_Thai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/wiki/File%3AWai_Kru_Muay_Thai.jpg",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "alt": "The Wai Kru / Ram Muay",
+   "date": "2011-04-10 16:26:59",
+   "primary": false,
+   "sha256": "acc0010b2b4206ce5c8aa7e6af84b3f0af73a433481195a035c2f80d8472f4f2"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "fon-jerng",
+   "type": "style",
+   "name": "Fon jerng",
+   "as": "The other dance, and a different relationship."
+  },
+  {
+   "from": "kho-ham",
+   "type": "ritual",
+   "name": "The rules that come with it",
+   "as": "The same two words, in the ring."
+  },
+  {
+   "from": "mongkhon",
+   "type": "ritual",
+   "name": "The mongkhon",
+   "as": "When it comes off."
+  },
+  {
+   "from": "sarama",
+   "type": "music",
+   "name": "The band",
+   "as": "What it opens under."
+  },
+  {
+   "from": "fight-night",
+   "type": "story",
+   "name": "What an evening is shaped like",
+   "as": "The four minutes."
+  },
+  {
+   "from": "khru",
+   "type": "term",
+   "name": "khru",
+   "as": "The ceremony."
+  },
+  {
+   "from": "ram-muay-reading",
+   "type": "term",
+   "name": "Reading a ram muay",
+   "as": "The ceremony."
+  }
+ ]
+}

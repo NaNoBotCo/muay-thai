@@ -1,0 +1,98 @@
+{
+ "id": "chorakhe-fat-hang",
+ "type": "move",
+ "names": {
+  "name": "The crocodile lashes its tail",
+  "th": "จระเข้ฟาดหาง",
+  "rtgs": "chorakhe fat hang",
+  "said": "The crocodile lashes its tail"
+ },
+ "region": [
+  "thailand"
+ ],
+ "facets": {
+  "set": "mae-mai"
+ },
+ "text": {
+  "what": "Number nine of the fifteen, and the only one of the thirty whose Thai name is still said out loud in gyms from Sao Paulo to Sheffield.",
+  "story": "The Thai encyclopedia's description is four words long: the heel strikes the head. What it leaves out is why the name is a crocodile. A crocodile does not turn to face you before it hits you with its tail — the tail arrives while the head is still pointing away. That is the technique.\n\n*Inference —* the name survived translation where the other twenty-nine did not, and the reason is that it is the one whose picture and whose movement are the same thing."
+ },
+ "text_th": {
+  "what": "ท่าที่เก้าในสิบห้า และเป็นท่าเดียวในสามสิบท่าที่ยังถูกเรียกชื่อไทยดัง ๆ ในยิมตั้งแต่เซาเปาโลถึงเชฟฟีลด์",
+  "story": "คำอธิบายในสารานุกรมยาวสี่คำ ใช้ส้นเท้ากระแทกศีรษะ สิ่งที่ไม่ได้บอกคือทำไมชื่อจึงเป็นจระเข้ จระเข้ไม่หันมาหาคุณก่อนจะฟาดหางใส่ หางมาถึงตอนที่หัวยังหันไปอีกทาง นั่นคือตัวท่า\n\n*อนุมาน —* ชื่อนี้รอดจากการแปลในขณะที่อีกยี่สิบเก้าชื่อไม่รอด เหตุผลคือมันเป็นชื่อเดียวที่ภาพกับการเคลื่อนไหวเป็นสิ่งเดียวกัน"
+ },
+ "kin": [
+  {
+   "to": "mae-mai",
+   "as": "The list it is ninth on.",
+   "rel": "move"
+  },
+  {
+   "to": "shin",
+   "as": "Except this one lands with the heel.",
+   "rel": "weapon"
+  }
+ ],
+ "sources": [
+  "s:maemai-th",
+  "s:saranukrom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:maemai-th"
+  },
+  "fields": {
+   "move.gloss": {
+    "tier": "inference",
+    "note": "this project's translation"
+   },
+   "move.refers": {
+    "tier": "inference",
+    "note": "this project's classification of what the name points at"
+   },
+   "text_th": {
+    "tier": "inference",
+    "note": "written in Thai by this project, not machine-translated"
+   }
+  }
+ },
+ "confidence": "medium",
+ "tags": [
+  "ramakien",
+  "watching"
+ ],
+ "schema": 1,
+ "updated": "2026-09-19",
+ "move": {
+  "th": "จระเข้ฟาดหาง",
+  "rtgs": "chorakhe fat hang",
+  "gloss": "The crocodile lashes its tail",
+  "refers": "beast",
+  "figure": "a crocodile",
+  "set": "mae-mai",
+  "n": 9,
+  "does": "Spin away from the opponent and drive the heel into his head on the way round.",
+  "does_th": "หมุนตัวออกจากคู่ต่อสู้ แล้วกระแทกส้นเท้าเข้าที่ศีรษะระหว่างที่หมุนกลับมา"
+ },
+ "kin_in": [
+  {
+   "from": "elbow",
+   "type": "weapon",
+   "name": "The elbow",
+   "as": "A named technique that is not an elbow, and is mistaken for one."
+  },
+  {
+   "from": "mae-mai",
+   "type": "move",
+   "name": "The fifteen mother techniques",
+   "as": "Number nine, and the one every gym still says."
+  },
+  {
+   "from": "wat-bang-kung-statues",
+   "type": "art",
+   "name": "The fifteen, standing in a courtyard",
+   "as": "The one on the right of the row."
+  }
+ ]
+}
