@@ -36,6 +36,16 @@
       "sitemap": "https://motdang.net/muay-thai/sitemap.xml"
     },
     {
+      "id": "chiang-mai-roads",
+      "name": "Roads of Chiang Mai",
+      "th": "ถนนหนทางเจียงใหม่",
+      "url": "https://motdang.net/roads/",
+      "note": "the square of 1296, four rings, and what each one did to the city — counted from the map",
+      "lane": "directory",
+      "audience": "th",
+      "sitemap": "https://motdang.net/roads/sitemap.xml"
+    },
+    {
       "id": "wichaa",
       "name": "wichaa",
       "th": "วิชา",
@@ -54,6 +64,34 @@
       "lane": "directory",
       "audience": "th",
       "sitemap": "https://nanobotco.github.io/hand-poke/sitemap.xml"
+    },
+    {
+      "id": "black-holes",
+      "name": "Black Holes, Drawn",
+      "url": "https://nanobotco.github.io/black-holes/",
+      "note": "black holes modelled and drawn from the equations — generators, the past, present and future, the legends",
+      "lane": "directory",
+      "audience": "world",
+      "sitemap": "https://nanobotco.github.io/black-holes/sitemap.xml"
+    },
+    {
+      "id": "quantum-computing",
+      "name": "Quantum Computing, plainly",
+      "th": "ควอนตัมคอมพิวติง",
+      "url": "https://nanobotco.github.io/quantum-computing/",
+      "note": "the history and theory of quantum computing in plain words, with demos; refreshed weekly",
+      "lane": "directory",
+      "audience": "en",
+      "sitemap": "https://nanobotco.github.io/quantum-computing/sitemap.xml"
+    },
+    {
+      "id": "goin-fast",
+      "name": "Goin' Fast",
+      "url": "https://nanobotco.github.io/goin-fast/",
+      "note": "a dirt-simple explainer about speed — twenty measured speeds from the ground under the house to light, and what each one costs",
+      "lane": "directory",
+      "audience": "en",
+      "sitemap": "https://nanobotco.github.io/goin-fast/sitemap.xml"
     },
     {
       "id": "amulet-atlas",
