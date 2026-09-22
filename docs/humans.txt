@@ -8,7 +8,7 @@ OpenStreetMap contributors · Wikidata · Wikipedia (English and Thai) · Wikime
 
 /* SITE */
 Records: 129
-Built: 2026-09-22 23:27
+Built: 2026-09-22 23:32
 Standards: HTML5, CSS, no framework, no tracker, no web font
 
 ## Elsewhere from the same publisher
@@ -21,6 +21,7 @@ Standards: HTML5, CSS, no framework, no tracker, no web font
 - [Black Holes, Drawn](https://nanobotco.github.io/black-holes/) — black holes modelled and drawn from the equations — generators, the past, present and future, the legends
 - [Quantum Computing, plainly](https://nanobotco.github.io/quantum-computing/) — the history and theory of quantum computing in plain words, with demos; refreshed weekly
 - [Goin' Fast](https://nanobotco.github.io/goin-fast/) — a dirt-simple explainer about speed — twenty measured speeds from the ground under the house to light, and what each one costs
+- [The Three-Body Problem](https://nanobotco.github.io/three-body/) — the mathematics of the three-body problem in plain words, with the orbits found rather than copied
 - [Amulet Atlas](https://nanobotco.github.io/amulet-atlas/) — amulets, charms and talismans worldwide
 - [Carolina Barbecue](https://nanobotco.github.io/carolina-barbecue/) — barbecue in North and South Carolina
 - [Wing Country](https://nanobotco.github.io/buffalo-wings/) — the American chicken wing
@@ -52,6 +53,7 @@ Hand Poke — https://nanobotco.github.io/hand-poke/
 Black Holes, Drawn — https://nanobotco.github.io/black-holes/
 Quantum Computing, plainly — https://nanobotco.github.io/quantum-computing/
 Goin' Fast — https://nanobotco.github.io/goin-fast/
+The Three-Body Problem — https://nanobotco.github.io/three-body/
 Amulet Atlas — https://nanobotco.github.io/amulet-atlas/
 Carolina Barbecue — https://nanobotco.github.io/carolina-barbecue/
 Wing Country — https://nanobotco.github.io/buffalo-wings/
