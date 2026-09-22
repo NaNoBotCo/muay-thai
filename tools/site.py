@@ -1403,7 +1403,7 @@ def all_paths() -> list:
 
 def robots() -> str:
     lines = ["User-agent: *", "Allow: /", "", f"Sitemap: {SITE_URL}/sitemap.xml"]
-    lines += fleet.robots_lines(SELF, roster=FLEET)
+    lines.append(fleet.robots_lines(SELF, roster=FLEET))
     return "\n".join(lines) + "\n"
 
 
@@ -1472,7 +1472,7 @@ def llms_txt() -> str:
               "", "## Licence",
               "Records CC BY 4.0. Harvested rows keep their own licences: OpenStreetMap ODbL "
               "1.0, Wikidata CC0, Wikipedia CC BY-SA 4.0, Commons per file.", ""]
-    lines += fleet.llms_section(SELF, roster=FLEET)
+    lines.append(fleet.llms_section(SELF, roster=FLEET))
     return "\n".join(lines) + "\n"
 
 
@@ -1497,7 +1497,7 @@ def humans_txt() -> str:
              "Wikimedia Commons photographers · Natural Earth", "",
              "/* SITE */", f"Records: {COV['records']}", f"Built: {COV['built']}",
              "Standards: HTML5, CSS, no framework, no tracker, no web font", ""]
-    lines += fleet.readme_lines(SELF, roster=FLEET)
+    lines.append(fleet.readme_lines(SELF, roster=FLEET))
     return "\n".join(lines) + "\n"
 
 
