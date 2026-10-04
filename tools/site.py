@@ -62,6 +62,18 @@ def E(x) -> str:
     return html.escape("" if x is None else str(x))
 
 
+AFF = json.loads((ROOT / "data" / "affiliate.json").read_text(encoding="utf-8"))
+
+
+def paid(slot: str, lang: str) -> str:
+    """A paid link from data/affiliate.json (written by affiliate-slots/sync.py); a null url renders nothing."""
+    s = AFF["slots"].get(slot) or {}
+    if not s.get("url"):
+        return ""
+    return (f'<p><a href="{E(s["url"])}" rel="sponsored nofollow noopener" target="_blank">{E(s[lang])}</a>'
+            f' <span class="mute small">{E(AFF["label_" + lang])}</span></p>')
+
+
 def T(d: dict, key: str, lang: str, fallback=True):
     """A field in the requested language. `names.th` / `text_th` hold the Thai."""
     if lang == "th":
@@ -1212,6 +1224,7 @@ def node_page(n: dict, lang: str) -> str:
             b.append(slab(cells))
         if vn.get("nights_note"):
             b.append(f'<div class="warn">{E(vn["nights_note"])}</div>')
+        b.append(paid(f'mt-{n["id"]}', lang))
 
     se = n.get("session") or {}
     if se:
