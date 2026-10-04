@@ -1049,8 +1049,8 @@ def watch_page(lang):
 def training_page(lang):
     return assembled(
         lang, "Training", "การฝึก",
-        "Two sessions a day, in the order they happen, and what to ask before paying for a month.",
-        "วันละสองรอบ เรียงตามลำดับจริง และควรถามอะไรก่อนจ่ายค่าเดือน",
+        "Two sessions a day, in the order they happen, and how gyms differ.",
+        "วันละสองรอบ เรียงตามลำดับจริง และยิมต่างกันอย่างไร",
         ["first-session"], ["drill", "kit"], "training",
         ("Two hours" if lang == "en" else "สองชั่วโมง",
          "The shin hurts before the lungs do" if lang == "en" else "แข้งเจ็บก่อนปอด",
