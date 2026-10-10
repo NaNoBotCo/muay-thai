@@ -73,7 +73,10 @@ def simplify(ring, tol=0.7):
 
 def world_svg(counts: dict, rows: list, w=1100) -> str:
     g = jload(GEO / "countries.json")
-    pts = [equal_earth(lon, lat) for lon in (-180, 180) for lat in (-90, 90)]
+    # The frame is the outline of the whole projection: the ±180 meridians, sampled every
+    # degree. Equal Earth is widest at the equator and narrowest at the poles, so the four
+    # polar corners alone measure it at 0.59 of its width.
+    pts = [equal_earth(lon, lat) for lon in (-180, 180) for lat in range(-90, 91)]
     xs = [p[0] for p in pts]
     ys = [p[1] for p in pts]
     x0, x1, y0, y1 = min(xs), max(xs), min(ys), max(ys)
