@@ -62,6 +62,18 @@ def E(x) -> str:
     return html.escape("" if x is None else str(x))
 
 
+AFF = json.loads((ROOT / "data" / "affiliate.json").read_text(encoding="utf-8"))
+
+
+def paid(slot: str, lang: str) -> str:
+    """A paid link from data/affiliate.json (written by affiliate-slots/sync.py); a null url renders nothing."""
+    s = AFF["slots"].get(slot) or {}
+    if not s.get("url"):
+        return ""
+    return (f'<p><a href="{E(s["url"])}" rel="sponsored nofollow noopener" target="_blank">{E(s[lang])}</a>'
+            f' <span class="mute small">{E(AFF["label_" + lang])}</span></p>')
+
+
 def T(d: dict, key: str, lang: str, fallback=True):
     """A field in the requested language. `names.th` / `text_th` hold the Thai."""
     if lang == "th":
@@ -1037,8 +1049,8 @@ def watch_page(lang):
 def training_page(lang):
     return assembled(
         lang, "Training", "การฝึก",
-        "Two sessions a day, in the order they happen, and what to ask before paying for a month.",
-        "วันละสองรอบ เรียงตามลำดับจริง และควรถามอะไรก่อนจ่ายค่าเดือน",
+        "Two sessions a day, in the order they happen, and how gyms differ.",
+        "วันละสองรอบ เรียงตามลำดับจริง และยิมต่างกันอย่างไร",
         ["first-session"], ["drill", "kit"], "training",
         ("Two hours" if lang == "en" else "สองชั่วโมง",
          "The shin hurts before the lungs do" if lang == "en" else "แข้งเจ็บก่อนปอด",
@@ -1212,6 +1224,7 @@ def node_page(n: dict, lang: str) -> str:
             b.append(slab(cells))
         if vn.get("nights_note"):
             b.append(f'<div class="warn">{E(vn["nights_note"])}</div>')
+        b.append(paid(f'mt-{n["id"]}', lang))
 
     se = n.get("session") or {}
     if se:

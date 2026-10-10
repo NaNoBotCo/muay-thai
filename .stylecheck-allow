@@ -1,0 +1,13 @@
+data/nodes/bout/changpuek-vs-roufus.json	ทุกการแลกที่เขาควรแพ้	narrative about the sport, not advice to the reader
+data/nodes/issue/child-boxing.json	ข้อพิพาทอยู่ที่ว่าครอบครัวควรทำอะไรแทน	reports the dispute, not advice
+data/nodes/kit/kaad-chuek.json	why the straight knee was risky	narrative about the sport, not advice to the reader
+data/nodes/kit/kaad-chuek.json	ทำไมเข่าตรงจึงเสี่ยง	narrative about the sport, not advice to the reader
+data/nodes/ritual/prajiat.json	worn into danger	narrative about the sport, not advice to the reader
+data/nodes/ritual/sak-yant.json	anyone whose work is dangerous	the article's own division of effects
+data/nodes/story/mai-sastra.json	the facing of danger	a gloss of the Kannada word
+data/nodes/weapon/eight-limbs.json	the inside is dangerous	narrative about the sport, not advice to the reader
+data/nodes/weapon/elbow.json	the most dangerous form of attack in the sport	quotes the English article
+data/vocab/facets.json	Values not listed here are warned about	operator note on validation
+data/vocab/regions.json	validate.py warns so it can be added	operator note on validation
+schema/node.schema.json	validated against data/vocab/regions.json with a warning	schema description
+schema/node.schema.json	Never machine-translated without saying so in provenance	schema description for authors

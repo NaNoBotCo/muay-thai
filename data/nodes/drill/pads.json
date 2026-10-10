@@ -23,7 +23,7 @@
  "kin": [
   {
    "to": "choosing-a-gym",
-   "as": "The question to ask about it.",
+   "as": "How gyms differ on it.",
    "rel": "gym"
   },
   {

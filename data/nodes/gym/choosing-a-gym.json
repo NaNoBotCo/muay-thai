@@ -2,11 +2,11 @@
  "id": "choosing-a-gym",
  "type": "gym",
  "names": {
-  "name": "What to ask before paying a month",
-  "th": "ถามอะไรก่อนจ่ายรายเดือน",
-  "rtgs": "tham arai kon chai rai duean",
-  "said": "Ask how many of their fighters fought this month. Then ask where.",
-  "said_th": "ถามว่าเดือนนี้นักมวยของเขาขึ้นชกกี่คน แล้วถามว่าที่ไหน"
+  "name": "Choosing a gym",
+  "th": "การเลือกยิม",
+  "rtgs": "kan lueak yim",
+  "said": "A camp whose fighters fought this month is a camp inside the sport.",
+  "said_th": "ค่ายที่นักมวยขึ้นชกเดือนนี้คือค่ายที่อยู่ในกีฬานี้"
  },
  "region": [
   "thailand"
@@ -16,12 +16,12 @@
   "price": "varies"
  },
  "text": {
-  "what": "Five questions, and what each answer tells you.",
-  "story": "**How many of your fighters fought this month, and where?** A camp that matches fighters is a camp inside the sport. A gym where nobody fights is a fitness class with Thai vocabulary, which is a fine thing to buy and a different thing.\n\n**Who holds pads for me, and are they the same person each time?** Pads are the session. A trainer who learns your habits is the whole difference between a month of training and a month of exercise.\n\n**How many people are in the afternoon session?** Two rounds of pads each is the constraint, and it is set by trainer-to-student ratio, not by the timetable on the wall.\n\n**Do beginners clinch here?** Clinching is where muay thai stops being kickboxing, and also where a first-timer gets hurt by accident. Both answers are legitimate; a gym with no answer is not paying attention.\n\n**What happens if I want to fight?** Ask even if you do not. The answer tells you whether the place has a route into the sport or only a route into its classes."
+  "what": "Five ways gyms differ, and what each one shows.",
+  "story": "**Fighters on cards.** A camp that matches fighters is a camp inside the sport. A gym where nobody fights is a fitness class with Thai vocabulary, which is a fine thing to buy and a different thing.\n\n**One pad holder.** Pads are the session. A trainer who holds for the same student each time learns that student's habits, and that is the whole difference between a month of training and a month of exercise.\n\n**Numbers in the afternoon.** Two rounds of pads each is the constraint, and the trainer-to-student ratio sets it, not the timetable on the wall.\n\n**Clinch for beginners.** Clinching is where muay thai stops being kickboxing, and also where a first-timer gets hurt by accident. Some gyms clinch beginners and some do not.\n\n**A route to fighting.** Some places have a route into the sport; others have only a route into their classes."
  },
  "text_th": {
-  "what": "ห้าคำถาม และคำตอบแต่ละข้อบอกอะไร",
-  "story": "**เดือนนี้นักมวยของคุณขึ้นชกกี่คน และที่ไหน** ค่ายที่จับคู่ชกให้นักมวยคือค่ายที่อยู่ในกีฬานี้จริง ยิมที่ไม่มีใครขึ้นชกคือคลาสออกกำลังกายที่ใช้คำศัพท์ไทย ซึ่งเป็นของที่ซื้อได้และเป็นคนละอย่าง\n\n**ใครถือเป้าให้ผม และเป็นคนเดิมทุกครั้งไหม** เป้าคือตัวการฝึก ครูที่จำนิสัยคุณได้คือความต่างทั้งหมดระหว่างการฝึกหนึ่งเดือนกับการออกกำลังหนึ่งเดือน\n\n**รอบบ่ายมีคนกี่คน** เป้าคนละสองยกคือข้อจำกัด และมันถูกกำหนดด้วยอัตราส่วนครูต่อนักเรียน ไม่ใช่ด้วยตารางบนผนัง\n\n**ที่นี่ให้มือใหม่จับคอตีไหม** วงในคือจุดที่มวยไทยเลิกเป็นคิกบ็อกซิ่ง และเป็นจุดที่คนมาใหม่เจ็บโดยอุบัติเหตุด้วย ทั้งสองคำตอบใช้ได้ ยิมที่ไม่มีคำตอบคือยิมที่ไม่ได้ใส่ใจ\n\n**ถ้าผมอยากขึ้นชกล่ะ** ถามแม้จะไม่อยาก คำตอบบอกว่าที่นั่นมีทางเข้าสู่กีฬานี้ หรือมีแค่ทางเข้าสู่คลาสของมัน"
+  "what": "ห้าข้อที่ยิมต่างกัน และแต่ละข้อบอกอะไร",
+  "story": "**นักมวยที่ขึ้นชก** ค่ายที่จับคู่ชกให้นักมวยคือค่ายที่อยู่ในกีฬานี้จริง ยิมที่ไม่มีใครขึ้นชกคือคลาสออกกำลังกายที่ใช้คำศัพท์ไทย ซึ่งเป็นของที่ซื้อได้และเป็นคนละอย่าง\n\n**ครูถือเป้าคนเดิม** เป้าคือตัวการฝึก ครูที่ถือเป้าให้คนเดิมทุกครั้งจะจำนิสัยของคนนั้นได้ และนั่นคือความต่างทั้งหมดระหว่างการฝึกหนึ่งเดือนกับการออกกำลังหนึ่งเดือน\n\n**จำนวนคนรอบบ่าย** เป้าคนละสองยกคือข้อจำกัด และมันถูกกำหนดด้วยอัตราส่วนครูต่อนักเรียน ไม่ใช่ด้วยตารางบนผนัง\n\n**วงในสำหรับมือใหม่** วงในคือจุดที่มวยไทยเลิกเป็นคิกบ็อกซิ่ง และเป็นจุดที่คนมาใหม่เจ็บโดยอุบัติเหตุด้วย บางยิมให้มือใหม่จับคอตี บางยิมไม่ให้\n\n**ทางขึ้นชก** บางที่มีทางเข้าสู่กีฬานี้ บางที่มีแค่ทางเข้าสู่คลาสของมัน"
  },
  "kin": [
   {

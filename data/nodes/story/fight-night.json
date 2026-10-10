@@ -15,12 +15,12 @@
   "era": "now"
  },
  "text": {
-  "what": "The running order of a card, and where in it to arrive.",
-  "story": "A card runs eight to ten fights. The early ones are the youngest fighters, often children, and the crowd is thin. The middle of the card is where the best matched fights are and where the betting floor is loudest. The main event is the biggest names, and is not always the best fight.\n\n*Inference —* arriving for the main event is arriving for the last and least interesting hour, at the price of the whole evening. Arrive in the middle.\n\nEach fight: the fighters come in, the mongkhon is on, the band starts, the wai kru takes about four minutes, the trainer takes the mongkhon off, five rounds of three with two minutes between, decision. Then the next pair."
+  "what": "The running order of a card, and where in it the best fights sit.",
+  "story": "A card runs eight to ten fights. The early ones are the youngest fighters, often children, and the crowd is thin. The middle of the card is where the best matched fights are and where the betting floor is loudest. The main event is the biggest names, and is not always the best fight.\n\n*Inference —* arriving for the main event is arriving for the last and least interesting hour, at the price of the whole evening.\n\nEach fight: the fighters come in, the mongkhon is on, the band starts, the wai kru takes about four minutes, the trainer takes the mongkhon off, five rounds of three with two minutes between, decision. Then the next pair."
  },
  "text_th": {
-  "what": "ลำดับของรายการ และควรมาถึงตอนไหน",
-  "story": "รายการหนึ่งมีแปดถึงสิบคู่ คู่แรก ๆ คือนักมวยอายุน้อยที่สุด บ่อยครั้งเป็นเด็ก และคนดูยังบาง กลางรายการคือที่ที่คู่ซึ่งจับคู่ได้ดีที่สุดอยู่ และเป็นที่ที่วงพนันเสียงดังที่สุด คู่เอกคือชื่อที่ใหญ่ที่สุด และไม่ได้เป็นไฟต์ที่ดีที่สุดเสมอไป\n\n*อนุมาน —* การมาถึงเพื่อดูคู่เอกคือการมาถึงเพื่อชั่วโมงสุดท้ายที่น่าสนใจน้อยที่สุด ในราคาของทั้งค่ำคืน มาตอนกลางรายการ\n\nแต่ละไฟต์ นักมวยขึ้นเวที มงคลอยู่บนหัว วงดนตรีเริ่ม ไหว้ครูราวสี่นาที ครูถอดมงคลออก ห้ายก ยกละสามนาที พักสองนาที แล้วตัดสิน จากนั้นคู่ต่อไป"
+  "what": "ลำดับของรายการ และคู่ที่ดีที่สุดอยู่ช่วงไหน",
+  "story": "รายการหนึ่งมีแปดถึงสิบคู่ คู่แรก ๆ คือนักมวยอายุน้อยที่สุด บ่อยครั้งเป็นเด็ก และคนดูยังบาง กลางรายการคือที่ที่คู่ซึ่งจับคู่ได้ดีที่สุดอยู่ และเป็นที่ที่วงพนันเสียงดังที่สุด คู่เอกคือชื่อที่ใหญ่ที่สุด และไม่ได้เป็นไฟต์ที่ดีที่สุดเสมอไป\n\n*อนุมาน —* การมาถึงเพื่อดูคู่เอกคือการมาถึงเพื่อชั่วโมงสุดท้ายที่น่าสนใจน้อยที่สุด ในราคาของทั้งค่ำคืน\n\nแต่ละไฟต์ นักมวยขึ้นเวที มงคลอยู่บนหัว วงดนตรีเริ่ม ไหว้ครูราวสี่นาที ครูถอดมงคลออก ห้ายก ยกละสามนาที พักสองนาที แล้วตัดสิน จากนั้นคู่ต่อไป"
  },
  "kin": [
   {
