@@ -188,14 +188,17 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
     if og_desc.strip() == og_title.strip():
         og_desc = TAG[lang]
     og_url = f"{CANONICAL_URL}/{'th/' if lang == 'th' else ''}{path}"
-    card_url = f"{CANONICAL_URL}/cards/{card or 'index'}.jpg"
+    # each copy serves its own cards, drawn with its own address (tools/cards.py)
+    card_url = f"{SITE_URL}/cards/{card or 'index'}.jpg"
+    card_alt = og_title if NAME[lang] in og_title else f"{og_title}, {NAME[lang]}"
     card_meta = (f'<meta property="og:image" content="{E(card_url)}">'
                  f'<meta property="og:image:secure_url" content="{E(card_url)}">'
                  f'<meta property="og:image:type" content="image/jpeg">'
                  f'<meta property="og:image:width" content="1200">'
                  f'<meta property="og:image:height" content="630">'
-                 f'<meta property="og:image:alt" content="{E(og_title)}">'
-                 f'<meta name="twitter:image" content="{E(card_url)}">')
+                 f'<meta property="og:image:alt" content="{E("Card: " + card_alt)}">'
+                 f'<meta name="twitter:image" content="{E(card_url)}">'
+                 f'<meta name="twitter:image:alt" content="{E("Card: " + card_alt)}">')
     CURATTR = ' aria-current="page"'
     nav = "".join(f'<a href="{rin}{p}"{CURATTR if k == cur else ""}>{E(ui[k])}</a>'
                   for p, k in NAV)
@@ -1599,8 +1602,8 @@ def main() -> int:
             ("people/", people_page, ui["people"], None, "people", "people"),
             ("numbers/", numbers_page, ui["numbers"], None, "numbers", "numbers"),
             ("words/", words_page, ui["words"], None, "words", "words"),
-            ("all/", all_page, ui["all"], None, "", "index"),
-            ("about/", about, ui["about"], None, "", "index"),
+            ("all/", all_page, ui["all"], None, "", "all"),
+            ("about/", about, ui["about"], None, "", "about"),
         ]
         for path, fn, label, title, cur, card in specials:
             body = fn(lang)
@@ -1608,7 +1611,7 @@ def main() -> int:
             desc = TAG[lang] if path == "" else f"{label} — {NAME[lang]}"
             write(base / path / "index.html",
                   page(t, body, 0 if path == "" else 1, lang, desc=desc, jsonld=ld,
-                       cur=cur, path=path, card=card))
+                       cur=cur, path=path, card=card + "-th" if lang == "th" else card))
             pages += 1
         special_paths = {x[0] for x in specials}
         for t in TYPES:
@@ -1622,8 +1625,8 @@ def main() -> int:
             write(base / DIR_OF[t] / "index.html",
                   page(f"{label} — {NAME[lang]}", type_index(t, lang), 1, lang,
                        desc=ti["th_blurb"] if lang == "th" else ti["blurb"],
-                       jsonld=ld, path=f"{DIR_OF[t]}/", card=DIR_OF[t]
-                       if (SITE / "cards" / f"{DIR_OF[t]}.jpg").exists() else "index"))
+                       jsonld=ld, path=f"{DIR_OF[t]}/",
+                       card=DIR_OF[t] + "-th" if lang == "th" else DIR_OF[t]))
             pages += 1
         for n in NODES:
             name = T(n, "names.name", lang)

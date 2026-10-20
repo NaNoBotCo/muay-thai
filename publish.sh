@@ -26,7 +26,7 @@ python3 tools/validate.py
 SITE_URL="$SITE_URL" python3 tools/build.py
 python3 tools/worldmap.py
 SITE_URL="$SITE_URL" python3 tools/site.py
-python3 tools/cards.py
+SITE_URL="$SITE_URL" python3 tools/cards.py
 
 # every internal reference, resolved where the host mounts the site — and again from
 # the URL without its trailing slash, which is the one people type and the one a host
