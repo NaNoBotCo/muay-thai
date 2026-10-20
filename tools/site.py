@@ -189,7 +189,8 @@ def page(title, body, depth, lang, desc="", jsonld=None, head="", cur="", path="
         og_desc = TAG[lang]
     og_url = f"{CANONICAL_URL}/{'th/' if lang == 'th' else ''}{path}"
     # each copy serves its own cards, drawn with its own address (tools/cards.py)
-    card_url = f"{SITE_URL}/cards/{card or 'index'}.jpg"
+    card = card or path.strip("/").replace("/", "-") or "index"
+    card_url = f"{SITE_URL}/cards/{card}.jpg"
     card_alt = og_title if NAME[lang] in og_title else f"{og_title}, {NAME[lang]}"
     card_meta = (f'<meta property="og:image" content="{E(card_url)}">'
                  f'<meta property="og:image:secure_url" content="{E(card_url)}">'
@@ -1639,7 +1640,7 @@ def main() -> int:
             write(base / url_of(n) / "index.html",
                   page(f"{name} — {NAME[lang]}", node_page(n, lang), 2, lang, desc=desc,
                        jsonld=nld, cur="", path=url_of(n),
-                       card=f'{n["type"]}-{n["id"]}'))
+                       card=f'{n["type"]}-{n["id"]}' + ("-th" if lang == "th" else "")))
             pages += 1
 
     # machine files, once
