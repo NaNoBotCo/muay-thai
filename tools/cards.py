@@ -51,7 +51,7 @@ def _fit(draw, text, font_path, size, max_w, max_lines=3):
         f = _font(font_path, size)
         avg = max(1, draw.textlength("MMMMMMMMMM", font=f) / 10)
         per = max(8, int(max_w / avg))
-        lines = textwrap.wrap(text, per) or [text]
+        lines = textwrap.wrap(text, per, break_long_words=False) or [text]
         if len(lines) <= max_lines and all(draw.textlength(l, font=f) <= max_w for l in lines):
             return f, lines
         size -= 4
